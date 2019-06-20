@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FischbeckEnterprises.DDCM.Types
+namespace DDCM.Types
 {
     class Base_Creature
     {
