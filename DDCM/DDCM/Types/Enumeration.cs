@@ -38,7 +38,7 @@ namespace DDCM.Types
 
     enum Modifier_Category
     {
-        Ability_Score=1,
+        Ability_Score = 1,
         Speed,
         Saving_Throw,
         Ability_Check,
@@ -48,7 +48,7 @@ namespace DDCM.Types
 
     enum Modifier_Type
     {
-        Proficiency=1,
+        Proficiency = 1,
         Advantage,
         Disadvantage,
         Strength,
@@ -93,7 +93,7 @@ namespace DDCM.Types
 
     enum Damage_Type
     {
-        Acid=1,
+        Acid = 1,
         Bludgeoning,
         Cold,
         Fire,
@@ -110,7 +110,7 @@ namespace DDCM.Types
 
     enum Item_Property
     {
-        Finesse=1,
+        Finesse = 1,
         Light,
         Heavy,
         Ranged,
@@ -123,7 +123,7 @@ namespace DDCM.Types
 
     enum Item_Category
     {
-        Adventuring_Gear=1,
+        Adventuring_Gear = 1,
         Container,
         Goods,
         Wealth,
