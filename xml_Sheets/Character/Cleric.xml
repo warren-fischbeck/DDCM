@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+	<class>
+        <name>Cleric</name>
+        <hd>8</hd>
+        <proficiency>Wisdom, Charisma</proficiency>
+        <spellAbility>Wisdom</spellAbility>
+		<autolevel level="1"><!--Notes--><slots>3,2,0,0,0,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="2"><!--Notes--><slots>3,3,0,0,0,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="3"><!--Notes--><slots>3,4,2,0,0,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="4"><!--Notes--><slots>4,4,3,0,0,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="5"><!--Notes--><slots>4,4,3,2,0,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="6"><!--Notes--><slots>4,4,3,3,0,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="7"><!--Notes--><slots>4,4,3,3,1,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="8"><!--Notes--><slots>4,4,3,3,2,0,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="9"><!--Notes--><slots>4,4,3,3,3,1,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="10"><!--Notes--><slots>5,4,3,3,3,2,0,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="11"><!--Notes--><slots>5,4,3,3,3,2,1,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="12"><!--Notes--><slots>5,4,3,3,3,2,1,0,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="13"><!--Notes--><slots>5,4,3,3,3,2,1,1,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="14"><!--Notes--><slots>5,4,3,3,3,2,1,1,0,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="15"><!--Notes--><slots>5,4,3,3,3,2,1,1,1,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="16"><!--Notes--><slots>5,4,3,3,3,2,1,1,1,0</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="17"><!--Notes--><slots>5,4,3,3,3,2,1,1,1,1</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="18"><!--Notes--><slots>5,4,3,3,3,3,1,1,1,1</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="19"><!--Notes--><slots>5,4,3,3,3,3,2,1,1,1</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+		<autolevel level="20"><!--Notes--><slots>5,4,3,3,3,3,2,2,1,1</slots><feature optional="Yes"><name></name><text></text></feature><feature><name></name><text></text></feature></autolevel>
+	</class>
+</compendium>
