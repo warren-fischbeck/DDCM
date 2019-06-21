@@ -6,9 +6,15 @@
              mc:Ignorable="d"
              x:Class="DDCM.MainPage">
 
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="Android, UWP" Value="0, 0, 0, 0"/>
+        </OnPlatform>
+    </ContentPage.Padding>
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="This is now a test deal." 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
