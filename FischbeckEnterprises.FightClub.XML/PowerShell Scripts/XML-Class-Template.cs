@@ -2,7 +2,6 @@
 
 namespace FightClub.XML
 {
-
     // NOTE: Generated code may require at least .NET Framework 4.5 or .NET Core/Standard 2.0.
     /// <remarks/>
     [System.SerializableAttribute()]
@@ -89,6 +88,8 @@ namespace FightClub.XML
 
         private pcCharacterBackground backgroundField;
 
+        private pcCharacterAttack[] attackField;
+
         private pcCharacterClass[] classField;
 
         private pcCharacterContainer[] containerField;
@@ -98,6 +99,8 @@ namespace FightClub.XML
         private pcCharacterItem[] itemField;
 
         private pcCharacterNote[] noteField;
+
+        private pcCharacterTracker[] trackerField;
 
         private pcCharacterMonster[] monsterField;
 
@@ -249,6 +252,20 @@ namespace FightClub.XML
         }
 
         /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("attack")]
+        public pcCharacterAttack[] attack
+        {
+            get
+            {
+                return this.attackField;
+            }
+            set
+            {
+                this.attackField = value;
+            }
+        }
+
+        /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("class")]
         public pcCharacterClass[] @class
         {
@@ -315,6 +332,20 @@ namespace FightClub.XML
             set
             {
                 this.noteField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("tracker")]
+        public pcCharacterTracker[] tracker
+        {
+            get
+            {
+                return this.trackerField;
+            }
+            set
+            {
+                this.trackerField = value;
             }
         }
 
@@ -403,9 +434,11 @@ namespace FightClub.XML
 
         private string hairField;
 
-        private byte proficiencyField;
+        private byte[] proficiencyField;
 
         private pcCharacterRaceFeat[] featField;
+
+        private pcCharacterRaceMod[] modField;
 
         private byte spellAbilityField;
 
@@ -503,7 +536,8 @@ namespace FightClub.XML
         }
 
         /// <remarks/>
-        public byte proficiency
+        [System.Xml.Serialization.XmlElementAttribute("proficiency")]
+        public byte[] proficiency
         {
             get
             {
@@ -526,6 +560,20 @@ namespace FightClub.XML
             set
             {
                 this.featField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("mod")]
+        public pcCharacterRaceMod[] mod
+        {
+            get
+            {
+                return this.modField;
+            }
+            set
+            {
+                this.modField = value;
             }
         }
 
@@ -606,6 +654,59 @@ namespace FightClub.XML
             set
             {
                 this.expandedField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterRaceMod
+    {
+
+        private string nameField;
+
+        private byte typeField;
+
+        private byte valueField;
+
+        /// <remarks/>
+        public string name
+        {
+            get
+            {
+                return this.nameField;
+            }
+            set
+            {
+                this.nameField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte type
+        {
+            get
+            {
+                return this.typeField;
+            }
+            set
+            {
+                this.typeField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte value
+        {
+            get
+            {
+                return this.valueField;
+            }
+            set
+            {
+                this.valueField = value;
             }
         }
     }
@@ -1064,6 +1165,89 @@ namespace FightClub.XML
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterAttack
+    {
+
+        private string nameField;
+
+        private byte typeField;
+
+        private string attackBonusField;
+
+        private string damageField;
+
+        private byte damageTypeField;
+
+        /// <remarks/>
+        public string name
+        {
+            get
+            {
+                return this.nameField;
+            }
+            set
+            {
+                this.nameField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte type
+        {
+            get
+            {
+                return this.typeField;
+            }
+            set
+            {
+                this.typeField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string attackBonus
+        {
+            get
+            {
+                return this.attackBonusField;
+            }
+            set
+            {
+                this.attackBonusField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string damage
+        {
+            get
+            {
+                return this.damageField;
+            }
+            set
+            {
+                this.damageField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte damageType
+        {
+            get
+            {
+                return this.damageTypeField;
+            }
+            set
+            {
+                this.damageTypeField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
     public partial class pcCharacterClass
     {
 
@@ -1100,6 +1284,8 @@ namespace FightClub.XML
         private pcCharacterClassAutolevel[] autolevelField;
 
         private byte spellAbilityField;
+
+        private pcCharacterClassSpell[] spellField;
 
         /// <remarks/>
         public string name
@@ -1324,6 +1510,20 @@ namespace FightClub.XML
             set
             {
                 this.spellAbilityField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("spell")]
+        public pcCharacterClassSpell[] spell
+        {
+            get
+            {
+                return this.spellField;
+            }
+            set
+            {
+                this.spellField = value;
             }
         }
     }
@@ -1925,6 +2125,243 @@ namespace FightClub.XML
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterClassSpell
+    {
+
+        private string nameField;
+
+        private byte schoolField;
+
+        private byte levelField;
+
+        private bool levelFieldSpecified;
+
+        private string timeField;
+
+        private string rangeField;
+
+        private byte vField;
+
+        private byte sField;
+
+        private bool sFieldSpecified;
+
+        private byte mField;
+
+        private bool mFieldSpecified;
+
+        private string materialsField;
+
+        private string durationField;
+
+        private string textField;
+
+        private string[] sclassField;
+
+        /// <remarks/>
+        public string name
+        {
+            get
+            {
+                return this.nameField;
+            }
+            set
+            {
+                this.nameField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte school
+        {
+            get
+            {
+                return this.schoolField;
+            }
+            set
+            {
+                this.schoolField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte level
+        {
+            get
+            {
+                return this.levelField;
+            }
+            set
+            {
+                this.levelField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool levelSpecified
+        {
+            get
+            {
+                return this.levelFieldSpecified;
+            }
+            set
+            {
+                this.levelFieldSpecified = value;
+            }
+        }
+
+        /// <remarks/>
+        public string time
+        {
+            get
+            {
+                return this.timeField;
+            }
+            set
+            {
+                this.timeField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string range
+        {
+            get
+            {
+                return this.rangeField;
+            }
+            set
+            {
+                this.rangeField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte v
+        {
+            get
+            {
+                return this.vField;
+            }
+            set
+            {
+                this.vField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte s
+        {
+            get
+            {
+                return this.sField;
+            }
+            set
+            {
+                this.sField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool sSpecified
+        {
+            get
+            {
+                return this.sFieldSpecified;
+            }
+            set
+            {
+                this.sFieldSpecified = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte m
+        {
+            get
+            {
+                return this.mField;
+            }
+            set
+            {
+                this.mField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool mSpecified
+        {
+            get
+            {
+                return this.mFieldSpecified;
+            }
+            set
+            {
+                this.mFieldSpecified = value;
+            }
+        }
+
+        /// <remarks/>
+        public string materials
+        {
+            get
+            {
+                return this.materialsField;
+            }
+            set
+            {
+                this.materialsField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string duration
+        {
+            get
+            {
+                return this.durationField;
+            }
+            set
+            {
+                this.durationField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string text
+        {
+            get
+            {
+                return this.textField;
+            }
+            set
+            {
+                this.textField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("sclass")]
+        public string[] sclass
+        {
+            get
+            {
+                return this.sclassField;
+            }
+            set
+            {
+                this.sclassField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
     public partial class pcCharacterContainer
     {
 
@@ -2400,6 +2837,137 @@ namespace FightClub.XML
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterTracker
+    {
+
+        private string labelField;
+
+        private byte typeField;
+
+        private bool typeFieldSpecified;
+
+        private byte resetTypeField;
+
+        private bool resetTypeFieldSpecified;
+
+        private byte valueField;
+
+        private bool valueFieldSpecified;
+
+        private string formulaField;
+
+        /// <remarks/>
+        public string label
+        {
+            get
+            {
+                return this.labelField;
+            }
+            set
+            {
+                this.labelField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte type
+        {
+            get
+            {
+                return this.typeField;
+            }
+            set
+            {
+                this.typeField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool typeSpecified
+        {
+            get
+            {
+                return this.typeFieldSpecified;
+            }
+            set
+            {
+                this.typeFieldSpecified = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte resetType
+        {
+            get
+            {
+                return this.resetTypeField;
+            }
+            set
+            {
+                this.resetTypeField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool resetTypeSpecified
+        {
+            get
+            {
+                return this.resetTypeFieldSpecified;
+            }
+            set
+            {
+                this.resetTypeFieldSpecified = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte value
+        {
+            get
+            {
+                return this.valueField;
+            }
+            set
+            {
+                this.valueField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool valueSpecified
+        {
+            get
+            {
+                return this.valueFieldSpecified;
+            }
+            set
+            {
+                this.valueFieldSpecified = value;
+            }
+        }
+
+        /// <remarks/>
+        public string formula
+        {
+            get
+            {
+                return this.formulaField;
+            }
+            set
+            {
+                this.formulaField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
     public partial class pcCharacterMonster
     {
 
@@ -2766,6 +3334,5 @@ namespace FightClub.XML
             }
         }
     }
-
 
 }
