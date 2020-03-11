@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Updated 2015/12/21 (Errata) -->
+<compendium version="5">
+	<item>
+		<name>Tooth of the White Dragon</name>
+		<type>M</type>
+		<magic>1</magic>
+		<weight>3</weight>
+		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>V</property>
+		<rarity>Legendary</rarity>
+		<text>Rarity: Legendary</text>
+		<text />
+		<text>Requires attunement</text>
+		<text />
+		<text>This legendary weapon is one of 9 blades that make up the Mouth of the Dragon.  The blade was forged in the icy breath of a long forgotten white dragon and as such the blade has a white, frosted look to it.  A giant milk quartz makes up the cross guard, the quartz is cut to resemble the outstretched limbs of a dragon, each claw clutching a blood red ruby.  The pommel is a circular disk with each side having the nine blades carved in it.  The hilt is wrapped in supple yeti hide.</text>
+		<text />
+		<text>You have a +1 bonus to attack and damage rolls made with this weapon.  On a successful melee hit the blade, the target takes an extra 3d6 cold damage. In addition, while you hold the sword, you have vulnerability to fire damage.</text>
+		<text />
+		<text>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</text>
+		<text />
+		<text>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used once per short rest.</text>
+		<text />
+		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
+		<text />
+		<modifier category="bonus">melee attacks +1</modifier>
+		<modifier category="bonus">melee damage +1</modifier>
+		<roll>3D6</roll>
+	</item>
+  <item>
+		<name>Tooth of the Red Dragon</name>
+		<type>M</type>
+		<magic>1</magic>
+		<weight>3</weight>
+		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>V</property>
+		<rarity>Legendary</rarity>
+		<text>Rarity: Legendary</text>
+		<text />
+		<text>Requires attunement</text>
+		<text />
+		<text>This legendary weapon is one of 9 blades that make up the Mouth of the Dragon.  The blade was forged in the icy breath of a long forgotten white dragon and as such the blade has a white, frosted look to it.  A giant milk quartz makes up the cross guard, the quartz is cut to resemble the outstretched limbs of a dragon, each claw clutching a blood red ruby.  The pommel is a circular disk with each side having the nine blades carved in it.  The hilt is wrapped in supple yeti hide.</text>
+		<text />
+		<text>You have a +1 bonus to attack and damage rolls made with this weapon.  On a successful melee hit the blade, the target takes an extra 3d6 cold damage. In addition, while you hold the sword, you have vulnerability to fire damage.</text>
+		<text />
+		<text>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</text>
+		<text />
+		<text>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used once per short rest.</text>
+		<text />
+		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
+		<text />
+		<modifier category="bonus">melee attacks +1</modifier>
+		<modifier category="bonus">melee damage +1</modifier>
+		<roll>3D6</roll>
+	</item>
+  <item>
+		<name>Tooth of the Blue Dragon</name>
+		<type>M</type>
+		<magic>1</magic>
+		<weight>3</weight>
+		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>V</property>
+		<rarity>Legendary</rarity>
+		<text>Rarity: Legendary</text>
+		<text />
+		<text>Requires attunement</text>
+		<text />
+		<text>This legendary weapon is one of 9 blades that make up the Mouth of the Dragon.  The blade was forged in the icy breath of a long forgotten white dragon and as such the blade has a white, frosted look to it.  A giant milk quartz makes up the cross guard, the quartz is cut to resemble the outstretched limbs of a dragon, each claw clutching a blood red ruby.  The pommel is a circular disk with each side having the nine blades carved in it.  The hilt is wrapped in supple yeti hide.</text>
+		<text />
+		<text>You have a +1 bonus to attack and damage rolls made with this weapon.  On a successful melee hit the blade, the target takes an extra 3d6 cold damage. In addition, while you hold the sword, you have vulnerability to fire damage.</text>
+		<text />
+		<text>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</text>
+		<text />
+		<text>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used once per short rest.</text>
+		<text />
+		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
+		<text />
+		<modifier category="bonus">melee attacks +1</modifier>
+		<modifier category="bonus">melee damage +1</modifier>
+		<roll>3D6</roll>
+	</item>
+  <item>
+		<name>Tooth of the Green Dragon</name>
+		<type>M</type>
+		<magic>1</magic>
+		<weight>3</weight>
+		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>V</property>
+		<rarity>Legendary</rarity>
+		<text>Rarity: Legendary</text>
+		<text />
+		<text>Requires attunement</text>
+		<text />
+		<text>This legendary weapon is one of 9 blades that make up the Mouth of the Dragon.  The blade was forged in the icy breath of a long forgotten white dragon and as such the blade has a white, frosted look to it.  A giant milk quartz makes up the cross guard, the quartz is cut to resemble the outstretched limbs of a dragon, each claw clutching a blood red ruby.  The pommel is a circular disk with each side having the nine blades carved in it.  The hilt is wrapped in supple yeti hide.</text>
+		<text />
+		<text>You have a +1 bonus to attack and damage rolls made with this weapon.  On a successful melee hit the blade, the target takes an extra 3d6 cold damage. In addition, while you hold the sword, you have vulnerability to fire damage.</text>
+		<text />
+		<text>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</text>
+		<text />
+		<text>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used once per short rest.</text>
+		<text />
+		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
+		<text />
+		<modifier category="bonus">melee attacks +1</modifier>
+		<modifier category="bonus">melee damage +1</modifier>
+		<roll>3D6</roll>
+	</item>
+  <item>
+		<name>Tooth of the Black Dragon</name>
+		<type>M</type>
+		<magic>1</magic>
+		<weight>3</weight>
+		<dmg1>1d8</dmg1>
+		<dmg2>1d10</dmg2>
+		<dmgType>S</dmgType>
+		<property>V</property>
+		<rarity>Legendary</rarity>
+		<text>Rarity: Legendary</text>
+		<text />
+		<text>Requires attunement</text>
+		<text />
+		<text>This legendary weapon is one of 9 blades that make up the Mouth of the Dragon.  The blade was forged in the icy breath of a long forgotten white dragon and as such the blade has a white, frosted look to it.  A giant milk quartz makes up the cross guard, the quartz is cut to resemble the outstretched limbs of a dragon, each claw clutching a blood red ruby.  The pommel is a circular disk with each side having the nine blades carved in it.  The hilt is wrapped in supple yeti hide.</text>
+		<text />
+		<text>You have a +1 bonus to attack and damage rolls made with this weapon.  On a successful melee hit the blade, the target takes an extra 3d6 cold damage. In addition, while you hold the sword, you have vulnerability to fire damage.</text>
+		<text />
+		<text>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</text>
+		<text />
+		<text>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used once per short rest.</text>
+		<text />
+		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
+		<text />
+		<modifier category="bonus">melee attacks +1</modifier>
+		<modifier category="bonus">melee damage +1</modifier>
+		<roll>3D6</roll>
+	</item>
+	<item>
+		<name>Mage Armor Spell</name>
+		<type>LA</type>
+        <magic>1</magic>
+		<value>0gp</value>
+		<weight>0</weight>
+		<ac>13</ac>
+		<stealth></stealth>
+		<text>this is the mage armor spell translated into an item for use.</text>
+		<text />
+	</item>
+</compendium>
