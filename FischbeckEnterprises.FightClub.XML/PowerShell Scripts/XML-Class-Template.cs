@@ -93,11 +93,13 @@ namespace FightClub.XML
 
         private pcCharacterContainer[] containerField;
 
-        private pcCharacterFeat featField;
+        private pcCharacterFeat[] featField;
 
         private pcCharacterItem[] itemField;
 
         private pcCharacterNote[] noteField;
+
+        private pcCharacterMonster[] monsterField;
 
         private string slotsField;
 
@@ -275,7 +277,8 @@ namespace FightClub.XML
         }
 
         /// <remarks/>
-        public pcCharacterFeat feat
+        [System.Xml.Serialization.XmlElementAttribute("feat")]
+        public pcCharacterFeat[] feat
         {
             get
             {
@@ -312,6 +315,20 @@ namespace FightClub.XML
             set
             {
                 this.noteField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("monster")]
+        public pcCharacterMonster[] monster
+        {
+            get
+            {
+                return this.monsterField;
+            }
+            set
+            {
+                this.monsterField = value;
             }
         }
 
@@ -2377,6 +2394,339 @@ namespace FightClub.XML
                 this.uidField = value;
             }
         }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterMonster
+    {
+
+        private object[] itemsField;
+
+        private ItemsChoiceType2[] itemsElementNameField;
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("abilities", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("action", typeof(pcCharacterMonsterAction))]
+        [System.Xml.Serialization.XmlElementAttribute("alignment", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("cr", typeof(sbyte))]
+        [System.Xml.Serialization.XmlElementAttribute("environment", typeof(ushort))]
+        [System.Xml.Serialization.XmlElementAttribute("hd", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("hpCurrent", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("hpMax", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("imageData", typeof(pcCharacterMonsterImageData))]
+        [System.Xml.Serialization.XmlElementAttribute("label", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("languages", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("passive", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("size", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("skill", typeof(pcCharacterMonsterSkill))]
+        [System.Xml.Serialization.XmlElementAttribute("speed", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("text", typeof(string))]
+        [System.Xml.Serialization.XmlElementAttribute("trait", typeof(pcCharacterMonsterTrait))]
+        [System.Xml.Serialization.XmlElementAttribute("type", typeof(string))]
+        [System.Xml.Serialization.XmlChoiceIdentifierAttribute("ItemsElementName")]
+        public object[] Items
+        {
+            get
+            {
+                return this.itemsField;
+            }
+            set
+            {
+                this.itemsField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlElementAttribute("ItemsElementName")]
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public ItemsChoiceType2[] ItemsElementName
+        {
+            get
+            {
+                return this.itemsElementNameField;
+            }
+            set
+            {
+                this.itemsElementNameField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterMonsterAction
+    {
+
+        private string nameField;
+
+        private string textField;
+
+        private pcCharacterMonsterActionAttack attackField;
+
+        /// <remarks/>
+        public string name
+        {
+            get
+            {
+                return this.nameField;
+            }
+            set
+            {
+                this.nameField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string text
+        {
+            get
+            {
+                return this.textField;
+            }
+            set
+            {
+                this.textField = value;
+            }
+        }
+
+        /// <remarks/>
+        public pcCharacterMonsterActionAttack attack
+        {
+            get
+            {
+                return this.attackField;
+            }
+            set
+            {
+                this.attackField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterMonsterActionAttack
+    {
+
+        private string nameField;
+
+        private byte attackBonusField;
+
+        private string damageField;
+
+        /// <remarks/>
+        public string name
+        {
+            get
+            {
+                return this.nameField;
+            }
+            set
+            {
+                this.nameField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte attackBonus
+        {
+            get
+            {
+                return this.attackBonusField;
+            }
+            set
+            {
+                this.attackBonusField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string damage
+        {
+            get
+            {
+                return this.damageField;
+            }
+            set
+            {
+                this.damageField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterMonsterImageData
+    {
+
+        private ushort uidField;
+
+        /// <remarks/>
+        public ushort uid
+        {
+            get
+            {
+                return this.uidField;
+            }
+            set
+            {
+                this.uidField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterMonsterSkill
+    {
+
+        private byte idField;
+
+        private byte modifierField;
+
+        /// <remarks/>
+        public byte id
+        {
+            get
+            {
+                return this.idField;
+            }
+            set
+            {
+                this.idField = value;
+            }
+        }
+
+        /// <remarks/>
+        public byte modifier
+        {
+            get
+            {
+                return this.modifierField;
+            }
+            set
+            {
+                this.modifierField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.ComponentModel.DesignerCategoryAttribute("code")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    public partial class pcCharacterMonsterTrait
+    {
+
+        private string nameField;
+
+        private string textField;
+
+        /// <remarks/>
+        public string name
+        {
+            get
+            {
+                return this.nameField;
+            }
+            set
+            {
+                this.nameField = value;
+            }
+        }
+
+        /// <remarks/>
+        public string text
+        {
+            get
+            {
+                return this.textField;
+            }
+            set
+            {
+                this.textField = value;
+            }
+        }
+    }
+
+    /// <remarks/>
+    [System.SerializableAttribute()]
+    [System.Xml.Serialization.XmlTypeAttribute(IncludeInSchema = false)]
+    public enum ItemsChoiceType2
+    {
+
+        /// <remarks/>
+        abilities,
+
+        /// <remarks/>
+        ac,
+
+        /// <remarks/>
+        action,
+
+        /// <remarks/>
+        alignment,
+
+        /// <remarks/>
+        cr,
+
+        /// <remarks/>
+        environment,
+
+        /// <remarks/>
+        hd,
+
+        /// <remarks/>
+        hpCurrent,
+
+        /// <remarks/>
+        hpMax,
+
+        /// <remarks/>
+        imageData,
+
+        /// <remarks/>
+        label,
+
+        /// <remarks/>
+        languages,
+
+        /// <remarks/>
+        name,
+
+        /// <remarks/>
+        passive,
+
+        /// <remarks/>
+        size,
+
+        /// <remarks/>
+        skill,
+
+        /// <remarks/>
+        speed,
+
+        /// <remarks/>
+        text,
+
+        /// <remarks/>
+        trait,
+
+        /// <remarks/>
+        type,
     }
 
     /// <remarks/>
