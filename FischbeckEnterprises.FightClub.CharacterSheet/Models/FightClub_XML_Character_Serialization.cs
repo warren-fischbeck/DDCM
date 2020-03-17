@@ -33,6 +33,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool attackFieldSpecified;
 
+		private PcClass[] classField;
+
+
 		[System.Xml.Serialization.XmlElementAttribute("version")]
 		public int version { get { return this.versionField; } set { this.versionField = value; } }
 
@@ -71,5 +74,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool attackSpecified { get { return this.attackFieldSpecified; } set { this.attackFieldSpecified = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("class")]
+		public PcClass[] @class { get { return this.classField; } set { this.classField = value; } }
 	}
 }

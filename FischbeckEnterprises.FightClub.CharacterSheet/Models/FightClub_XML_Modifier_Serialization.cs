@@ -9,6 +9,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 	{
 		private string nameField;
 
+		private bool nameFieldSpecified;
+
 		private int typeField;
 
 		private bool typeFieldSpecified;
@@ -19,6 +21,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlElementAttribute("name")]
 		public string name { get { return this.nameField; } set { this.nameField = value; } }
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool nameSpecified { get { return this.nameFieldSpecified; } set { this.nameFieldSpecified = value; } }
+
 
 		[System.Xml.Serialization.XmlElementAttribute("type")]
 		public int type { get { return this.typeField; } set { this.typeField = value; } }

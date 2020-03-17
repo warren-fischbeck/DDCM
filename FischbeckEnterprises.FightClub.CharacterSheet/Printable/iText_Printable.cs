@@ -262,7 +262,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
 
                     if (!string.IsNullOrEmpty(Character_Image) && File.Exists(Character_Image))
                     {
-                        ImageData imageData = ImageDataFactory.Create(Character_Image);
+                        iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Character_Image);
                         Image image = new Image(imageData).ScaleToFit(145, 200).SetFixedPosition(1, 45, 450);
                         //Image image = new Image(imageData).ScaleAbsolute(145, 200).SetFixedPosition(1,45,450);
                         Document document = new Document(_working);
