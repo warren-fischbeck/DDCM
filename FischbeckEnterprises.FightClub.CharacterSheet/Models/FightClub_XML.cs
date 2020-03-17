@@ -18,7 +18,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private pcImageData[] imageDataField;
 
-        private byte versionField;
+        private int versionField;
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("character")]
@@ -50,7 +50,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public byte version
+        public int version
         {
             get
             {
@@ -70,7 +70,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
     public partial class pcCharacter
     {
 
-        private byte versionField;
+        private int versionField;
 
         private ushort uidField;
 
@@ -80,15 +80,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string abilitiesField;
 
-        private byte hpMaxField;
+        private int hpMaxField;
 
-        private byte hpCurrentField;
+        private int hpCurrentField;
 
         private uint xpField;
 
         private bool xpFieldSpecified;
 
-        private byte unarmedField;
+        private int unarmedField;
 
         private pcCharacterRace raceField;
 
@@ -115,7 +115,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private string slotsCurrentField;
 
         /// <remarks/>
-        public byte version
+        public int version
         {
             get
             {
@@ -180,7 +180,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte hpMax
+        public int hpMax
         {
             get
             {
@@ -193,7 +193,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte hpCurrent
+        public int hpCurrent
         {
             get
             {
@@ -233,7 +233,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte unarmed
+        public int unarmed
         {
             get
             {
@@ -442,7 +442,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte speedField;
+        private int speedField;
 
         private bool speedFieldSpecified;
 
@@ -464,7 +464,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private pcCharacterRaceMod[] modField;
 
-        private byte spellAbilityField;
+        private int spellAbilityField;
 
         private pcCharacterRaceSpell[] spellField;
 
@@ -482,7 +482,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte speed
+        public int speed
         {
             get
             {
@@ -629,7 +629,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte spellAbility
+        public int spellAbility
         {
             get
             {
@@ -667,7 +667,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string textField;
 
-        private byte expandedField;
+        private int expandedField;
 
         private bool expandedFieldSpecified;
 
@@ -704,7 +704,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte expanded
+        public int expanded
         {
             get
             {
@@ -779,16 +779,16 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
     public partial class pcCharacterRaceFeatMod
     {
 
-        private byte categoryField;
+        private int categoryField;
 
-        private byte typeField;
+        private int typeField;
 
         private bool typeFieldSpecified;
 
-        private byte valueField;
+        private int valueField;
 
         /// <remarks/>
-        public byte category
+        public int category
         {
             get
             {
@@ -801,7 +801,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -828,7 +828,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -850,15 +850,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte categoryField;
+        private int categoryField;
 
         private bool categoryFieldSpecified;
 
-        private byte typeField;
+        private int typeField;
 
         private bool typeFieldSpecified;
 
-        private byte valueField;
+        private int valueField;
 
         /// <remarks/>
         public string name
@@ -874,7 +874,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte category
+        public int category
         {
             get
             {
@@ -901,7 +901,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -928,7 +928,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -950,13 +950,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte schoolField;
+        private int schoolField;
 
-        private byte ritualField;
+        private int ritualField;
 
         private bool ritualFieldSpecified;
 
-        private byte levelField;
+        private int levelField;
 
         private bool levelFieldSpecified;
 
@@ -964,11 +964,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string rangeField;
 
-        private byte vField;
+        private int vField;
 
-        private byte sField;
+        private int sField;
 
-        private byte mField;
+        private int mField;
 
         private bool mFieldSpecified;
 
@@ -978,7 +978,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string textField;
 
-        private byte preparedField;
+        private int preparedField;
 
         private bool preparedFieldSpecified;
 
@@ -1000,7 +1000,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte school
+        public int school
         {
             get
             {
@@ -1013,7 +1013,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte ritual
+        public int ritual
         {
             get
             {
@@ -1040,7 +1040,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte level
+        public int level
         {
             get
             {
@@ -1093,7 +1093,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte v
+        public int v
         {
             get
             {
@@ -1106,7 +1106,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte s
+        public int s
         {
             get
             {
@@ -1119,7 +1119,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte m
+        public int m
         {
             get
             {
@@ -1185,7 +1185,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte prepared
+        public int prepared
         {
             get
             {
@@ -1395,7 +1395,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string textField;
 
-        private byte expandedField;
+        private int expandedField;
 
         private bool expandedFieldSpecified;
 
@@ -1426,7 +1426,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte expanded
+        public int expanded
         {
             get
             {
@@ -1462,13 +1462,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte typeField;
+        private int typeField;
 
         private string attackBonusField;
 
         private string damageField;
 
-        private byte damageTypeField;
+        private int damageTypeField;
 
         /// <remarks/>
         public string name
@@ -1484,7 +1484,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -1523,7 +1523,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte damageType
+        public int damageType
         {
             get
             {
@@ -1545,15 +1545,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte levelField;
+        private int levelField;
 
         private bool levelFieldSpecified;
 
-        private byte hdCurrentField;
+        private int hdCurrentField;
 
         private bool hdCurrentFieldSpecified;
 
-        private byte hdField;
+        private int hdField;
 
         private bool hdFieldSpecified;
 
@@ -1565,7 +1565,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private int[] proficiencyField;
 
-        private byte numClassSkillsField;
+        private int numClassSkillsField;
 
         private string armorField;
 
@@ -1581,7 +1581,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private pcCharacterClassAutolevel[] autolevelField;
 
-        private byte spellAbilityField;
+        private int spellAbilityField;
 
         private pcCharacterClassSpell[] spellField;
 
@@ -1599,7 +1599,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte level
+        public int level
         {
             get
             {
@@ -1626,7 +1626,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte hdCurrent
+        public int hdCurrent
         {
             get
             {
@@ -1653,7 +1653,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte hd
+        public int hd
         {
             get
             {
@@ -1736,7 +1736,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte numClassSkills
+        public int numClassSkills
         {
             get
             {
@@ -1844,7 +1844,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte spellAbility
+        public int spellAbility
         {
             get
             {
@@ -1882,15 +1882,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string textField;
 
-        private byte optionalField;
+        private int optionalField;
 
         private bool optionalFieldSpecified;
 
-        private byte expandedField;
+        private int expandedField;
 
         private bool expandedFieldSpecified;
 
-        private byte specialField;
+        private int specialField;
 
         private bool specialFieldSpecified;
 
@@ -1923,7 +1923,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte optional
+        public int optional
         {
             get
             {
@@ -1950,7 +1950,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte expanded
+        public int expanded
         {
             get
             {
@@ -1977,7 +1977,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte special
+        public int special
         {
             get
             {
@@ -2026,9 +2026,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte typeField;
+        private int typeField;
 
-        private byte valueField;
+        private int valueField;
 
         /// <remarks/>
         public string name
@@ -2044,7 +2044,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -2057,7 +2057,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -2079,13 +2079,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string labelField;
 
-        private byte typeField;
+        private int typeField;
 
-        private byte resetTypeField;
+        private int resetTypeField;
 
-        private byte valueField;
+        private int valueField;
 
-        private byte formulaField;
+        private int formulaField;
 
         /// <remarks/>
         public string label
@@ -2101,7 +2101,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -2114,7 +2114,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte resetType
+        public int resetType
         {
             get
             {
@@ -2127,7 +2127,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -2140,7 +2140,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte formula
+        public int formula
         {
             get
             {
@@ -2162,13 +2162,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte categoryField;
+        private int categoryField;
 
-        private byte typeField;
+        private int typeField;
 
         private bool typeFieldSpecified;
 
-        private byte valueField;
+        private int valueField;
 
         /// <remarks/>
         public string name
@@ -2184,7 +2184,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte category
+        public int category
         {
             get
             {
@@ -2197,7 +2197,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -2224,7 +2224,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -2250,10 +2250,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("feat", typeof(pcCharacterClassAutolevelFeat))]
-        [System.Xml.Serialization.XmlElementAttribute("level", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("scoreImprovement", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("level", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("scoreImprovement", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("slots", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("spellSlotsOptional", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("spellSlotsOptional", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("tracker", typeof(pcCharacterClassAutolevelTracker))]
         [System.Xml.Serialization.XmlChoiceIdentifierAttribute("ItemsElementName")]
         public object[] Items
@@ -2295,11 +2295,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string textField;
 
-        private byte specialField;
+        private int specialField;
 
         private bool specialFieldSpecified;
 
-        private byte optionalField;
+        private int optionalField;
 
         private bool optionalFieldSpecified;
 
@@ -2334,7 +2334,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte special
+        public int special
         {
             get
             {
@@ -2361,7 +2361,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte optional
+        public int optional
         {
             get
             {
@@ -2423,20 +2423,20 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
     public partial class pcCharacterClassAutolevelFeatMod
     {
 
-        private byte categoryField;
+        private int categoryField;
 
         private bool categoryFieldSpecified;
 
-        private byte typeField;
+        private int typeField;
 
         private bool typeFieldSpecified;
 
-        private byte valueField;
+        private int valueField;
 
         private bool valueFieldSpecified;
 
         /// <remarks/>
-        public byte category
+        public int category
         {
             get
             {
@@ -2463,7 +2463,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -2490,7 +2490,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -2526,11 +2526,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string labelField;
 
-        private byte typeField;
+        private int typeField;
 
-        private byte resetTypeField;
+        private int resetTypeField;
 
-        private byte formulaField;
+        private int formulaField;
 
         /// <remarks/>
         public string label
@@ -2546,7 +2546,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -2559,7 +2559,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte resetType
+        public int resetType
         {
             get
             {
@@ -2572,7 +2572,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte formula
+        public int formula
         {
             get
             {
@@ -2623,20 +2623,20 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("duration", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("level", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("m", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("level", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("m", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("materials", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("prepared", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("prepared", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("range", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("ritual", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("ritual", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("roll", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("s", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("school", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("s", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("school", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("sclass", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("text", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("time", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("v", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("v", typeof(int))]
         [System.Xml.Serialization.XmlChoiceIdentifierAttribute("ItemsElementName")]
         public object[] Items
         {
@@ -2735,7 +2735,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private bool weightFieldSpecified;
 
-        private byte expandedField;
+        private int expandedField;
 
         private bool expandedFieldSpecified;
 
@@ -2808,7 +2808,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte expanded
+        public int expanded
         {
             get
             {
@@ -2861,11 +2861,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private ItemsChoiceType2[] itemsElementNameField;
 
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(sbyte))]
+        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("quantity", typeof(ushort))]
-        [System.Xml.Serialization.XmlElementAttribute("slot", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("strength", typeof(sbyte))]
+        [System.Xml.Serialization.XmlElementAttribute("slot", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("strength", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("text", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("value", typeof(decimal))]
         [System.Xml.Serialization.XmlElementAttribute("weight", typeof(decimal))]
@@ -2941,7 +2941,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private ItemsChoiceType3[] itemsElementNameField;
 
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute("expanded", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("expanded", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("mod", typeof(pcCharacterFeatMod))]
         [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("prereq", typeof(string))]
@@ -2983,16 +2983,16 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
     public partial class pcCharacterFeatMod
     {
 
-        private byte categoryField;
+        private int categoryField;
 
         private bool categoryFieldSpecified;
 
-        private byte typeField;
+        private int typeField;
 
-        private byte valueField;
+        private int valueField;
 
         /// <remarks/>
-        public byte category
+        public int category
         {
             get
             {
@@ -3019,7 +3019,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -3032,7 +3032,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -3082,25 +3082,25 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private ItemsChoiceType4[] itemsElementNameField;
 
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(sbyte))]
+        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("damage1H", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("damage2H", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("damageType", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("damageType", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("detail", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("magic", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("magic", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("mod", typeof(pcCharacterItemMod))]
         [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("quantity", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("quantity", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("roll", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("slot", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("stealth", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("strength", typeof(sbyte))]
+        [System.Xml.Serialization.XmlElementAttribute("slot", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("stealth", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("strength", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("text", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("type", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("type", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("value", typeof(decimal))]
-        [System.Xml.Serialization.XmlElementAttribute("weaponLongRange", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("weaponLongRange", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("weaponProperty", typeof(ushort))]
-        [System.Xml.Serialization.XmlElementAttribute("weaponRange", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("weaponRange", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("weight", typeof(decimal))]
         [System.Xml.Serialization.XmlChoiceIdentifierAttribute("ItemsElementName")]
         public object[] Items
@@ -3140,9 +3140,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte typeField;
+        private int typeField;
 
-        private sbyte valueField;
+        private int valueField;
 
         private bool valueFieldSpecified;
 
@@ -3160,7 +3160,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -3173,7 +3173,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public sbyte value
+        public int value
         {
             get
             {
@@ -3278,7 +3278,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string textField;
 
-        private byte expandedField;
+        private int expandedField;
 
         private bool expandedFieldSpecified;
 
@@ -3311,7 +3311,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte expanded
+        public int expanded
         {
             get
             {
@@ -3383,15 +3383,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string labelField;
 
-        private byte typeField;
+        private int typeField;
 
         private bool typeFieldSpecified;
 
-        private byte resetTypeField;
+        private int resetTypeField;
 
         private bool resetTypeFieldSpecified;
 
-        private byte valueField;
+        private int valueField;
 
         private bool valueFieldSpecified;
 
@@ -3411,7 +3411,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte type
+        public int type
         {
             get
             {
@@ -3438,7 +3438,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte resetType
+        public int resetType
         {
             get
             {
@@ -3465,7 +3465,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte value
+        public int value
         {
             get
             {
@@ -3518,20 +3518,20 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("abilities", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("ac", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("action", typeof(pcCharacterMonsterAction))]
         [System.Xml.Serialization.XmlElementAttribute("alignment", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("cr", typeof(sbyte))]
+        [System.Xml.Serialization.XmlElementAttribute("cr", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("environment", typeof(ushort))]
         [System.Xml.Serialization.XmlElementAttribute("hd", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("hpCurrent", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("hpMax", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("hpCurrent", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("hpMax", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("imageData", typeof(pcCharacterMonsterImageData))]
         [System.Xml.Serialization.XmlElementAttribute("label", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("languages", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("passive", typeof(byte))]
-        [System.Xml.Serialization.XmlElementAttribute("size", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("passive", typeof(int))]
+        [System.Xml.Serialization.XmlElementAttribute("size", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("skill", typeof(pcCharacterMonsterSkill))]
         [System.Xml.Serialization.XmlElementAttribute("speed", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("text", typeof(string))]
@@ -3628,7 +3628,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string nameField;
 
-        private byte attackBonusField;
+        private int attackBonusField;
 
         private string damageField;
 
@@ -3646,7 +3646,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte attackBonus
+        public int attackBonus
         {
             get
             {
@@ -3702,12 +3702,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
     public partial class pcCharacterMonsterSkill
     {
 
-        private byte idField;
+        private int idField;
 
-        private byte modifierField;
+        private int modifierField;
 
         /// <remarks/>
-        public byte id
+        public int id
         {
             get
             {
@@ -3720,7 +3720,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte modifier
+        public int modifier
         {
             get
             {

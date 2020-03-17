@@ -120,6 +120,16 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             else
                 PrintablePlayerCharacter.Speed = speed;
             var mod = _pc.character.Where(x => x.item != null).Select(x => x.item).ToList();
+            foreach(var item in mod)
+            {
+                foreach(var i in item)
+                {
+                    if (i.ItemsElementName == "mod")
+                    {
+
+                    }
+                }
+            }
 //Add logic to find rest of speed changes value 13.
         }
 
