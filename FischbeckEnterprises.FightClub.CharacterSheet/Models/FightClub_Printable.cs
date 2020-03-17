@@ -5,7 +5,6 @@ using System.Text;
 
 namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 {
-
     partial class PrintablePlayerCharacter
     {
         public string CharacterName { get; set; }
@@ -287,29 +286,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
             this.Wisdom = 0;
             this.WisdomModifier = 0;
             this.SpellCasting = new List<SpellCasting>();
-        }
-
-        public void BuildTest()
-        {
-            this.CharacterName = "Test Character";
-            this.AcobaticsModifier = 1;
-            this.Alignment = "Neutral Good";
-            this.AnimalHandlingModifier = 2;
-            this.ArcanaModifier = 3;
-            this.ArmorClass = 15;
-            this.AttackAndSpellCasting = "Attack and \nSpell Casting\nEven more information.  Lots of data.  Lots of data.  Lots of data";
-            this.Background = "Background";
-            this.Charisma = 10;
-            this.CharismaModifier = 0;
-            this.ClassLevel = "Bard(1) Fighter(10)";
-            this.Constitution = 10;
-            this.ConstitutionModifier = 6;
-            this.ProficencyAthletics = true;
-            this.AthleticsModifier = 15;
-            this.Age = "15";
-            this.Weight = "195 lbs";
-            this.Equipment2 = "All kinds of things can go in here.";
-            this.BackStory = "This is for all kinds of cool shit.";
         }
     }
 }
