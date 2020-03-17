@@ -5,15 +5,15 @@ using System.Xml.Serialization;
 
 namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 {
-	public partial class pc
-	{
-		private Character[] characterField;
+    public partial class pc
+    {
+        private Character[] characterField;
 
         private ImageData[] imageDataField;
 
         private int versionField;
-        
-		/// <remarks/>
+
+        /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("character")]
         public Character[] character
         {
@@ -54,6 +54,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
                 this.versionField = value;
             }
         }
-    
-	}
+
+    }
 }

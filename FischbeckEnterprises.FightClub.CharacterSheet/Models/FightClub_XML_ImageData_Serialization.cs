@@ -14,8 +14,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private int uidField;
 
         private string encodedField;
-		
-		private bool encodedFieldSpecified;
+
+        private bool encodedFieldSpecified;
 
         /// <remarks/>
         public int uid
@@ -42,9 +42,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
                 this.encodedField = value;
             }
         }
-		
-		[System.Xml.Serialization.XmlIgnoreAttribute()]
-		public bool encodedSpecified{get{return this.encodedFieldSpecified;}set{this.encodedFieldSpecified=value;}}
+
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool encodedSpecified { get { return this.encodedFieldSpecified; } set { this.encodedFieldSpecified = value; } }
 
     }
 }
