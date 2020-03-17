@@ -458,7 +458,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string hairField;
 
-        private byte[] proficiencyField;
+        private int[] proficiencyField;
 
         private pcCharacterRaceFeat[] featField;
 
@@ -588,7 +588,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("proficiency")]
-        public byte[] proficiency
+        public int[] proficiency
         {
             get
             {
@@ -671,7 +671,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private bool expandedFieldSpecified;
 
-        private byte proficiencyField;
+        private int proficiencyField;
 
         private bool proficiencyFieldSpecified;
 
@@ -731,7 +731,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         }
 
         /// <remarks/>
-        public byte proficiency
+        public int proficiency
         {
             get
             {
@@ -1260,7 +1260,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string flawsField;
 
-        private byte[] proficiencyField;
+        private int[] proficiencyField;
 
         private pcCharacterBackgroundFeat[] featField;
 
@@ -1357,7 +1357,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("proficiency")]
-        public byte[] proficiency
+        public int[] proficiency
         {
             get
             {
@@ -1563,7 +1563,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private string slotsCurrentField;
 
-        private byte[] proficiencyField;
+        private int[] proficiencyField;
 
         private byte numClassSkillsField;
 
@@ -1721,9 +1721,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         /// <remarks/>
         //[System.Xml.Serialization.XmlElementAttribute("proficiency")]
         //[System.Xml.Serialization.XmlElement(ElementName ="proficiency")]
-        [System.Xml.Serialization.XmlArrayItemAttribute("proficiency", typeof(byte), IsNullable = false, NestingLevel = 2)]
+        [System.Xml.Serialization.XmlArrayItemAttribute("proficiency", typeof(int), IsNullable = false, NestingLevel = 2)]
 
-        public byte[] proficiency
+        public int[] proficiency
         {
             get
             {
@@ -2303,7 +2303,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         private bool optionalFieldSpecified;
 
-        private byte[] proficiencyField;
+        private int[] proficiencyField;
 
         private pcCharacterClassAutolevelFeatMod[] modField;
 
@@ -2389,7 +2389,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         /// <remarks/>
         [System.Xml.Serialization.XmlElementAttribute("proficiency")]
-        public byte[] proficiency
+        public int[] proficiency
         {
             get
             {
@@ -2945,7 +2945,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         [System.Xml.Serialization.XmlElementAttribute("mod", typeof(pcCharacterFeatMod))]
         [System.Xml.Serialization.XmlElementAttribute("name", typeof(string))]
         [System.Xml.Serialization.XmlElementAttribute("prereq", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("proficiency", typeof(byte))]
+        [System.Xml.Serialization.XmlElementAttribute("proficiency", typeof(int))]
         [System.Xml.Serialization.XmlElementAttribute("text", typeof(string))]
         [System.Xml.Serialization.XmlChoiceIdentifierAttribute("ItemsElementName")]
         public object[] Items

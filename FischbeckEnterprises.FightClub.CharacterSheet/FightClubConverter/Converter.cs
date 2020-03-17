@@ -1,6 +1,7 @@
 ﻿using FischbeckEnterprises.FightClub.CharacterSheet.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
@@ -73,10 +74,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         PrintablePlayerCharacter.Charisma = Convert.ToInt32(ability[5]);
                         PrintablePlayerCharacter.CharismaModifier = ConvertAbilitiyModifier(PrintablePlayerCharacter.Charisma);
                     }
-                    if (pcCharacter.race.speed == 0)
-                        PrintablePlayerCharacter.Speed = 30;
-                    else
-                        PrintablePlayerCharacter.Speed = pcCharacter.race.speed;
+
                     if (pcCharacter.race.name != null)
                         PrintablePlayerCharacter.Race = pcCharacter.race.name;
                     if (pcCharacter.race.hair != null)
@@ -105,7 +103,47 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         PrintablePlayerCharacter.PersonalityIdeals = pcCharacter.background.ideals;
                     if (pcCharacter.background.personality != null)
                         PrintablePlayerCharacter.PersonalityTraits = pcCharacter.background.personality;
+                    ConvertSpeed();
+                    ConvertAbilityModifiers();
+                    GenerateProficencyBonus(PrintablePlayerCharacter);
                     ConvertSkills(pcCharacter);
+                    GenerateSkillModifiers();
+                }
+            }
+        }
+
+        private void ConvertSpeed()
+        {
+            var speed = _pc.character.Where(x => x.race.speed != 0).Select(x=>x.race.speed).FirstOrDefault();
+            if (speed == 0)
+                PrintablePlayerCharacter.Speed = 30;
+            else
+                PrintablePlayerCharacter.Speed = speed;
+            var mod = _pc.character.Where(x => x.item != null).Select(x => x.item).ToList();
+//Add logic to find rest of speed changes value 13.
+        }
+
+        private void ConvertAbilityModifiers()
+        {
+            foreach (var character in _pc.character)
+            {
+                var abilities = character.race.feat.Where(x => x.name.Contains("Ability Score Increase")).FirstOrDefault().mod;
+                if (abilities != null)
+                {
+                    foreach (var abilitiy in abilities)
+                    {
+                        switch (abilitiy.type)
+                        {
+                            case 0: { PrintablePlayerCharacter.Strength += abilitiy.value; break; }
+                            case 1: { PrintablePlayerCharacter.Dexterity += abilitiy.value; break; }
+                            case 2: { PrintablePlayerCharacter.Constitution += abilitiy.value; break; }
+                            case 3: { PrintablePlayerCharacter.Intelligence += abilitiy.value; break; }
+                            case 4: { PrintablePlayerCharacter.Wisdom += abilitiy.value; break; }
+                            case 5: { PrintablePlayerCharacter.Charisma += abilitiy.value; break; }
+                            default:
+                                break;
+                        }
+                    }
                 }
             }
         }
@@ -115,25 +153,53 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 return (Score - 10) / 2;
         }
 
+        private void GenerateProficencyBonus(PrintablePlayerCharacter printablePlayerCharacter)
+        {
+            int _level;
+            int _XP = printablePlayerCharacter.ExperiencePoints;
+            int _proficencyBonus;
+            switch (_XP)
+            {
+                case int n when (_XP > 0 && _XP <= 299): _level = 1; _proficencyBonus = 2; break;
+                case int n when (_XP > 300 && _XP <= 899): _level = 2; _proficencyBonus = 2; break;
+                case int n when (_XP > 900 && _XP <= 2799): _level = 3; _proficencyBonus = 2; break;
+                case int n when (_XP > 2700 && _XP <= 6499): _level = 4; _proficencyBonus = 2; break;
+                case int n when (_XP > 6500 && _XP <= 13999): _level = 5; _proficencyBonus = 3; break;
+                case int n when (_XP > 14000 && _XP <= 22999): _level = 6; _proficencyBonus = 3; break;
+                case int n when (_XP > 23000 && _XP <= 33999): _level = 7; _proficencyBonus = 3; break;
+                case int n when (_XP > 34000 && _XP <= 47999): _level = 8; _proficencyBonus = 3; break;
+                case int n when (_XP > 48000 && _XP <= 63999): _level = 9; _proficencyBonus = 4; break;
+                case int n when (_XP > 64000 && _XP <= 84999): _level = 10; _proficencyBonus = 4; break;
+                case int n when (_XP > 85000 && _XP <= 99999): _level = 11; _proficencyBonus = 4; break;
+                case int n when (_XP > 100000 && _XP <= 119999): _level = 12; _proficencyBonus = 4; break;
+                case int n when (_XP > 120000 && _XP <= 139999): _level = 13; _proficencyBonus = 5; break;
+                case int n when (_XP > 140000 && _XP <= 164999): _level = 14; _proficencyBonus = 5; break;
+                case int n when (_XP > 165000 && _XP <= 194999): _level = 15; _proficencyBonus = 5; break;
+                case int n when (_XP > 195000 && _XP <= 224999): _level = 16; _proficencyBonus = 5; break;
+                case int n when (_XP > 225000 && _XP <= 164999): _level = 17; _proficencyBonus = 6; break;
+                case int n when (_XP > 265000 && _XP <= 304999): _level = 18; _proficencyBonus = 6; break;
+                case int n when (_XP > 305000 && _XP <= 354999): _level = 19; _proficencyBonus = 6; break;
+                case int n when (_XP > 355000): _level = 20; _proficencyBonus = 6; break;
+                default: _level = 0; _proficencyBonus = 2; break;
+            }
+            printablePlayerCharacter.ProficencyBonus = _proficencyBonus;
+        }
+
         private void ConvertSkills(pcCharacter pcCharacter)
         {
-            List<byte> Skill = new List<byte>();
-            foreach (byte _skill in pcCharacter.race.proficiency)
-            {
-                Skill.Add(_skill);
-            }
-            foreach(byte _skill in pcCharacter.background.proficiency)
-            {
-                Skill.Add(_skill);
-            }
+            List<int> Skill = new List<int>();
+            if (pcCharacter.race.proficiency != null)
+                Skill.AddRange(pcCharacter.race.proficiency);
+            if (pcCharacter.background.proficiency != null)
+                Skill.AddRange(pcCharacter.background.proficiency);
             foreach(pcCharacterClass pcCharacterClass in pcCharacter.@class)
             {
-                foreach(byte _skill in pcCharacterClass.proficiency)
+                if (pcCharacterClass.proficiency != null)
                 {
-                    Skill.Add(_skill);
+                    Skill.AddRange(pcCharacterClass.proficiency);
                 }
             }
-            foreach(byte _skill in Skill)
+            foreach(int _skill in Skill)
             {
                 switch (_skill)
                 {

@@ -19,7 +19,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
 
             foreach (FileInfo file in files)
             {
-                byte[] tempProficiency = CollectProficiency(file.FullName);
+                int[] tempProficiency = CollectProficiency(file.FullName);
                 using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                 {
                     try
@@ -40,16 +40,16 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
 
         }
 
-        static private byte[] CollectProficiency (string _File) 
+        static private int[] CollectProficiency (string _File) 
         { 
             XmlDocument doc = new XmlDocument();
             doc.Load(_File);
             XmlNodeList list = doc.SelectNodes("pc/character/class/proficiency");
-            byte[] classProfic = new byte[0];
+            int[] classProfic = new int[0];
             foreach (XmlNode node in list)
             {
-                byte addto = Convert.ToByte(node.InnerText);
-                byte[] newArray = new byte[classProfic.Length + 1];
+                int addto = Convert.ToInt32(node.InnerText);
+                int[] newArray = new int[classProfic.Length + 1];
                 classProfic.CopyTo(newArray, 1);
                 newArray[0] = addto;
                 classProfic = newArray;
