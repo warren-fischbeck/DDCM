@@ -19,16 +19,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
 
             foreach (FileInfo file in files)
             {
-                int[] tempProficiency = CollectProficiency(file.FullName);
                 using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                 {
                     try
                     {
                         result = (pc)serializer.Deserialize(fileStream);
-                        if (result.character[0].@class[0].proficiency.Length < 1)
-                            result.character[0].@class[0].proficiency = tempProficiency;
-                        PrintablePlayerCharacter _character = new Converter().Build(result);
-                        new PDFCreator(_character);
+                        //new PDFCreator(_character);
                     }
                     catch 
                     {
@@ -36,25 +32,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                 }
             }
             Console.WriteLine("Finished building character sheets!");
-            Console.ReadLine();
-
-        }
-
-        static private int[] CollectProficiency (string _File) 
-        { 
-            XmlDocument doc = new XmlDocument();
-            doc.Load(_File);
-            XmlNodeList list = doc.SelectNodes("pc/character/class/proficiency");
-            int[] classProfic = new int[0];
-            foreach (XmlNode node in list)
-            {
-                int addto = Convert.ToInt32(node.InnerText);
-                int[] newArray = new int[classProfic.Length + 1];
-                classProfic.CopyTo(newArray, 1);
-                newArray[0] = addto;
-                classProfic = newArray;
-            }
-            return classProfic;
+            //Console.ReadLine();
         }
     }
 }
