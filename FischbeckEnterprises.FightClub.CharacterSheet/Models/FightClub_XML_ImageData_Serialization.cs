@@ -11,12 +11,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
     public partial class ImageData
     {
 
-        private ushort uidField;
+        private int uidField;
 
         private string encodedField;
+		
+		private bool encodedFieldSpecified;
 
         /// <remarks/>
-        public ushort uid
+        public int uid
         {
             get
             {
@@ -40,5 +42,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
                 this.encodedField = value;
             }
         }
+		
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool encodedSpecified{get{return this.encodedFieldSpecified;}set{this.encodedFieldSpecified=value;}}
+
     }
 }
