@@ -59,6 +59,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool slotsCurrentfieldSpecified;
 
+		private Background backgroundField;
+		private bool backgroundFieldSpecified;
+
 
 		[System.Xml.Serialization.XmlElementAttribute("version")]
 		public int version { get { return this.versionField; } set { this.versionField = value; } }
@@ -135,5 +138,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool slotsCurrentSpecified { get { return this.slotsCurrentfieldSpecified; } set { this.slotsCurrentfieldSpecified = value; } }
 
+		[System.Xml.Serialization.XmlElementAttribute("background")]
+		public Background background { get { return this.backgroundField; } set { this.backgroundField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool backgroundSpecified { get { return this.backgroundFieldSpecified; } set { this.backgroundFieldSpecified = value; } }
 	}
 }

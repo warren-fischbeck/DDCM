@@ -6,10 +6,28 @@ using System.Text;
 
 namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 {
-    class Converter
+    internal partial class Converter
     {
         private pc _pc;
-        public PrintablePlayerCharacter PrintablePlayerCharacter { get; private set; }
+        private PrintablePlayerCharacter _printablePlayerCharacter;
 
+        public Converter()
+        {
+            this._pc = new pc();
+            this._printablePlayerCharacter = new PrintablePlayerCharacter();
+        }
+
+        public Converter(pc playerCharacter)
+        {
+            if (playerCharacter != null)
+                this._pc = playerCharacter;
+            this._printablePlayerCharacter = new PrintablePlayerCharacter();
+        }
+
+        public PrintablePlayerCharacter Build()
+        {
+            BaseInfo();
+            return _printablePlayerCharacter;
+        }
     }
 }

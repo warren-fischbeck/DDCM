@@ -24,7 +24,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                     try
                     {
                         result = (pc)serializer.Deserialize(fileStream);
-                        //new PDFCreator(_character);
+                        PrintablePlayerCharacter _character = new Converter(result).Build();
+                        new PDFCreator(_character);
                      }
                     catch 
                     {
