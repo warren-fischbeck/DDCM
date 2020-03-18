@@ -221,7 +221,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 form.GetField("hpmax").SetValue($"{_character.HitPointMax}");
                 form.GetField("hpcurrent").SetValue($"{_character.HitPointCurrent}");
                 //form.GetField("hptemp").SetValue($"{_character.HitPointTemperary}");
-                form.GetField("hitdicetotal").SetValue($"").SetFontSize(FontSize(_character.HitDiceTotal.Length));
+                form.GetField("hitdicetotal").SetValue($"{_character.HitDiceTotal}").SetFontSize(FontSize(_character.HitDiceTotal.Length) - 6);
                 form.GetField("hitdice").SetValue($"{_character.HitDice}").SetFontSize(FontSize(_character.HitDice.Length) - 2);
                 form.GetField("weaponname1").SetValue($"{_character.WeaponName1}");
                 form.GetField("weaponattackbonus1").SetValue($"{_character.WeaponAttackBonus1}");

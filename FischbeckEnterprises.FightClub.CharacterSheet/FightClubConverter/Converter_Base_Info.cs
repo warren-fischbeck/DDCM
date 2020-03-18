@@ -33,7 +33,26 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     _printablePlayerCharacter.PersonalityTraits = c.background.personality;
                 if (c.xp >= 0)
                     _printablePlayerCharacter.ExperiencePoints = c.xp;
-
+                if (c.race.eyes != null)
+                    _printablePlayerCharacter.Eyes = c.race.eyes;
+                if (c.race.hair != null)
+                    _printablePlayerCharacter.Hair = c.race.hair;
+                if (c.race.height != null)
+                    _printablePlayerCharacter.Height = c.race.height;
+                if (c.race.skin != null)
+                    _printablePlayerCharacter.Skin = c.race.skin;
+                if (c.race.weight != null)
+                    _printablePlayerCharacter.Weight = c.race.weight;
+                if (c.hpCurrent >= 0)
+                    _printablePlayerCharacter.HitPointCurrent = c.hpCurrent;
+                if (c.hpMax >= 0)
+                    _printablePlayerCharacter.HitPointMax = c.hpMax;
+                
+                foreach(PcClass pcClass in c.@class)
+                {
+                    if (pcClass.level == 0)
+                        pcClass.level++;
+                }
             }
         }
     }
