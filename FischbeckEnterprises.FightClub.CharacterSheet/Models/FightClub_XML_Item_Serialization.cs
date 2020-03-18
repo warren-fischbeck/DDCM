@@ -52,83 +52,80 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private bool strengthFieldSpecified;
 
         [System.Xml.Serialization.XmlElementAttribute("name")]
-        public string name {get{ return this.nameField; }set{ this.nameField = value; }}
-        
+        public string name { get { return this.nameField; } set { this.nameField = value; } }
+
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool nameSpecified {get{ return this.nameFieldSpecified; }set{ this.nameFieldSpecified = value; }}
+        public bool nameSpecified { get { return this.nameFieldSpecified; } set { this.nameFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("detail")]
-        public string detail {get{ return this.detailField; }set{ this.detailField = value; }}
+        public string detail { get { return this.detailField; } set { this.detailField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool detailSpecified {get{ return this.detailFieldSpecified; }set{ this.detailFieldSpecified = value; }}
+        public bool detailSpecified { get { return this.detailFieldSpecified; } set { this.detailFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("text")]
-        public string text {get{ return this.textField; }set{ this.textField = value; }}
+        public string text { get { return this.textField; } set { this.textField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool textSpecified {get{ return this.typeFieldSpecified; }set{ this.typeFieldSpecified = value; }}
+        public bool textSpecified { get { return this.typeFieldSpecified; } set { this.typeFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("type")]
-        public int type {get{ return this.typeField; }set{ this.typeField = value; }}
+        public int type { get { return this.typeField; } set { this.typeField = value; } }
 
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool typeSpecified {get{ return this.typeFieldSpecified; }set{ this.typeFieldSpecified = value; }}
+        public bool typeSpecified { get { return this.typeFieldSpecified; } set { this.typeFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("magic")]
-        public int magic {get{ return this.magicField; }set{ this.magicField = value; }}
+        public int magic { get { return this.magicField; } set { this.magicField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool magicSpecified {get{ return this.magicFieldSpecified; }set{ this.magicFieldSpecified = value; }}
+        public bool magicSpecified { get { return this.magicFieldSpecified; } set { this.magicFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("slot")]
-
-        public int slot {get{ return this.slotField; }set{ this.slotField = value; }}
+        public int slot { get { return this.slotField; } set { this.slotField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool slotSpecified {get{ return this.slotFieldSpecified; }set{ this.slotFieldSpecified = value; }}
+        public bool slotSpecified { get { return this.slotFieldSpecified; } set { this.slotFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("value")]
-
-        public int value {get{ return this.valueField; }set{ this.valueField = value; }}
+        public int value { get { return this.valueField; } set { this.valueField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool valueSpecified {get{ return this.valueFieldSpecified; }set{ this.valueFieldSpecified = value; }}
+        public bool valueSpecified { get { return this.valueFieldSpecified; } set { this.valueFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("weight")]
-        public int weight {get{ return this.weightField; }set{ this.weightField = value; }}
+        public int weight { get { return this.weightField; } set { this.weightField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool weightSpecified {get{ return this.weightFieldSpecified; }set{ this.weightFieldSpecified = value; }}
+        public bool weightSpecified { get { return this.weightFieldSpecified; } set { this.weightFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("ac")]
-        public int ac {get{return this.acField; }set{ this.acField = value; }}
+        public int ac { get { return this.acField; } set { this.acField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool acSpecified {get{ return this.acFieldSpecified; }set{ this.acFieldSpecified = value; }}
+        public bool acSpecified { get { return this.acFieldSpecified; } set { this.acFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("mod")]
-        public Mod[] mod {get{ return this.modField; }set{ this.mod = value; }}
+        public Mod[] mod { get { return this.modField; } set { this.mod = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool modSpecified {get{ return this.modFieldSpecified; }set{ this.modFieldSpecified = value; }}
+        public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("damage1H")]
-        public string damage1H {get{ return this.damage1HField; }set{ this.damage1HField = value; }}
+        public string damage1H { get { return this.damage1HField; } set { this.damage1HField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool damage1HSpecified {get{ return this.damage1HFieldSpecified; }set{ this.damage1HFieldSpecified = value; }}
+        public bool damage1HSpecified { get { return this.damage1HFieldSpecified; } set { this.damage1HFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("damage2H")]
-        public string damage2H {get{ return this.damage2H; }set{ this.damage2HField = value; }}
+        public string damage2H { get { return this.damage2H; } set { this.damage2HField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool damage2HSpecified {get{ return this.damage2HFieldSpecified; }set{ this.damage2HFieldSpecified = value; }}
+        public bool damage2HSpecified { get { return this.damage2HFieldSpecified; } set { this.damage2HFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("damageType")]
-        public int damageType {get{ return this.damageType; }set{ this.damageType = value; }}
+        public int damageType { get { return this.damageType; } set { this.damageType = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool damageTypeSpecified {get{ return this.damageTypeFieldSpecified; }set{ this.damageTypeFieldSpecified = value; }}
+        public bool damageTypeSpecified { get { return this.damageTypeFieldSpecified; } set { this.damageTypeFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("weaponProperty")]
-        public int weaponProperty {get{ return this.weaponPropertyField; }set{ this.weaponPropertyField = value; }}
+        public int weaponProperty { get { return this.weaponPropertyField; } set { this.weaponPropertyField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool weaponPropertySpecified {get{ return this.weaponPropertyFieldSpecified; }set{ this.weaponPropertyFieldSpecified = value; }}
+        public bool weaponPropertySpecified { get { return this.weaponPropertyFieldSpecified; } set { this.weaponPropertyFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("strength")]
-        public int strength {get{ return this.strengthField; }set{ this.strengthField = value; }}
+        public int strength { get { return this.strengthField; } set { this.strengthField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool strengthSpecified {get{ return this.strengthFieldSpecified; }set{ this.strengthFieldSpecified = value; }}
-
+        public bool strengthSpecified { get { return this.strengthFieldSpecified; } set { this.strengthFieldSpecified = value; } }
     }
 }

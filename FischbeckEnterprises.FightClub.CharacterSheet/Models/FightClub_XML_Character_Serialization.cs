@@ -35,9 +35,26 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private PcClass[] classField;
 
+		private Container[] containerField;
+
+		private bool containerFieldSpecified;
+
 		private Feat[] featField;
 
 		private bool featFieldSpecified;
+
+		private Item[] itemField;
+
+		private bool itemFieldSpecified;
+
+		private Note[] noteField;
+
+		private bool noteFiledSpecified;
+
+		private string slotsField;
+		private bool slotsFieldSpecified;
+		private string slotsCurrentField;
+		private bool slotsCurrentfieldSpecified;
 
 
 		[System.Xml.Serialization.XmlElementAttribute("version")]
@@ -87,5 +104,33 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool featSpecificed { get { return this.featFieldSpecified; } set { this.featFieldSpecified = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("container")]
+		public Container[] container { get { return this.containerField; } set { this.containerField = value; } }
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool containerSepecified { get { return this.containerFieldSpecified; } set { this.containerFieldSpecified = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("item")]
+		public Item[] item { get { return this.itemField; } set { this.itemField = value; } }
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool itemSepecified { get { return this.itemFieldSpecified; } set { this.itemFieldSpecified = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("note")]
+		public Note[] note { get { return this.noteField; } set { this.noteField = value; } }
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool noteSepecified { get { return this.noteFiledSpecified; } set { this.noteFiledSpecified = value; } }
+		
+		[System.Xml.Serialization.XmlElementAttribute("slots")]
+		public string slots { get { return this.slotsField; } set { this.slotsField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool slotsSpecified { get { return this.slotsFieldSpecified; } set { this.slotsFieldSpecified = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("slotsCurrent")]
+		public string slotsCurrent { get { return this.slotsCurrentField; } set { this.slotsCurrentField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool slotsCurrentSpecified { get { return this.slotsCurrentfieldSpecified; } set { this.slotsCurrentfieldSpecified = value; } }
+
 	}
 }
