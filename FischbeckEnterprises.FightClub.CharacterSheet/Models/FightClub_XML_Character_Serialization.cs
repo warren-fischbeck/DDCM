@@ -52,8 +52,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		private bool noteFiledSpecified;
 
 		private string slotsField;
+
 		private bool slotsFieldSpecified;
+
 		private string slotsCurrentField;
+
 		private bool slotsCurrentfieldSpecified;
 
 
@@ -119,7 +122,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public Note[] note { get { return this.noteField; } set { this.noteField = value; } }
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool noteSepecified { get { return this.noteFiledSpecified; } set { this.noteFiledSpecified = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("slots")]
 		public string slots { get { return this.slotsField; } set { this.slotsField = value; } }
 

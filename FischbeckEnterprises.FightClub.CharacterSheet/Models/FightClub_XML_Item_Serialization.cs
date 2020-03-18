@@ -24,10 +24,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private int slotField;
         private bool slotFieldSpecified;
 
-        private int valueField;
+        private string valueField;
         private bool valueFieldSpecified;
 
-        private int weightField;
+        private string weightField;
         private bool weightFieldSpecified;
 
         private int acField;
@@ -53,7 +53,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
         [System.Xml.Serialization.XmlElementAttribute("name")]
         public string name { get { return this.nameField; } set { this.nameField = value; } }
-
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool nameSpecified { get { return this.nameFieldSpecified; } set { this.nameFieldSpecified = value; } }
 
@@ -65,11 +64,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         [System.Xml.Serialization.XmlElementAttribute("text")]
         public string text { get { return this.textField; } set { this.textField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool textSpecified { get { return this.typeFieldSpecified; } set { this.typeFieldSpecified = value; } }
+        public bool textSpecified { get { return this.textFieldSpecified; } set { this.textFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("type")]
         public int type { get { return this.typeField; } set { this.typeField = value; } }
-
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool typeSpecified { get { return this.typeFieldSpecified; } set { this.typeFieldSpecified = value; } }
 
@@ -81,15 +79,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         [System.Xml.Serialization.XmlElementAttribute("slot")]
         public int slot { get { return this.slotField; } set { this.slotField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool slotSpecified { get { return this.slotFieldSpecified; } set { this.slotFieldSpecified = value; } }
+        public bool slotsSpecified { get { return this.slotFieldSpecified; } set { this.slotFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("value")]
-        public int value { get { return this.valueField; } set { this.valueField = value; } }
+        public string @value { get { return this.valueField; } set { this.valueField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool valueSpecified { get { return this.valueFieldSpecified; } set { this.valueFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("weight")]
-        public int weight { get { return this.weightField; } set { this.weightField = value; } }
+        public string weight { get { return this.weightField; } set { this.weightField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool weightSpecified { get { return this.weightFieldSpecified; } set { this.weightFieldSpecified = value; } }
 
@@ -99,7 +97,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public bool acSpecified { get { return this.acFieldSpecified; } set { this.acFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("mod")]
-        public Mod[] mod { get { return this.modField; } set { this.mod = value; } }
+        public Mod[] mod { get { return this.modField; } set { this.modField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }
 
@@ -109,12 +107,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public bool damage1HSpecified { get { return this.damage1HFieldSpecified; } set { this.damage1HFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("damage2H")]
-        public string damage2H { get { return this.damage2H; } set { this.damage2HField = value; } }
+        public string damage2H { get { return this.damage2HField; } set { this.damage2HField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool damage2HSpecified { get { return this.damage2HFieldSpecified; } set { this.damage2HFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("damageType")]
-        public int damageType { get { return this.damageType; } set { this.damageType = value; } }
+        public int damageType { get { return this.damageTypeField; } set { this.damageTypeField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool damageTypeSpecified { get { return this.damageTypeFieldSpecified; } set { this.damageTypeFieldSpecified = value; } }
 
