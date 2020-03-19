@@ -40,7 +40,6 @@
           Source: Player&#39;s Handbook, p. 31
         </text>
         <expanded>0</expanded>
-        <proficiency>117</proficiency>
       </feat>
       <feat>
         <name>Feat</name>
@@ -344,7 +343,6 @@
 
           Source: Player&#39;s Handbook, p. 78
         </text>
-        <expanded>0</expanded>
         <special>8</special>
       </feat>
       <feat>
@@ -354,7 +352,6 @@
 
           Source: Player&#39;s Handbook, p. 78
         </text>
-        <expanded>0</expanded>
       </feat>
       <feat>
         <name>Ki</name>
@@ -367,7 +364,6 @@
 
           Source: Player&#39;s Handbook, p. 78
         </text>
-        <expanded>0</expanded>
       </feat>
       <feat>
         <name>Ki-Fueled Strike</name>
@@ -4982,6 +4978,25 @@
         Source: Player&#39;s Handbook, p. 165
       </text>
       <expanded>0</expanded>
+    </feat>
+    <feat>
+      <name>Alert</name>
+      <text>
+        Always on the lookout for danger, you gain the following
+
+        • You gain a +5 bonus to initiative.
+
+        • You can&#39;t be surprised while you are conscious.
+
+        • Other creatures don’t gain advantage on attack rolls against you as a result of being unseen by you.
+
+        Source: Player&#39;s Handbook, p. 165
+      </text>
+      <expanded>0</expanded>
+      <mod>
+        <type>12</type>
+        <value>5</value>
+      </mod>
     </feat>
     <item>
       <name>Cast-Off Leather Armor</name>

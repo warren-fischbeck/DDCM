@@ -1,6 +1,7 @@
 ﻿using FischbeckEnterprises.FightClub.CharacterSheet.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
@@ -42,6 +43,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         }
                     }
                 }
+                Feat[] charInfo = c.@class.Where(a => a.feat.Where(b => b.mod != null).ToList().FirstOrDefault() != null).Select(a => a.feat).ToList().FirstOrDefault();
+                if (charInfo != null)
+                {
+                    var speedMod = charInfo.Where(a => a.mod != null).ToList().FirstOrDefault();
+                    _speed += speedMod.mod.Where(x => x.type == 13).Select(a => a.value).FirstOrDefault();
+                }
+
             }
             _printablePlayerCharacter.Speed = _speed;
         }

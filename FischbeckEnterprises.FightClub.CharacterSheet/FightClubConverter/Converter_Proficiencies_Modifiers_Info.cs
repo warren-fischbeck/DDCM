@@ -110,6 +110,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 _printablePlayerCharacter.InsightModifier += _printablePlayerCharacter.ProficencyBonus;
             if (_printablePlayerCharacter.ExpertiseInsight)
                 _printablePlayerCharacter.InsightModifier += _printablePlayerCharacter.ProficencyBonus;
+            _printablePlayerCharacter.PassiveInsight = _printablePlayerCharacter.InsightModifier += 10;
 
             _printablePlayerCharacter.MedicineModifier = _printablePlayerCharacter.WisdomModifier;
             if (_printablePlayerCharacter.ProficencyMedicine)
@@ -122,6 +123,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 _printablePlayerCharacter.PerceptionModifer += _printablePlayerCharacter.ProficencyBonus;
             if (_printablePlayerCharacter.ExpertisePerception)
                 _printablePlayerCharacter.PerceptionModifer += _printablePlayerCharacter.ProficencyBonus;
+            _printablePlayerCharacter.PassivePerception = _printablePlayerCharacter.PerceptionModifer + 10;
 
             _printablePlayerCharacter.SurvivalModifier = _printablePlayerCharacter.WisdomModifier;
             if (_printablePlayerCharacter.ProficencySurvival)
