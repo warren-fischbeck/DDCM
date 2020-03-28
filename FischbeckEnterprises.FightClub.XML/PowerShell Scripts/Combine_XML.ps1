@@ -1025,6 +1025,28 @@ Write-Host "There are a total of $($xmlFile.compendium.monster.Count) monster(s)
 $xmlFile.Save("$($temp)\Complete\temp.xml")
 $xmlFile.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
 $logMSG | Create-LogEntry -sLogMsg "$($MyInvocation.MyCommand.Name) has completed" -sLogType INFO
+
+[xml] $content = Get-Content -Path "C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml" -Encoding UTF8
+$class = $content.compendium.class
+foreach ($objClass in $class)
+{
+    Write-Host "$($objClass.name)"
+    foreach($autolevel in $objClass.autolevel)
+    {
+        foreach($feature in $autolevel.feature)
+        {
+            #Write-Host "Feature - $($feature.name)"
+            if([string]::IsNullOrEmpty($feature.name))
+            {
+                #Write-Host "Found One - $($autolevel.level)"
+                $feature.ParentNode.RemoveChild($feature) | Out-Null
+            }
+        }
+    }
+}
+$content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
+
+
 Clear-Host
 $stopwatch.Stop()
 Write-Host "Script took $(($stopwatch.Elapsed).Minutes) minutes(s) and $(($stopwatch.Elapsed).Seconds) second(s) to complete"
