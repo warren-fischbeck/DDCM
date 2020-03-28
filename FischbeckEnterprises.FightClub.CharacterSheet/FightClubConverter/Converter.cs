@@ -26,6 +26,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
         public PrintablePlayerCharacter Build()
         {
+            Equipment();
             Speed();
             BaseInfo();
             Abilities();

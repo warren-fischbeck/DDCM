@@ -41,6 +41,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             }
             _printablePlayerCharacter.ClassLevel = _characterLevel;
             _printablePlayerCharacter.HitDiceTotal = _hitDice;
+            _printablePlayerCharacter.HitDice = "";
         }
     }
 }

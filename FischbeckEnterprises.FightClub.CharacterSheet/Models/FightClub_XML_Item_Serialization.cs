@@ -51,6 +51,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private int strengthField;
         private bool strengthFieldSpecified;
 
+        private int quantityField;
+        private bool quantityFieldSpecified;
+
         [System.Xml.Serialization.XmlElementAttribute("name")]
         public string name { get { return this.nameField; } set { this.nameField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
@@ -125,5 +128,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public int strength { get { return this.strengthField; } set { this.strengthField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool strengthSpecified { get { return this.strengthFieldSpecified; } set { this.strengthFieldSpecified = value; } }
+
+        [System.Xml.Serialization.XmlElementAttribute("quantity")]
+        public int quantity { get { return this.quantityField; } set { this.quantityField = value; } }
+        public bool quantitySpecified { get { return this.quantityFieldSpecified; } set { this.quantityFieldSpecified = value; } }
     }
 }
