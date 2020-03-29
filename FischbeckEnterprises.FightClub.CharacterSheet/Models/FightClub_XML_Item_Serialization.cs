@@ -54,6 +54,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private int quantityField;
         private bool quantityFieldSpecified;
 
+
         [System.Xml.Serialization.XmlElementAttribute("name")]
         public string name { get { return this.nameField; } set { this.nameField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]

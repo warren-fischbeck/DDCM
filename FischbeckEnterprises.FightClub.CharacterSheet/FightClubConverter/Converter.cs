@@ -35,6 +35,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             Features();
             Languages();
             Inititive();
+            Weapons();
+            Notes();
             return _printablePlayerCharacter;
         }
     }
