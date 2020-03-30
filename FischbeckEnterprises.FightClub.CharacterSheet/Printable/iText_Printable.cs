@@ -38,6 +38,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     this.Character_Image = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterImageFilePath}.jpeg";
                 if (File.Exists($"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterName}.jpeg"))
                     this.Character_Image = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterName}.jpeg";
+                if (File.Exists(_character.FactionImageFilePath))
+                    this.Faction_Image = _character.FactionImageFilePath;
             }
 
             BuildCharacterSheet();
@@ -273,7 +275,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     if(!string.IsNullOrEmpty(Faction_Image) && File.Exists(Faction_Image))
                     {
                         iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Faction_Image);
-                        Image image = new Image(imageData).ScaleToFit(145, 200).SetFixedPosition(1, 245, 450);
+                        Image image = new Image(imageData).ScaleToFit(145, 120).SetFixedPosition(1, 450, 505);
                         Document document = new Document(_working);
                         document.Add(image);
                     }

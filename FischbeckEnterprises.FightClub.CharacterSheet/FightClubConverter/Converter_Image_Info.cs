@@ -36,7 +36,27 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
         private void FactionImage()
         {
-
+             string _factionName = _pc.character.FirstOrDefault().background.faction;
+            ImageData _faction = _pc.character.FirstOrDefault().note.Where(x => x.name.Contains(_factionName)).Select(x=>x.imageData).FirstOrDefault();
+            byte[] bytes;
+            if (_faction != null)
+            {
+                foreach(ImageData item in _pc.imageData.ToList())
+                {
+                    if (item.uid == _faction.uid)
+                    {
+                        Image image;
+                        bytes = Convert.FromBase64String(item.encoded);
+                        using (MemoryStream ms = new MemoryStream(bytes))
+                        {
+                            image = Image.FromStream(ms);
+                            string save = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{item.uid}.jpeg";
+                            _printablePlayerCharacter.FactionImageFilePath = save;
+                            image.Save(save);
+                        }
+                    }
+                }
+            }
         }
     }
 }
