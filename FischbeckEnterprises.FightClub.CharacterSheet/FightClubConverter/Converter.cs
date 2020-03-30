@@ -37,6 +37,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             Inititive();
             Weapons();
             Notes();
+            AC();
             PCImage();
             FactionImage();
             return _printablePlayerCharacter;

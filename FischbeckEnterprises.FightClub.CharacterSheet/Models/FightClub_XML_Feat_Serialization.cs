@@ -29,6 +29,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool proficiencyFieldSpecified;
 
+		private int specialField;
+
+		private bool specialFieldSpecified;
+
 		[System.Xml.Serialization.XmlElementAttribute("name")]
 		public string name { get { return this.nameField; } set { this.nameField = value; } }
 
@@ -59,5 +63,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool proficiencySpecified { get { return this.proficiencyFieldSpecified; } set { this.proficiencyFieldSpecified = value; } }
+		[System.Xml.Serialization.XmlElementAttribute("special")]
+		public int special { get { return this.specialField; } set { this.specialField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool specialSpecified { get { return this.specialFieldSpecified; } set { this.specialFieldSpecified = value; } }
 	}
 }
