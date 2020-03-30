@@ -149,6 +149,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public string Equipment2 { get; set; }
         public List<SpellCasting> SpellCasting { get; set; }
         public string CharacterImageFilePath { get; set; }
+        public string FactionImageFilePath { get; set; }
 
         public PrintablePlayerCharacter()
         {

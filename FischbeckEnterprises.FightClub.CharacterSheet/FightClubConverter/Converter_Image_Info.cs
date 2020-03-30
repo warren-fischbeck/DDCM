@@ -32,7 +32,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
             }
-            //bytes = Convert.FromBase64String(_pc.imageData.FirstOrDefault().encoded);
+        }
+
+        private void FactionImage()
+        {
+
         }
     }
 }

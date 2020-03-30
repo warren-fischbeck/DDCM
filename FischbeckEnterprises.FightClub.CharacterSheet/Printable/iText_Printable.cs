@@ -25,6 +25,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
         readonly string Spells_Sheet = $"{System.IO.Directory.GetCurrentDirectory()}\\Sources\\Spells_Sheet.pdf";
         readonly string Working_Sheet = $"{System.IO.Directory.GetCurrentDirectory()}\\Output\\Working\\Working_Sheet.pdf";
         readonly string Character_Image = string.Empty;
+        readonly string Faction_Image = string.Empty;
         private string _FinishedCharacterSheet = string.Empty;
         public PDFCreator() { }
         public PDFCreator(PrintablePlayerCharacter printablePlayerCharacter)
@@ -265,6 +266,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                         iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Character_Image);
                         Image image = new Image(imageData).ScaleToFit(145, 200).SetFixedPosition(1, 45, 450);
                         //Image image = new Image(imageData).ScaleAbsolute(145, 200).SetFixedPosition(1,45,450);
+                        Document document = new Document(_working);
+                        document.Add(image);
+                    }
+
+                    if(!string.IsNullOrEmpty(Faction_Image) && File.Exists(Faction_Image))
+                    {
+                        iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Faction_Image);
+                        Image image = new Image(imageData).ScaleToFit(145, 200).SetFixedPosition(1, 245, 450);
                         Document document = new Document(_working);
                         document.Add(image);
                     }
