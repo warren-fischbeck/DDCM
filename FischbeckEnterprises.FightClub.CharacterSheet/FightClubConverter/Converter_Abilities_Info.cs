@@ -43,7 +43,26 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
 
-                foreach(Feat f in c.feat)
+                if (c.race.modSpecified)
+                {
+                    foreach (Mod m in c.race.mod)
+                    {
+                        switch (m.type)
+                        {
+                            case 0: { _printablePlayerCharacter.Strength = _printablePlayerCharacter.Strength + m.value; break; }
+                            case 1: { _printablePlayerCharacter.Dexterity = _printablePlayerCharacter.Dexterity + m.value; break; }
+                            case 2: { _printablePlayerCharacter.Constitution = _printablePlayerCharacter.Constitution + m.value; break; }
+                            case 3: { _printablePlayerCharacter.Intelligence = _printablePlayerCharacter.Intelligence + m.value; break; }
+                            case 4: { _printablePlayerCharacter.Wisdom = _printablePlayerCharacter.Wisdom + m.value; break; }
+                            case 5: { _printablePlayerCharacter.Charisma = _printablePlayerCharacter.Charisma + m.value; break; }
+                            default:
+                                break;
+                        }
+                    }
+
+                }
+
+                foreach (Feat f in c.feat)
                 {
                     if (f.name.Contains("Ability Score"))
                     {
