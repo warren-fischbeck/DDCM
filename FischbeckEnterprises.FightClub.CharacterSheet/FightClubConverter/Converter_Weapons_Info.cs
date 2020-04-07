@@ -10,32 +10,78 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
     {
         private void Weapons()
         {
-
-            List<Item> damageItems = _pc.character.FirstOrDefault().item.Where(x => x.damageTypeSpecified).OrderByDescending(x => x.slot).ToList();
-            for (int i = 0; i < 3; i++)
+            try
             {
-                switch (i)
+                List<Item> damageItems = _pc.character.FirstOrDefault().item.Where(x => x.damageTypeSpecified).OrderByDescending(x => x.slot).ToList();
+                if (damageItems.Count >= 3)
                 {
-                    case 0: {
-                            _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
-                            _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
-                            _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
-                            break; }
-                    case 1:
+                    for (int i = 0; i < 3; i++)
+                    {
+                        switch (i)
                         {
-                            _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
-                            _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
-                            _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
-                            break; }
-                    case 2:
-                        {
-                            _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
-                            _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
-                            _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
-                            break; }
-                    default:
-                        break;
+                            case 0:
+                                {
+                                    _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
+                                    _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
+                                    _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
+                                    break;
+                                }
+                            case 1:
+                                {
+                                    _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
+                                    _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
+                                    _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
+                                    break;
+                                }
+                            case 2:
+                                {
+                                    _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
+                                    _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
+                                    _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
+                                    break;
+                                }
+                            default:
+                                break;
+                        }
+                    }
                 }
+                else
+                {
+                    for (int i = 0; i < damageItems.Count; i++)
+                    {
+                        switch (i)
+                        {
+                            case 0:
+                                {
+                                    _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
+                                    _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
+                                    _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
+                                    break;
+                                }
+                            case 1:
+                                {
+                                    _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
+                                    _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
+                                    _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
+                                    break;
+                                }
+                            case 2:
+                                {
+                                    _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
+                                    _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
+                                    _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
+                                    break;
+                                }
+                            default:
+                                break;
+                        }
+                    }
+
+                }
+            }
+            catch
+            {
+
             }
         }
 
@@ -67,19 +113,21 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         break;
                     }
             }
-
-            foreach(Mod mod in Weapon.mod)
+            if (Weapon.mod != null)
             {
-                switch (mod.type)
+                foreach (Mod mod in Weapon.mod)
                 {
-                    case 0:break;
-                    case 1:break;
-                    case 2:break;
-                    case 3: { attackBonus += mod.value; break; }
-                    case 4:break;
-                    case 5:break;
-                    default:
-                        break;
+                    switch (mod.type)
+                    {
+                        case 0: break;
+                        case 1: break;
+                        case 2: break;
+                        case 3: { attackBonus += mod.value; break; }
+                        case 4: break;
+                        case 5: break;
+                        default:
+                            break;
+                    }
                 }
             }
             return $"+ {attackBonus}";
@@ -135,18 +183,21 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
             }
 
-            foreach (Mod mod in Weapon.mod)
+            if (Weapon.modSpecified)
             {
-                switch (mod.type)
+                foreach (Mod mod in Weapon.mod)
                 {
-                    case 0: break;
-                    case 1: break;
-                    case 2: break;
-                    case 3: break;
-                    case 4: { damageBonus += mod.value; break; }
-                    case 5: break;
-                    default:
-                        break;
+                    switch (mod.type)
+                    {
+                        case 0: break;
+                        case 1: break;
+                        case 2: break;
+                        case 3: break;
+                        case 4: { damageBonus += mod.value; break; }
+                        case 5: break;
+                        default:
+                            break;
+                    }
                 }
             }
 

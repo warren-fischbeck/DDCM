@@ -350,7 +350,20 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     {
                         form.GetField($"{_1st[i]}prepaired").SetValue("Yes");
                     }
-                    field.SetValue(_1[i].Name);
+                    string comp = string.Empty;
+                    foreach (Component s in _1[i].Component)
+                    {
+                        if (string.IsNullOrEmpty(comp))
+                        {
+                            comp = $"{s}";
+                        }
+                        else
+                        {
+                            comp += $", {s}";
+                        }
+                    }
+                        string Name = $"{_1[i].Name}";
+                    field.SetValue(Name);
                     
                 }
             }
