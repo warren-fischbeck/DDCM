@@ -26,12 +26,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
         public PrintablePlayerCharacter Build()
         {
-            Equipment();
-            Speed();
             BaseInfo();
             Abilities();
             Proficiencies();
             CharacterLevel();
+            Equipment();
+            Speed(); 
             Features();
             Languages();
             Inititive();
@@ -40,6 +40,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             AC();
             PCImage();
             FactionImage();
+            BuildSpellCasting();
             return _printablePlayerCharacter;
         }
     }

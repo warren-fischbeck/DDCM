@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="FightClubXML\Jerquet Blight.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Images\required.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

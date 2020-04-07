@@ -9,6 +9,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 	{
 		private string nameField;
 
+		private int levelField;
+
 		private int schoolField;
 
 		private int ritualField;
@@ -41,8 +43,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private string[] sClassField;
 
+		private int preparedField;
+
+		private bool preparedFieldSpecified;
+
 		[System.Xml.Serialization.XmlElementAttribute("name")]
 		public string name { get { return this.nameField; } set { this.nameField = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("level")]
+		public int level { get { return this.levelField; } set { this.levelField = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("school")]
 		public int school { get { return this.schoolField; } set { this.schoolField = value; } }
@@ -91,5 +100,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlElementAttribute("sClass")]
 		public string[] sClass { get { return this.sClassField; } set { this.sClassField = value; } }
+
+		[System.Xml.Serialization.XmlElementAttribute("prepared")]
+		public int prepared { get { return this.preparedField; } set { this.preparedField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool preparedSpecified { get { return this.preparedFieldSpecified; } set { this.preparedFieldSpecified = value; } }
 	}
 }

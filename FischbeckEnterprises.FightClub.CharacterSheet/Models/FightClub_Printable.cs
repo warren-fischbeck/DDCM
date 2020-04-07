@@ -156,7 +156,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
             this.AcobaticsModifier = 0;
             this.Age = "0";
             this.Alignment = "LG";
-            this.Allies = "None";
+            this.Allies = "";
             this.AnimalHandlingModifier = 0;
             this.ArcanaModifier = 0;
             this.ArmorClass = 10;
@@ -232,7 +232,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
             this.PersonalityIdeals = "No personality ideals at this time";
             this.PersonalityTraits = "No personality traits at this time";
             this.PersuasionModifier = 0;
-            this.PlayerName = "No name at this time";
+            this.PlayerName = "";
             this.ProficencyAcrobatics = false;
             this.ProficencyAnimalHandling = false;
             this.ProficencyArcana = false;

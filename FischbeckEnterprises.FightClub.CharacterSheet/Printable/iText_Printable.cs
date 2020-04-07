@@ -17,7 +17,7 @@ using iText.IO.Image;
 
 namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
 {
-    class PDFCreator
+    partial class PDFCreator
     {
         readonly PrintablePlayerCharacter _character;
         readonly string Main_Sheet = $"{System.IO.Directory.GetCurrentDirectory()}\\Sources\\Main_Sheet.pdf";
@@ -43,6 +43,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             }
 
             BuildCharacterSheet();
+            //BuildSpellSheet();
         }
 
         private async void BuildCharacterSheet()
@@ -320,16 +321,16 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             List<string> _10th = new List<string>() { "1001", "1002", "1003", "1004", "1005", "1006", "1007" };
 
             List<Spell> _0 = spellCasting.SpellsKnown.Where(x => x.Level == 0).OrderBy(n => n.Name).Take(11).ToList();
-            List<Spell> _1 = spellCasting.SpellsKnown.Where(x => x.Level == 1).OrderBy(n => n.Name).Take(12).ToList();
-            List<Spell> _2 = spellCasting.SpellsKnown.Where(x => x.Level == 2).OrderBy(n => n.Name).Take(12).ToList();
-            List<Spell> _3 = spellCasting.SpellsKnown.Where(x => x.Level == 3).OrderBy(n => n.Name).Take(12).ToList();
-            List<Spell> _4 = spellCasting.SpellsKnown.Where(x => x.Level == 4).OrderBy(n => n.Name).Take(9).ToList();
-            List<Spell> _5 = spellCasting.SpellsKnown.Where(x => x.Level == 5).OrderBy(n => n.Name).Take(8).ToList();
-            List<Spell> _6 = spellCasting.SpellsKnown.Where(x => x.Level == 6).OrderBy(n => n.Name).Take(8).ToList();
-            List<Spell> _7 = spellCasting.SpellsKnown.Where(x => x.Level == 7).OrderBy(n => n.Name).Take(6).ToList();
-            List<Spell> _8 = spellCasting.SpellsKnown.Where(x => x.Level == 8).OrderBy(n => n.Name).Take(6).ToList();
-            List<Spell> _9 = spellCasting.SpellsKnown.Where(x => x.Level == 9).OrderBy(n => n.Name).Take(6).ToList();
-            List<Spell> _10 = spellCasting.SpellsKnown.Where(x => x.Level == 10).OrderBy(n => n.Name).ToList();
+            List<Spell> _1 = spellCasting.SpellsKnown.Where(x => x.Level == 1).OrderByDescending(a=>a.prepared).ThenBy(n => n.Name).Take(12).ToList();
+            List<Spell> _2 = spellCasting.SpellsKnown.Where(x => x.Level == 2).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(12).ToList();
+            List<Spell> _3 = spellCasting.SpellsKnown.Where(x => x.Level == 3).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(12).ToList();
+            List<Spell> _4 = spellCasting.SpellsKnown.Where(x => x.Level == 4).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(9).ToList();
+            List<Spell> _5 = spellCasting.SpellsKnown.Where(x => x.Level == 5).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(8).ToList();
+            List<Spell> _6 = spellCasting.SpellsKnown.Where(x => x.Level == 6).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(8).ToList();
+            List<Spell> _7 = spellCasting.SpellsKnown.Where(x => x.Level == 7).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(6).ToList();
+            List<Spell> _8 = spellCasting.SpellsKnown.Where(x => x.Level == 8).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(6).ToList();
+            List<Spell> _9 = spellCasting.SpellsKnown.Where(x => x.Level == 9).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(6).ToList();
+            List<Spell> _10 = spellCasting.SpellsKnown.Where(x => x.Level == 10).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).ToList();
 
             for (int i = 0; i < _0.Count; i++)
             {
@@ -345,7 +346,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_1st[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_1[i].prepared)
+                    {
+                        form.GetField($"{_1st[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_1[i].Name);
+                    
                 }
             }
 
@@ -354,6 +360,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_2nd[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_2[i].prepared)
+                    {
+                        form.GetField($"{_2nd[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_2[i].Name);
                 }
             }
@@ -363,6 +373,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_3rd[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_3[i].prepared)
+                    {
+                        form.GetField($"{_3rd[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_3[i].Name);
                 }
             }
@@ -372,6 +386,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_4th[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_4[i].prepared)
+                    {
+                        form.GetField($"{_4th[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_4[i].Name);
                 }
             }
@@ -381,6 +399,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_5th[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_5[i].prepared)
+                    {
+                        form.GetField($"{_5th[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_5[i].Name);
                 }
             }
@@ -390,6 +412,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_6th[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_6[i].prepared)
+                    {
+                        form.GetField($"{_6th[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_6[i].Name);
                 }
             }
@@ -399,6 +425,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_7th[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_7[i].prepared)
+                    {
+                        form.GetField($"{_7th[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_7[i].Name);
                 }
             }
@@ -408,6 +438,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_8th[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_8[i].prepared)
+                    {
+                        form.GetField($"{_8th[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_8[i].Name);
                 }
             }
@@ -417,6 +451,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 PdfFormField field = form.GetField(_9th[i]);
                 if (string.IsNullOrEmpty(field.GetValue().ToString()))
                 {
+                    if (_9[i].prepared)
+                    {
+                        form.GetField($"{_9th[i]}prepaired").SetValue("Yes");
+                    }
                     field.SetValue(_9[i].Name);
                 }
             }
@@ -474,10 +512,16 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
         public int _9thLevelSlots { get; set; }
         public int _10thLevelSlots { get; set; }
         public int SpellsPrepaired { get; set; }
+
+        public SpellCasting()
+        {
+            this.SpellsKnown = new List<Spell>();
+        }
     }
 
     public partial class Spell
     {
+        public bool prepared { get; set; }
         public string Name { get; set; }
         public int Level { get; set; }
         public School School { get; set; }

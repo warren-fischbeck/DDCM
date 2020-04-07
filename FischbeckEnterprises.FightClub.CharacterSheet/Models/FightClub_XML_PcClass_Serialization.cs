@@ -34,6 +34,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		private bool featFieldSpecified;
 		private int spellAbilityField;
 		private bool spellAbilityFieldSpecified;
+		private Spell[] spellField;
+		private bool spellFieldSpecified;
 
 
 		[System.Xml.Serialization.XmlElementAttribute("name")]
@@ -116,5 +118,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool spellAbilitySpecified { get { return this.spellAbilityFieldSpecified; } set { this.spellAbilityFieldSpecified = value; } }
+		
+		[System.Xml.Serialization.XmlElementAttribute("spell")]
+		public Spell[] spell { get { return this.spellField; } set { this.spellField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool spellSpecified { get { return this.spellFieldSpecified; } set { this.spellFieldSpecified = value; } }
 	}
 }
