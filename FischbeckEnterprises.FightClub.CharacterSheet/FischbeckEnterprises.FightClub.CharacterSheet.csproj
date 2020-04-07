@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="FightClubXML\Cornel Nes%27Bleaton.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="FightClubXML\Jerquet Blight.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

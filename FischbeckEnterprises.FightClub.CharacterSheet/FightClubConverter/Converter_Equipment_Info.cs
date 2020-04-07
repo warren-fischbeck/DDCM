@@ -13,6 +13,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             string equipment = string.Empty;
             string equipment2 = string.Empty;
             List<Item> equipmentItems = _pc.character.Where(x => x.item != null).FirstOrDefault().item.ToList();
+            var container = _pc.character.FirstOrDefault().container.Where(x => x.item != null).Select(a => a.item).ToList();
+            foreach (var listItem in container)
+            {
+                foreach (Item i in listItem)
+                {
+                    equipmentItems.Add(i);
+                }
+            }
             foreach(Item item in equipmentItems)
             {
                 switch (item.type)

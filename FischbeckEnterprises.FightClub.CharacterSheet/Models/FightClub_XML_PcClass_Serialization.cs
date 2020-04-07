@@ -36,7 +36,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		private bool spellAbilityFieldSpecified;
 		private Spell[] spellField;
 		private bool spellFieldSpecified;
+		private Mod[] modField;
+		private bool modFieldSpecified;
 
+		[System.Xml.Serialization.XmlElementAttribute("mod")]
+		public Mod[] mod { get { return this.modField; } set { this.modField = value; } }
+
+		[System.Xml.Serialization.XmlIgnoreAttribute()]
+		public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("name")]
 		public string name { get { return this.nameField; } set { this.nameField = value; } }
