@@ -30,17 +30,17 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		private bool weaponsFieldSpecified;
 		private string toolsField;
 		private bool toolsFieldSpecified;
-		private Feat[] featField;
+		private List<Feat> featField;
 		private bool featFieldSpecified;
 		private int spellAbilityField;
 		private bool spellAbilityFieldSpecified;
 		private Spell[] spellField;
 		private bool spellFieldSpecified;
-		private Mod[] modField;
+		private List<Mod> modField;
 		private bool modFieldSpecified;
 
 		[System.Xml.Serialization.XmlElementAttribute("mod")]
-		public Mod[] mod { get { return this.modField; } set { this.modField = value; } }
+		public List<Mod> mod { get { return this.modField; } set { this.modField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }
@@ -115,7 +115,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public bool toolsSpecified { get { return this.toolsFieldSpecified; } set { this.toolsFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("feat")]
-		public Feat[] feat { get { return this.featField; } set { this.featField = value; } }
+		public List<Feat> feat { get { return this.featField; } set { this.featField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool featSpecified { get { return this.featFieldSpecified; } set { this.featFieldSpecified = value; } }

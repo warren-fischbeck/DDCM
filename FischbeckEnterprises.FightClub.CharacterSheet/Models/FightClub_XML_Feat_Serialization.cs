@@ -21,7 +21,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool expandedFieldSpecified;
 
-		private Mod[] modField;
+		private List<Mod> modField;
 
 		private bool modFieldSpecified;
 
@@ -53,7 +53,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public bool expandedSpecified { get { return this.expandedFieldSpecified; } set { this.expandedFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("mod")]
-		public Mod[] mod { get { return this.modField; } set { this.modField = value; } }
+		public List<Mod> mod { get { return this.modField; } set { this.modField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }

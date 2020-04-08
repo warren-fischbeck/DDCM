@@ -16,7 +16,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private string valueField;
         private bool valueFieldSpecified;
 
-        private Item[] itemField;
+        private List<Item> itemField;
         private bool itemFieldSpecified;
 
         [System.Xml.Serialization.XmlElementAttribute("name")]
@@ -38,7 +38,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public bool valueSpecified { get { return this.valueFieldSpecified; } set { this.valueFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("item")]
-        public Item[] item { get { return this.itemField; } set { this.itemField = value; } }
+        public List<Item> item { get { return this.itemField; } set { this.itemField = value; } }
 
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool itemSpecified { get { return this.itemFieldSpecified; } set { this.itemFieldSpecified = value; } }

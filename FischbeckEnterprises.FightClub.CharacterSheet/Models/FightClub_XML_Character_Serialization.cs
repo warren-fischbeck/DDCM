@@ -29,27 +29,27 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private Race raceField;
 
-		private NaturalAttack[] attackField;
+		private List<NaturalAttack> attackField;
 
 		private bool attackFieldSpecified;
 
-		private PcClass[] classField;
+		private List<PcClass> classField;
 
-		private Container[] containerField;
+		private List<Container> containerField;
 
 		private bool containerFieldSpecified;
 
-		private Feat[] featField;
+		private List<Feat> featField;
 
 		private bool featFieldSpecified;
 
-		private Item[] itemField;
+		private List<Item> itemField;
 
 		private bool itemFieldSpecified;
 
-		private Note[] noteField;
+		private List<Note> noteField;
 
-		private bool noteFiledSpecified;
+		private bool noteFieldSpecified;
 
 		private string slotsField;
 
@@ -97,34 +97,34 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public Race race { get { return this.raceField; } set { this.raceField = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("attack")]
-		public NaturalAttack[] attack { get { return this.attackField; } set { this.attackField = value; } }
+		public List<NaturalAttack> attack { get { return this.attackField; } set { this.attackField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool attackSpecified { get { return this.attackFieldSpecified; } set { this.attackFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("class")]
-		public PcClass[] @class { get { return this.classField; } set { this.classField = value; } }
+		public List<PcClass> @class { get { return this.classField; } set { this.classField = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("feat")]
-		public Feat[] feat { get { return this.featField; } set { this.featField = value; } }
+		public List<Feat> feat { get { return this.featField; } set { this.featField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool featSpecificed { get { return this.featFieldSpecified; } set { this.featFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("container")]
-		public Container[] container { get { return this.containerField; } set { this.containerField = value; } }
+		public List<Container> container { get { return this.containerField; } set { this.containerField = value; } }
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
-		public bool containerSepecified { get { return this.containerFieldSpecified; } set { this.containerFieldSpecified = value; } }
+		public bool containerSpecificed { get { return this.containerFieldSpecified; } set { this.containerFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("item")]
-		public Item[] item { get { return this.itemField; } set { this.itemField = value; } }
+		public List<Item> item { get { return this.itemField; } set { this.itemField = value; } }
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
-		public bool itemSepecified { get { return this.itemFieldSpecified; } set { this.itemFieldSpecified = value; } }
+		public bool itemSpecificed { get { return this.itemFieldSpecified; } set { this.itemFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("note")]
-		public Note[] note { get { return this.noteField; } set { this.noteField = value; } }
+		public List<Note> note { get { return this.noteField; } set { this.noteField = value; } }
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
-		public bool noteSepecified { get { return this.noteFiledSpecified; } set { this.noteFiledSpecified = value; } }
+		public bool noteSpecificed { get { return this.noteFieldSpecified; } set { this.noteFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("slots")]
 		public string slots { get { return this.slotsField; } set { this.slotsField = value; } }

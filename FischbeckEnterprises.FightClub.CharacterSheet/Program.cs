@@ -14,21 +14,33 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
         {
             string directory = $"{System.IO.Directory.GetCurrentDirectory()}\\FightClubXML";
             FileInfo[] files = new DirectoryInfo(directory).GetFiles();
-            pc result = new pc();
-            XmlSerializer serializer = new XmlSerializer(typeof(pc));
+            
+            pc playerCharacter = new pc();
+            data collectionPlayerCharacter = new data();
+
+            XmlSerializer playerCharacterSerializer = new XmlSerializer(typeof(pc));
+            XmlSerializer collectionPlayerCharacterSerializer = new XmlSerializer(typeof(data));
 
             foreach (FileInfo file in files)
             {
-                using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
+                try
                 {
-                    try
+                    using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                     {
-                        result = (pc)serializer.Deserialize(fileStream);
-                        PrintablePlayerCharacter _character = new Converter(result).Build();
-                        new PDFCreator(_character);
-                     }
-                    catch 
+
+                        playerCharacter = (pc)playerCharacterSerializer.Deserialize(fileStream);
+                        PrintablePlayerCharacter _playerCharacter = new Converter(playerCharacter).Build();
+                        new PDFCreator(_playerCharacter);
+                    }
+                }
+                catch (System.InvalidOperationException)
+                {
+                    using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                     {
+                        collectionPlayerCharacter = (data)collectionPlayerCharacterSerializer.Deserialize(fileStream);
+                        foreach (Character _playerCharacter in collectionPlayerCharacter.character)
+                        {
+                        }
                     }
                 }
             }

@@ -29,11 +29,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool proficiencyFieldSpecified;
 
-		private Feat[] featField;
+		private List<Feat> featField;
 
 		private bool featFieldSpecified;
 
-		private Mod[] modField;
+		private List<Mod> modField;
 
 		private bool modFieldSpecified;
 
@@ -73,13 +73,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public bool proficiencySpecified { get { return this.proficiencyFieldSpecified; } set { this.proficiencyFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("feat")]
-		public Feat[] feat { get { return this.featField; } set { this.featField = value; } }
+		public List<Feat> feat { get { return this.featField; } set { this.featField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool featSpecified { get { return this.featFieldSpecified; } set { this.featFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("mod")]
-		public Mod[] mod { get { return this.modField; } set { this.modField = value; } }
+		public List<Mod> mod { get { return this.modField; } set { this.modField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }

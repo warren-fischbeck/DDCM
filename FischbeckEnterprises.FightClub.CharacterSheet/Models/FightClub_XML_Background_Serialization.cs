@@ -31,7 +31,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private int[] proficiencyField;
         private bool proficiencyFieldSpecified;
 
-        private Feat[] featField;
+        private List<Feat> featField;
         private bool featFieldSpecified;
 
         [System.Xml.Serialization.XmlElementAttribute("name")]
@@ -75,7 +75,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public bool proficiencySpecified{ get { return this.proficiencyFieldSpecified ; } set { this.proficiencyFieldSpecified =value;} }
 
         [System.Xml.Serialization.XmlElementAttribute("feat")]
-        public Feat[] feat{ get { return this.featField ; } set { this.featField =value;} }
+        public List<Feat> feat{ get { return this.featField ; } set { this.featField =value;} }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool featSpecified{ get { return this.featFieldSpecified ; } set { this.featFieldSpecified =value;} }
     }
