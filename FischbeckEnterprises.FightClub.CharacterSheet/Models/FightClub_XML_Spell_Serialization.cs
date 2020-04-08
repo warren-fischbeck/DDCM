@@ -39,9 +39,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private string durationField;
 
-		private string[] textField;
+		private List<string> textField;
 
-		private string[] sClassField;
+		private List<string> sClassField;
 
 		private int preparedField;
 
@@ -96,10 +96,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public string duration { get { return this.durationField; } set { this.durationField = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("text")]
-		public string[] text { get { return this.textField; } set { this.textField = value; } }
+		public List<string> text { get { return this.textField; } set { this.textField = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("sClass")]
-		public string[] sClass { get { return this.sClassField; } set { this.sClassField = value; } }
+		public List<string> sClass { get { return this.sClassField; } set { this.sClassField = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("prepared")]
 		public int prepared { get { return this.preparedField; } set { this.preparedField = value; } }

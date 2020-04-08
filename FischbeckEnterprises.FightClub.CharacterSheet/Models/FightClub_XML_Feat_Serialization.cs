@@ -25,7 +25,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool modFieldSpecified;
 
-		private int[] proficiencyField;
+		private List<int> proficiencyField;
 
 		private bool proficiencyFieldSpecified;
 
@@ -59,7 +59,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("proficiency")]
-		public int[] proficiency { get { return this.proficiencyField; } set { this.proficiencyField = value; } }
+		public List<int> proficiency { get { return this.proficiencyField; } set { this.proficiencyField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool proficiencySpecified { get { return this.proficiencyFieldSpecified; } set { this.proficiencyFieldSpecified = value; } }

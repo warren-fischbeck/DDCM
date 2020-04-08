@@ -256,10 +256,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     workingform.GetField("eyes").SetValue($"{_character.Eyes}").SetFontSizeAutoScale();
                     workingform.GetField("skin").SetValue($"{_character.Skin}").SetFontSizeAutoScale();
                     workingform.GetField("hair").SetValue($"{_character.Hair}").SetFontSizeAutoScale();
-                    //workingform.GetField("characterimage").SetValue($"{}");
                     workingform.GetField("allies").SetValue($"{_character.Allies}");
                     workingform.GetField("factionname").SetValue($"{_character.FactionName}").SetFontSizeAutoScale();
-                    //workingform.GetField("factionsymbolimage").SetValue($"{}");
                     workingform.GetField("backstory1").SetValue($"{_character.BackStory}").SetFontSize(FontSize(_character.BackStory.Length) + 1);
                     workingform.GetField("featsandtraits2").SetValue($"{_character.FeatsAndTraits2}").SetFontSizeAutoScale();
                     workingform.GetField("equipment2").SetValue($"{_character.Equipment2}").SetFontSize(FontSize(_character.Equipment2.Length) + 1);
@@ -268,7 +266,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     {
                         iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Character_Image);
                         Image image = new Image(imageData).ScaleToFit(145, 200).SetFixedPosition(1, 45, 450);
-                        //Image image = new Image(imageData).ScaleAbsolute(145, 200).SetFixedPosition(1,45,450);
                         Document document = new Document(_working);
                         document.Add(image);
                     }
@@ -276,7 +273,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     if(!string.IsNullOrEmpty(Faction_Image) && File.Exists(Faction_Image))
                     {
                         iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Faction_Image);
-                        Image image = new Image(imageData).ScaleToFit(145, 120).SetFixedPosition(1, 450, 505);
+                        Image image = new Image(imageData).ScaleToFit(106, 106).SetFixedPosition(1, 453, 510);
                         Document document = new Document(_working);
                         document.Add(image);
                     }

@@ -41,7 +41,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		private bool spellAbilityFieldSpecified;
 
-		private Spell[] spellField;
+		private List<Spell> spellField;
 
 		private bool spellFieldSpecified;
 
@@ -91,7 +91,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		public bool spellAbilitySpecified { get { return this.spellAbilityFieldSpecified; } set { this.spellAbilityFieldSpecified = value; } }
 
 		[System.Xml.Serialization.XmlElementAttribute("spell")]
-		public Spell[] spell { get { return this.spellField; } set { this.spellField = value; } }
+		public List<Spell> spell { get { return this.spellField; } set { this.spellField = value; } }
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool spellSpecified { get { return this.spellFieldSpecified; } set { this.spellFieldSpecified = value; } }

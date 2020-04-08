@@ -41,6 +41,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             PCImage();
             FactionImage();
             BuildSpellCasting();
+            AllMods();
             return _printablePlayerCharacter;
         }
     }
