@@ -37,7 +37,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         private void FactionImage()
         {
             string _factionName = _pc.character.FirstOrDefault().background.faction;
-            if (_pc.character.FirstOrDefault().noteSpecificed)
+            if (_pc.character.FirstOrDefault().note.Count > 0 && !string.IsNullOrEmpty(_factionName))
             {
                 ImageData _faction = _pc.character.FirstOrDefault().note.Where(x => x.name.Contains(_factionName)).Select(x => x.imageData).FirstOrDefault();
                 byte[] bytes;
