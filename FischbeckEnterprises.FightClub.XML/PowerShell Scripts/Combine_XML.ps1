@@ -300,14 +300,14 @@ Function Create-XMLFile
                         $xmlFile.compendium.AppendChild($import) | Out-Null
                     }
                 }
-                Write-Progress -Id 0 -Activity "Processing $($Component)"
+                Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
             }
             'Monster' 
             {
                 $sourceItem = $source.compendium.monster
                 for ($i = 0; $i -lt $sourceItem.Count; $i++)
                 {
-                    Write-Progress -Id 0 -Activity "Processing $($Component)" -Status "$($SourceFile.Name)" -PercentComplete (($i/$sourceItem.count) * 100)
+                    Write-Progress -Id 0 -Activity "Processing $($Component)" -Status "$($sourceItem[$i].name)" -PercentComplete (($i/$sourceItem.count) * 100)
                     $logMSG | Create-LogEntry -sLogMsg "Processing monster             $($sourceItem[$i].name)" -sLogType INFO
                     $required = $true
                     foreach($monsterInXML in $xmlFile.compendium.monster)
@@ -405,12 +405,18 @@ Function Create-XMLFile
                                 $TraitName = $xmlFile.CreateElement("name"); $TraitName.InnerXml = $sourceItem[$i].legendary[$a].name; $item.AppendChild($TraitName) | Out-Null
                                 $TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $sourceItem[$i].legendary[$a].text; $item.AppendChild($TraitText) | Out-Null
                         }
-
-                        if(($sourceItem[$i].description) -ne $null) { $item = $xmlFile.CreateElement("description"); $item.InnerXml = $sourceItem[$i].description; $newMonster.AppendChild($item) | Out-Null }
-                        else {  $item = $xmlFile.CreateElement("description"); $newMonster.AppendChild($item) | Out-Null  }
+                        try
+                        {
+                            if(($sourceItem[$i].description) -ne $null) { $item = $xmlFile.CreateElement("description"); $item.InnerXml = $sourceItem[$i].description; $newMonster.AppendChild($item) | Out-Null }
+                            else {  $item = $xmlFile.CreateElement("description"); $newMonster.AppendChild($item) | Out-Null  }
+                        }
+                        catch
+                        {
+                            Write-Host "description failed on $($sourceItem[$i].name)"
+                        }
                     }
                 }
-                Write-Progress -Id 0 -Activity "Processing $($Component)"
+                Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
             }
             'Class' 
             {
@@ -784,7 +790,7 @@ Function Create-XMLFile
                         $xmlFile.compendium.AppendChild($import) | Out-Null
                     }
                 }
-                Write-Progress -Id 0 -Activity "Processing $($Component)"
+                Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
             }
             'Item' 
             {
@@ -809,7 +815,7 @@ Function Create-XMLFile
                             $xmlFile.compendium.AppendChild($import) | Out-Null
                         }
                     }
-                    Write-Progress -Id 0 -Activity "Processing $($Component)"
+                    Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
                 }
             }
             'Race' 
@@ -833,7 +839,7 @@ Function Create-XMLFile
                         $xmlFile.compendium.AppendChild($import) | Out-Null
                     }
                 }
-                Write-Progress -Id 0 -Activity "Processing $($Component)"
+                Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
             }
             'Spell' 
             {
@@ -949,7 +955,7 @@ Function Create-XMLFile
                         }
                     }
                 }
-                Write-Progress -Id 0 -Activity "Processing $($Component)"
+                Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
             }
             Default 
             {
@@ -1003,6 +1009,59 @@ foreach($item in $file)
 }
 Write-Progress -Id 1 -Activity "Overall Progress" -Completed
 
+
+
+
+
+
+
+
+
+
+
+foreach($spell in $xmlFile.compendium.spell)
+{
+    if((($spell.level -match "1") -or ($spell.level -match "2") -or ($spell.level -match "3")) -and ($spell.name -notmatch "\*") -and ($spell.name -notmatch "\[") -and ($spell.classes -match ("wizard")) )
+    {
+        $import = $xmlFile.compendium.OwnerDocument.ImportNode($spell,1)
+        if((($spell.level -match "1") -or ($spell.level -match "2")) -and ($spell.name -notmatch "\["))
+        {
+            $import.name += " [Spell Mastery]"
+            $import.classes = "Wizard (Spell Mastery)"
+            $text = $xmlFile.CreateElement("text")
+            $text2 = $xmlFile.CreateElement("text")
+            $import.AppendChild($text2) | Out-Null
+            $newText = $import.AppendChild($text) | Out-Null
+            $text.InnerXML = "[Spell Mastery] You can cast this spell at its lowest level without expending a spell slot, when you have it prepared."
+        }
+        if(($spell.level -match "3") -and ($spell.name -notmatch "\["))
+        {
+            $import.name += " [Signature Spell]"
+            $import.classes = "Wizard (Signature Spell)"
+            $text = $xmlFile.CreateElement("text")
+            $text2 = $xmlFile.CreateElement("text")
+            $import.AppendChild($text2) | Out-Null
+            $newText = $import.AppendChild($text) | Out-Null
+            $text.InnerXML = "[Signature Spell] You always have this spell prepared, and it doesn't count against the number of spells you have prepared.  Once per rest, you can cast this spell at 3rd level without expending a spell slot."
+        }
+        $xmlFile.compendium.AppendChild($import) | Out-Null
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $xmlFile.compendium.spell | sort level | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.spell | sort ritual | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.spell | sort school | % {[void]$xmlFile.compendium.AppendChild($_)}
@@ -1052,7 +1111,6 @@ foreach ($objClass in $class)
 }
 $content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
 $content.Save("$($temp)\Complete\temp.xml")
-
 Clear-Host
 Write-Host "There are a total of $($xmlFile.compendium.spell.count) spell(s)"
 Write-Host "There are a total of $($xmlFile.compendium.class.Count) class(es)"
