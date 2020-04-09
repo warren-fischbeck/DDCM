@@ -19,6 +19,8 @@ foreach($spell in $spells)
             $spell.name += " [Spell Mastery]"
             $spell.classes = "Wizard (Spell Mastery)"
             $text = $content.CreateElement("text")
+            $text2 = $content.CreateElement("text")
+            $spell.AppendChild($text2)
             $newText = $spell.AppendChild($text)
             $newText.InnerXML = "[Spell Mastery] You can cast this spell at its lowest level without expending a spell slot, when you have it prepared."
         }
@@ -27,12 +29,24 @@ foreach($spell in $spells)
             $spell.name += " [Signature Spell]"
             $spell.classes = "Wizard (Signature Spell)"
             $text = $content.CreateElement("text")
+            $text2 = $content.CreateElement("text")
+            $spell.AppendChild($text2)
             $newText = $spell.AppendChild($text)
-            $newText.InnerXML = "[Signature Spell] You always have this spell prepared, and it doesn't count against the number of spells you have prepared.  Once per rest, you can cast this spell at 3rd level withou expending a spell slot."
+            $newText.InnerXML = "[Signature Spell] You always have this spell prepared, and it doesn't count against the number of spells you have prepared.  Once per rest, you can cast this spell at 3rd level without expending a spell slot."
         }
         $import = $xmlFile.compendium.OwnerDocument.ImportNode($spell,1)
         $xmlFile.compendium.AppendChild($import)
     }
 }
+
+$xmlFile.compendium.spell | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort level | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort ritual | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort school | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort time | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort range | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort componets | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort duration | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort classes | % {[void]$xmlFile.compendium.AppendChild($_)}
 
 $xmlFile.Save("C:\Users\wfischbeck\source\repos\DDCM\FischbeckEnterprises.FightClub.XML\Sources\Spells-Wizard-HighLevel.xml")

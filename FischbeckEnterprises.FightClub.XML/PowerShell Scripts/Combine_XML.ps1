@@ -987,8 +987,10 @@ $logMSG = New-Object -TypeName psobject -Property $array
 $logMSG | Create-LogEntry -sLogType INFO
 
 $file = Collect-XMLFiles -SourceFolder "$($temp)\Sources"
+$progress = 0
 foreach($item in $file)
 {
+    Write-Progress -Id 1 -Activity "Overall Progress" -Status "Working on $($item.Name)" -PercentComplete (($progress/$file.Count)*100)
     $logMSG | Create-LogEntry -sLogMsg "Processing File: $($item.Name)" -sLogType WARNING
     Create-XMLFile -Component Spell -SourceFile $item 
     Create-XMLFile -Component Race -SourceFile $item
@@ -997,7 +999,18 @@ foreach($item in $file)
     Create-XMLFile -Component Feat -SourceFile $item
     Create-XMLFile -Component Background -SourceFile $item
     Create-XMLFile -Component Monster -SourceFile $item
+    $progress++
 }
+Write-Progress -Id 1 -Activity "Overall Progress" -Completed
+
+$xmlFile.compendium.spell | sort level | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort ritual | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort school | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort time | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort range | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort componets | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort duration | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.spell | sort classes | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.spell | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.race | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.background | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
@@ -1038,6 +1051,7 @@ foreach ($objClass in $class)
     }
 }
 $content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
+$content.Save("$($temp)\Complete\temp.xml")
 
 Clear-Host
 Write-Host "There are a total of $($xmlFile.compendium.spell.count) spell(s)"

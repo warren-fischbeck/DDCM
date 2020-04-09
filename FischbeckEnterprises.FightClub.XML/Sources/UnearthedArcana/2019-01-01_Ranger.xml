@@ -498,7 +498,7 @@
 				<text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
 				<text>&#8226; Leather armor</text>
 				<text>&#8226; (a) two shortswords or (b) two martial melee weapons or (c) a martial weapon and a shield</text>
-				<text>&#8226; (a) a dungeoneer&#8217;s pack or (b) an explorer&#8217;s pack</text>
+				<text>&#8226; (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
 				<text>&#8226; (a) a longbow and a quiver of 20 arrows or (b) a martial weapon</text>
 				<text> </text>
 				<text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
@@ -535,12 +535,12 @@
 		<autolevel level="1">
 			<feature>
 				<name>Natural Explorer</name>
-				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#8217;re proficient in.</text>
+				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#39;re proficient in.</text>
 				<text>	While traveling for an hour or more in your favored terrain, you gain the following benefits.</text>
 				<text>	 </text>
-				<text>&#8226; Difficult terrain doesn&#8217;t slow your group&#8217;s travel.</text>
+				<text>&#8226; Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
 				<text>	 </text>
-				<text>&#8226; Your group can&#8217;t become lost except by magical means.</text>
+				<text>&#8226; Your group can&#39;t become lost except by magical means.</text>
 				<text>	 </text>
 				<text>&#8226; Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
 				<text>	 </text>
@@ -569,7 +569,7 @@
 		<autolevel level="2">
 			<feature>
 				<name>Fighting Style</name>
-				<text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Mariner, or Two-Weapon Fighting. You can&#8217;t take a Fighting Style option more than once, even if you later get to choose again.</text>
+				<text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Mariner, or Two-Weapon Fighting. You can&#39;t take a Fighting Style option more than once, even if you later get to choose again.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
 			</feature>
@@ -645,7 +645,7 @@
 		<autolevel level="3">
 			<feature>
 				<name>Primeval Awareness</name>
-				<text>Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 5 minutes, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#8217;t reveal the creatures&#8217; location or number.</text>
+				<text>Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 5 minutes, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#39;t reveal the creatures&#39; location or number.</text>
 				<text>	Once you use this feature, you must finish a short or long rest before you can use it again. </text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
@@ -660,7 +660,7 @@
 				<text>Spirit Companion: </text>
 				<text>	All rangers gain a spirit companion and the ability to invoke its magical power. (Your spirit companion grants you one benefit you can call on in this playtest version of the revised ranger, with more benefits gained at higher levels.) You regain your ability to call on your spirit companion in this way when you finish a short or long rest. </text>
 				<text>	Once per day as a bonus action, you can command your spirit companion to materialize as a living creature, determined by the ranger path you choose. Your spirit companion manifests as an animal for 1 minute or until your concentration is broken (as if you are concentrating on a spell). You can also dismiss it as a bonus action. </text>
-				<text>	The manifested creature gains a bonus to attack rolls and saving throws equal to your Wisdom modifier. It uses the hit points in the animal&#8217;s stat block or half your hit point maximum, whichever is higher. </text>
+				<text>	The manifested creature gains a bonus to attack rolls and saving throws equal to your Wisdom modifier. It uses the hit points in the animal&#39;s stat block or half your hit point maximum, whichever is higher. </text>
 				<text>	The manifested creature takes its turn on your initiative and acts immediately after you. You control its actions, even if you are unconscious or otherwise unable to act. </text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
@@ -670,7 +670,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Spirit Path: Guardian</name>
-				<text>By following the path of the Guardian, you protect the natural world from creatures that would despoil it, even as you engage with the common folk who rely upon nature&#8217;s bounty to survive. You patrol the pathways through the wilds, keeping them clear of bandits and rampaging monsters, even as you keep careful watch on how civilized realms interact with the wilderness. Those who take more than their fair share&#8212;clear-___cutting forests or hunting for sport rather than survival&#8212;risk your wrath. </text>
+				<text>By following the path of the Guardian, you protect the natural world from creatures that would despoil it, even as you engage with the common folk who rely upon nature&#39;s bounty to survive. You patrol the pathways through the wilds, keeping them clear of bandits and rampaging monsters, even as you keep careful watch on how civilized realms interact with the wilderness. Those who take more than their fair share&#8212;clear-___cutting forests or hunting for sport rather than survival&#8212;risk your wrath. </text>
 				<text>	When your spirit companion manifests, it takes the form of a brown bear.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
@@ -708,7 +708,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Spirit Path: Stalker</name>
-				<text>As a ranger of the Stalker path, you prowl the wilderness in search of aberrations, fiends, and other monsters that must be slain before they wreak havoc on the natural world. You are the power of nature&#8217;s vengeance made manifest, and anything that poses a threat to nature is your target. When a powerful creature such as a dragon threatens a region, a ranger of the Stalker path leads the hunt that will take it down. Like others of your kind, you do not rest until your quarry is dead and the natural world is safe. </text>
+				<text>As a ranger of the Stalker path, you prowl the wilderness in search of aberrations, fiends, and other monsters that must be slain before they wreak havoc on the natural world. You are the power of nature&#39;s vengeance made manifest, and anything that poses a threat to nature is your target. When a powerful creature such as a dragon threatens a region, a ranger of the Stalker path leads the hunt that will take it down. Like others of your kind, you do not rest until your quarry is dead and the natural world is safe. </text>
 				<text>	When your spirit companion manifests, it takes the form of a dire wolf.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -727,7 +727,7 @@
 		<autolevel level="4" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -746,7 +746,7 @@
 		<autolevel level="8" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (2nd)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -756,7 +756,7 @@
 		<autolevel level="12" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (3rd)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -766,7 +766,7 @@
 		<autolevel level="16" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (4th)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -776,7 +776,7 @@
 		<autolevel level="19" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (5th)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -847,12 +847,12 @@
 		<autolevel level="1">
 			<feature>
 				<name>Natural Explorer</name>
-				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#8217;re proficient in.</text>
+				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#39;re proficient in.</text>
 				<text>	While traveling for an hour or more in your favored terrain, you gain the following benefits.</text>
 				<text>	 </text>
-				<text>&#8226; Difficult terrain doesn&#8217;t slow your group&#8217;s travel.</text>
+				<text>&#8226; Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
 				<text>	 </text>
-				<text>&#8226; Your group can&#8217;t become lost except by magical means.</text>
+				<text>&#8226; Your group can&#39;t become lost except by magical means.</text>
 				<text>	 </text>
 				<text>&#8226; Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
 				<text>	 </text>
@@ -875,7 +875,7 @@
 		<autolevel level="2">
 			<feature>
 				<name>Fighting Style</name>
-				<text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Mariner, or Two-Weapon Fighting. You can&#8217;t take a Fighting Style option more than once, even if you later get to choose again.</text>
+				<text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Mariner, or Two-Weapon Fighting. You can&#39;t take a Fighting Style option more than once, even if you later get to choose again.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -957,7 +957,7 @@
 				<text>	 </text>
 				<text>Superiority Dice: You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest. You gain another superiority die at 9th level and one more at 17th level. </text>
 				<text>	 </text>
-				<text>Saving Throws: Some of your maneuvers require your target to make a saving throw to resist the maneuver&#8217;s effects. The saving throw DC is calculated as follows: </text>
+				<text>Saving Throws: Some of your maneuvers require your target to make a saving throw to resist the maneuver&#39;s effects. The saving throw DC is calculated as follows: </text>
 				<text>	Maneuver save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -971,7 +971,7 @@
 		<autolevel level="3">
 			<feature>
 				<name>Primeval Awareness</name>
-				<text>Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 1 minute, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#8217;t reveal the creatures&#8217; location or number.</text>
+				<text>Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 1 minute, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#39;t reveal the creatures&#39; location or number.</text>
 				<text>	Once you use this feature, you must finish a short or long rest before you can use it again.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -1010,11 +1010,11 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Ranger's Companion (Beast Master)</name>
-				<text>At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast&#8217;s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals the hit point number in its stat block or four times your ranger level, whichever is higher. Like any creature, it can spend Hit Dice during a short rest to regain hit points.</text>
-				<text>	The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn&#8217;t take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, Dodge, or Help action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
+				<text>At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast&#39;s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals the hit point number in its stat block or four times your ranger level, whichever is higher. Like any creature, it can spend Hit Dice during a short rest to regain hit points.</text>
+				<text>	The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn&#39;t take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, Dodge, or Help action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
 				<text>	If you are incapacitated or absent, the beast acts on its own, focusing on protecting you and itself. The beast never requires your command to use its reaction, such as when making an opportunity attack.</text>
 				<text>	While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.</text>
-				<text>	If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn&#8217;t hostile to you and that meets the requirements.</text>
+				<text>	If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn&#39;t hostile to you and that meets the requirements.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1023,7 +1023,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Ranger Archetype: Hunter</name>
-				<text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter&#8217;s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
+				<text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter&#39;s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1032,7 +1032,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Hunter's Prey (Hunter)</name>
-				<text>At 3rd level, you gain one of the following features of your choice: Colossus Slayer, Giant Killer, or Horde Breaker. Add your selected Hunter&#8217;s Prey option as a feat.</text>
+				<text>At 3rd level, you gain one of the following features of your choice: Colossus Slayer, Giant Killer, or Horde Breaker. Add your selected Hunter&#39;s Prey option as a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1041,7 +1041,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Hunter's Prey: Colossus Slayer</name>
-				<text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it&#8217;s below its hit point maximum. You can deal this extra damage only once per turn. </text>
+				<text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it&#39;s below its hit point maximum. You can deal this extra damage only once per turn. </text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1072,7 +1072,7 @@
 		<autolevel level="4" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -1112,7 +1112,7 @@
 		<autolevel level="7">
 			<feature optional="YES">
 				<name>Exceptional Training (Beast Master)</name>
-				<text>Beginning at 7th level, on any of your turns when your beast companion doesn&#8217;t attack, you can use a bonus action to command the beast to take the Dash, Disengage, Dodge, or Help action on its turn.</text>
+				<text>Beginning at 7th level, on any of your turns when your beast companion doesn&#39;t attack, you can use a bonus action to command the beast to take the Dash, Disengage, Dodge, or Help action on its turn.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1161,7 +1161,7 @@
 		<autolevel level="8" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (2nd)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -1239,7 +1239,7 @@
 		<autolevel level="11">
 			<feature optional="YES">
 				<name>Multiattack: Volley</name>
-				<text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon&#8217;s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. </text>
+				<text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon&#39;s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. </text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1261,7 +1261,7 @@
 		<autolevel level="12" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (3rd)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -1285,7 +1285,7 @@
 				<text>	 </text>
 				<text>&#8226; Eight beasts of challenge rating 1/4 or lower</text>
 				<text>	 </text>
-				<text>	These beasts approach you from their current location, and will fight alongside you, attacking any creatures that are hostile to you. They are friendly to you and your comrades, and you roll initiative for the called creatures as a group, which takes its own turns. The DM has the creatures&#8217; statistics.</text>
+				<text>	These beasts approach you from their current location, and will fight alongside you, attacking any creatures that are hostile to you. They are friendly to you and your comrades, and you roll initiative for the called creatures as a group, which takes its own turns. The DM has the creatures&#39; statistics.</text>
 				<text>	After 1 hour, these beasts return to their previous location. Once you use this feature, you cannot use it again in the same general area for 24 hours, since the same animals will not repeatedly heed your call.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 7</text>
@@ -1308,7 +1308,7 @@
 		<autolevel level="14">
 			<feature>
 				<name>Vanish</name>
-				<text>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can&#8217;t be tracked by nonmagical means, unless you choose to leave a trail.</text>
+				<text>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can&#39;t be tracked by nonmagical means, unless you choose to leave a trail.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1321,7 +1321,7 @@
 		<autolevel level="15">
 			<feature optional="YES">
 				<name>Beastly Coordination (Beast Master)</name>
-				<text>Beginning at 15th level, when an attacker that you can see hits your beast companion with an attack, you can call out a warning. If your beast companion can hear you, it can use its reaction to halve the attack&#8217;s damage against it.</text>
+				<text>Beginning at 15th level, when an attacker that you can see hits your beast companion with an attack, you can call out a warning. If your beast companion can hear you, it can use its reaction to halve the attack&#39;s damage against it.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1330,7 +1330,7 @@
 		<autolevel level="15">
 			<feature optional="YES">
 				<name>Superior Hunter's Defense (Hunter)</name>
-				<text>At 15th level, you gain one of the following features of your choice: Evasion, Stand Against the Tide, or Uncanny Dodge. Add your selected Superior Hunter&#8217;s Defense as a feat.</text>
+				<text>At 15th level, you gain one of the following features of your choice: Evasion, Stand Against the Tide, or Uncanny Dodge. Add your selected Superior Hunter&#39;s Defense as a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1339,7 +1339,7 @@
 		<autolevel level="15">
 			<feature optional="YES">
 				<name>Superior Hunter's Defense: Evasion</name>
-				<text>You can nimbly dodge out of the way of certain area effects, such as a red dragon&#8217;s fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+				<text>You can nimbly dodge out of the way of certain area effects, such as a red dragon&#39;s fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1357,7 +1357,7 @@
 		<autolevel level="15">
 			<feature optional="YES">
 				<name>Superior Hunter's Defense: Uncanny Dodge</name>
-				<text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack&#8217;s damage against you.</text>
+				<text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack&#39;s damage against you.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1370,7 +1370,7 @@
 		<autolevel level="16" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (4th)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -1406,8 +1406,8 @@
 		<autolevel level="18">
 			<feature>
 				<name>Feral Senses</name>
-				<text>At 18th level, you gain preternatural senses that help you fight creatures you can&#8217;t see. When you attack a creature you can&#8217;t see, your inability to see it doesn&#8217;t impose disadvantage on your attack rolls against it.</text>
-				<text>	You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&#8217;t hidden from you and you aren&#8217;t blinded or deafened.</text>
+				<text>At 18th level, you gain preternatural senses that help you fight creatures you can&#39;t see. When you attack a creature you can&#39;t see, your inability to see it doesn&#39;t impose disadvantage on your attack rolls against it.</text>
+				<text>	You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&#39;t hidden from you and you aren&#39;t blinded or deafened.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1420,7 +1420,7 @@
 		<autolevel level="19" scoreImprovement="YES">
 			<feature>
 				<name>Ability Score Improvement (5th)</name>
-				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#8217;t increase an ability score above 20 using this feature.</text>
+				<text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
 				<text>	If your DM uses the optional Feats, you can instead take a feat.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
