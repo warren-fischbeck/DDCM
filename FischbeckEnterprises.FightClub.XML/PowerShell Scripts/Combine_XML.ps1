@@ -1014,13 +1014,6 @@ foreach ($class in $xmlFile.compendium.class)
         $test.feature | sort name | foreach {[void]$autolevel.AppendChild($_)}
     }
 }
-Write-Host "There are a total of $($xmlFile.compendium.spell.count) spell(s)"
-Write-Host "There are a total of $($xmlFile.compendium.class.Count) class(es)"
-Write-Host "There are a total of $($xmlFile.compendium.background.Count) background(s)"
-Write-Host "There are a total of $($xmlFile.compendium.feat.Count) feat(s)"
-Write-Host "There are a total of $($xmlFile.compendium.item.Count) item(s)"
-Write-Host "There are a total of $($xmlFile.compendium.race.Count) race(s)"
-Write-Host "There are a total of $($xmlFile.compendium.monster.Count) monster(s)"
 
 $xmlFile.Save("$($temp)\Complete\temp.xml")
 $xmlFile.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
@@ -1046,7 +1039,14 @@ foreach ($objClass in $class)
 }
 $content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
 
-
 Clear-Host
+Write-Host "There are a total of $($xmlFile.compendium.spell.count) spell(s)"
+Write-Host "There are a total of $($xmlFile.compendium.class.Count) class(es)"
+Write-Host "There are a total of $($xmlFile.compendium.background.Count) background(s)"
+Write-Host "There are a total of $($xmlFile.compendium.feat.Count) feat(s)"
+Write-Host "There are a total of $($xmlFile.compendium.item.Count) item(s)"
+Write-Host "There are a total of $($xmlFile.compendium.race.Count) race(s)"
+Write-Host "There are a total of $($xmlFile.compendium.monster.Count) monster(s)"
+
 $stopwatch.Stop()
 Write-Host "Script took $(($stopwatch.Elapsed).Minutes) minutes(s) and $(($stopwatch.Elapsed).Seconds) second(s) to complete"
