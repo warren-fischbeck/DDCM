@@ -1111,7 +1111,7 @@ foreach ($objClass in $class)
 }
 $content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
 $content.Save("$($temp)\Complete\temp.xml")
-Clear-Host
+#Clear-Host
 Write-Host "There are a total of $($xmlFile.compendium.spell.count) spell(s)"
 Write-Host "There are a total of $($xmlFile.compendium.class.Count) class(es)"
 Write-Host "There are a total of $($xmlFile.compendium.background.Count) background(s)"

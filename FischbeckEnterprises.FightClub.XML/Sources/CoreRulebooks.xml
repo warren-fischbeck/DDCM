@@ -21081,6 +21081,16 @@
       <slots optional="YES">3, 4, 3</slots>
     </autolevel>
 
+    <autolevel level="11">
+      <feature>
+        <name>Extra Attack (2nd)</name>
+        <text>Beginning at 10th level, you can attack three times, instead of once, whenever you take the Attack action on your turn.</text>
+        <text>    The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</text>
+        <text />
+        <text>Source: Player's Handbook, p. 72</text>
+      </feature>
+    </autolevel>
+
     <autolevel level="12" scoreImprovement="YES">
       <slots optional="YES">3, 4, 3</slots>
     </autolevel>
@@ -21100,7 +21110,13 @@
     </autolevel>
 
     <autolevel level="13">
-      <counter>
+       <feature>
+        <name>Indomitable (2nd)</name>
+        <text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can&#39;t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</text>
+        <text />
+        <text>Source: Player's Handbook, p. 72</text>
+      </feature>
+	  <counter>
         <name>Indomitable</name>
         <value>2</value>
         <reset>S</reset>
@@ -21185,6 +21201,19 @@
     </autolevel>
 
     <autolevel level="17">
+      <feature>
+        <name>Indomitable</name>
+        <text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can&#39;t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</text>
+        <text />
+        <text>Source: Player's Handbook, p. 72</text>
+      </feature> 
+      <feature>
+        <name>Action Surge</name>
+        <text>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</text>
+        <text>    Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</text>
+        <text />
+        <text>Source: Player's Handbook, p. 72</text>
+      </feature>
       <counter>
         <name>Action Surge</name>
         <value>2</value>
@@ -21236,6 +21265,17 @@
     <autolevel level="20">
       <slots optional="YES">3, 4, 3, 3, 1</slots>
     </autolevel>
+
+    <autolevel level="20">
+      <feature>
+        <name>Extra Attack (3rd)</name>
+        <text>Beginning at 20th level, you can attack four times, instead of once, whenever you take the Attack action on your turn.</text>
+        <text>    The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</text>
+        <text />
+        <text>Source: Player's Handbook, p. 72</text>
+      </feature>
+    </autolevel>
+
   </class>
   <class>
     <name>Monk</name>
