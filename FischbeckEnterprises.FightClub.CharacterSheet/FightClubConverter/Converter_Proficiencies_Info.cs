@@ -11,6 +11,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         private void Proficiencies()
         {
             GenerateProficienyBonus();
+            List<int> ListofProficiencies = new List<int>();
+            _pc.character.ForEach(e => e.race.proficiency.ToList().ForEach(a => ListofProficiencies.Add(a)));
             foreach(Character c in _pc.character)
             {
                 List<int> _proficiencies = new List<int>();

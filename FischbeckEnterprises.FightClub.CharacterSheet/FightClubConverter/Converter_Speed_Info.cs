@@ -29,20 +29,20 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
 
-                if (c.item != null)
-                {
-                    foreach(Item item in c.item)
-                    {
-                        if(item.mod!=null)
-                        {
-                            foreach(Mod mod in item.mod)
-                            {
-                                if (mod.type == 13 && item.slot != 0)
-                                    _speed = _speed + mod.value;
-                            }
-                        }
-                    }
-                }
+                //if (c.item != null)
+                //{
+                //    foreach(Item item in c.item)
+                //    {
+                //        if(item.mod!=null)
+                //        {
+                //            foreach(Mod mod in item.mod)
+                //            {
+                //                if (mod.type == 13 && item.slot != 0)
+                //                    _speed = _speed + mod.value;
+                //            }
+                //        }
+                //    }
+                //}
                 List<Feat> charInfo = c.@class.Where(a => a.feat.Where(b => b.mod != null).ToList().FirstOrDefault() != null).Select(a => a.feat).ToList().FirstOrDefault();
                 if (charInfo != null)
                 {

@@ -2,6 +2,7 @@
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
+using FischbeckEnterprises.FightClub.CharacterSheet.Converter;
 using FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter;
 using FischbeckEnterprises.FightClub.CharacterSheet.Models;
 using FischbeckEnterprises.FightClub.CharacterSheet.Printable;
@@ -29,8 +30,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                     {
 
                         playerCharacter = (pc)playerCharacterSerializer.Deserialize(fileStream);
-                        PrintablePlayerCharacter _playerCharacter = new Converter(playerCharacter).Build();
-                        new PDFCreator(_playerCharacter);
+                        PrintablePlayerCharacter _playerCharacter = new FightClubConverter.Converter(playerCharacter).Build();
+                        //new XMLConverter(playerCharacter);
+                        
                     }
                 }
                 catch (System.InvalidOperationException)
@@ -38,9 +40,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                     using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                     {
                         collectionPlayerCharacter = (data)collectionPlayerCharacterSerializer.Deserialize(fileStream);
-                        foreach (Character _playerCharacter in collectionPlayerCharacter.character)
-                        {
-                        }
+                        new XMLConverter(collectionPlayerCharacter);
                     }
                 }
             }

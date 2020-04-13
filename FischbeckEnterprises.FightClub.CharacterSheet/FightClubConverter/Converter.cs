@@ -1,4 +1,5 @@
 ﻿using FischbeckEnterprises.FightClub.CharacterSheet.Models;
+using FischbeckEnterprises.FightClub.CharacterSheet.Printable;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,22 +27,24 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
         public PrintablePlayerCharacter Build()
         {
-            BaseInfo();
             Abilities();
+            BaseInfo();
             Proficiencies();
             CharacterLevel();
             Equipment();
-            Speed(); 
+            Speed();
             Features();
             Languages();
             Inititive();
-            Weapons();
             Notes();
             AC();
             PCImage();
             FactionImage();
             BuildSpellCasting();
             AllMods();
+            Weapons();
+            new PDFCreator(_printablePlayerCharacter);
+
             return _printablePlayerCharacter;
         }
     }

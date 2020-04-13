@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5"><character><version>37</version><uid>1169</uid><name>Monk Level 1</name><abilities>8,14,13,10,12,15,</abilities><hpMax>9</hpMax><hpCurrent>9</hpCurrent><unarmed>1</unarmed><race><name>Changeling</name><age>15</age><height>15</height><weight>15</weight><eyes>15</eyes><skin>15</skin><hair>15</hair><feat><name>Description</name><text>Long ago there was a woman named Jes, and she had one hundred children. Her rivals conspired against her and swore to kill her children. Jes begged the Sovereigns for help, but their only answer was the wind and rain. In the depths of her despair, a lonely traveler took her hand. "I will protect your children if they follow my path. Let them wander the world. They may be shunned and feared, but they will never be destroyed." Jes agreed, and the traveler gave her his cloak. When she draped it over her children, their old faces melted away and they could be whoever they wanted to be. And so it remains. Though the children are shunned by all, the gift of the Traveler protects them still.
+                Changelings can shift their forms with a thought. Many changelings use this gift as a form of artistic and emotional expression. It&#39;s also an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat changelings with suspicion.
+                Source: Eberron: Rising from the Last War p. 17</text><expanded>0</expanded></feat><feat><name>Age</name><text>Changelings mature slightly faster than humans but share a similar lifespan—typically a century or less. While a changeling can transform to conceal their age, the effects of aging affect them similarly to humans.
+            </text><expanded>0</expanded></feat><feat><name>Alignment</name><text>Changelings tend toward pragmatic neutrality, and few changelings embrace evil.
+            </text><expanded>0</expanded></feat><feat><name>Size</name><text>Your size is Medium. To set your height and weight randomly, start with rolling a size modifier:
+                Size modifier = 2d4
+                Height = 5 feet + 1 inch + your size modifier in inches
+                Weight in pounds = 115 + (2d4 x your size modifier)
+            </text><expanded>0</expanded></feat><feat><name>Shapechanger</name><text>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can&#39;t duplicate the appearance of a creature you&#39;ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren&#39;t changed by this trait.
+                You stay in the new form until you use an action to revert to your true form or until you die.
+            </text><expanded>0</expanded></feat><feat><name>Changeling Instincts</name><text>You gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, and Persuasion.
+            </text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and two other languages of your choice.
+            </text><expanded>0</expanded></feat><feat><name>A Hidden People</name><text>Wherever humans live, changelings reside also; the question is whether their presence is known.
+                Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler.
+                In creating a changeling adventurer, consider the character&#39;s relationships with people around them. Does the character conceal their true changeling nature? Do they embrace it? Do they have connections to other changelings or are they alone and in search of companions?
+            </text><expanded>0</expanded></feat><feat><name>Masks and Personas</name><text>In their true form, changelings are pale, with colorless eyes and silver-white hair. It is rare to see a changeling in that form, for a typical changeling changes their shape the way others might change clothes. A casual shape—one created on the spur of the moment, with no depth or history—is called a mask. A mask can be used to express a mood or to serve a specific purpose and then might never be used again. However, many changelings develop identities that have more depth. They build an identity over time, crafting a persona with a history and beliefs. This focused identity helps a changeling pinpoint a particular skill or emotion. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.
+                Personas can be shared by multiple changelings; there might be three healers in a community, but whoever is on duty will adopt the persona of Tek, the kindly old medic. Personas can even be passed down through a family, allowing a younger changeling to take advantage of contacts established by the persona&#39;s previous users.
+            </text><expanded>0</expanded></feat><feat><name>Changeling Names</name><text>A changeling might use a different name for each mask and persona and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic; however, there are often accents to a changeling&#39;s name that are expressed through shapeshifting, something single-skins will likely miss. So, two changelings might have the name Jin, but one is Jin-with-vivid-blue-eyes and one is Jin-with-golden-nails.
+                Changelings have a fluid relationship with gender, seeing it as one characteristic to change among many.
+                Changeling Names: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
+            </text><expanded>0</expanded></feat><mod><category>1</category><type>5</type><value>2</value></mod><spellAbility>6</spellAbility></race><background><name>Baldur&#39;s Gate Charlatan</name><align>15</align><faction>15</faction><personality>15</personality><ideals>15</ideals><bonds>15</bonds><flaws>15</flaws><proficiency>104</proficiency><proficiency>115</proficiency><feat><name>Description</name><text>• Skill Proficiencies: Deception, Sleight of Hand
+                • Tool Proficiencies: Disguise kit, Forgery kit
+                • Equipment: A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
+                Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text><expanded>0</expanded></feat><feat><name>Feature: False Identity</name><text>You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
+            </text><expanded>0</expanded></feat><feat><name>Baldur&#39;s Gate Feature: Long-Lost Heir</name><text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
+                You&#39;re well-versed in the mannerisms and idiosyncrasies of Baldurian patriars and other nobles, imitating them smoothly enough to convince even the snootiest family heads of your authenticity. You&#39;re skilled at posing as the long-lost heir to some imaginary or extinguished patriar lineage.
+                Because of your skill in passing yourself off as a patriar, you have a Watch token that allows you alone into the Upper City of Baldur&#39;s Gate. You might be able to bluff others through with you, or even convince members of the Watch that you&#39;re a patriar. However, any true test of your authenticity is likely to reveal your deception.
+            </text><expanded>0</expanded></feat><feat><name>Favorite Schemes</name><text>Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
+                d6 | Scam
+                1 | I cheat at games of chance.
+                2 | I shave coins or forge documents.
+                3 | I insinuate myself into people&#39;s lives to prey on their weakness and secure their fortunes.
+                4 | I put on new identities like clothes.
+                5 | I run sleight-of-hand cons on street corners.
+                6 | I convince people that worthless junk is worth their hard-earned money.
+            </text><expanded>0</expanded></feat><feat><name>Suggested Characteristics</name><text>Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
+                d8 | Personality Trait
+                1 | I fall in and out of love easily, and am always pursuing someone.
+                2 | I have a joke for every occasion, especially occasions where humor is inappropriate.
+                3 | Flattery is my preferred trick for getting what I want.
+                4 | I&#39;m a born gambler who can&#39;t resist taking a risk for a potential payoff.
+                5 | I lie about almost everything, even when there&#39;s no reason to.
+                6 | Sarcasm and insults are my weapons of choice.
+                7 | I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment.
+                8 | I pocket anything I see that might have some value.
+                
+                d6 | Ideal
+                1 | Independence. I am a free spirit—no one tells me what to do. (Chaotic)
+                2 | Fairness. I never target people who can&#39;t afford to lose a few coins. (Lawful)
+                3 | Charity. I distribute the money I acquire to the people who really need it. (Good)
+                4 | Creativity. I never run the same con twice. (Chaotic)
+                5 | Friendship. Material goods come and go. Bonds of friendship last forever. (Good)
+                6 | Aspiration. I&#39;m determined to make something of myself. (Any)
+                
+                d6 | Bond
+                1 | I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.
+                2 | I owe everything to my mentor—a horrible person who&#39;s probably rotting in jail somewhere.
+                3 | Somewhere out there, I have a child who doesn&#39;t know me. I&#39;m making the world better for him or her.
+                4 | I come from a noble family, and one day I&#39;ll reclaim my lands and title from those who stole them from me.
+                5 | A powerful person killed someone I love. Some day soon, I&#39;ll have my revenge.
+                6 | I swindled and ruined a person who didn&#39;t deserve it. I seek to atone for my misdeeds but might never be able to forgive myself.
+                
+                d6 | Flaw
+                1 | I can&#39;t resist a pretty face.
+                2 | I&#39;m always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in.
+                3 | I&#39;m convinced that no one could ever fool me the way I fool others.
+                4 | I&#39;m too greedy for my own good. I can&#39;t resist taking a risk if there&#39;s money involved.
+                5 | I can&#39;t resist swindling people who are more powerful than me.
+                6 | I hate to admit it and will hate myself for it, but I&#39;ll run and preserve my own hide if the going gets tough.
+            </text><expanded>0</expanded></feat></background><class><name>Monk</name><hd>2</hd><wealth>5d4</wealth><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><proficiency>0</proficiency><proficiency>1</proficiency><proficiency>103</proficiency><proficiency>116</proficiency><numClassSkills>2</numClassSkills><armor>none</armor><weapons>simple weapons, shortswords</weapons><tools>any one type of artisan&#39;s tools or any one musical instrument of your choice</tools><feat><name>Martial Arts</name><text>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don&#39;t have the two-handed or heavy property.
+    You gain the following benefits while you are unarmed or wielding only monk weapons and you aren&#39;t wearing armor or wielding a shield.
+
+• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+
+• You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels — to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level. 
+
+• When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven&#39;t already taken a bonus action this turn.
+
+    Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in chapter 5.
+
+Source: Player&#39;s Handbook, p. 78</text><expanded>0</expanded></feat><feat><name>Unarmored Defense</name><text>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier+your Wisdom modifier.
+
+Source: Player&#39;s Handbook, p. 78</text><expanded>0</expanded><special>8</special></feat><autolevel><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Martial Arts</name><text>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don&#39;t have the two-handed or heavy property.
+    You gain the following benefits while you are unarmed or wielding only monk weapons and you aren&#39;t wearing armor or wielding a shield.
+
+• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+
+• You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels — to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level. 
+
+• When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven&#39;t already taken a bonus action this turn.
+
+    Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in chapter 5.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Monk Weapons</name><text>1st-level monk feature (enhances Martial Arts)
+You can use this feature to define your monk weapons, rather than using the definition in Martial Arts.
+You practice your martial arts with specially chosen weapons, which become monk weapons for you. You can choose a number of weapons to be your monk weapons equal to 5 + your Wisdom modifier (minimum of five weapons). The chosen weapons must each meet the following criteria:
+• The weapon must be a simple or martial weapon.
+• You must be proficient with the weapon.
+• The weapon must lack these properties: heavy, special, or two-handed.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><feat><name>Multiclass Monk</name><text>To multiclass as a Monk, you must meet the following prerequisites:
+• Dexterity 13 and Wisdom 13
+
+You gain the following proficiencies:
+• simple weapons, shortswords
+
+Source: Player&#39;s Handbook, p. 163</text><optional>1</optional></feat><feat><name>Starting Monk</name><text>As a 1st-level Monk, you begin play with 8+your Constitution modifier hit points.
+
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: none
+• Weapons: simple weapons, shortswords
+• Tools: any one type of artisan&#39;s tools or any one musical instrument of your choice
+• Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) a shortsword or (b) any simple weapon
+• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack
+• 10 darts
+
+Alternatively, you may start with 5d4 gp and choose your own equipment.
+
+Source: Player&#39;s Handbook, p. 76</text><optional>1</optional></feat><feat><name>Unarmored Defense</name><text>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier+your Wisdom modifier.
+
+Source: Player&#39;s Handbook, p. 78</text><special>8</special></feat></autolevel><autolevel><level>2</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Distant Eye</name><text>When you make a ranged weapon attack, you can spend 1 ki point to prevent attacking at long range from imposing disadvantage on your attack rolls until the end of the current turn.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><feat><name>Flurry of Blows</name><text>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Ki</name><text>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have a number of Ki points equal to your monk level.
+    You can spend these points to fuel various ki features.
+    You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class. When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
+    Some of your ki features require your target to make a saving throw to resist the feature&#39;s effects. The saving throw DC is calculated as follows:
+    Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Ki-Fueled Strike</name><text>2nd-level monk feature (enhances Ki)
+If you spend 1 ki or more as part of your action on your turn, you can then immediately make one unarmed strike as a bonus action.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><feat><name>Patient Defense</name><text>You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Quickened Healing</name><text>As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><feat><name>Step of the Wind</name><text>You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Unarmored Movement</name><text>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels — to 15 ft. at 6th level, to 20 ft. at 10th level, to 25 ft. at 14th level, and to 30 ft. at 18th level.
+    At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+
+Source: Player&#39;s Handbook, p. 78</text><mod><type>13</type><value>10</value></mod></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>2</formula></tracker></autolevel><autolevel><level>3</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Arms of the Astral Self (Way of the Astral Self (UA))</name><text>At 3rd level, your mastery of your ki allows you to summon a portion of your astral self. On your turn, you can spend 2 ki points as a bonus action to summon the arms of your astral self for 10 minutes. These spectral arms hover near your shoulders. You determine the arms&#39; appearance based on the qualities of your character.
+   While your astral arms are summoned, you gain the following benefits:
+• You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.
+• The arms are monk weapons and have a reach of 10 feet. The arms deal radiant or necrotic damage (your choice). When you attack with the arms, you can use your Wisdom modifier instead of your Strength or Dexterity modifier for the attack and damage rolls.
+• Immediately after you use the Attack action with your astral arms on your turn, you can make one extra attack with your astral arms as a bonus action. The number of extra attacks increases when you reach certain levels in this class, increasing to two at 11th level and three at 17th level.
+
+Source: Unearthed Arcana: Barbarian And Monk</text><optional>1</optional></feat><feat><name>Bonus Proficiencies (Way of the Drunken Master)</name><text>When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don&#39;t already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with brewer&#39;s supplies if you don&#39;t already have it.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Deflect Missiles</name><text>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier+your monk level.
+    If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Disciple of the Elements (Way of the Four Elements)</name><text>When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.
+    You know the Elemental Attunement discipline and one other elemental discipline of your choice, which are detailed in the "Elemental Disciplines" section below. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.
+    Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
+
+Casting Elemental Spells. Some elemental disciplines allow you to cast spells. See chapter 10 for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don&#39;t need to provide material components for it.
+    Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as burning hands does. The spell&#39;s level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast burning hands, you can spend 3 ki points to cast it as a 2nd-level spell (the discipline&#39;s base cost of 2 ki points plus 1).
+    The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Drunken Technique (Way of the Drunken Master)</name><text>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Forms of Your Astral Self (Way of the Astral Self (UA))</name><text>The astral self is a translucent embodiment of the monk&#39;s psyche and soul. As a result, the form of an astral self reflects the mind of the monk who manifests it. Your astral self could be a humanoid knight with a helmeted face and large, muscular arms, or it could be a golden metallic form with thin arms like a modron.
+   When choosing this path, consider the quirks that define your monk. Are they obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.
+
+Source: Unearthed Arcana: Barbarian And Monk</text><optional>1</optional></feat><feat><name>Hands of Harm (Way of Mercy (UA))</name><text>3rd-level Way of Mercy feature
+   You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die. If the creature is incapacitated or poisoned, the creature instead takes necrotic damage equal to three rolls of your Martial Arts die instead. You can use this feature only once on each of your turns.
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>Hands of Healing (Way of Mercy (UA))</name><text>3rd-level Way of Mercy feature
+   Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.
+   When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending its ki cost.
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>Implements of Mercy (Way of Mercy (UA))</name><text>3rd-level Way of Mercy feature
+   You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner&#39;s kit.
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>Monastic Tradition</name><text>When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, the Way of Shadow, or the Way of the Four Elements, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Monastic Tradition: Way of Mercy (UA)</name><text>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help—whether ailing or evil—they bring a swift end as an act of mercy.
+Those who follow the Way of Mercy might be humble members of a religious order, administering to those in greatest need, making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies. The walkers of this way usually don simple robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death. If you wear a mask, choose its appearance, or determine it randomly by rolling on the Merciful Mask table.
+
+d6 | Mask Appearance
+1 | Raven
+2 | Blank and white
+3 | Crying visage
+4 | Laughing visage
+5 | Skull
+6 | Butterfly
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of Shadow</name><text>Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves&#39; guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Astral Self (UA)</name><text>Monks of the Way of the Astral Self have an internal struggle with their ki. They see their mystical energy as a representation of their true form, an astral self. This form has the capacity to be a force of good or destruction, with some monasteries training students to either temper their nature or embrace their impulses.
+
+Source: Unearthed Arcana: Barbarian And Monk</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Drunken Master</name><text>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master&#39;s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
+    A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.
+
+Source: Xanathar&#39;s Guide to Everything, p. 33</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Four Elements</name><text>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.
+    Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Kensei</name><text>Monks of the Way of Kensei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.
+    A kensei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Long Death</name><text>Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 130</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Open Hand</name><text>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+
+Source: Player&#39;s Handbook, p. 79</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Sun Soul</name><text>Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Open Hand Technique (Way of the Open Hand)</name><text>Starting when you choose this tradition at 3rd level, you can manipulate your enemy&#39;s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.
+
+• It must succeed on a Dexterity saving throw or be knocked prone.
+
+• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+
+• It can&#39;t take reactions until the end of your next turn.
+
+Prone:
+• A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.
+
+• The creature has disadvantage on attack rolls.
+
+• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+
+Source: Player&#39;s Handbook, p. 79</text><optional>1</optional></feat><feat><name>Path of the Kensei (Way of the Kensei)</name><text>When you choose this tradition at 3rd level, your special martial arts training leads you to master the use of certain weapons. This path also includes instruction on the deft strokes of calligraphy or painting. 
+    You gain the following benefits: 
+
+Kensei Weapons: Choose two types of weapons to be your kensei weapons: one melee weapon and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don&#39;t already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition&#39;s features work only with your kensei weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon—either melee or ranged—to be a kensei weapon for you, following the criteria above. 
+
+Agile Parry:  If you make an unarmed strike as part of the Attack action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren&#39;t incapacitated. 
+
+Kensei Shot: You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra 1d4 damage of the weapon&#39;s type. You retain this benefit until the end of the current turn.
+
+Way of the Brush: You gain proficiency with your choice of calligrapher&#39;s supplies or painter&#39;s supplies.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Radiant Sun Bolt (Way of the Sun Soul)</name><text>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
+	You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels — to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.
+	When you use the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action.
+	When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Shadow Arts (Way of Shadow)</name><text>Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don&#39;t already know it.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Touch of Death (Way of the Long Death)</name><text>Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier+your monk level (minimum of 1 temporary hit point).
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 130</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>3</formula></tracker></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+    If your DM uses the optional Feats, you can instead take a feat.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Proficiency Versatility</name><text>4th-level feature (enhances Ability Score Improvement)
+When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).
+This change represents one of your skills atrophying as you focus on a different skill.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><feat><name>Slow Fall</name><text>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>4</formula></tracker></autolevel><autolevel><level>5</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Extra Attack</name><text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Stunning Strike</name><text>Starting at 5th level, you can interfere with the flow of ki in an opponent&#39;s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+
+Stunned:
+• A stunned creature is incapacitated, meaning it can&#39;t take actions or reactions, can&#39;t move, and can speak only falteringly.
+
+• The creature automatically fails Strength and Dexterity saving throws.
+
+• Attack rolls against the creature have advantage.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>5</formula></tracker></autolevel><autolevel><level>6</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Additional Elemental Discipline (Way of the Four Elements)</name><text>At 6th level, you learn an additional elemental discipline of your choice.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Hour of Reaping (Way of the Long Death)</name><text>At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+
+Frightened:
+• A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+
+• The creature can&#39;t willingly move closer to the source of its fear.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 130</text><optional>1</optional></feat><feat><name>Ki-Empowered Strikes</name><text>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Noxious Aura (Way of Mercy (UA))</name><text>6th-level Way of Mercy feature
+   As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you&#39;re incapacitated, or you dismiss it (no action required).
+   While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>One with the Blade (Way of the Kensei)</name><text>At 6th level, you extend your ki into your kensei weapons, granting you the following benefits. 
+
+Magic Kensei Weapons: Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. 
+
+Deft Strike: When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Searing Arc Strike (Way of the Sun Soul)</name><text>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the burning hands spell as a bonus action.
+	You can spend additional ki points to cast burning hands as a higher level spell. Each additional ki point you spend increases the spell&#39;s level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Shadow Step (Way of Shadow)</name><text>At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Tipsy Sway (Way of the Drunken Master)</name><text>Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.
+
+Leap to Your Feet: When you&#39;re prone, you can stand up by spending 5 feet of movement, rather than half your speed.
+
+Redirect Attack: When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Visage of the Astral Self (Way of the Astral Self (UA))</name><text>Starting at 6th level, you can summon the visage of your astral self. On your turn, you can spend 1 ki point as a bonus action, or as part of summoning your astral arms, to summon this visage for 10 minutes. The spectral visage covers your face like a helmet or mask. You determine its appearance based on the qualities of your character.
+   While your visage is summoned, you gain the following benefits.
+Wisdom of the Spirit
+   You have advantage on Wisdom (Insight) and Charisma (Intimidation) checks.
+Astral Sight
+   You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
+Source: Unearthed Arcana: Barbarian And Monk</text><optional>1</optional></feat><feat><name>Wholeness of Body (Way of the Open Hand)</name><text>At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+
+Source: Player&#39;s Handbook, p. 79</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>6</formula></tracker><tracker><label>Wholeness of Body</label><type>1</type><resetType>2</resetType><formula>1</formula></tracker></autolevel><autolevel><level>7</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Evasion</name><text>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon&#39;s lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Stillness of Mind</name><text>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>7</formula></tracker></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (2nd)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+    If your DM uses the optional Feats, you can instead take a feat.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Proficiency Versatility</name><text>8th-level feature (enhances Ability Score Improvement)
+When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).
+This change represents one of your skills atrophying as you focus on a different skill.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>8</formula></tracker></autolevel><autolevel><level>9</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>9</formula></tracker></autolevel><autolevel><level>10</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Purity of Body</name><text>At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>10</formula></tracker></autolevel><autolevel><level>11</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Additional Elemental Discipline (Way of the Four Elements)</name><text>At 11th level, you learn an additional elemental discipline of your choice.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Awakening of the Astral Self (Way of the Astral Self (UA))</name><text>   Starting at 11th level, you tap into the greater power of your astral self. While you have both your astral arms and visage summoned, you gain the following benefits.
+Deflect Energy
+   When you take acid, cold, fire, lightning, or force damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by 1d10 + your Wisdom modifier + your monk level.
+Empowered Arms
+   Once on each of your turns when you hit a target with your astral arms, you can deal extra damage to the target equal to your Martial Arts die.
+Word of the Spirit
+   When you speak through your visage, you can direct your words to a creature of your choice that you can see within 30 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
+Improved Arms of the Astral Self
+   At 11th level, you make two extra attacks instead of one when you attack with your astral arms as a bonus action.
+
+Source: Unearthed Arcana: Barbarian And Monk</text><optional>1</optional></feat><feat><name>Cloak of Shadows (Way of Shadow)</name><text>By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
+
+Invisible:
+• An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature&#39;s location can be detected by any noise it makes or any tracks it leaves.
+
+• Attack rolls against the creature have disadvantage, and the creature&#39;s attack rolls have advantage.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Drunkard&#39;s Luck (Way of the Drunken Master)</name><text>Starting at 11th level, you always seem to get a lucky bounce at just the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Healing Technique (Way of Mercy (UA))</name><text>11th-level Way of Mercy feature
+   Your skill in manipulating your ki to heal increases. When you restore hit points to a creature using your Hands of Healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>Mastery of Death (Way of the Long Death)</name><text>Beginning at 11th level, you use your familiarity with death to escape its grasp. When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131</text><optional>1</optional></feat><feat><name>Searing Sunburst (Way of the Sun Soul)</name><text>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.
+	Each creature in that 20-foot radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn&#39;t need to make the save if the creature is behind total cover that is opaque.
+	You can increase the sphere&#39;s damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by 2d6.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Sharpen the Blade (Way of the Kensei)</name><text>At 11th level, you gain the ability to augment your weapons further with your ki. As a bonus action, you can expend up to 3 ki points to grant one kensei weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of ki points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect on a magic weapon that already has a bonus to attack and damage rolls.
+
+Source: Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Tranquility (Way of the Open Hand)</name><text>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier+your proficiency bonus.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>11</formula></tracker></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (3rd)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+    If your DM uses the optional Feats, you can instead take a feat.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Proficiency Versatility</name><text>12th-level feature (enhances Ability Score Improvement)
+When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).
+This change represents one of your skills atrophying as you focus on a different skill.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>12</formula></tracker></autolevel><autolevel><level>13</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Tongue of the Sun and Moon</name><text>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>13</formula></tracker></autolevel><autolevel><level>14</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Diamond Soul</name><text>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
+    Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
+
+Source: Player&#39;s Handbook, p. 79</text><proficiency>2</proficiency><proficiency>3</proficiency><proficiency>4</proficiency><proficiency>5</proficiency></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>14</formula></tracker></autolevel><autolevel><level>15</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Timeless Body</name><text>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can&#39;t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>15</formula></tracker></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (4th)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+    If your DM uses the optional Feats, you can instead take a feat.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Proficiency Versatility</name><text>16th-level feature (enhances Ability Score Improvement)
+When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).
+This change represents one of your skills atrophying as you focus on a different skill.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>16</formula></tracker></autolevel><autolevel><level>17</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Additional Elemental Discipline (Way of the Four Elements)</name><text>At 17th level, you learn an additional elemental discipline of your choice.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Complete Astral Self (Way of the Astral Self (UA))</name><text>   Starting at 17th level, your connection to your astral self is complete, allowing you summon it entirely. On your turn, you can spend 10 ki points as a bonus action to summon the arms, visage, and body of your astral self for 10 minutes. This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance based on the qualities of your character. While your astral self is summoned, you gain the following benefits.
+Armor of the Spirit
+   You gain a +2 bonus to AC while you aren&#39;t incapacitated.
+Astral Barrage
+   Whenever you use the Extra Attack feature to attack twice, you can instead attack three times using your astral arms.
+Ki Consumption
+   When a creature within 10 feet of you is reduced to 0 hit points, you can use your reaction to regain ki points equal to your Wisdom modifier (minimum 1).
+Improved Arms of the Astral Self
+   At 17th level, you make three extra attacks instead of one when you attack with your astral arms as a bonus action.
+
+Source: Unearthed Arcana: Barbarian And Monk</text><optional>1</optional></feat><feat><name>Hand of Mercy (Way of Mercy (UA))</name><text>17th-level Way of Mercy feature
+   Your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature&#39;s status.
+   You can have only one creature under the effect of this feature at a time.
+
+Source: Unearthed Arcana: 2020 Subclasses Pt1</text><optional>1</optional></feat><feat><name>Intoxicated Frenzy (Way of the Drunken Master)</name><text>At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn.
+
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Opportunist (Way of Shadow)</name><text>At 17th level, you can exploit a creature&#39;s momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Quivering Palm (Way of the Open Hand)</name><text>At 17th level, you gain the ability to set up lethal vibrations in someone&#39;s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+    You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
+
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Sun Shield (Way of the Sun Soul)</name><text>At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.
+	If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Touch of the Long Death (Way of the Long Death)</name><text>Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 131</text><optional>1</optional></feat><feat><name>Unerring Accuracy (Way of the Kensei)</name><text>At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
+
+Source: Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>17</formula></tracker></autolevel><autolevel><level>18</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Empty Body</name><text>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
+    Additionally, you can spend 8 ki points to cast the astral projection spell, without needing material components. When you do so, you can&#39;t take any other creatures with you.
+
+Invisible:
+• An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature&#39;s location can be detected by any noise it makes or any tracks it leaves.
+
+• Attack rolls against the creature have disadvantage, and the creature&#39;s attack rolls have advantage.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>18</formula></tracker></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (5th)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+    If your DM uses the optional Feats, you can instead take a feat.
+
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Proficiency Versatility</name><text>19th-level feature (enhances Ability Score Improvement)
+When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).
+This change represents one of your skills atrophying as you focus on a different skill.
+
+Source: Unearthed Arcana: Class Feature Variants</text><optional>1</optional></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>19</formula></tracker></autolevel><autolevel><level>20</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Perfect Self</name><text>At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
+
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki</label><type>1</type><resetType>2</resetType><formula>20</formula></tracker></autolevel><spellAbility>6</spellAbility></class><item><name>Gold (gp)</name><type>15</type><quantity>11</quantity><value>1.0</value><weight>0.02</weight></item><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><money>11.0</money></character>
+</pc>

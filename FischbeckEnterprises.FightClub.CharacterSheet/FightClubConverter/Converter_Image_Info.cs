@@ -13,22 +13,25 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
     {
         private void PCImage()
         {
-            int id = _pc.character.FirstOrDefault().imageData.uid;
-            byte[] bytes;
-            foreach (var item in _pc.imageData.ToList())
+            if (_pc.character.FirstOrDefault().imageData != null)
             {
-                if (item.uid == id)
+                int id = _pc.character.FirstOrDefault().imageData.uid;
+                byte[] bytes;
+                foreach (var item in _pc.imageData.ToList())
                 {
-                    Image image;
-                    bytes = Convert.FromBase64String(item.encoded);
-                    using (MemoryStream ms = new MemoryStream(bytes))
+                    if (item.uid == id)
                     {
-                        image = Image.FromStream(ms);
-                        string save = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{item.uid}.jpeg";
-                        string save2 = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_pc.character.FirstOrDefault().name}.jpeg";
-                        _printablePlayerCharacter.CharacterImageFilePath = save2;
-                        image.Save(save);
-                        image.Save(save2);
+                        Image image;
+                        bytes = Convert.FromBase64String(item.encoded);
+                        using (MemoryStream ms = new MemoryStream(bytes))
+                        {
+                            image = Image.FromStream(ms);
+                            string save = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{item.uid}.jpeg";
+                            string save2 = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_pc.character.FirstOrDefault().name}.jpeg";
+                            _printablePlayerCharacter.CharacterImageFilePath = save2;
+                            image.Save(save);
+                            image.Save(save2);
+                        }
                     }
                 }
             }

@@ -11,6 +11,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         private void AC()
         {
             var _class = _pc.character.FirstOrDefault().@class.ToList();
+            List<int> Specials = new List<int>();
+            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList().ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 1)).Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
+
             List<Feat> features = new List<Feat>();
             int AC = 0;
 
@@ -101,6 +104,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 items.AddRange(_pc.character.FirstOrDefault().item.ToList().Where(a => a.slot == 4 || a.slot == 5));
                 if (items.Count > 0)
                     AC = 0;
+                else
+                {
+                    if (AC < 10) { AC = 10; }
+                }
                 foreach (Item i in items)
                 {
                     if (i.ac > 0)
@@ -114,7 +121,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         else
                             AC += _printablePlayerCharacter.DexterityModifier;
                     }
+
                 }
+                if (Specials.Count > 0)
+                    AC++;
             }
             _printablePlayerCharacter.ArmorClass = AC;
         }
