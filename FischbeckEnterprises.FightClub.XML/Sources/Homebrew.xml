@@ -1496,7 +1496,7 @@
 	</autolevel>
   </class>
   
-    <spell>
+  <spell>
     <name>Pinning Shot</name>
     <level>0</level>
     <ritual>NO</ritual>
@@ -1509,7 +1509,33 @@
     <text />
     <text>Source: Custom Trick Shot in World of Koreth, OneNote - Warren Fischbeck</text>
   </spell>
-    <spell>
+  <spell>
+	<name>Indirect Fire</name>
+	<level>0</level>
+	<ritual>NO</ritual>
+	<time />
+	<range />
+	<components>None</components>
+	<duration />
+	<classes>Fighter (Eminusque)</Classes>
+	<text>When you expend one superiority die, you can target a 5 foot area that you do not have line of sight to.  You must make this attack with a ranged weapon that you are proficient with.  The target area must be within the ranged weapons normal range, and you must be able to arc the ranged weapon over, under or around any object that is interfearing with the normal rules of line of sight.  On a successful attack, you can add the superiority die to the attack's damage roll.</text>
+	<text />
+	<text>Source: Custom Trick Shot in World of Koreth, OneNote - Warren Fischbeck</text>
+  </spell>
+  <spell>
+	<name>Crippling Shot</name>
+	<level>0</level>
+	<ritual>NO</ritual>
+	<time />
+	<range />
+	<components>None</components>
+	<duration />
+	<classes>Fighter (Eminusque)</Classes>
+	<text>When you hit a creature with a ranged attack, you can expend one superiority die to target one of the targets legs.  You add the superiority die to the attack's damage roll and until the start of your next turn, the target treats all terrain as difficult, existing difficult terrain costs an additional 1 foot of movement per 1 foot traversed.</text>
+	<text />
+	<text>Source: Custom Trick Shot in World of Koreth, OneNote - Warren Fischbeck</text>
+  </spell>
+  <spell>
     <name>Hard Throw</name>
     <level>0</level>
     <ritual>NO</ritual>
@@ -1518,7 +1544,7 @@
     <components>None</components>
     <duration />
     <classes>Fighter (Eminusque)</classes>
-    <text>When you hit a creature with a thrown weapon attack, you can expend one superiority die to stun the target until the end of your next turn.  You add the superiority die to the attack's damage roll.</text>
+    <text>When you hit a creature with a thrown weapon attack, you can expend one superiority die to attempt to stun the target.  You add the superiority die to the attack's damage roll, and if the target is one size larger than you or smaller, it must make a strength saving throw.  On a failed save it is stunned until the end of your next turn.</text>
     <text />
     <text>Stunned:</text>
     <text>• A stunned creature is incapacitated, meaning it can't take actions or reactions, can't move, and can speak only falteringly.</text>
