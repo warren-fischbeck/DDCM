@@ -415,6 +415,7 @@
     <magic>1</magic>
     <weight>2</weight>
     <dmg1>1d8</dmg1>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>A,H,2H</property>
     <range>150/600</range>

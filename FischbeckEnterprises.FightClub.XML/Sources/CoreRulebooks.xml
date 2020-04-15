@@ -12454,7 +12454,7 @@
     <value>50</value>
     <text>Source: Player's Handbook p. 149</text>
     <dmg1>1d8</dmg1>
-    <dmg2></dmg2>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>M,A,H,2H</property>
     <range>150/600</range>
@@ -12481,7 +12481,7 @@
     <modifier category="bonus">ranged attacks +1</modifier>
     <modifier category="bonus">ranged damage +1</modifier>
     <dmg1>1d8</dmg1>
-    <dmg2></dmg2>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>M,A,H,2H</property>
     <range>150/600</range>
@@ -12508,7 +12508,7 @@
     <modifier category="bonus">ranged attacks +2</modifier>
     <modifier category="bonus">ranged damage +2</modifier>
     <dmg1>1d8</dmg1>
-    <dmg2></dmg2>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>M,A,H,2H</property>
     <range>150/600</range>
@@ -12535,7 +12535,7 @@
     <modifier category="bonus">ranged attacks +3</modifier>
     <modifier category="bonus">ranged damage +3</modifier>
     <dmg1>1d8</dmg1>
-    <dmg2></dmg2>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>M,A,H,2H</property>
     <range>150/600</range>
@@ -12560,7 +12560,7 @@
     <text>Proficiency: martial, longbow</text>
     <text>Source: Dungeon Master's Guide p. 213</text>
     <dmg1>1d8</dmg1>
-    <dmg2></dmg2>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>M,A,H,2H</property>
     <range>150/600</range>
@@ -13060,7 +13060,7 @@
     <text>Proficiency: martial, longbow</text>
     <text>Source: Dungeon Master's Guide p. 209</text>
     <dmg1>1d8</dmg1>
-    <dmg2></dmg2>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <property>M,A,H,2H</property>
     <range>150/600</range>

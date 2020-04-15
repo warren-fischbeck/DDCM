@@ -204,6 +204,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
             }
 
+            if (IsTwoHandedWeapon(Weapon.weaponProperty))
+                damage = $"{Weapon.damage2H}";
+
+            if (IsVersitileWeapon(Weapon.weaponProperty))
+                damage += $" ({Weapon.damage2H})";
+
             if (Weapon.modSpecified)
             {
                 foreach (Mod mod in Weapon.mod)
@@ -223,8 +229,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 }
             }
             
-            if (IsVersitileWeapon(Weapon.weaponProperty))
-                damage += $" ({Weapon.damage2H})";
+
 
             return $"{damage} + {damageBonus} / {damagetype}";
         }

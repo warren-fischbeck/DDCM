@@ -6,6 +6,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>This amulet smells of old, ale-stained wood. While wearing it, you can regain 4d4 + 4 hit points when you drink a pint of beer, ale, mead, or wine. Once the amulet has restored hit points, it can't do so again until the next dawn.</text>
     <text>Source: Explorer's Guide to Wildemount p. 265</text>
     <roll>4d4+4</roll>
@@ -15,6 +16,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>This Large cannon is imbued with magic. It requires no ammunition and doesn't need to be loaded. It takes one action to aim the cannon and one action to fire it. After the cannon has fired, it must recharge for 5 minutes before it can be fired again.</text>
     <text>The creature firing the cannon chooses the effect from the following options:</text>
     <text>Acid Jet: The cannon discharges acid in a line 300 feet long and 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one. In addition, a creature that fails its saving throw takes 11 (2d10) acid damage at the start of each of its turns; a creature can end this damage by using its action to wash off the acid with a pint or more of water.</text>
@@ -34,6 +36,7 @@
     <value>10.0</value>
     <property></property>
     <ac>2</ac>
+	<magic>1</magic>
     <text>While holding this iron tower shield, you gain a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.</text>
     <text>Additionally, the shield has 3 charges, and it regains 1d3 expended charges daily at dawn. If you are holding the shield and push a creature within your reach at least 5 feet away, you can expend 1 charge to push that creature an additional 10 feet, knock it prone, or both.</text>
     <text>Source: Explorer's Guide to Wildemount p. 266</text>
@@ -60,6 +63,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>A weapon of Tharizdun, this dagger is a piece of jagged stone whose blade is scribed with a maze-like pattern with no beginning or end.</text>
     <text>Sentience: The Blade of Broken Mirrors is a sentient chaotic evil weapon with an Intelligence of 21, a Wisdom of 24, and a Charisma of 24. It has hearing and darkvision out to a range of 120 feet.</text>
     <text>The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal and Common.</text>
@@ -112,6 +116,7 @@
     <property>H,2H</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra 1d6 necrotic damage to creatures that aren't constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.
       This axe is forged from a dark, rust-colored metal and once belonged to the goliath barbarian Grog Strongjaw of Vox Machina.
@@ -124,6 +129,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This translucent, bubble-like sphere has a slightly tacky outer surface, and you gain the item's benefits only while wearing it over your head like a helmet.
       The bubble contains 1 hour of breathable air. The bubble regains all its expended air daily at dawn.
@@ -135,6 +141,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       While wearing this nondescript brooch, spells and anything else that would detect or reveal your creature type treat you as humanoid, and those that would reveal your alignment treat it as neutral.
       Source: Explorer's Guide to Wildemount p. 266
@@ -145,6 +152,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This black leather apron is perpetually covered by blood, even after being washed off. You gain the following benefits while wearing the apron:
       • Once per turn when you roll damage for a melee attack with a weapon, you can reroll the weapon's damage dice. If you do so, you must use the second total.
@@ -157,6 +165,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This scintillating copper coin sheds dim light in a 5-foot radius. If dropped a distance greater than 5 feet, the coin issues a melodious ringing sound when it hits a surface. Any creature that can hear the chime can determine the distance the coin dropped based on the tone.
       Source: Explorer's Guide to Wildemount p. 266
@@ -167,6 +176,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       These mithral-frame goggles with clear diamond lenses were used by the evoker Danoth Oro to spot invisible enemies and scout areas from afar.
       Dormant: While wearing the goggles in their dormant state, you can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. Additionally, you have advantage on Intelligence (Investigation) and Wisdom (Perception) checks that rely on sight.
@@ -185,6 +195,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This smooth, rainbow-colored, egg-shaped stone can be thrown up to 30 feet and explodes in a 10-foot-radius sphere of magical energy on impact, destroying the stone. Any active spell of 5th level or lower in the sphere ends.
       Source: Explorer's Guide to Wildemount p. 266
@@ -199,7 +210,8 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
-    <text>
+ 	<magic>1</magic>
+   <text>
       This item takes the form of a leather-wrapped metal rod emblazoned with the symbol of Pelor, the Dawn Father. While grasping the rod, you can use a bonus action to cause a warhammer head of crackling radiance to spring into existence. The warhammer's radiant head emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. You can use an action to make the radiant head disappear.
       While the radiant head is active, you gain a +2 bonus to attack and damage rolls made with this magic weapon, and attacks with the weapon deal radiant damage instead of bludgeoning damage. An undead creature hit by the weapon takes an extra 1d8 radiant damage.
       While you are holding Duskcrusher and its radiant head is active, you can use an action to cast the sunbeam spell (save DC 15) from the weapon, and this action can't be used again until the next dawn.
@@ -212,6 +224,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater's senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings.
       Source: Explorer's Guide to Wildemount p. 267
@@ -222,6 +235,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+ 	<magic>1</magic>
     <text>
       This artificial eye replaces a real one that was lost or removed. While the ersatz eye is embedded in your eye socket, it can't be removed by anyone other than you, and you can see through the tiny orb as though it were a normal eye.
       Source: Xanathar's Guide to Everything p. 137, Explorer's Guide to Wildemount
@@ -232,6 +246,7 @@
     <type>G</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This acorn-sized sphere of brass contains a small amount of blasting powder and a clockwork trigger. An explosive seed can be thrown up to 30 feet as an action, detonating on impact. Each creature within 5 feet of the exploding seed must make a DC 10 Dexterity saving throw, taking 1d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
       Source: Explorer's Guide to Wildemount
@@ -243,6 +258,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       These leather-framed goggles feature purple crystal lenses. While wearing the goggles, you have advantage on Intelligence (Arcana) checks made to reveal information about a creature or object you can see.
       In addition, you can cast the identify spell using the googles. Once you do so, you can't do so again until the next dawn.
@@ -254,6 +270,7 @@
     <type>W</type>
     <weight>3</weight>
     <property></property>
+	<magic>1</magic>
     <text>
       Several of these spellbooks with gilded pages and silver-plated covers were created during the Age of Arcanum, but only one has been found since the Calamity ended. The book has an infinite number of pages, is three inches thick, eight inches wide, twelve inches long, and weighs three pounds.
       Dormant: Most of the book is blank, but the following spells are recorded in the first pages of the tome: alarm, antimagic field, Bigby's hand, blight, charm person, confusion, control weather, create undead, detect thoughts, enlarge/reduce, fear, foresight, gaseous form, glyph of warding, legend lore, Leomund's tiny hut, mass suggestion, mislead, misty step, Mordenkainen's faithful hound, prismatic spray, ray of enfeeblement, silent image, teleport, and thunderwave.
@@ -276,6 +293,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       Crafted from a single piece of obsidian, this warhammer of Torog hums with magical energy and is carved with the images of faces screaming in pain.
       Sentience: Grovelthrash is a sentient neutral evil weapon with an Intelligence of 18, a Wisdom of 15, and a Charisma of 19. It has hearing and darkvision out to a range of 120 feet.
@@ -306,6 +324,7 @@
     <value>45.0</value>
     <property></property>
     <ac>12</ac>
+	<magic>1</magic>
     <text>
       It is believed that this polished and beautifully detailed leather armor was a gift from Melora, bestowed on a long-forgotten archdruid and champion of the natural world before the terrors of the Calamity.
       Dormant: While wearing the armor in its dormant state, you gain the following benefits:
@@ -330,6 +349,7 @@
     <value>10.0</value>
     <property></property>
     <ac>11</ac>
+	<magic>1</magic>
     <text>
       You have a +1 bonus to AC while wearing this armor.
       The coat has 3 charges. When you hit a creature with an attack and that creature doesn't have all its hit points, you can expend 1 charge to deal an extra 1d10 necrotic damage to the target. The coat regains 1d3 expended charges daily at dawn.
@@ -344,6 +364,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This mithral skeleton key was forged using the blood of twelve master thieves executed for trying to steal magic items during the Age of Arcanum.
       Dormant: The Infiltrator's Key grants the following benefits in its dormant state:
@@ -366,6 +387,7 @@
     <property>F,R</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       This snakeskin whip is touched by the power of Zehir and ends in five animated serpent heads.
       Sentience: The Lash of Shadows is a sentient chaotic evil weapon with an Intelligence of 18, a Wisdom of 16, and a Charisma of 20. It has hearing and darkvision out to a range of 120 feet.
@@ -395,6 +417,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This dodecahedron of faintly glowing crystal is heavier than it appears. A set of handles are affixed to its sides, and it pulsates and thrums when touched.
       Fragment of Possibility: A creature that touches the beacon and concentrates for 1 minute receives a Fragment of Possibility, which looks like a Tiny, grayish bead of energy that follows the creature around, staying within 1 foot of it at all times. The fragment lasts for 8 hours or until used. Once the beacon grants a Fragment of Possibility, it can't grant another until the next dawn. A creature with a Fragment of Possibility from a Luxon Beacon can't gain another Fragment of Possibility from any source.
@@ -412,6 +435,7 @@
     <property></property>
     <dmg1>1d6</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       This mace has a haft of black iron and a ruby head with a fiendish countenance. Carrying the boon of Asmodeus, it is fit for the most powerful servants of the Nine Hells.
       Sentience: The Mace of the Black Crown is a sentient lawful evil weapon with an Intelligence of 20, a Wisdom of 12, and a Charisma of 18. It has hearing and darkvision out to a range of 120 feet.
@@ -443,6 +467,7 @@
     <weight></weight>
     <value>400.0</value>
     <property></property>
+ 	<magic>1</magic>
     <text>
       Beasts of burden are common throughout Xhorhas, and often horses and other riding animals are the best or only option. For those who require speed and have a little more coin to spend, the best option is often a moorbounder. However, moorbounders that haven't undergone proper training or established bonds of trust with their masters tend to attack and even eat their riders.
       Moorbounders can cost anywhere from 300 to 500 gp each. They're often cheaper and more abundant in towns on the wastes than in cities like Rosohna.
@@ -470,6 +495,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       This weapon is a magic dagger disguised as a sewing needle. When you hold it and use a bonus action to speak its command word, it transforms into a dagger or back into a needle.
       You gain a +1 bonus to attack and damage rolls made with the dagger. While holding it, you can use an action to cast the mending cantrip from it.
@@ -481,7 +507,8 @@
     <type>W</type>
     <weight></weight>
     <property></property>
-    <text>
+ 	<magic>1</magic>
+   <text>
       Used to summon night, this 6-inch-diameter, jet-black orb is cold to the touch. You can spend 10 minutes to activate it, causing the area within 10 miles of it at the moment of activation to become night even if it is daytime. This night lasts for 24 hours, until you cancel it as an action, or until your attunement to the pearl ends. Once used, the pearl can't be used again for 24 hours.
       Source: Explorer's Guide to Wildemount p. 268
     </text>
@@ -502,6 +529,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This onyx sphere bears deep, spiraling grooves and dangles from an iron chain. While the orb is on your person, you gain the following benefits:
       • Your Wisdom score increases by 2, as does your maximum for that score.
@@ -516,6 +544,7 @@
     <type>P</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.
       This glowing purple liquid smells of sugar and plum, but it has a muddy taste.
@@ -527,6 +556,7 @@
     <type>P</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       When you drink this clear potion, you gain two Fragments of Possibility, each of which looks like a Tiny, grayish bead of energy that follows you around, staying within 1 foot of you at all times. Each fragment lasts for 8 hours or until used.
       When you make an attack roll, an ability check, or a saving throw, you can expend your fragment to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against you, you can expend your fragment to roll a d20 and choose which of the d20s to use, the one you rolled or the one the attacker rolled.
@@ -562,6 +592,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This artificial limb replaces a hand, arm, foot, leg, or similar appendage that was lost or removed. While the prosthetic is attached and attuned to you, it functions identically to the body part it is replacing. You can detach or reattach it as an action, and it can't be removed by anyone else.
       If you have multiple prosthetic limbs, they count as a single magic item with regard to the number of magic items you can attune to.
@@ -573,6 +604,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the reincarnate spell had been cast on the remains.
       Source: Explorer's Guide to Wildemount p. 268
@@ -583,6 +615,7 @@
     <type>RG</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This band of iron resembles a skull and is cold to the touch. It has 3 charges and regains 1d3 expended charges daily at dawn. As an action while wearing the ring, you can expend 1 of its charges to cast the fog cloud spell from it, with the following changes: the cloud is centered on you when it first appears, and the spell lasts for 1 minute (no concentration required).
       Source: Explorer's Guide to Wildemount p. 269
@@ -594,6 +627,7 @@
     <type>RG</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       If you die while wearing this gray crystal ring, you vanish and reappear in an unoccupied space within 5 feet of the space you left (or the nearest unoccupied space). You have a number of hit points equal to 3d6 + your Constitution modifier. If your hit point maximum is lower than the number of hit points you regain, your hit point maximum rises to a similar amount. If you have any levels of exhaustion, reduce your level of exhaustion by 1. Once the ring is used, it turns to dust and is destroyed.
       Source: Explorer's Guide to Wildemount p. 269
@@ -605,6 +639,7 @@
     <type>RD</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This adamantine rod is tipped with a glowing crystalline eye. The rod has 3 charges and regains all its expended charges daily at dawn.
       When a creature you can see within 60 feet of you damages you while you are holding this rod, you can use your reaction to expend 1 of the rod's charges to force the creature to make a DC 13 Dexterity saving throw. The creature takes 2d10 lightning damage on a failed save, or half as much damage on a successful one.
@@ -622,6 +657,7 @@
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       This spear is made from the ivory bone of an ancient gold dragon and carved with an Orc hymn to Gruumsh.
       Sentience: Ruin's Wake is a sentient chaotic evil weapon with an Intelligence of 20, a Wisdom of 16, and a Charisma of 22. It has hearing and darkvision out to a range of 120 feet.
@@ -653,6 +689,7 @@
     <property>F</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of Lolth.
       Sentience: Silken Spite is a sentient chaotic evil weapon with an Intelligence of 13, a Wisdom of 15, and a Charisma of 15. It has hearing and darkvision out to a range of 120 feet.
@@ -703,6 +740,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This glass bottle can store one spell of up to 5th level at a time. When found, roll a d6 and subtract 1; the total determines the level of spell in the bottle (the DM chooses the spell, and 0 means the bottle is empty). A swirling blue vapor fills the bottle while it contains a spell.
       When the bottle is empty, any creature can cast a spell of 1st through 5th level into it by touching it while casting. The spell has no effect other than to be stored in the bottle.
@@ -719,6 +757,7 @@
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       This staff of polished gray wood bears numerous runes carved along its length. The staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns into dust and is destroyed.
       While holding the staff, you can use an action to expend 2 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: fortune's favor (2 charges), pulse wave (3 charges), or gravity sinkhole (4 charges).
@@ -735,6 +774,7 @@
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       This gray-and-cerulean staff is topped with a small dragon claw carved from ivory. While holding the staff, you gain a +1 bonus to spell attack rolls. Whenever you score a critical hit with a spell attack, the target takes an extra 3d6 radiant damage.
       Source: Explorer's Guide to Wildemount p. 270
@@ -746,6 +786,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       A Stormgirdle is a wide belt made of thick leather branded with the symbol of Kord. The girdle's clasps are made from dragon ivory.
       Dormant: While wearing the Stormgirdle in its dormant state, you have resistance to lightning damage and thunder damage, and your Strength score becomes 21 if it isn't already 21 or higher. In addition, you can use an action to become a Storm Avatar for 1 minute, gaining the following benefits for the duration:
@@ -775,6 +816,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       Carrying the power of Bane, this adamantine morningstar sports foot-long spikes and has a jagged blade on its pommel.
       Sentience: The Bloody End is a sentient lawful evil weapon with an Intelligence of 22, a Wisdom of 18, and a Charisma of 24. It has hearing and darkvision out to a range of 120 feet.
@@ -817,6 +859,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This patchy cloak was pieced together from the pelts of rats found feasting on the dead in Blightshore and is dotted with the bloated corpses of magically preserved insects along its seams.
       Dormant: While wearing the Verminshroud in its dormant state, you gain the following benefits:
@@ -839,6 +882,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This clockwork device resembles a metal crab the size of a dinner plate. Every action used to wind up the device allows it to operate for 1 minute, to a maximum of 10 minutes. While operational, the item uses the accompanying Vox Seeker stat block. This automaton is under the DM's control. A vox seeker reduced to 0 hit points is destroyed.
       Source: Explorer's Guide to Wildemount p. 270
@@ -852,6 +896,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       Black, blue, green, red, and white gems carved in the form of dragon heads cover this ostentatious gold war pick, marking it as a weapon channeling the power of Tiamat.
       Sentience: Will of the Talon is a sentient lawful evil weapon with an Intelligence of 14, a Wisdom of 15, and a Charisma of 19. It has hearing and darkvision out to a range of 120 feet.
@@ -901,6 +946,7 @@
     <type>W</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       This loop of golden thorns is inset with dozens of gems representing the five colors of Tiamat.
       Dormant: While wearing the wreath in its dormant state, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the wreath increases the range of your darkvision by 60 feet.
@@ -921,6 +967,7 @@
     <property>S,2H</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
       The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
@@ -939,7 +986,8 @@
     <property>H,2H</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
-    <text>
+ 	<magic>1</magic>
+   <text>
       The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can't be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the frightened condition. Once you use this property, you can't do so again until the next dusk.
@@ -955,6 +1003,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can't be used again until the next dusk.
@@ -970,6 +1019,7 @@
     <property>F</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can't be used again until the next dusk.
@@ -985,6 +1035,7 @@
     <property>F,L</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can't be used again until the next dusk.
@@ -1000,6 +1051,7 @@
     <property>F,L</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       The black blade of this sword is crafted from a mysterious arcane alloy. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can't be used again until the next dusk.
@@ -1013,6 +1065,7 @@
     <type>G</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       Acheron Blade Double-Bladed Scimitar
       Acheron Blade Greatsword
@@ -1031,6 +1084,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1046,7 +1100,8 @@
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
-    <text>
+ 	<magic>1</magic>
+   <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 266
@@ -1060,6 +1115,7 @@
     <property>L</property>
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1075,6 +1131,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
+ 	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1090,6 +1147,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1104,6 +1162,7 @@
     <property>S,2H</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1121,6 +1180,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1135,6 +1195,7 @@
     <property>H,R,2H</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1149,6 +1210,7 @@
     <property>H,2H</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1163,7 +1225,8 @@
     <property>2H</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
-    <text>
+ 	<magic>1</magic>
+   <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 266
@@ -1177,6 +1240,7 @@
     <property>H,2H</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1191,6 +1255,7 @@
     <property>H,R,2H</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1206,7 +1271,8 @@
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
-    <text>
+ 	<magic>1</magic>
+   <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 266
@@ -1221,6 +1287,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1236,6 +1303,7 @@
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1250,6 +1318,7 @@
     <property>L</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1266,6 +1335,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1280,7 +1350,8 @@
     <property>R,S</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
-    <text>
+ 	<magic>1</magic>
+   <text>
       Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1296,6 +1367,7 @@
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>80/320</range>
+ 	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1311,6 +1383,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1326,6 +1399,7 @@
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>40/160</range>
+	<magic>1</magic>
     <text>
       This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action.
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1340,8 +1414,10 @@
     <weight>2</weight>
     <property>A,H,2H</property>
     <dmg1>1d8</dmg1>
+	<dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>150/600</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1357,6 +1433,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1371,6 +1448,7 @@
     <property></property>
     <dmg1>1d6</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1385,6 +1463,7 @@
     <property>H,2H</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1399,6 +1478,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1412,6 +1492,7 @@
     <weight>3</weight>
     <property>S,T</property>
     <range>5/15</range>
+	<magic>1</magic>
     <text>
       Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1427,6 +1508,7 @@
     <property>H,R,2H</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1442,6 +1524,7 @@
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1456,6 +1539,7 @@
     <property>F</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1470,6 +1554,7 @@
     <property>F,L</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1485,6 +1570,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>80/320</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1499,6 +1585,7 @@
     <property>F,L</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1513,6 +1600,7 @@
     <property>L</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1528,6 +1616,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
     <range>30/120</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1544,6 +1633,7 @@
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1560,6 +1650,7 @@
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1574,6 +1665,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1589,6 +1681,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1603,6 +1696,7 @@
     <property>F,R</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
@@ -1618,6 +1712,7 @@
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>10/30</range>
+	<magic>1</magic>
     <text>
       A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing.
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
@@ -1631,6 +1726,7 @@
     <type>G</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       Corpse Slayer Battleaxe
       Corpse Slayer Blowgun
@@ -1683,6 +1779,7 @@
     <property>S,2H</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
       You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
@@ -1700,7 +1797,8 @@
     <weight>20</weight>
     <property></property>
     <ac>14</ac>
-    <text>
+ 	<magic>1</magic>
+   <text>
       This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
@@ -1713,6 +1811,7 @@
     <weight>55</weight>
     <property></property>
     <ac>16</ac>
+	<magic>1</magic>
     <text>
       Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1728,6 +1827,7 @@
     <weight>20</weight>
     <property></property>
     <ac>13</ac>
+	<magic>1</magic>
     <text>
       Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1741,6 +1841,7 @@
     <weight>40</weight>
     <property></property>
     <ac>15</ac>
+	<magic>1</magic>
     <text>
       Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1755,6 +1856,7 @@
     <weight>12</weight>
     <property></property>
     <ac>12</ac>
+	<magic>1</magic>
     <text>
       This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1768,7 +1870,8 @@
     <weight>10</weight>
     <property></property>
     <ac>11</ac>
-    <text>
+ 	<magic>1</magic>
+   <text>
       The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
@@ -1781,7 +1884,8 @@
     <weight>8</weight>
     <property></property>
     <ac>11</ac>
-    <text>
+ 	<magic>1</magic>
+   <text>
       Padded armor consists of quilted layers of cloth and batting.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
@@ -1795,6 +1899,7 @@
     <weight>65</weight>
     <property></property>
     <ac>18</ac>
+	<magic>1</magic>
     <text>
       Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1810,6 +1915,7 @@
     <weight>40</weight>
     <property></property>
     <ac>14</ac>
+	<magic>1</magic>
     <text>
       This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1824,7 +1930,8 @@
     <weight>45</weight>
     <property></property>
     <ac>14</ac>
-    <text>
+ 	<magic>1</magic>
+   <text>
       This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
@@ -1838,6 +1945,7 @@
     <weight>45</weight>
     <property></property>
     <ac>14</ac>
+	<magic>1</magic>
     <text>
       Spiked armor is a rare type of medium armor made by dwarves. It consists of a leather coat and leggings covered with spikes that are usually made of metal.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1852,6 +1960,7 @@
     <weight>60</weight>
     <property></property>
     <ac>17</ac>
+	<magic>1</magic>
     <text>
       This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1867,6 +1976,7 @@
     <weight>13</weight>
     <property></property>
     <ac>12</ac>
+	<magic>1</magic>
     <text>
       Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
@@ -1879,6 +1989,7 @@
     <type>G</type>
     <weight></weight>
     <property></property>
+	<magic>1</magic>
     <text>
       Last Stand Armor Breastplate
       Last Stand Armor Chain Mail
@@ -1904,6 +2015,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -1917,6 +2029,7 @@
     <dmg1>1</dmg1>
     <dmgType>P</dmgType>
     <range>25/100</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -1929,6 +2042,7 @@
     <property>L</property>
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -1942,6 +2056,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -1955,6 +2070,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -1967,6 +2083,7 @@
     <property>S,2H</property>
     <dmg1>2d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -1982,6 +2099,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -1994,6 +2112,7 @@
     <property>H,R,2H</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2006,6 +2125,7 @@
     <property>H,2H</property>
     <dmg1>1d12</dmg1>
     <dmgType>S</dmgType>
+ 	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2018,6 +2138,7 @@
     <property>2H</property>
     <dmg1>1d8</dmg1>
     <dmgType>B</dmgType>
+ 	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2030,6 +2151,7 @@
     <property>H,2H</property>
     <dmg1>2d6</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2042,6 +2164,7 @@
     <property>H,R,2H</property>
     <dmg1>1d10</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2055,6 +2178,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2068,6 +2192,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
     <range>20/60</range>
+ 	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2081,6 +2206,7 @@
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
     <range>100/400</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2093,6 +2219,7 @@
     <property>L</property>
     <dmg1>1d4</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -2107,6 +2234,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>30/120</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2119,6 +2247,7 @@
     <property>R,S</property>
     <dmg1>1d12</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -2133,6 +2262,7 @@
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>80/320</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2146,6 +2276,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2159,6 +2290,7 @@
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>40/160</range>
+	<magic>1</magic>
     <text>
       This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action.
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -2171,8 +2303,10 @@
     <weight>2</weight>
     <property>A,H,2H</property>
     <dmg1>1d8</dmg1>
+    <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>150/600</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2186,6 +2320,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2198,6 +2333,7 @@
     <property></property>
     <dmg1>1d6</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2210,6 +2346,7 @@
     <property>H,2H</property>
     <dmg1>2d6</dmg1>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2222,6 +2359,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2233,6 +2371,7 @@
     <weight>3</weight>
     <property>S,T</property>
     <range>5/15</range>
+	<magic>1</magic>
     <text>
       Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -2246,6 +2385,7 @@
     <property>H,R,2H</property>
     <dmg1>1d10</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2259,6 +2399,7 @@
     <dmg1>1d6</dmg1>
     <dmg2>1d8</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2271,6 +2412,7 @@
     <property>F</property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2283,6 +2425,7 @@
     <property>F,L</property>
     <dmg1>1d6</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2296,6 +2439,7 @@
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
     <range>80/320</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2308,7 +2452,8 @@
     <property>F,L</property>
     <dmg1>1d6</dmg1>
     <dmgType>P</dmgType>
-    <text>
+	<magic>1</magic>
+   <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
     </text>
@@ -2320,6 +2465,7 @@
     <property>L</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2333,6 +2479,7 @@
     <dmg1>1d4</dmg1>
     <dmgType>B</dmgType>
     <range>30/120</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2347,6 +2494,7 @@
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2361,6 +2509,7 @@
     <dmg2>1d8</dmg2>
     <dmgType>P</dmgType>
     <range>20/60</range>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2373,6 +2522,7 @@
     <property></property>
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2386,6 +2536,7 @@
     <dmg1>1d8</dmg1>
     <dmg2>1d10</dmg2>
     <dmgType>B</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2398,6 +2549,7 @@
     <property>F,R</property>
     <dmg1>1d4</dmg1>
     <dmgType>S</dmgType>
+	<magic>1</magic>
     <text>
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
       Source: Explorer's Guide to Wildemount p. 270
@@ -2411,6 +2563,7 @@
     <dmg1>1d8</dmg1>
     <dmgType>P</dmgType>
     <range>10/30</range>
+	<magic>1</magic>
     <text>
       A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing.
       When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
@@ -2422,7 +2575,8 @@
     <type>G</type>
     <weight></weight>
     <property></property>
-    <text>
+ 	<magic>1</magic>
+   <text>
       Battleaxe of Certain Death
       Blowgun of Certain Death
       Club of Certain Death
