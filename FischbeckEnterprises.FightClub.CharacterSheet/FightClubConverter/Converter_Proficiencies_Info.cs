@@ -87,7 +87,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 case int n when (_XP > 140000 && _XP <= 164999): _level = 14; _proficencyBonus = 5; break;
                 case int n when (_XP > 165000 && _XP <= 194999): _level = 15; _proficencyBonus = 5; break;
                 case int n when (_XP > 195000 && _XP <= 224999): _level = 16; _proficencyBonus = 5; break;
-                case int n when (_XP > 225000 && _XP <= 164999): _level = 17; _proficencyBonus = 6; break;
+                case int n when (_XP > 225000 && _XP <= 264999): _level = 17; _proficencyBonus = 6; break;
                 case int n when (_XP > 265000 && _XP <= 304999): _level = 18; _proficencyBonus = 6; break;
                 case int n when (_XP > 305000 && _XP <= 354999): _level = 19; _proficencyBonus = 6; break;
                 case int n when (_XP > 355000): _level = 20; _proficencyBonus = 6; break;

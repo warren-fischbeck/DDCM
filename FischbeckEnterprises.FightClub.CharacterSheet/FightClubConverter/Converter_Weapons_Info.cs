@@ -25,6 +25,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
                                     _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
                                     _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
+                                    if (damageItems[i].weaponRangeSpecified)
+                                        _printablePlayerCharacter.WeaponName1 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                     break;
                                 }
                             case 1:
@@ -32,6 +34,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
                                     _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
                                     _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
+                                    if (damageItems[i].weaponRangeSpecified)
+                                        _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                     break;
                                 }
                             case 2:
@@ -39,6 +43,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
                                     _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
                                     _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
+                                    if (damageItems[i].weaponRangeSpecified)
+                                        _printablePlayerCharacter.WeaponName3 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                     break;
                                 }
                             default:
@@ -57,6 +63,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
                                     _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
                                     _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
+                                    if (damageItems[i].weaponRangeSpecified)
+                                        _printablePlayerCharacter.WeaponName1 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                     break;
                                 }
                             case 1:
@@ -64,6 +72,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
                                     _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
                                     _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
+                                    if (damageItems[i].weaponRangeSpecified)
+                                        _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                     break;
                                 }
                             case 2:
@@ -71,6 +81,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
                                     _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
                                     _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
+                                    if (damageItems[i].weaponRangeSpecified)
+                                        _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                     break;
                                 }
                             default:
@@ -93,74 +105,17 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             int dexterityModifier = _printablePlayerCharacter.DexterityModifier;
             int attackBonus = 0;
             List<int> Specials = new List<int>();
-            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList().ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.specialSpecified) && (b.special==0)).Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
+            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList().ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.specialSpecified) && (b.special == 0)).Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
 
 
-            switch (Weapon.weaponProperty)
+            switch (FinesseWeapon( Weapon.weaponProperty))
             {
-                case 138:
+                case true:
                     {
                         if (dexterityModifier > strengthModifier)
                             attackBonus = profBonus + dexterityModifier;
                         else
                             attackBonus = profBonus + strengthModifier;
-                        break;
-                    }
-                case 257:
-                    {
-                        attackBonus = profBonus + dexterityModifier;
-                        if (Specials.Count > 0)
-                            attackBonus += 2;
-                        break;
-                    }
-                case 259:
-                    {
-                        if (dexterityModifier > strengthModifier)
-                            attackBonus = profBonus + dexterityModifier;
-                        else
-                            attackBonus = profBonus + strengthModifier;
-                        if (Specials.Count > 0)
-                            attackBonus += 2;
-                        break;
-                    }
-                case 512:
-                    {
-                        attackBonus = profBonus + strengthModifier;
-                        break;
-                    }
-                case 1026:
-                    {
-                        if (dexterityModifier > strengthModifier)
-                            attackBonus = profBonus + dexterityModifier;
-                        else
-                            attackBonus = profBonus + strengthModifier;
-                        break;
-                    }
-                case 1283:
-                    {
-                        if (dexterityModifier > strengthModifier)
-                            attackBonus = profBonus + dexterityModifier;
-                        else
-                            attackBonus = profBonus + strengthModifier;
-                        if (Specials.Count > 0)
-                            attackBonus += 2;
-                        break;
-                    }
-                case 1285:
-                    {
-                        attackBonus = profBonus + dexterityModifier;
-                        if (Specials.Count > 0)
-                            attackBonus += 2;
-                        break;
-                    }
-                case 1287:
-                    {
-                        if (dexterityModifier > strengthModifier)
-                            attackBonus = profBonus + dexterityModifier;
-                        else
-                            attackBonus = profBonus + strengthModifier;
-                        if (Specials.Count > 0)
-                            attackBonus += 2;
                         break;
                     }
                 default:
@@ -176,13 +131,23 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     switch (mod.type)
                     {
                         case 0: break;
-                        case 1: break;
+                        case 1: { if (mod.category == 0) { attackBonus += mod.value; } break; }
                         case 2: break;
-                        case 3: { if(mod.category == 0) { attackBonus += mod.value; }break; }
+                        case 3: { if (mod.category == 0) { attackBonus += mod.value; } break; }
                         case 4: break;
-                        case 5: break;
+                        case 5: { if (mod.category == 0) { attackBonus += mod.value; } break; }
                         default:
                             break;
+                    }
+                }
+            }
+            if (Weapon.name.ToLower().Contains("bow"))
+            {
+                foreach (int i in Specials)
+                {
+                    if (i == 0)
+                    {
+                        attackBonus += 2;
                     }
                 }
             }
@@ -210,42 +175,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     break;
             }
 
-
-            switch (Weapon.weaponProperty)
+            switch (FinesseWeapon( Weapon.weaponProperty))
             {
-                case 138:
+                case true:
                     {
                         if (dexterityModifier > strengthModifier)
                             damageBonus =  dexterityModifier;
                         else
                             damageBonus =  strengthModifier;
-                        damage = $"{Weapon.damage1H}";
-                        if (Specials.Count > 0)
-                            damageBonus += 2;
-                        break;
-                    }
-                case 292:
-                    {
-                        damageBonus = strengthModifier;
-                        damage = $"{Weapon.damage1H}";
-                        if (Specials.Count > 0)
-                            damageBonus += 2;
-                        break;
-                    }
-                case 512:
-                    {
-                        damageBonus =  strengthModifier;
-                        damage = $"{Weapon.damage1H} ({Weapon.damage2H})";
-                        if (Specials.Count > 0)
-                            damageBonus += 2;
-                        break;
-                    }
-                case 1026:
-                    {
-                        if (dexterityModifier > strengthModifier)
-                            damageBonus = dexterityModifier;
-                        else
-                            damageBonus = strengthModifier;
                         damage = $"{Weapon.damage1H}";
                         if (Specials.Count > 0)
                             damageBonus += 2;
@@ -269,17 +206,31 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     {
                         case 0: break;
                         case 1: break;
-                        case 2: break;
+                        case 2: { if (mod.category == 0) { damageBonus += mod.value; } break; }
                         case 3: break;
-                        case 4: { if (mod.category == 0){ damageBonus += mod.value; } break; }
+                        case 4: { if (mod.category == 0) { damageBonus += mod.value; } break; }
                         case 5: break;
+                        case 6: { if (mod.category == 0) { damageBonus += mod.value; } break; }
                         default:
                             break;
                     }
                 }
             }
+            
+            if (VersitileWeapon(Weapon.weaponProperty))
+                damage += $" ({Weapon.damage2H})";
 
             return $"{damage} + {damageBonus} / {damagetype}";
+        }
+
+        private bool FinesseWeapon(int weaponprop)
+        {
+            return (weaponprop & (1 << 1)) != 0;
+        }
+
+        private bool VersitileWeapon(int weaponprop)
+        {
+            return (weaponprop & (1 << 9)) != 0;
         }
     }
 }

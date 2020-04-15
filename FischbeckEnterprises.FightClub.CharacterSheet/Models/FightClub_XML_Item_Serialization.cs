@@ -54,6 +54,21 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         private int quantityField;
         private bool quantityFieldSpecified;
 
+        private int weaponRangeField;
+        private bool weaponRangeFieldSpecified;
+
+        private int weaponLongRangeField;
+        private bool weaponLongRangeFieldSpecified;
+
+        [System.Xml.Serialization.XmlElementAttribute("weaponRange")]
+        public int weaponRange { get { return this.weaponRangeField; } set { this.weaponRangeField = value; } }
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool weaponRangeSpecified { get { return this.weaponRangeFieldSpecified; } set { this.weaponRangeFieldSpecified = value; } }
+
+        [System.Xml.Serialization.XmlElementAttribute("weaponLongRange")]
+        public int weaponLongRange { get { return this.weaponLongRangeField; } set { this.weaponLongRangeField = value; } }
+        [System.Xml.Serialization.XmlIgnoreAttribute()]
+        public bool weaponLongRangeSpecified { get { return this.weaponLongRangeFieldSpecified; } set { this.weaponLongRangeFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("name")]
         public string name { get { return this.nameField; } set { this.nameField = value; } }

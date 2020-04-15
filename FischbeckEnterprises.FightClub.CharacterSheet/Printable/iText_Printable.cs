@@ -31,13 +31,19 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
         public PDFCreator(PrintablePlayerCharacter printablePlayerCharacter)
         {
             this._character = printablePlayerCharacter;
-            this._FinishedCharacterSheet = $"{System.IO.Directory.GetCurrentDirectory()}\\Output\\{printablePlayerCharacter.CharacterName}.pdf";
+            this._FinishedCharacterSheet = $"{System.IO.Directory.GetCurrentDirectory()}\\Output\\{printablePlayerCharacter.CharacterName.Replace("\"", "")}.pdf";
             if (_character.CharacterImageFilePath != null)
             {
+                string FileName = string.Empty;
+                if (_character.CharacterName.Contains("\"")) {FileName = _character.CharacterName.Replace("\"", ""); }
+                else { FileName = _character.CharacterName; }
+
                 if (File.Exists($"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterImageFilePath}.jpeg"))
-                    this.Character_Image = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterImageFilePath}.jpeg";
-                if (File.Exists($"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterName}.jpeg"))
-                    this.Character_Image = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterName}.jpeg";
+                    this.Character_Image = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{FileName}.jpeg";
+
+                if (File.Exists($"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{FileName}.jpeg"))
+                    this.Character_Image = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{FileName}.jpeg";
+
                 if (File.Exists(_character.FactionImageFilePath))
                     this.Faction_Image = _character.FactionImageFilePath;
             }
@@ -54,7 +60,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
 
                 form.GetField("charactername").SetValue($"{_character.CharacterName}").SetFontSizeAutoScale();
                 form.GetField("classlevel").SetValue($"{_character.ClassLevel}").SetFontSizeAutoScale();
-                (form.GetField("background").SetValue($"{_character.Background}")).SetFontSize(FontSize(_character.Background.Length));
+                (form.GetField("background").SetValue($"{_character.Background}")).SetFontSize(FontSize(_character.Background.Length) -1);
                 form.GetField("race").SetValue($"{_character.Race}").SetFontSizeAutoScale();
                 form.GetField("playername").SetValue($"{_character.PlayerName}").SetFontSizeAutoScale();
                 form.GetField("alignment").SetValue($"{_character.Alignment}").SetFontSizeAutoScale();
