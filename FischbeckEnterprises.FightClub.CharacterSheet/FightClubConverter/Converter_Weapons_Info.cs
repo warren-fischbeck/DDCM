@@ -12,7 +12,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         {
             try
             {
-                List<Item> damageItems = _pc.character.FirstOrDefault().item.Where(x => x.damageTypeSpecified).OrderByDescending(x => x.slot).ToList();
+                List<Item> damageItems = _pc.character.FirstOrDefault().item
+                    .Where(x => x.damageTypeSpecified).OrderByDescending(x => x.slot).ThenBy(a => a.name).ToList();
 
                 if (damageItems.Count >= 3)
                 {
@@ -105,10 +106,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             int dexterityModifier = _printablePlayerCharacter.DexterityModifier;
             int attackBonus = 0;
             List<int> Specials = new List<int>();
-            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList().ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.specialSpecified) && (b.special == 0)).Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
+           
+            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
+                .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.specialSpecified) && (b.special == 0))
+                    .Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
 
-
-            switch (FinesseWeapon( Weapon.weaponProperty))
+            switch (IsFinesseWeapon( Weapon.weaponProperty))
             {
                 case true:
                     {
@@ -162,7 +165,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             string damage = string.Empty;
             string damagetype = string.Empty;
             List<int> Specials = new List<int>();
-            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList().ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 2)).Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
+            
+            _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
+                .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 2))
+                    .Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
 
 
             switch (Weapon.damageType)
@@ -175,7 +181,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     break;
             }
 
-            switch (FinesseWeapon( Weapon.weaponProperty))
+            switch (IsFinesseWeapon( Weapon.weaponProperty))
             {
                 case true:
                     {
@@ -217,20 +223,32 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 }
             }
             
-            if (VersitileWeapon(Weapon.weaponProperty))
+            if (IsVersitileWeapon(Weapon.weaponProperty))
                 damage += $" ({Weapon.damage2H})";
 
             return $"{damage} + {damageBonus} / {damagetype}";
         }
+        
+        private bool IsAmmoWeapon(int weaponProp)  { return (weaponProp & (1 << 0)) != 0;  }
 
-        private bool FinesseWeapon(int weaponprop)
-        {
-            return (weaponprop & (1 << 1)) != 0;
-        }
+        private bool IsFinesseWeapon(int weaponprop) {  return (weaponprop & (1 << 1)) != 0; }
 
-        private bool VersitileWeapon(int weaponprop)
-        {
-            return (weaponprop & (1 << 9)) != 0;
-        }
+        private bool IsHeavyWeapon(int weaponProp) { return (weaponProp & (1 << 2)) != 0; }
+
+        private bool IsLightWeapon(int weaponProp) { return (weaponProp & (1 << 3)) != 0; }
+
+        private bool IsLoadingWeapon(int weaponProp) { return (weaponProp & (1 << 4)) != 0; }
+
+        private bool IsReachWeapon(int weaponProp) { return (weaponProp & (1 << 5)) != 0; }
+
+        private bool IsSpecialWeapon(int weaponProp) { return (weaponProp & (1 << 6)) != 0; }
+ 
+        private bool IsThrownWeapon(int weaponProp) {  return (weaponProp & (1 << 7)) != 0; }
+
+        private bool IsTwoHandedWeapon(int weaponProp) { return (weaponProp & (1 << 8)) != 0; }
+        
+        private bool IsVersitileWeapon(int weaponprop) {  return (weaponprop & (1 << 9)) != 0; }
+
+        private bool IsMartialWeapon(int weaponProp) {  return (weaponProp & (1 << 10)) != 0;  }
     }
 }

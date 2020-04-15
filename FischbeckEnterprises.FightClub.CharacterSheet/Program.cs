@@ -2,7 +2,6 @@
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
-using FischbeckEnterprises.FightClub.CharacterSheet.Converter;
 using FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter;
 using FischbeckEnterprises.FightClub.CharacterSheet.Models;
 using FischbeckEnterprises.FightClub.CharacterSheet.Printable;
@@ -40,7 +39,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                     using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                     {
                         collectionPlayerCharacter = (data)collectionPlayerCharacterSerializer.Deserialize(fileStream);
-                        new XMLConverter(collectionPlayerCharacter);
+                        //new XMLConverter(collectionPlayerCharacter);
                     }
                 }
             }
