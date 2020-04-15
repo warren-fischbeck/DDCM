@@ -15,6 +15,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 List<Item> damageItems = _pc.character.FirstOrDefault().item
                     .Where(x => x.damageTypeSpecified).OrderByDescending(x => x.slot).ThenBy(a => a.name).ToList();
 
+                if (damageItems.Where(a => a.slot > 0).Select(a => a).ToList().Count > 1)
+                {
+                    _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
+                        .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 2))
+                            .Select(c => c).FirstOrDefault().special = 0));
+                }
+
                 if (damageItems.Count >= 3)
                 {
                     for (int i = 0; i < 3; i++)
@@ -144,7 +151,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
             }
-            if (Weapon.name.ToLower().Contains("bow"))
+            if (Weapon.weaponRangeSpecified && !IsThrownWeapon(Weapon.weaponProperty))
             {
                 foreach (int i in Specials)
                 {
@@ -185,30 +192,40 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             {
                 case true:
                     {
-                        if (dexterityModifier > strengthModifier)
-                            damageBonus =  dexterityModifier;
-                        else
-                            damageBonus =  strengthModifier;
+                        if (Weapon.slot != 2)
+                        {
+                            if (dexterityModifier > strengthModifier)
+                                damageBonus = dexterityModifier;
+                            else
+                                damageBonus = strengthModifier;
+                        }
                         damage = $"{Weapon.damage1H}";
-                        if (Specials.Count > 0)
+                        if (Specials.Count > 0 && Weapon.slot != 2)
                             damageBonus += 2;
                         break;
                     }
                 default:
                     {
-                        damageBonus =  strengthModifier;
+                        if (Weapon.slot != 2)
+                        {
+                            damageBonus = strengthModifier;
+                        }
                         damage = $"{Weapon.damage1H}";
-                        if (Specials.Count > 0)
+                        if (Specials.Count > 0 && Weapon.slot != 2)
                             damageBonus += 2;
                         break;
                     }
             }
 
             if (IsTwoHandedWeapon(Weapon.weaponProperty))
-                damage = $"{Weapon.damage2H}";
+                if (Weapon.damage2HSpecified)
+                    damage = $"{Weapon.damage2H}";
+                else
+                    damage = $"{Weapon.damage1H}";
 
             if (IsVersitileWeapon(Weapon.weaponProperty))
                 damage += $" ({Weapon.damage2H})";
+
 
             if (Weapon.modSpecified)
             {
