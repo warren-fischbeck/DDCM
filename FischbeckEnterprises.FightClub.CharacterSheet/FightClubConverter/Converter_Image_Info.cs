@@ -64,5 +64,18 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 }
             }
         }
+
+        private void ImageCleanup()
+        {
+            string directory = $"{System.IO.Directory.GetCurrentDirectory()}\\Images";
+            FileInfo[] files = new DirectoryInfo(directory).GetFiles();
+            foreach (FileInfo file in files)
+            {
+                if (file.Extension.Contains("jpeg"))
+                {
+                    file.Delete();
+                }
+            }
+        }
     }
 }

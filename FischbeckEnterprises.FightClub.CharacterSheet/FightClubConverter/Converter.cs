@@ -44,6 +44,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             AllMods();
             Weapons();
             new PDFCreator(_printablePlayerCharacter);
+            ImageCleanup();
 
             return _printablePlayerCharacter;
         }
