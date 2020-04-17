@@ -14,12 +14,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             {
                 List<Item> damageItems = _pc.character.FirstOrDefault().item
                     .Where(x => x.damageTypeSpecified).OrderByDescending(x => x.slot).ThenBy(a => a.name).ToList();
+                bool OnlyOneEquipedWeapon = true;
 
                 if (damageItems.Where(a => a.slot > 0).Select(a => a).ToList().Count > 1)
                 {
                     _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
                         .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 2))
                             .Select(c => c).FirstOrDefault().special = 0));
+                    OnlyOneEquipedWeapon = false;
                 }
                 for (int i = 0; i < damageItems.Count; i++)
                 {
@@ -29,7 +31,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
                                 _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
-                                _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
+                                _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i], OnlyOneEquipedWeapon);
                                 if (damageItems[i].weaponRangeSpecified)
                                     _printablePlayerCharacter.WeaponName1 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                 break;
@@ -38,7 +40,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
                                 _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
-                                _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
+                                _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i], OnlyOneEquipedWeapon);
                                 if (damageItems[i].weaponRangeSpecified)
                                     _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                 break;
@@ -47,7 +49,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
                                 _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
-                                _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
+                                _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i], OnlyOneEquipedWeapon);
                                 if (damageItems[i].weaponRangeSpecified)
                                     _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                 break;
@@ -121,7 +123,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             return $"+ {attackBonus}";
         }
     
-        private string Damage(Item Weapon)
+        private string Damage(Item Weapon, bool OnlyOneWeapon)
         {
             int strengthModifier = _printablePlayerCharacter.StrengthModifier;
             int dexterityModifier = _printablePlayerCharacter.DexterityModifier;
@@ -166,6 +168,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         if (Weapon.slot != 2)
                         {
                             damageBonus = strengthModifier;
+                        }
+                        if (OnlyOneWeapon)
+                        {
+                            damageBonus += strengthModifier;
                         }
                         damage = $"{Weapon.damage1H}";
                         if (Specials.Count > 0 && Weapon.slot != 2)
