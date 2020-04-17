@@ -21,83 +21,40 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 2))
                             .Select(c => c).FirstOrDefault().special = 0));
                 }
-
-                if (damageItems.Count >= 3)
+                for (int i = 0; i < damageItems.Count; i++)
                 {
-                    for (int i = 0; i < 3; i++)
+                    switch (i)
                     {
-                        switch (i)
-                        {
-                            case 0:
-                                {
-                                    _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
-                                    _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
-                                    _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
-                                    if (damageItems[i].weaponRangeSpecified)
-                                        _printablePlayerCharacter.WeaponName1 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
-                                    break;
-                                }
-                            case 1:
-                                {
-                                    _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
-                                    _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
-                                    _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
-                                    if (damageItems[i].weaponRangeSpecified)
-                                        _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
-                                    break;
-                                }
-                            case 2:
-                                {
-                                    _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
-                                    _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
-                                    _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
-                                    if (damageItems[i].weaponRangeSpecified)
-                                        _printablePlayerCharacter.WeaponName3 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
-                                    break;
-                                }
-                            default:
+                        case 0:
+                            {
+                                _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
+                                _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
+                                _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
+                                if (damageItems[i].weaponRangeSpecified)
+                                    _printablePlayerCharacter.WeaponName1 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                 break;
-                        }
-                    }
-                }
-                else
-                {
-                    for (int i = 0; i < damageItems.Count; i++)
-                    {
-                        switch (i)
-                        {
-                            case 0:
-                                {
-                                    _printablePlayerCharacter.WeaponName1 = damageItems[i].name;
-                                    _printablePlayerCharacter.WeaponAttackBonus1 = AttackBonus(damageItems[i]);
-                                    _printablePlayerCharacter.WeaponDamageAndType1 = Damage(damageItems[i]);
-                                    if (damageItems[i].weaponRangeSpecified)
-                                        _printablePlayerCharacter.WeaponName1 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
-                                    break;
-                                }
-                            case 1:
-                                {
-                                    _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
-                                    _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
-                                    _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
-                                    if (damageItems[i].weaponRangeSpecified)
-                                        _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
-                                    break;
-                                }
-                            case 2:
-                                {
-                                    _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
-                                    _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
-                                    _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
-                                    if (damageItems[i].weaponRangeSpecified)
-                                        _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
-                                    break;
-                                }
-                            default:
+                            }
+                        case 1:
+                            {
+                                _printablePlayerCharacter.WeaponName2 = damageItems[i].name;
+                                _printablePlayerCharacter.WeaponAttackBonus2 = AttackBonus(damageItems[i]);
+                                _printablePlayerCharacter.WeaponDamageAndType2 = Damage(damageItems[i]);
+                                if (damageItems[i].weaponRangeSpecified)
+                                    _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                 break;
-                        }
+                            }
+                        case 2:
+                            {
+                                _printablePlayerCharacter.WeaponName3 = damageItems[i].name;
+                                _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
+                                _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i]);
+                                if (damageItems[i].weaponRangeSpecified)
+                                    _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
+                                break;
+                            }
+                        default:
+                            break;
                     }
-
                 }
             }
             catch
@@ -245,9 +202,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
             }
-            
-
-
             return $"{damage} + {damageBonus} / {damagetype}";
         }
         
