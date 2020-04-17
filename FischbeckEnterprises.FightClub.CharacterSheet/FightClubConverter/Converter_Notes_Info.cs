@@ -11,18 +11,27 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         private void Notes()
         {
             string notes = string.Empty;
-            if (_pc.character.Where(a => a.noteSpecificed).FirstOrDefault() != null)
+            List<Note> _notes = new List<Note>();
+            _pc.character.ForEach(e => e.note.ToList().ForEach(a => _notes.Add(a)));
+
+            if (_notes.Count > 0)
             {
-                List<Note> _notes = _pc.character.FirstOrDefault().note.ToList();
                 foreach (Note n in _notes)
                 {
-                    if (string.IsNullOrEmpty(notes))
+                    if (n.name.ToLower() == _printablePlayerCharacter.FactionName.ToLower())
                     {
-                        notes = $"*** {n.name} ***\n{n.text}";
+                        _printablePlayerCharacter.Allies = n.text;
                     }
                     else
                     {
-                        notes += $"\n\n*** {n.name} ***\n{n.text}";
+                        if (string.IsNullOrEmpty(notes))
+                        {
+                            notes = $"*** {n.name} ***\n{n.text}";
+                        }
+                        else
+                        {
+                            notes += $"\n\n*** {n.name} ***\n{n.text}";
+                        }
                     }
                 }
             }
