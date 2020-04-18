@@ -1388,36 +1388,52 @@
 	<autolevel level="3">
 	  <feature optional="YES">
 	    <name>Martial Archetype: Eminusque</name>
-        <text>The archetypical eminusque is a master of ranged combat.  It doesn't matter if you are engaging a foe with a bow, a thrown dagger or a net, you are able to push the limits of what is possible with any ranged weapon.  Your training and education has made you the pinicle of distanced fighting and you can rain down devistating blows.</text>
+        <text>The archetypical eminusque is a master of ranged combat.  It doesn't matter if you are engaging a foe with a bow, a thrown dagger or a net, you are able to push the limits of what is possible with any ranged weapon.  Your training and education has made you the pinnacle of distanced fighting and you can rain down devastating blows.</text>
         <text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
 	  </feature>
 	  <feature optional="YES">
         <name>Combat Archer (Eminusque)</name>
-        <text>When you choose this archtype at 3rd level, you master several ranged combat skills.  You can also customize ranged weapons to alter their properties.</text>
+        <text>When you choose this archetype at 3rd level, you master several ranged combat skills.  You can also customize ranged weapons to alter their properties.</text>
 		<text />
-		<text>  You ignore disadvantage on ranged weapon attack rolls when a hostile creature is within 5 feet of you.</text>
+		<text>You ignore disadvantage on ranged weapon attack rolls when a hostile creature is within 5 feet of you.</text>
 		<text />
-		<text>  You ignore the loading quality of crossbows with which you are proficient.</text>
+		<text>You ignore the loading quality of crossbows with which you are proficient.</text>
 		<text />
-		<text>  Your ranged weapon attacks ignore half cover and three-quarters cover.</text>
-		<text />
-		<text>  You get extra performance from any ranged weapon that you customize.  Customizing an item requires you to spend a short rest making modifications to it.  Once you complete this customization, you can do one of the following.  Add the finesse property to the customized item if it doesn't have it or remove the heavy condition if the customized item has it.</text>
+		<text>Your ranged and thrown weapon attacks ignore half cover and three-quarters cover.</text>
 		<text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
       </feature>
+	  <feature optional="YES">
+		<name>Weapon Smith (Eminusque)</name>
+		<text>Starting at 3rd level, you can make modifications to your ranged and thrown weapons.  These modifications make the weapons more effective in your hands.  A weapon can only benefit from one modification at a time.</text>
+		<text />
+		<text>You gain the bow makers tool proficiency.</text>
+		<text />
+		<text>You get extra performance from any ranged weapon that you customize.  Customizing an item requires you to spend a short rest making modifications to it.</text>
+		<text />
+		<text>Once you complete this customization, you can do one of the following.  
+	• Add the finesse property to the customized item if it doesn't have it. 
+	• Remove the heavy condition if the customized item has it.
+	• Add a +1 to damage rolls.</text>
+		<text />
+        <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
+	  </feature>
 	  <feature optional="YES">
         <name>Trick Shot (Eminusque)</name>
         <text>When you choose this archetype at 3rd level, you learn trick shots that are fueled by special dice called superiority dice.</text>
         <text />
         <text>Trick Shots: You learn three trick shots of your choice. Many trick shots enhance an attack in some way. You can use only one trick shot per attack.</text>
-        <text>    You learn two additional trick shots of your choice at 7th, 10th, and 15th level. Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+		<text />
+        <text>You learn two additional trick shots of your choice at 7th, 10th, and 15th level. Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
         <text />
         <text>Superiority Dice: You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
-        <text>    You gain another superiority die at 7th level and one more at 15th level.</text>
+		<text />
+        <text>You gain another superiority die at 7th level and one more at 15th level.</text>
         <text />
         <text>Saving Throws: Some of your trick shots require your target to make a saving throw to resist the trick shot&#39;s effects. The saving throw DC is calculated as follows:</text>
-        <text>    Trick Shot save DC = 8 + your proficiency bonus +  Strngth or Dexterity modifier (your choice).</text>
+		<text />
+        <text>Trick Shot save DC = 8 + your proficiency bonus +  Strngth or Dexterity modifier (your choice).</text>
         <text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
       </feature> 
@@ -1432,6 +1448,7 @@
 	  <feature optional="YES">
         <name>Find The Weak Spot (Eminusque)</name>
         <text>Starting at 7th level, you are exceptionaly good at finding the weak spot in an enemy's defenses.</text>
+		<text />
 		<text>Before you make an attack with a ranged or thrown weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.</text>		
         <text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
@@ -1440,6 +1457,10 @@
         <name>Additional Trick Shots (Eminusque)</name>
         <text>at 7th level, you learn two additional Trick Shots.</text>
         <text />
+		<text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+		<text />
+		<text>Superiority Dice: You have five superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
+		<text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
       </feature>
       <counter>
@@ -1454,6 +1475,8 @@
         <name>Additional Trick Shots (Eminusque)</name>
         <text>At 10th level, you learn two additional Trick Shots.</text>
         <text />
+		<text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+		<text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
       </feature>
       <feature optional="YES">
@@ -1469,6 +1492,10 @@
         <name>Additional Trick Shots (Eminusque)</name>
         <text>At 15th level, you learn two additional Trick Shots.</text>
         <text />
+		<text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+		<text />
+		<text>Superiority Dice: You have six superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
+		<text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
       </feature>
       <feature optional="YES">
@@ -1479,7 +1506,7 @@
       </feature>
       <counter>
         <name>Superiority Die</name>
-        <value>5</value>
+        <value>6</value>
         <reset>S</reset>
       </counter>	  
 	</autolevel>

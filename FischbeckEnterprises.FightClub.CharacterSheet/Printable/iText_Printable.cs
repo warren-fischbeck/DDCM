@@ -35,7 +35,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             if (_character.CharacterImageFilePath != null)
             {
                 string FileName = string.Empty;
-                if (_character.CharacterName.Contains("\"")) {FileName = _character.CharacterName.Replace("\"", ""); }
+                if (_character.CharacterName.Contains("\"")) { FileName = _character.CharacterName.Replace("\"", ""); }
                 else { FileName = _character.CharacterName; }
 
                 if (File.Exists($"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_character.CharacterImageFilePath}.jpeg"))
@@ -60,7 +60,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
 
                 form.GetField("charactername").SetValue($"{_character.CharacterName}").SetFontSizeAutoScale();
                 form.GetField("classlevel").SetValue($"{_character.ClassLevel}").SetFontSizeAutoScale();
-                (form.GetField("background").SetValue($"{_character.Background}")).SetFontSize(FontSize(_character.Background.Length) -1);
+                (form.GetField("background").SetValue($"{_character.Background}")).SetFontSize(FontSize(_character.Background.Length) - 1);
                 form.GetField("race").SetValue($"{_character.Race}").SetFontSizeAutoScale();
                 form.GetField("playername").SetValue($"{_character.PlayerName}").SetFontSizeAutoScale();
                 form.GetField("alignment").SetValue($"{_character.Alignment}").SetFontSizeAutoScale();
@@ -265,7 +265,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                     workingform.GetField("allies").SetValue($"{_character.Allies}");
                     workingform.GetField("factionname").SetValue($"{_character.FactionName}").SetFontSizeAutoScale();
                     workingform.GetField("backstory1").SetValue($"{_character.BackStory}").SetFontSize(FontSize(_character.BackStory.Length) + 1);
-                    workingform.GetField("featsandtraits2").SetValue($"{_character.FeatsAndTraits2}").SetFontSizeAutoScale();
+                    workingform.GetField("featsandtraits2").SetValue($"{_character.FeatsAndTraits2}").SetFontSize(FontSize(_character.FeatsAndTraits2.Length) + 1);
                     workingform.GetField("equipment2").SetValue($"{_character.Equipment2}").SetFontSize(FontSize(_character.Equipment2.Length) + 1);
 
                     if (!string.IsNullOrEmpty(Character_Image) && File.Exists(Character_Image))
@@ -276,7 +276,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                         document.Add(image);
                     }
 
-                    if(!string.IsNullOrEmpty(Faction_Image) && File.Exists(Faction_Image))
+                    if (!string.IsNullOrEmpty(Faction_Image) && File.Exists(Faction_Image))
                     {
                         iText.IO.Image.ImageData imageData = ImageDataFactory.Create(Faction_Image);
                         Image image = new Image(imageData).ScaleToFit(106, 106).SetFixedPosition(1, 453, 510);
@@ -324,7 +324,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             List<string> _10th = new List<string>() { "1001", "1002", "1003", "1004", "1005", "1006", "1007" };
 
             List<Spell> _0 = spellCasting.SpellsKnown.Where(x => x.Level == 0).OrderBy(n => n.Name).Take(11).ToList();
-            List<Spell> _1 = spellCasting.SpellsKnown.Where(x => x.Level == 1).OrderByDescending(a=>a.prepared).ThenBy(n => n.Name).Take(12).ToList();
+            List<Spell> _1 = spellCasting.SpellsKnown.Where(x => x.Level == 1).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(12).ToList();
             List<Spell> _2 = spellCasting.SpellsKnown.Where(x => x.Level == 2).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(12).ToList();
             List<Spell> _3 = spellCasting.SpellsKnown.Where(x => x.Level == 3).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(12).ToList();
             List<Spell> _4 = spellCasting.SpellsKnown.Where(x => x.Level == 4).OrderByDescending(a => a.prepared).ThenBy(n => n.Name).Take(9).ToList();
@@ -365,9 +365,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                             comp += $", {s}";
                         }
                     }
-                        string Name = $"{_1[i].Name}";
+                    string Name = $"{_1[i].Name}";
                     field.SetValue(Name);
-                    
+
                 }
             }
 
@@ -502,13 +502,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             {
                 case int i when (length > 20 && length < 49): { _fontSize = 8; break; }
                 case int i when (length > 50 && length < 100): { _fontSize = 6; break; }
-                case int i when (length > 100): { _fontSize = 5; break; }
+                case int i when (length > 100 && length < 300): { _fontSize = 5; break; }
+                case int i when (length > 300): { _fontSize = 4; break; }
                 default: { _fontSize = 11; break; }
             }
             return _fontSize;
         }
     }
-    
+
     public partial class SpellCasting
     {
         public string SpellCastingClass { get; set; }

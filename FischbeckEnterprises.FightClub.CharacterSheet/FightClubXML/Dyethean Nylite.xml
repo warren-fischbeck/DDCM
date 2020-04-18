@@ -107,9 +107,18 @@ Source: Player&#39;s Handbook, p. 72</text><expanded>0</expanded></feat><feat><n
 
   Your ranged weapon attacks ignore half cover and three-quarters cover.
 
-  You get extra performance from any ranged weapon that you customize.  Customizing an item requires you to spend a short rest making modifications to it.  Once you complete this customization, you can do one of the following.  Add the finesse property to the customized item if it doesn&#39;t have it or remove the heavy condition if the customized item has it.
+Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text><optional>1</optional><expanded>0</expanded></feat><feat><optional>1</optional><expanded>0></expanded><name>Weapon Smith (Eminusque)</name><text>Starting at 3rd level, you can make modifications to your ranged and thrown weapons.  These modifications make the weapons more effective in your hands.  A weapon can only benefit from one modification at a time.
 
-Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text><optional>1</optional><expanded>0</expanded></feat><feat><name>Martial Archetype</name><text>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+You gain the bow makers tool proficiency.
+
+You get extra performance from any ranged weapon that you customize.  Customizing an item requires you to spend a short rest making modifications to it.
+
+Once you complete this customization, you can do one of the following.  
+	• Add the finesse property to the customized item if it doesn't have it. 
+	• Remove the heavy condition if the customized item has it.
+	• Add a +1 to damage rolls.
+	
+	Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text></feat><feat><name>Martial Archetype</name><text>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 Source: Player&#39;s Handbook, p. 72</text><expanded>0</expanded></feat><feat><name>Martial Archetype: Eminusque</name><text>The archetypical eminusque is a master of ranged combat.  It doesn&#39;t matter if you are engaging a foe with a bow, a thrown dagger or a net, you are able to push the limits of what is possible with any ranged weapon.  Your training and education has made you the pinicle of distanced fighting and you can rain down devistating blows.
 
@@ -1552,8 +1561,7 @@ Source: Player&#39;s Handbook p. 150</text><type>7</type><slot>1</slot><quantity
 
 Source: Custom rule to handle speed reduction</text><slot>1</slot><ac>-1</ac><strength>-1</strength><mod><type>13</type><value>-10</value></mod></item><item><name>Heavily Encumbered</name><text>The weight of your equipment is more than 15 times your strength score
 
-Source: Custom rule to handle speed reduction</text><ac>-1</ac><strength>-1</strength><mod><type>13</type><value>-10</value></mod></item><item><name>Dagger</name><text>Proficiency: simple, dagger
-Source: Player&#39;s Handbook p. 149</text><type>5</type><value>2.0</value><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>40</weaponRange><weaponLongRange>60</weaponLongRange><ac>-1</ac><strength>-1</strength><mod><type>1</type></mod></item><item><name>Studded Leather Armor +2</name><detail>very rare</detail><text>You have a +2 bonus to AC while wearing this armor.
+Source: Custom rule to handle speed reduction</text><ac>-1</ac><strength>-1</strength><mod><type>13</type><value>-10</value></mod></item><item><name>Studded Leather Armor +2</name><detail>very rare</detail><text>You have a +2 bonus to AC while wearing this armor.
 
 Source: Dungeon Master&#39;s Guide p. 152</text><type>1</type><magic>1</magic><slot>5</slot><weight>13.0</weight><ac>12</ac><mod><type>10</type><value>2</value></mod></item><item><name>Longbow +3</name><detail>uncommon</detail><text>You have a +3 bonus to attack and damage rolls made with this weapon.
 
@@ -1590,7 +1598,7 @@ Range: A weapon that can be used to make a ranged attack has a range shown in pa
 Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
 Proficiency: simple, dagger
-Source: Dungeon Master&#39;s Guide p. 213</text><type>5</type><magic>1</magic><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>20</weaponRange><weaponLongRange>60</weaponLongRange><ac>-1</ac><strength>-1</strength><mod><type>1</type><value>2</value></mod><mod><type>2</type><value>2</value></mod><mod><type>1</type></mod></item><note><name>House Nes&#39;Bleaton </name><text>House that took him in as a young elf.</text><imageData><uid>1176</uid></imageData></note><slots>0,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,2,0,0,0,0,0,0,0,0,</slotsCurrent><money>4.75</money></character>
+Source: Dungeon Master&#39;s Guide p. 213</text><type>5</type><magic>1</magic><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>40</weaponRange><weaponLongRange>60</weaponLongRange><ac>-1</ac><strength>-1</strength><mod><type>1</type><value>2</value></mod><mod><type>2</type><value>2</value></mod><mod><type>1</type></mod></item><note><name>House Nes&#39;Bleaton </name><text>House that took him in as a young elf.</text><imageData><uid>1176</uid></imageData></note><slots>0,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,2,0,0,0,0,0,0,0,0,</slotsCurrent><money>4.75</money></character>
 <imageData><uid>1175</uid><encoded>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
 AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
 AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAMEAjQDASIA

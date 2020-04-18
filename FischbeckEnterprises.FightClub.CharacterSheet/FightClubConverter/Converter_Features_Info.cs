@@ -38,7 +38,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                     {
                                         int start = f.text.ToLower().IndexOf("source", 0);
                                         string Source = f.text.Substring(start, f.text.Length - start);
-                                        _feature = $"{_feature}\n{Source}";
+                                        _feature = $"{_feature}\n     {Source}";
                                     }
                                 }
                                 else
@@ -68,7 +68,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         {
                             int start = feat.text.ToLower().IndexOf("source", 0);
                             string Source = feat.text.Substring(start, feat.text.Length - start);
-                            _feature2 += $"\n{Source}";
+                            _feature2 += $"\n     {Source}";
                         }
                     }
                 }
@@ -84,7 +84,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         {
                             int start = feat.text.ToLower().IndexOf("source", 0);
                             string Source = feat.text.Substring(start, feat.text.Length - start);
-                            _feature2 += $"\n{Source}";
+                            _feature2 += $"\n     {Source}";
                         }
                     }
                 }
