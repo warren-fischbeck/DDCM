@@ -165,13 +165,9 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 default:
                     {
-                        if (Weapon.slot != 2)
+                        if (Weapon.slot != 2 || OnlyOneWeapon)
                         {
                             damageBonus = strengthModifier;
-                        }
-                        if (OnlyOneWeapon)
-                        {
-                            damageBonus += strengthModifier;
                         }
                         damage = $"{Weapon.damage1H}";
                         if (Specials.Count > 0 && Weapon.slot != 2)
