@@ -15,7 +15,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="FightClubXML\Dyethean Nylite.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="FightClubXML\Jerquet Blight.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

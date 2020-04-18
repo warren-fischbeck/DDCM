@@ -42,6 +42,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             FactionImage();
             BuildSpellCasting();
             AllMods();
+            GenerateSkillModifiers();
             Weapons();
             new PDFCreator(_printablePlayerCharacter);
             ImageCleanup();

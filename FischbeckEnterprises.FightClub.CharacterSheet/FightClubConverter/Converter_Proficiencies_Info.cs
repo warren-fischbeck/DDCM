@@ -61,7 +61,44 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
             }
-            GenerateSkillModifiers();
+            Expertise();
+            //GenerateSkillModifiers();
+        }
+
+        private void Expertise()
+        {
+            List<int> ProficiencyExpertise = new List<int>();
+            _pc.character.ForEach(e => e.feat.Where(a => a.mod.Count > 0).Select(b => b.mod).ToList().ForEach(a=> a.Where(b=>b.category==4).ToList().ForEach(c=> ProficiencyExpertise.Add(c.type))));
+            _pc.character.ForEach(e => e.@class.ToList().ForEach(a => a.feat.Where(b => b.mod.Count > 0)
+                .Select(a => a.mod.Where(b => b.category == 4)).ToList().Select(a=>a).ToList()
+                    .ForEach(d=>d.ToList().ForEach(e=>ProficiencyExpertise.Add(e.type)))));
+            
+            foreach (var item in ProficiencyExpertise)
+            {
+                switch (item)
+                {
+                    case 0: { if (!_printablePlayerCharacter.ProficencyAcrobatics) { _printablePlayerCharacter.ProficencyAcrobatics = true; } _printablePlayerCharacter.ExpertiseAcrobatics = true; break; }
+                    case 1: { if (!_printablePlayerCharacter.ProficencyAnimalHandling) { _printablePlayerCharacter.ProficencyAnimalHandling = true; } _printablePlayerCharacter.ExpertiseAnimalHandling = true; break; }
+                    case 2: { if (!_printablePlayerCharacter.ProficencyArcana) { _printablePlayerCharacter.ProficencyArcana = true; } _printablePlayerCharacter.ExpertiseArcana = true; break;  }
+                    case 3: { if (!_printablePlayerCharacter.ProficencyAthletics) { _printablePlayerCharacter.ProficencyAthletics = true; } _printablePlayerCharacter.ExpertiseAthletics = true; break; }
+                    case 4: { if (!_printablePlayerCharacter.ProficencyDeception) { _printablePlayerCharacter.ProficencyDeception = true; } _printablePlayerCharacter.ExpertiseDeception = true; break; }
+                    case 5: { if (!_printablePlayerCharacter.ProficencyHistory) { _printablePlayerCharacter.ProficencyHistory = true; } _printablePlayerCharacter.ExpertiseHistory = true; break; }
+                    case 6: { if (!_printablePlayerCharacter.ProficencyInsight) { _printablePlayerCharacter.ProficencyInsight = true; } _printablePlayerCharacter.ExpertiseInsight = true; break; }
+                    case 7: { if (!_printablePlayerCharacter.ProficencyIntimidation) { _printablePlayerCharacter.ProficencyIntimidation = true; } _printablePlayerCharacter.ExpertiseIntimidation = true; break; }
+                    case 8: { if (!_printablePlayerCharacter.ProficencyInvestigation) { _printablePlayerCharacter.ProficencyInvestigation = true; } _printablePlayerCharacter.ExpertiseInvestigation = true; break; }
+                    case 9: { if (!_printablePlayerCharacter.ProficencyMedicine) { _printablePlayerCharacter.ProficencyMedicine = true; } _printablePlayerCharacter.ExpertiseMedicine = true; break; }
+                    case 10: { if (!_printablePlayerCharacter.ProficencyNature) { _printablePlayerCharacter.ProficencyNature = true; } _printablePlayerCharacter.ExpertiseNature = true; break; }
+                    case 11: { if (!_printablePlayerCharacter.ProficencyPerception) { _printablePlayerCharacter.ProficencyPerception = true; } _printablePlayerCharacter.ExpertisePerception = true; break; }
+                    case 12: { if (!_printablePlayerCharacter.ProficencyPerformance) { _printablePlayerCharacter.ProficencyPerformance = true; } _printablePlayerCharacter.ExpertisePerformance = true; break; }
+                    case 13: { if (!_printablePlayerCharacter.ProficencyPersuasion) { _printablePlayerCharacter.ProficencyPersuasion = true; } _printablePlayerCharacter.ExpertisePersuasion = true; break; }
+                    case 14: { if (!_printablePlayerCharacter.ProficencyReligion) { _printablePlayerCharacter.ProficencyReligion = true; } _printablePlayerCharacter.ExpertiseReligion = true; break; }
+                    case 15: { if (!_printablePlayerCharacter.ProficencySlieghtOfHand) { _printablePlayerCharacter.ProficencySlieghtOfHand = true; } _printablePlayerCharacter.ExpertiseSlieghtOfHand = true; break; }
+                    case 16: { if (!_printablePlayerCharacter.ProficencyStealth) { _printablePlayerCharacter.ProficencyStealth = true; } _printablePlayerCharacter.ExpertiseStealth = true; break; }
+                    case 17: { if (!_printablePlayerCharacter.ProficencySurvival) { _printablePlayerCharacter.ProficencySurvival = true; } _printablePlayerCharacter.ExpertiseSurvival = true; break; }
+                    default:
+                        break;
+                }
+            }
         }
 
         private void GenerateProficienyBonus()

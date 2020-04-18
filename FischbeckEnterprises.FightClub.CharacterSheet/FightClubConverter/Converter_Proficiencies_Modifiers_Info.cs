@@ -110,7 +110,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 _printablePlayerCharacter.InsightModifier += _printablePlayerCharacter.ProficencyBonus;
             if (_printablePlayerCharacter.ExpertiseInsight)
                 _printablePlayerCharacter.InsightModifier += _printablePlayerCharacter.ProficencyBonus;
-            _printablePlayerCharacter.PassiveInsight = _printablePlayerCharacter.InsightModifier += 10;
+            _printablePlayerCharacter.PassiveInsight = _printablePlayerCharacter.InsightModifier + 10;
 
             _printablePlayerCharacter.MedicineModifier = _printablePlayerCharacter.WisdomModifier;
             if (_printablePlayerCharacter.ProficencyMedicine)
