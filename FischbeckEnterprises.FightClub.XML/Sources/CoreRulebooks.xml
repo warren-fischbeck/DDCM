@@ -21188,7 +21188,7 @@
 
     <autolevel level="16" scoreImprovement="YES">
       <feature>
-        <name>Ability Score Improvement (7th)</name>
+        <name>Ability Score Improvement (6th)</name>
         <text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
         <text>    If your DM uses the optional Feats, you can instead take a feat.</text>
         <text />
@@ -21254,7 +21254,7 @@
 
     <autolevel level="19" scoreImprovement="YES">
       <feature>
-        <name>Ability Score Improvement (8th)</name>
+        <name>Ability Score Improvement (7th)</name>
         <text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
         <text>    If your DM uses the optional Feats, you can instead take a feat.</text>
         <text />
