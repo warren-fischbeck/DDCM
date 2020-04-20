@@ -4194,7 +4194,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Restriction: Dwarves Only (Path of the Battlerager)</name>
+            <name>Primal Path: Path of the Battlerager: Restriction: Dwarves Only (Path of the Battlerager)</name>
             <text>Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.</text>
             <text>	Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM&#39;s setting or your DM&#39;s version of the Realms.</text>
             <text>	</text>
@@ -4204,7 +4204,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Battlerager Armor (Path of the Battlerager)</name>
+            <name>Primal Path: Path of the Battlerager: Battlerager Armor (Path of the Battlerager)</name>
             <text>When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon.</text>
             <text>	When you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls.</text>
             <text>	Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.</text>
@@ -4215,7 +4215,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Variant: Spirit Seeker (Tree Ghost Tribe) (Path of the Totem Warrior)</name>
+            <name>Primal Path: Path of the Totem Warrior: Spirit Seeker (Tree Ghost Tribe) (Path of the Totem Warrior)</name>
             <text>Yours is a path that seeks attunement with the natural world, giving you a kinship with plants. At 3rd level when you adopt this path, you gain the ability to cast the speak with plants spell, but only as a ritual, as described in chapter 10.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide p. 120</text>
@@ -4224,7 +4224,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Totem Spirit: Elk</name>
+            <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Elk</name>
             <text>While you&#39;re raging and aren&#39;t wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 141</text>
@@ -4233,7 +4233,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Totem Spirit: Tiger</name>
+            <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Tiger</name>
             <text>While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
@@ -4242,7 +4242,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Reckless Abandon (Path of the Battlerager)</name>
+            <name>Primal Path: Path of the Battlerager: Reckless Abandon (Path of the Battlerager)</name>
             <text>Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left at the end of your rage.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 121</text>
@@ -4251,7 +4251,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Aspect of the Beast: Elk</name>
+            <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Elk</name>
             <text>Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they&#39;re within 60 feet of you and you&#39;re not incapacitated (see chapter 8 in the Player&#39;s Handbook for more information about travel pace). The elk spirit helps you roam far and fast.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
@@ -4260,7 +4260,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Aspect of the Beast: Tiger</name>
+            <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Tiger</name>
             <text>You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
@@ -4269,7 +4269,7 @@
     
     <autolevel level="10">
         <feature optional="YES">
-            <name>Battlerager Charge (Path of the Battlerager)</name>
+            <name>Primal Path: Path of the Battlerager: Battlerager Charge (Path of the Battlerager)</name>
             <text>Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 121</text>
@@ -4279,7 +4279,7 @@
     
     <autolevel level="14">
         <feature optional="YES">
-            <name>Spiked Retribution (Path of the Battlerager)</name>
+            <name>Primal Path: Path of the Battlerager: Spiked Retribution (Path of the Battlerager)</name>
             <text>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren&#39;t incapacitated, and are wearing spiked armor.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 121</text>
@@ -4288,7 +4288,7 @@
     
     <autolevel level="14">
         <feature optional="YES">
-            <name>Totemic Attunement: Elk</name>
+            <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Elk</name>
             <text>While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + you proficiency bonus) or be knocked prone and take bludgeoning damage equal to 1d12 + your Strength modifier.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
@@ -4297,7 +4297,7 @@
     
     <autolevel level="14">
         <feature optional="YES">
-            <name>Totemic Attunement: Tiger</name>
+            <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Tiger</name>
             <text>While you&#39;re raging, if you move at least 20 feet in a straight line toward a Large or smaller creature right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
@@ -4327,7 +4327,7 @@
     </autolevel>
     <autolevel level="1">
         <feature optional="YES">
-            <name>Arcane Initiate (Arcana Domain)</name>
+            <name>Divine Domain: Arcana Domain: Arcane Initiate (Arcana Domain)</name>
             <text>When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 125</text>
@@ -4336,7 +4336,7 @@
     </autolevel>
     <autolevel level="2">
         <feature optional="YES">
-            <name>Channel Divinity: Arcane Abjuration (Arcana Domain)</name>
+            <name>Channel Divinity: Arcana Domain: Arcane Abjuration (Arcana Domain)</name>
             <text>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.</text>
             <text>	As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</text>
             <text>	A turned creature must spend its turns trying to move as far away from you as it can, and it can&#39;t willingly end its move in a space within 30 feet of you. It also can&#39;t take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there&#39;s nowhere to move, the creature can use the Dodge action.</text>
@@ -4354,7 +4354,7 @@
     </autolevel>
     <autolevel level="6">
         <feature optional="YES">
-            <name>Spell Breaker (Arcana Domain)</name>
+            <name>Divine Domain: Arcana Domain: Spell Breaker (Arcana Domain)</name>
             <text>Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 126</text>
@@ -4362,7 +4362,7 @@
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
         <feature optional="YES">
-            <name>Potent Spellcasting (Arcana Domain)</name>
+            <name>Divine Domain: Arcana Domain: Potent Spellcasting (Arcana Domain)</name>
             <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 126</text>
@@ -4370,7 +4370,7 @@
     </autolevel>
     <autolevel level="17">
         <feature optional="YES">
-            <name>Arcane Mastery (Arcana Domain)</name>
+            <name>Divine Domain: Arcana Domain: Arcane Mastery (Arcana Domain)</name>
             <text>At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 126</text>
@@ -4392,7 +4392,7 @@
     </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-            <name>Restriction: Knighthood (Purple Dragon Knight)</name>
+            <name>Martial Archetype: Purple Dragon Knight: Restriction: Knighthood (Purple Dragon Knight)</name>
             <text>Purple Dragon Knights are tied to a specific order of Cormyrean knighthood.</text>
             <text>	Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than the Purple Dragon Knights.</text>
             <text>	</text>
@@ -4401,7 +4401,7 @@
     </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-            <name>Rallying Cry (Purple Dragon Knight)</name>
+            <name>Martial Archetype: Purple Dragon Knight: Rallying Cry (Purple Dragon Knight)</name>
             <text>When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.</text>
             <text>	When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.</text>
             <text>	</text>
@@ -4410,7 +4410,7 @@
     </autolevel>
     <autolevel level="7">
         <feature optional="YES">
-            <name>Royal Envoy (Purple Dragon Knight)</name>
+            <name>Martial Archetype: Purple Dragon Knight: Royal Envoy (Purple Dragon Knight)</name>
             <text>A Purple Dragon Knight serves as an envoy of the Cormyrean crown. Knights of high standing are expected to conduct themselves with grace.</text>
             <text>	At 7th level, you gain proficiency in the Persuasion skill. If you are already proficient in it, you gain proficiency in one of the following skills of your choice: Animal Handling, Insight, Intimidation, or Performance.</text>
             <text>	Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.</text>
@@ -4422,7 +4422,7 @@
     </autolevel>
     <autolevel level="10">
         <feature optional="YES">
-            <name>Inspiring Surge (Purple Dragon Knight)</name>
+            <name>Martial Archetype: Purple Dragon Knight: Inspiring Surge (Purple Dragon Knight)</name>
             <text>Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.</text>
             <text>	Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.</text>
             <text>	</text>
@@ -4431,7 +4431,7 @@
     </autolevel>
     <autolevel level="15">
         <feature optional="YES">
-            <name>Bulwark (Purple Dragon Knight)</name>
+            <name>Martial Archetype: Purple Dragon Knight: Bulwark (Purple Dragon Knight)</name>
             <text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren&#39;t incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 128</text>
@@ -4451,7 +4451,7 @@
     </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-            <name>Touch of Death (Way of the Long Death)</name>
+            <name>Monastic Tradition: Way of the Long Death: Touch of Death (Way of the Long Death)</name>
             <text>Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier+your monk level (minimum of 1 temporary hit point).</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 130</text>
@@ -4468,7 +4468,7 @@
     </autolevel>
     <autolevel level="3">
         <feature optional="YES">
-            <name>Radiant Sun Bolt (Way of the Sun Soul)</name>
+            <name>Monastic Tradition: Way of the Sun Soul: Radiant Sun Bolt (Way of the Sun Soul)</name>
             <text>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.</text>
             <text>	You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels &#8212; to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.</text>
             <text>	When you use the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action.</text>
@@ -4480,7 +4480,7 @@
     </autolevel>
     <autolevel level="6">
         <feature optional="YES">
-            <name>Hour of Reaping (Way of the Long Death)</name>
+            <name>Monastic Tradition: Way of the Long Death: Hour of Reaping (Way of the Long Death)</name>
             <text>At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.</text>
             <text>	 </text>
             <text>Frightened:</text>
@@ -4493,7 +4493,7 @@
     </autolevel>
     <autolevel level="6">
         <feature optional="YES">
-            <name>Searing Arc Strike (Way of the Sun Soul)</name>
+            <name>Monastic Tradition: Way of the Sun Soul: Searing Arc Strike (Way of the Sun Soul)</name>
             <text>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the burning hands spell as a bonus action.</text>
             <text>	You can spend additional ki points to cast burning hands as a higher level spell. Each additional ki point you spend increases the spell&#39;s level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.</text>
             <text>	</text>
@@ -4503,7 +4503,7 @@
     </autolevel>
     <autolevel level="11">
         <feature optional="YES">
-            <name>Mastery of Death (Way of the Long Death)</name>
+            <name>Monastic Tradition: Way of the Long Death: Mastery of Death (Way of the Long Death)</name>
             <text>Beginning at 11th level, you use your familiarity with death to escape its grasp. When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 131</text>
@@ -4511,7 +4511,7 @@
     </autolevel>
     <autolevel level="11">
         <feature optional="YES">
-            <name>Searing Sunburst (Way of the Sun Soul)</name>
+            <name>Monastic Tradition: Way of the Sun Soul: Searing Sunburst (Way of the Sun Soul)</name>
             <text>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.</text>
             <text>	Each creature in that 20-foot radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn&#39;t need to make the save if the creature is behind total cover that is opaque.</text>
             <text>	You can increase the sphere&#39;s damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by 2d6.</text>
@@ -4522,7 +4522,7 @@
     </autolevel>
     <autolevel level="17">
         <feature optional="YES">
-            <name>Touch of the Long Death (Way of the Long Death)</name>
+            <name>Monastic Tradition: Way of the Long Death: Touch of the Long Death (Way of the Long Death)</name>
             <text>Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 131</text>
@@ -4530,7 +4530,7 @@
     </autolevel>
     <autolevel level="17">
         <feature optional="YES">
-            <name>Sun Shield (Way of the Sun Soul)</name>
+            <name>Monastic Tradition: Way of the Sun Soul: Sun Shield (Way of the Sun Soul)</name>
             <text>At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.</text>
             <text>	If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.</text>
             <text>	</text>
@@ -4573,7 +4573,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Channel Divinity: Champion Challenge (Oath of the Crown)</name>
+            <name>Channel Divinity: Oath of the Crown: Champion Challenge (Oath of the Crown)</name>
             <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can&#39;t willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
@@ -4582,7 +4582,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Channel Divinity: Turn the Tide (Oath of the Crown)</name>
+            <name>Channel Divinity: Oath of the Crown: Turn the Tide (Oath of the Crown)</name>
             <text>As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
@@ -4591,7 +4591,7 @@
     
     <autolevel level="7">
         <feature optional="YES">
-            <name>Divine Allegiance (Oath of the Crown)</name>
+            <name>Sacred Oath: Oath of the Crown: Divine Allegiance (Oath of the Crown)</name>
             <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can&#39;t be reduced or prevented in any way.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
@@ -4600,7 +4600,7 @@
     
     <autolevel level="15">
         <feature optional="YES">
-            <name>Unyielding Spirit (Oath of the Crown)</name>
+            <name>Sacred Oath: Oath of the Crown: Unyielding Spirit (Oath of the Crown)</name>
             <text>Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
@@ -4609,7 +4609,7 @@
     
     <autolevel level="20">
         <feature optional="YES">
-            <name>Exalted Champion (Oath of the Crown)</name>
+            <name>Sacred Oath: Oath of the Crown: Exalted Champion (Oath of the Crown)</name>
             <text>At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour: </text>
             <text>	 </text>
             <text>&#8226; You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
@@ -4639,7 +4639,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Master of Intrigue (Mastermind)</name>
+            <name>Roguish Archetype: Mastermind: Master of Intrigue (Mastermind)</name>
             <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice. </text>
             <text>	Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, allowing you to pass yourself off as a native speaker of a particular land, provided that you know the language.</text>
             <text>	</text>
@@ -4650,7 +4650,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Master of Tactics (Mastermind)</name>
+            <name>Roguish Archetype: Mastermind: Master of Tactics (Mastermind)</name>
             <text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 135</text>
@@ -4671,7 +4671,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Fancy Footwork (Swashbuckler)</name>
+            <name>Roguish Archetype: Swashbuckler: Fancy Footwork (Swashbuckler)</name>
             <text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 135</text>
@@ -4681,7 +4681,7 @@
     
     <autolevel level="3">
         <feature optional="YES">
-            <name>Rakish Audacity (Swashbuckler)</name>
+            <name>Roguish Archetype: Swashbuckler: Rakish Audacity (Swashbuckler)</name>
             <text>Starting at 3rd level, your unmistakable confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.</text>
             <text>	You also gain an additional way to use your Sneak Attack: you don&#39;t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don&#39;t have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you</text>
             <text>	</text>
@@ -4692,7 +4692,7 @@
     
     <autolevel level="9">
         <feature optional="YES">
-            <name>Insightful Manipulator (Mastermind)</name>
+            <name>Roguish Archetype: Mastermind: Insightful Manipulator (Mastermind)</name>
             <text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice: </text>
             <text>	 </text>
             <text>&#8226; Intelligence score </text>
@@ -4709,7 +4709,7 @@
     
     <autolevel level="9">
         <feature optional="YES">
-            <name>Panache (Swashbuckler)</name>
+            <name>Roguish Archetype: Swashbuckler: Panache (Swashbuckler)</name>
             <text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature&#39;s Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.</text>
             <text>	If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can&#39;t make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</text>
             <text>	If you succeed on the check and the creature isn&#39;t hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</text>
@@ -4726,7 +4726,7 @@
     
     <autolevel level="13">
         <feature optional="YES">
-            <name>Misdirection (Mastermind)</name>
+            <name>Roguish Archetype: Mastermind: Misdirection (Mastermind)</name>
             <text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 135</text>
@@ -4736,7 +4736,7 @@
     
     <autolevel level="13">
         <feature optional="YES">
-            <name>Elegant Maneuver (Swashbuckler)</name>
+            <name>Roguish Archetype: Swashbuckler: Elegant Maneuver (Swashbuckler)</name>
             <text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 136</text>
@@ -4746,7 +4746,7 @@
     
     <autolevel level="17">
         <feature optional="YES">
-            <name>Soul of Deceit (Mastermind)</name>
+            <name>Roguish Archetype: Mastermind: Soul of Deceit (Mastermind)</name>
             <text>Starting at 17th level, your thoughts can&#39;t be read by telepathy or other means, unless you allow it. You can present false thoughts by making a Charisma (Deception) check contested by the mind reader&#39;s Wisdom (Insight) check.</text>
             <text>	Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful, if you so choose, and you can&#39;t be compelled to tell the truth by magic.</text>
             <text>	</text>
@@ -4757,7 +4757,7 @@
     
     <autolevel level="17">
         <feature optional="YES">
-            <name>Master Duelist (Swashbuckler)</name>
+            <name>Roguish Archetype: Swashbuckler: Master Duelist (Swashbuckler)</name>
             <text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can&#39;t use this feature again until you finish a short or long rest.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 136</text>
@@ -4781,7 +4781,7 @@
     
     <autolevel level="1">
         <feature optional="YES">
-            <name>Wind Speaker (Storm Sorcery)</name>
+            <name>Sorcerous Origin: Storm Sorcery: Wind Speaker (Storm Sorcery)</name>
             <text>The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. (Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 137</text>
@@ -4791,7 +4791,7 @@
     
     <autolevel level="1">
         <feature optional="YES">
-            <name>Tempestuous Magic (Storm Sorcery)</name>
+            <name>Sorcerous Origin: Storm Sorcery: Tempestuous Magic (Storm Sorcery)</name>
             <text>Starting at 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 137</text>
@@ -4801,7 +4801,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Heart of the Storm (Storm Sorcery)</name>
+            <name>Sorcerous Origin: Storm Sorcery: Heart of the Storm (Storm Sorcery)</name>
             <text>At 6th level, you gain resistance to lightning and thunder damage. In addition, whenever you start casting a spell of 1st level or higher that deals lightning or thunder damage, stormy magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 137</text>
@@ -4811,7 +4811,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Storm Guide (Storm Sorcery)</name>
+            <name>Sorcerous Origin: Storm Sorcery: Storm Guide (Storm Sorcery)</name>
             <text>At 6th level, you gain the ability to subtly control the weather around you.</text>
             <text>	If it is raining, you can use an action to cause the rain to stop falling in a 20-foot radius centered on you. You can end this effect as a bonus action.</text>
             <text>	If it is windy, you can use a bonus action each round to choose the direction that the wind blows in a 100-foot radius around you. The wind blows in that direction until the end of your next turn. You have no ability to alter the speed of the wind.</text>
@@ -4823,7 +4823,7 @@
     
     <autolevel level="14">
         <feature optional="YES">
-            <name>Storm's Fury (Storm Sorcery)</name>
+            <name>Sorcerous Origin: Storm Sorcery: Storm's Fury (Storm Sorcery)</name>
             <text>Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker. The damage equals your sorcerer level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 137</text>
@@ -4833,7 +4833,7 @@
     
     <autolevel level="18">
         <feature optional="YES">
-            <name>Wind Soul (Storm Sorcery)</name>
+            <name>Sorcerous Origin: Storm Sorcery: Wind Soul (Storm Sorcery)</name>
             <text>At 18th level, you gain immunity to lightning and thunder damage.</text>
             <text>	You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for one hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can&#39;t do so again until you finish a short or long rest.</text>
             <text>	</text>
@@ -4866,7 +4866,7 @@
     
     <autolevel level="1">
         <feature optional="YES">
-            <name>Among the Dead (The Undying)</name>
+            <name>Otherworldly Patron: The Undying: Among the Dead (The Undying)</name>
             <text>Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.</text>
             <text>	Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn&#39;t make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</text>
             <text>	</text>
@@ -4876,7 +4876,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Defy Death (The Undying)</name>
+            <name>Otherworldly Patron: The Undying: Defy Death (The Undying)</name>
             <text>Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.</text>
             <text>	Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
             <text>	</text>
@@ -4886,7 +4886,7 @@
     
     <autolevel level="10">
         <feature optional="YES">
-            <name>Undying Nature (The Undying)</name>
+            <name>Otherworldly Patron: The Undying: Undying Nature (The Undying)</name>
             <text>Beginning at 10th level, you can hold your breath indefinitely, and you don&#39;t require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.</text>
             <text>	In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.</text>
             <text>	</text>
@@ -4896,7 +4896,7 @@
     
     <autolevel level="14">
         <feature optional="YES">
-            <name>Indestructible Life (The Undying)</name>
+            <name>Otherworldly Patron: The Undying: Indestructible Life (The Undying)</name>
             <text>When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.</text>
             <text>	Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
             <text>	</text>
@@ -4918,7 +4918,7 @@
     
     <autolevel level="2">
         <feature optional="YES">
-            <name>Restriction: Elves Only (Bladesinging)</name>
+            <name>Arcane Tradition: Bladesinging: Restriction: Elves Only (Bladesinging)</name>
             <text>Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faer&#251;n, elves closely guard the secrets of bladesinging.</text>
             <text>	Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM&#39;s setting or your DM&#39;s version of the Realms.</text>
             <text>	</text>
@@ -4928,7 +4928,7 @@
     
     <autolevel level="2">
         <feature optional="YES">
-            <name>Training in War and Song (Bladesinging)</name>
+            <name>Arcane Tradition: Bladesinging: Training in War and Song (Bladesinging)</name>
             <text>When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.</text>
             <text>	You also gain proficiency in the Performance skill if you don&#39;t already have it.</text>
             <text>	</text>
@@ -4939,7 +4939,7 @@
     
     <autolevel level="2">
         <feature optional="YES">
-            <name>Bladesong (Bladesinging)</name>
+            <name>Arcane Tradition: Bladesinging: Bladesong (Bladesinging)</name>
             <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren&#39;t wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</text>
             <text>	You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).</text>
             <text>	While your bladesong is active, you gain the following benefits:</text>
@@ -4958,7 +4958,7 @@
     
     <autolevel level="6">
         <feature optional="YES">
-            <name>Extra Attack (Bladesinging)</name>
+            <name>Arcane Tradition: Bladesinging: Extra Attack (Bladesinging)</name>
             <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 142</text>
@@ -4967,7 +4967,7 @@
     
     <autolevel level="10">
         <feature optional="YES">
-            <name>Song of Defense (Bladesinging)</name>
+            <name>Arcane Tradition: Bladesinging: Song of Defense (Bladesinging)</name>
             <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell&#39;s slot level.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 142</text>
@@ -4976,7 +4976,7 @@
     
     <autolevel level="14">
         <feature optional="YES">
-            <name>Song of Victory (Bladesinging)</name>
+            <name>Arcane Tradition: Bladesinging: Song of Victory (Bladesinging)</name>
             <text>Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</text>
             <text>	</text>
             <text>Source: Sword Coast Adventurer's Guide, p. 142</text>

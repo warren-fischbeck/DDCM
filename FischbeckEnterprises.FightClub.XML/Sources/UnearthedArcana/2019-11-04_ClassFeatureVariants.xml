@@ -246,7 +246,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Arcana Domain)</name>
+                <name>Divine Domain: Arcana Domain: Blessed Strikes (Arcana Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -255,7 +255,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (City Domain (UA))</name>
+                <name>Divine Domain: City Domain (UA): Blessed Strikes (City Domain (UA))</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -264,7 +264,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Death Domain)</name>
+                <name>Divine Domain: Death Domain: Blessed Strikes (Death Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -273,7 +273,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Knowledge Domain)</name>
+                <name>Divine Domain: Knoledge Domain: Blessed Strikes (Knowledge Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -282,7 +282,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Life Domain)</name>
+                <name>Divine Domain: Life Domain: Blessed Strikes (Life Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -291,7 +291,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Light Domain)</name>
+                <name>Divine Domain: Light Domain: Blessed Strikes (Light Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -300,7 +300,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Nature Domain)</name>
+                <name>Divine Domain: Nature Domain: Blessed Strikes (Nature Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -309,7 +309,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Tempest Domain)</name>
+                <name>Divine Domain: Tempest Domain: Blessed Strikes (Tempest Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -318,7 +318,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Trickery Domain)</name>
+                <name>Divine Domain: Trickery Domain: Blessed Strikes (Trickery Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -327,7 +327,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (War Domain)</name>
+                <name>Divine Domain: War Domain: Blessed Strikes (War Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -336,7 +336,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Forge Domain)</name>
+                <name>Divine Domain: Forge Domain: Blessed Strikes (Forge Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -345,7 +345,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Grave Domain)</name>
+                <name>Divine Domain: Grave Domain: Blessed Strikes (Grave Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -354,7 +354,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Protection Domain (UA))</name>
+                <name>Divine Domain: Protection Domain (UA): Blessed Strikes (Protection Domain (UA))</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -363,7 +363,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Order Domain (UA))</name>
+                <name>Divine Domain: Order Domain (UA): Blessed Strikes (Order Domain (UA))</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -372,7 +372,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Order Domain)</name>
+                <name>Divine Domain: Order Domain: Blessed Strikes (Order Domain)</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -381,7 +381,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Blessed Strikes (Twilight Domain (UA))</name>
+                <name>Divine Domain: Twilight Domain (UA): Blessed Strikes (Twilight Domain (UA))</name>
                 <text>   8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
                 <text>   In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</text>
                 <text></text>
@@ -588,7 +588,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Fighting Style: Superior Technique</name>
+                <name>Martial Archetype: Champion: Fighting Style: Superior Technique</name>
                 <text>You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).</text>
                 <text>You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.</text>
                 <text></text>
@@ -597,7 +597,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Fighting Style: Blind Fighting</name>
+                <name>Martial Archetype: Champion: Fighting Style: Blind Fighting</name>
                 <text>Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.</text>
                 <text></text>
                 <text>Source: Unearthed Arcana: Class Feature Variants</text>
@@ -605,7 +605,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Fighting Style: Interception</name>
+                <name>Martial Archetype: Champion: Fighting Style: Interception</name>
                 <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
                 <text></text>
                 <text>Source: Unearthed Arcana: Class Feature Variants</text>
@@ -613,7 +613,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Fighting Style: Thrown Weapon Fighting</name>
+                <name>Martial Archetype: Champion: Fighting Style: Thrown Weapon Fighting</name>
                 <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
                 <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
                 <text></text>
@@ -622,7 +622,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Fighting Style: Unarmed Fighting</name>
+                <name>Martial Archetype: Champion: Fighting Style: Unarmed Fighting</name>
                 <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
                 <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
                 <text></text>
@@ -986,7 +986,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Ranger's Companion Options (Beast Master)</name>
+                <name>Ranger Archetype: Beast Master: Ranger's Companion Options (Beast Master)</name>
                 <text>3rd-level Beast Master feature (enhances Ranger's Companion)</text>
                 <text>   While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
                 <text>   A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>

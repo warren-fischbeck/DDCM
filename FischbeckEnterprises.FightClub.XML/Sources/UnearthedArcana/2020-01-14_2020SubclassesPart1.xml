@@ -14,7 +14,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Form of the Beast (Path of the Beast (UA))</name>
+                <name>Primal Path: Path of the Beast (UA): Form of the Beast (Path of the Beast (UA))</name>
                 <text>3rd-level Path of the Beast feature</text>
                 <text>   When you enter your rage, you can transform, revealing the bestial power within you. Until your rage ends, you manifest a natural melee weapon, choosing one of the following options each time you rage:</text>
                 <text></text>
@@ -30,7 +30,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Bestial Soul (Path of the Beast (UA))</name>
+                <name>Primal Path: Path of the Beast (UA): Bestial Soul (Path of the Beast (UA))</name>
                 <text>6th-level Path of the Beast feature</text>
                 <text>   The feral spirit within you grows in power, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
                 <text>   You can also call on the feral spirit to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish a short or long rest:</text>
@@ -43,7 +43,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Infectious Fury (Path of the Beast (UA))</name>
+                <name>Primal Path: Path of the Beast (UA): Infectious Fury (Path of the Beast (UA))</name>
                 <text>10th-level Path of the Beast feature</text>
                 <text>   When you hit a creature with your natural weapons while you are raging, the spirit within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):</text>
                 <text>• The target must use its reaction to make a melee attack against another creature of your choice that you can see.</text>
@@ -55,7 +55,7 @@
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>Call the Hunt (Path of the Beast (UA))</name>
+                <name>Primal Path: Path of the Beast (UA): Call the Hunt (Path of the Beast (UA))</name>
                 <text>14th-level Path of the Beast feature</text>
                 <text>   The beast within grows so powerful that you can spread its ferocity to your allies. When you enter your rage, you can choose a number of willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). Until your rage ends, the chosen creatures gain the Reckless Attack feature and you have advantage on saving throws against being frightened. You also gain 5 temporary hit points for each creature that accepts the benefit. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
                 <text></text>
@@ -85,7 +85,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Implements of Mercy (Way of Mercy (UA))</name>
+                <name>Monastic Tradition: Way of Mercy (UA): Implements of Mercy (Way of Mercy (UA))</name>
                 <text>3rd-level Way of Mercy feature</text>
                 <text>   You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner's kit.</text>
                 <text></text>
@@ -94,7 +94,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Hands of Healing (Way of Mercy (UA))</name>
+                <name>Monastic Tradition: Way of Mercy (UA): Hands of Healing (Way of Mercy (UA))</name>
                 <text>3rd-level Way of Mercy feature</text>
                 <text>   Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.</text>
                 <text>   When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending its ki cost.</text>
@@ -104,7 +104,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Hands of Harm (Way of Mercy (UA))</name>
+                <name>Monastic Tradition: Way of Mercy (UA): Hands of Harm (Way of Mercy (UA))</name>
                 <text>3rd-level Way of Mercy feature</text>
                 <text>   You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die. If the creature is incapacitated or poisoned, the creature instead takes necrotic damage equal to three rolls of your Martial Arts die instead. You can use this feature only once on each of your turns.</text>
                 <text></text>
@@ -113,7 +113,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Noxious Aura (Way of Mercy (UA))</name>
+                <name>Monastic Tradition: Way of Mercy (UA): Noxious Aura (Way of Mercy (UA))</name>
                 <text>6th-level Way of Mercy feature</text>
                 <text>   As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you're incapacitated, or you dismiss it (no action required).</text>
                 <text>   While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).</text>
@@ -123,7 +123,7 @@
         </autolevel>
         <autolevel level="11">
             <feature optional="YES">
-                <name>Healing Technique (Way of Mercy (UA))</name>
+                <name>Monastic Tradition: Way of Mercy (UA): Healing Technique (Way of Mercy (UA))</name>
                 <text>11th-level Way of Mercy feature</text>
                 <text>   Your skill in manipulating your ki to heal increases. When you restore hit points to a creature using your Hands of Healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.</text>
                 <text></text>
@@ -132,7 +132,7 @@
         </autolevel>
         <autolevel level="17">
             <feature optional="YES">
-                <name>Hand of Mercy (Way of Mercy (UA))</name>
+                <name>Monastic Tradition: Way of Mercy (UA): Hand of Mercy (Way of Mercy (UA))</name>
                 <text>17th-level Way of Mercy feature</text>
                 <text>   Your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature's status.</text>
                 <text>   You can have only one creature under the effect of this feature at a time.</text>
@@ -155,7 +155,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Tenets of the Watchers (Oath of the Watchers (UA))</name>
+                <name>Sacred Oath: Oath of the Watchers (UA): Tenets of the Watchers (Oath of the Watchers (UA))</name>
                 <text>A paladin who assumes the Oath of the Watchers swears to safeguard the mortal realm from otherworldly threats.</text>
                 <text></text>
                 <text>Vigilance</text>
@@ -172,7 +172,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Oath Spells (Oath of the Watchers (UA))</name>
+                <name>Sacred Oath: Oath of the Watchers (UA): Oath Spells (Oath of the Watchers (UA))</name>
                 <text>3rd-level Oath of the Watchers feature</text>
                 <text>   You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.</text>
                 <text></text>
@@ -188,7 +188,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Channel Divinity: Watcher's Will (Oath of the Watchers (UA))</name>
+                <name>Channel Divinity: Oath of the Watchers (UA): Watcher's Will (Oath of the Watchers (UA))</name>
                 <text>You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, all the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
                 <text></text>
                 <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
@@ -196,7 +196,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Channel Divinity: Abjure the Extraplanar (Oath of the Watchers (UA))</name>
+                <name>Channel Divinity: Oath of the Watchers (UA): Abjure the Extraplanar (Oath of the Watchers (UA))</name>
                 <text>You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each elemental, fey, fiend, or aberration within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
                 <text>   A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
                 <text></text>
@@ -205,7 +205,7 @@
         </autolevel>
         <autolevel level="7">
             <feature optional="YES">
-                <name>Aura of the Sentinel (Oath of the Watchers (UA))</name>
+                <name>Sacred Oath: Oath of the Watchers (UA): Aura of the Sentinel (Oath of the Watchers (UA))</name>
                 <text>7th-level Oath of the Watchers feature</text>
                 <text>   You emit an aura of alertness while you aren't incapacitated. When you and any creature of your choice within 10 feet of you rolls initiative, you each gain a bonus to initiative equal to your Charisma modifier (minimum of +1).</text>
                 <text></text>
@@ -214,7 +214,7 @@
         </autolevel>
         <autolevel level="15">
             <feature optional="YES">
-                <name>Vigilant Rebuke (Oath of the Watchers (UA))</name>
+                <name>Sacred Oath: Oath of the Watchers (UA): Vigilant Rebuke (Oath of the Watchers (UA))</name>
                 <text>15th-level Oath of the Watchers feature</text>
                 <text>   You've learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the spellcaster.</text>
                 <text></text>
@@ -223,7 +223,7 @@
         </autolevel>
         <autolevel level="18">
             <feature optional="YES">
-                <name>Aura of the Sentinel Improvement (Oath of the Watchers (UA))</name>
+                <name>Sacred Oath: Oath of the Watchers (UA): Aura of the Sentinel Improvement (Oath of the Watchers (UA))</name>
                 <text>18th-level Oath of the Watchers feature</text>
                 <text>   At 18th level, the range of this aura increases to 30 feet.</text>
                 <text></text>
@@ -232,7 +232,7 @@
         </autolevel>
         <autolevel level="20">
             <feature optional="YES">
-                <name>Mortal Bulwark (Oath of the Watchers (UA))</name>
+                <name>Sacred Oath: Oath of the Watchers (UA): Mortal Bulwark (Oath of the Watchers (UA))</name>
                 <text>20th-level Oath of the Watchers feature</text>
                 <text>   You manifest a spark of your deity's power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:</text>
                 <text>• You gain truesight in a 120-foot radius.</text>
@@ -257,7 +257,7 @@
         </autolevel>
         <autolevel level="1">
             <feature optional="YES">
-                <name>Expanded Spell List (The Noble Genie (UA))</name>
+                <name>Otherworldly Patron: The Noble Genie (UA): Expanded Spell List (The Noble Genie (UA))</name>
                 <text>1st-level Noble Genie feature</text>
                 <text>   The Noble Genie lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
                 <text></text>
@@ -273,7 +273,7 @@
         </autolevel>
         <autolevel level="1">
             <feature optional="YES">
-                <name>Collector's Vessel (The Noble Genie (UA))</name>
+                <name>Otherworldly Patron: The Noble Genie (UA): Collector's Vessel (The Noble Genie (UA))</name>
                 <text>1st-level Noble Genie feature</text>
                 <text>   Your patron gives you a magical vessel with which you can bind a creature to you and to your patron's menagerie. The vessel is a Tiny object, and it is a spellcasting focus for you. You decide what the object is, or you can determine what it is randomly by rolling on the Collector's Vessel table.</text>
                 <text></text>
@@ -301,7 +301,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Elemental Resistance (The Noble Genie (UA))</name>
+                <name>Otherworldly Patron: The Noble Genie (UA): Elemental Resistance (The Noble Genie (UA))</name>
                 <text>6th-level Noble Genie feature</text>
                 <text>   Your patron grants you protection from an element. Whenever you finish a long rest, you gain resistance to acid, cold, fire, or lightning damage (your choice) until the end of your next long rest.</text>
                 <text>   While the tether of your Collector's Vessel is active, the tethered creature gains resistance to the damage type you chose.</text>
@@ -311,7 +311,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Protective Wish (The Noble Genie (UA))</name>
+                <name>Otherworldly Patron: The Noble Genie (UA): Protective Wish (The Noble Genie (UA))</name>
                 <text>10th-level Noble Genie feature</text>
                 <text>   You're now able to use your Collector's Vessel to wish for protection for yourself or your tethered creature. If you or the tethered creature is hit by an attack, you can use your reaction to teleport, swapping places with the creature and switching which one of you is hit by the attack.</text>
                 <text></text>
@@ -320,7 +320,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Genie's Entertainment (The Noble Genie (UA))</name>
+                <name>Otherworldly Patron: The Noble Genie (UA): Genie's Entertainment (The Noble Genie (UA))</name>
                 <text>10th-level Noble Genie feature</text>
                 <text>   As an action, you attempt to send a creature you can see within 90 feet to your patron's court. The target must succeed on a Charisma saving throw against your warlock spell save DC or be magically drawn into your vessel and teleported to your patron's court in the Elemental Planes. While there, the target is stunned and your patron marvels at the target with amusement but brings no harm to it. The target can repeat the saving throw at the end of each of its turns, reappearing in the space it left or in the nearest unoccupied space if that space is occupied on a success.</text>
                 <text>   Once you use this feature, you can't use it again until you finish a long rest. If the target remains in your patron's court for 1 minute, the genie sends the target back at the end of its turn as if it successfully saved, and you regain the use of this feature.</text>
@@ -330,7 +330,7 @@
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>Collector's Call (The Noble Genie (UA))</name>
+                <name>Otherworldly Patron: The Noble Genie (UA): Collector's Call (The Noble Genie (UA))</name>
                 <text>14th-level Noble Genie feature</text>
                 <text>   In exchange for extending your patron's influence over the multiverse, you can call on more of their power. As an action, you can implore your patron for aid by making a Charisma (Persuasion) check against your warlock spell save DC. If the check succeeds, you can choose one of the following effects:</text>
                 <text>• A creature you can see within 60 feet of you regains 8d6 hit points and ends one disease or condition afflicting it: blinded, charmed, deafened, frightened, paralyzed, or poisoned.</text>

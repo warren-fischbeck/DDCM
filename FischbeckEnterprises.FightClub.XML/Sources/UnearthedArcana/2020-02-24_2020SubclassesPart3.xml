@@ -105,7 +105,7 @@
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
-        <name>Star Map (Circle of the Stars (UA))</name>
+        <name>Druid Circle: Circle of the Stars (UA): Star Map (Circle of the Stars (UA))</name>
         <text>You've created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.</text>
         <text />
         <text>Star Map</text>
@@ -125,7 +125,7 @@
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
-        <name>Stary Form (Circle of the Stars (UA))</name>
+        <name>Druid Circle: Circle of the Stars (UA): Stary Form (Circle of the Stars (UA))</name>
         <text>You gain the ability to harness constellations' power to alter your form. As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.</text>
         <text>     While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10 foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you're incapacitated.</text>
         <text>     Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:</text>
@@ -139,7 +139,7 @@
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Cosmic Omen (Circle of the Stars (UA))</name>
+        <name>Druid Circle: Circle of the Stars (UA): Cosmic Omen (Circle of the Stars (UA))</name>
         <text>You learn to use your star map to divine the will of the cosmos. Whenever you finish a long rest, you can consult your star map for omens. When you do so, roll a d6. You gain one of the following possible omens based on whether you rolled an even number or an odd number on the d6:</text>
         <text>Weal (even). Whenever a creature you can see within 30 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.</text>
         <text>Woe (odd). Whenever a creature you can see within 30 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.</text>
@@ -151,7 +151,7 @@
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Full of Stars (Circle of the Stars (UA))</name>
+        <name>Druid Circle: Circle of the Stars (UA): Full of Stars (Circle of the Stars (UA))</name>
         <text>While your Starry Form feature is active, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
@@ -159,7 +159,7 @@
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Star Flare (Circle of the Stars (UA))</name>
+        <name>Druid Circle: Circle of the Stars (UA): Star Flare (Circle of the Stars (UA))</name>
         <text>Your connection to the cosmos allows you to conjure brilliant starlight. As an action, you conjure a burst of light in a 30-foot-radius sphere centered on a point you can see within 120 feet of you. You can immediately teleport each willing creature in the sphere to an unoccupied space within 30 feet of it. Each creature remaining in the sphere must succeed on a Constitution saving throw against your spell save DC or take 4d10 radiant damage and be blinded until the end of your next turn.</text>
         <text>Once you have used this action, you can't use it again until you finish a long rest or until you expend a spell slot of 5th level or higher to use it again.</text>
         <text />
@@ -188,7 +188,7 @@
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
-        <name>Fey Wanderer Magic (Fey Wanderer (UA))</name>
+        <name>Ranger Archtype: Fey Wanderer (UA): Fey Wanderer Magic (Fey Wanderer (UA))</name>
         <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
         <text>Fey Wanderer Spells</text>
         <text>
@@ -203,14 +203,14 @@
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
-        <name>Cunning Will (Fey Wanderer (UA))</name>
+        <name>Ranger Archtype: Fey Wanderer (UA): Cunning Will (Fey Wanderer (UA))</name>
         <text>Your experience with the fey has guarded your mind and sharpened your tongue. You have advantage on saving throws against being charmed or frightened.</text>
         <text>In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
-        <name>Dreadful Strikes (Fey Wanderer (UA))</name>
+        <name>Ranger Archtype: Fey Wanderer (UA): Dreadful Strikes (Fey Wanderer (UA))</name>
         <text>You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
         <text>When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.</text>
         <text />
@@ -219,7 +219,7 @@
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Blessings of the Courts (Fey Wanderer (UA))</name>
+        <name>Ranger Archtype: Fey Wanderer (UA): Blessings of the Courts (Fey Wanderer (UA))</name>
         <text>You have learned eerie techniques from both the Gloaming Court and the Summer Court of the Feywild. Once during each of your turns, when you hit a creature with a weapon attack, you can expend a spell slot to deal extra psychic damage. The extra damage is 3d6 psychic damage and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn.</text>
         <text>In addition, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier.</text>
         <text />
@@ -228,7 +228,7 @@
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Beguiling Twist (Fey Wanderer (UA))</name>
+        <name>Ranger Archtype: Fey Wanderer (UA): Beguiling Twist (Fey Wanderer (UA))</name>
         <text>
           You learn how to manipulate mind-altering magic, channeling it from your allies toward others. Whenever a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to succeed on a Wisdom saving throw against your spell save DC or suffer your choice of one of the following effects:
           • The creature is charmed or frightened by you
@@ -244,7 +244,7 @@
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Misty Presence (Fey Wanderer (UA))</name>
+        <name>Ranger Archtype: Fey Wanderer (UA): Misty Presence (Fey Wanderer (UA))</name>
         <text>You can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw athe end of any turn during which you hit it withan attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful savethe target is immune to this feature for 7 days.</text>
         <text>Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
         <text />

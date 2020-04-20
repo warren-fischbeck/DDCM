@@ -194,7 +194,7 @@
       </autolevel>
       <autolevel level="2">
           <feature optional="YES">
-              <name>Channel Divinity: Order's Demand (Order Domain)</name>
+              <name>Channel Divinity: Order Domain: Order's Demand (Order Domain)</name>
               <text>   Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.</text>
               <text>   As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.</text>
               <text></text>
@@ -203,7 +203,7 @@
       </autolevel>
       <autolevel level="6">
           <feature optional="YES">
-              <name>Embodiment of the Law (Order Domain)</name>
+              <name>Divine Domain: Order Domain: Embodiment of the Law (Order Domain)</name>
               <text>   At 6th level, you become remarkably adept at channeling magical energy to compel others.</text>
               <text>   If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action.</text>
               <text>   You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
@@ -213,7 +213,7 @@
       </autolevel>
       <autolevel level="8">
           <feature optional="YES">
-              <name>Divine Strike (Order Domain)</name>
+              <name>Divine Domain: Order Domain: Divine Strike (Order Domain)</name>
               <text>   At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
               <name>Blessed Strikes (Order Domain)</name>
               <text>   8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
@@ -224,7 +224,7 @@
       </autolevel>
       <autolevel level="17">
           <feature optional="YES">
-              <name>Order's Wrath (Order Domain)</name>
+              <name>Divine Domain: Order Domain: Order's Wrath (Order Domain)</name>
               <text>   Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.</text>
               <text></text>
               <text>Source: Guildmasters' Guide to Ravnica p. 25</text>
@@ -267,7 +267,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Fungal Infestation (Circle of Spores)</name>
+                <name>Druid Circle: Circle of Spores: Fungal Infestation (Circle of Spores)</name>
                 <text>   At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the zombie stat block in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.</text>
                 <text>   In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.</text>
                 <text>   You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
@@ -277,7 +277,7 @@
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Spreading Spores (Circle of Spores)</name>
+                <name>Druid Circle: Circle of Spores: Spreading Spores (Circle of Spores)</name>
                 <text>   At 10th level, you gain the ability to seed an area with deadly spores. As a bonus action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active.</text>
                 <text>   Whenever a creature moves into the cube or starts its turn there, that creature takes your Halo of Spores damage, unless the creature succeeds on a Constitution saving throw against your spell save DC. A creature can take this damage no more than once per turn.</text>
                 <text>   While the cube of spores persists, you can't use your Halo of Spores reaction.</text>
@@ -287,7 +287,7 @@
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>Fungal Body (Circle of Spores)</name>
+                <name>Druid Circle: Circle of Spores: Fungal Body (Circle of Spores)</name>
                 <text>   At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.</text>
                 <text></text>
                 <text>Source: Guildmasters' Guide to Ravnica p. 26</text>

@@ -18456,7 +18456,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Frenzy (Path of the Berserker)</name>
+        <name>Primal Path: Path of the Berserker: Frenzy (Path of the Berserker)</name>
         <text>Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.</text>
         <text />
         <text>Exhaustion:</text>
@@ -18491,7 +18491,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Spirit Seeker (Path of the Totem Warrior)</name>
+        <name>Primal Path: Path of the Totem Warrior: Spirit Seeker (Path of the Totem Warrior)</name>
         <text>Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the beast sense and speak with animals spells, but only as rituals, as described in chapter 10.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18500,7 +18500,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Totem Spirit (Path of the Totem Warrior)</name>
+        <name>Primal Path: Path of the Totem Warrior: Totem Spirit (Path of the Totem Warrior)</name>
         <text>At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object &#8212; an amulet or similar adornment &#8212; that incorporates fur or feathers, claws, teeth, or b ones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.</text>
         <text>    Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.</text>
         <text />
@@ -18510,7 +18510,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Totem Spirit: Bear</name>
+        <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Bear</name>
         <text>While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18519,7 +18519,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Totem Spirit: Eagle</name>
+        <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Eagle</name>
         <text>While you&#39;re raging and aren&#39;t wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18528,7 +18528,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Totem Spirit: Wolf</name>
+        <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Wolf</name>
         <text>While you&#39;re raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18574,7 +18574,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Mindless Rage (Path of the Berserker)</name>
+        <name>Primal Path: Path of the Berserker: Mindless Rage (Path of the Berserker)</name>
         <text>Beginning at 6th level, you can&#39;t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.</text>
         <text />
         <text>Source: Player's Handbook, p. 49</text>
@@ -18583,7 +18583,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Aspect of the Beast (Path of the Totem Warrior)</name>
+        <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast (Path of the Totem Warrior)</name>
         <text>At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd level or a different one.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18592,7 +18592,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Aspect of the Beast: Bear</name>
+        <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Bear</name>
         <text>You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18601,7 +18601,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Aspect of the Beast: Eagle</name>
+        <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Eagle</name>
         <text>You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn&#39;t impose disadvantage on your Wisdom (Perception) checks.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18610,7 +18610,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Aspect of the Beast: Wolf</name>
+        <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Wolf</name>
         <text>You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18649,7 +18649,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Intimidating Presence (Path of the Berserker)</name>
+        <name>Primal Path: Path of the Berserker: Intimidating Presence (Path of the Berserker)</name>
         <text>Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.</text>
         <text>    If the creature succeeds on its saving throw, you can&#39;t use this feature on that creature again for 24 hours.</text>
         <text />
@@ -18664,7 +18664,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Spirit Walker (Path of the Totem Warrior)</name>
+        <name>Primal Path: Path of the Totem Warrior: Spirit Walker (Path of the Totem Warrior)</name>
         <text>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18701,7 +18701,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Retaliation (Path of the Berserker)</name>
+        <name>Primal Path: Path of the Berserker: Retaliation (Path of the Berserker)</name>
         <text>Starting at 14th level, when you take damage from a creature that is within 5 feet of you. you can use your reaction to make a melee weapon attack against that creature.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18710,7 +18710,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Totemic Attunement (Path of the Totem Warrior)</name>
+        <name>Primal Path: Path of the Totem Warrior: Totemic Attunement (Path of the Totem Warrior)</name>
         <text>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18719,7 +18719,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Totemic Attunement: Bear </name>
+        <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Bear </name>
         <text>While you&#39;re raging, any creature within 5 feet of you that&#39;s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can&#39;t see or hear you or if it can&#39;t be frightened.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18728,7 +18728,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Totemic Attunement: Eagle</name>
+        <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Eagle</name>
         <text>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</text>
         <text />
         <text>Source: Player's Handbook, p. 50</text>
@@ -18737,7 +18737,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Totemic Attunement: Wolf</name>
+        <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Wolf</name>
         <text>While you&#39;re raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.</text>
         <text />
         <text>Prone:</text>
@@ -18963,7 +18963,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cutting Words (College of Lore)</name>
+        <name>Bard College: College of Lore: Cutting Words (College of Lore)</name>
         <text>Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature&#39;s roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can&#39;t hear you or if it&#39;s immune to being charmed.</text>
         <text />
         <text>Source: Player's Handbook, p. 54</text>
@@ -18972,7 +18972,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bonus Proficiencies (College of Lore)</name>
+        <name>Bard College: College of Lore: Bonus Proficiencies (College of Lore)</name>
         <text>When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.</text>
         <text />
         <text>Source: Player's Handbook, p. 54</text>
@@ -18990,7 +18990,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bonus Proficiencies (College of Valor)</name>
+        <name>Bard College: College of Valor: Bonus Proficiencies (College of Valor)</name>
         <text>When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.</text>
         <text />
         <text>Source: Player's Handbook, p. 55</text>
@@ -18999,7 +18999,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Combat Inspiration (College of Valor)</name>
+        <name>Bard College: College of Valor: Combat Inspiration (College of Valor)</name>
         <text>Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.</text>
         <text />
         <text>Source: Player's Handbook, p. 55</text>
@@ -19048,7 +19048,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Additional Magical Secrets (College of Lore)</name>
+        <name>Bard College: College of Lore: Additional Magical Secrets (College of Lore)</name>
         <text>At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, or a cantrip. The chosen spells count as bard spells for you but don&#39;t count against the number of bard spells you know.</text>
         <text />
         <text>Source: Player's Handbook, p. 55</text>
@@ -19057,7 +19057,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Extra Attack (College of Valor)</name>
+        <name>Bard College: College of Valor: Extra Attack (College of Valor)</name>
         <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 55</text>
@@ -19129,7 +19129,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Peerless Skill (College of Lore)</name>
+        <name>Bard College: College of Lore: Peerless Skill (College of Lore)</name>
         <text>Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.</text>
         <text />
         <text>Source: Player's Handbook, p. 55</text>
@@ -19138,7 +19138,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Battle Magic  (College of Valor)</name>
+        <name>Bard College: College of Valor: Battle Magic  (College of Valor)</name>
         <text>At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.</text>
         <text />
         <text>Source: Player's Handbook, p. 55</text>
@@ -19312,7 +19312,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bonus Proficiency (Death Domain)</name>
+        <name>Divine Domain: Death Domain: Bonus Proficiency (Death Domain)</name>
         <text>When the cleric chooses this domain at 1st level, he or she gains proficiency with martial weapons.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 96</text>
@@ -19321,7 +19321,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Reaper (Death Domain)</name>
+        <name>Divine Domain: Death Domain: Reaper (Death Domain)</name>
         <text>At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 96</text>
@@ -19348,7 +19348,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Blessings of Knowledge (Knowledge Domain)</name>
+        <name>Divine Domain: Knowledge Domain: Blessings of Knowledge (Knowledge Domain)</name>
         <text>At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.</text>
         <text>    Your proficiency bonus is doubled for any ability check you make that uses either of those skills.</text>
         <text />
@@ -19376,7 +19376,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bonus Proficiency (Life Domain)</name>
+        <name>Divine Domain: Life Domain: Bonus Proficiency (Life Domain)</name>
         <text>When you choose this domain at 1st level, you gain proficiency with heavy armor.</text>
         <text />
         <text>Source: Player's Handbook, p. 60</text>
@@ -19385,7 +19385,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Disciple of Life (Life Domain)</name>
+        <name>Divine Domain: Life Domain: Disciple of Life (Life Domain)</name>
         <text>Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2+the spell&#39;s level.</text>
         <text />
         <text>Source: Player's Handbook, p. 60</text>
@@ -19412,7 +19412,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bonus Cantrip (Light Domain)</name>
+        <name>Divine Domain: Light Domain: Bonus Cantrip (Light Domain)</name>
         <text>When you choose this domain at 1st level, you gain the light cantrip if you don&#39;t already know it.</text>
         <text />
         <text>Source: Player's Handbook, p. 61</text>
@@ -19421,7 +19421,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Warding Flare (Light Domain)</name>
+        <name>Divine Domain: Light Domain: Warding Flare (Light Domain)</name>
         <text>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can&#39;t be blinded is immune to this feature.</text>
         <text>    You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
         <text />
@@ -19449,7 +19449,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Acolyte of Nature (Nature Domain)</name>
+        <name>Divine Domain: Nature Domain: Acolyte of Nature (Nature Domain)</name>
         <text>At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19458,7 +19458,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bonus Proficiency (Nature Domain)</name>
+        <name>Divine Domain: Nature Domain: Bonus Proficiency (Nature Domain)</name>
         <text>Also at 1st level, you gain proficiency with heavy armor.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19485,7 +19485,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bonus Proficiencies (Tempest Domain)</name>
+        <name>Divine Domain: Tempest Domain: Bonus Proficiencies (Tempest Domain)</name>
         <text>At 1st level, you gain proficiency with martial weapons and heavy armor.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19494,7 +19494,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Wrath of the Storm (Tempest Domain)</name>
+        <name>Divine Domain: Tempest Domain: Wrath of the Storm (Tempest Domain)</name>
         <text>Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.</text>
         <text>    You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
         <text />
@@ -19522,7 +19522,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Blessing of the Trickster (Trickery Domain)</name>
+        <name>Divine Domain: Trickery Domain: Blessing of the Trickster (Trickery Domain)</name>
         <text>Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19549,7 +19549,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bonus Proficiencies (War Domain)</name>
+        <name>Divine Domain: War Domain: Bonus Proficiencies (War Domain)</name>
         <text>At 1st level, you gain proficiency with martial weapons and heavy armor.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19558,7 +19558,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>War Priest (War Domain)</name>
+        <name>Divine Domain: War Domain: War Priest (War Domain)</name>
         <text>From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19598,7 +19598,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Touch of Death (Death Domain)</name>
+        <name>Channel Divinity: Death Domain: Touch of Death (Death Domain)</name>
         <text>Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature&#39;s life force by touch.</text>
         <text>    When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5+twice his or her cleric level.</text>
         <text />
@@ -19608,7 +19608,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Knowledge of the Ages (Knowledge Domain)</name>
+        <name>Channel Divinity: Knowledge Domain: Knowledge of the Ages (Knowledge Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.</text>
         <text />
         <text>Source: Player's Handbook, p. 59</text>
@@ -19617,7 +19617,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Preserve Life (Life Domain)</name>
+        <name>Channel Divinity: Life Domain: Preserve Life (Life Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</text>
         <text>    As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can&#39;t use this feature on an undead or a construct.</text>
         <text />
@@ -19627,7 +19627,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Radiance of the Dawn (Light Domain)</name>
+        <name>Channel Divinity: Light Domain: Radiance of the Dawn (Light Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.</text>
         <text>    As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.</text>
         <text />
@@ -19637,7 +19637,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Charm Animals and Plants (Nature Domain)</name>
+        <name>Channel Divinity: Nature Domain: Charm Animals and Plants (Nature Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</text>
         <text>    As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.</text>
         <text />
@@ -19652,7 +19652,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Destructive Wrath (Tempest Domain)</name>
+        <name>Channel Divinity: Tempest Domain: Destructive Wrath (Tempest Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.</text>
         <text>    When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.</text>
         <text />
@@ -19662,7 +19662,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Invoke Duplicity (Trickery Domain)</name>
+        <name>Channel Divinity: Trickery Doamin: Invoke Duplicity (Trickery Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</text>
         <text>    As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</text>
         <text>    For the duration, you can cast spells as though you were in the illusion&#39;s space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.</text>
@@ -19673,7 +19673,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Guided Strike (War Domain)</name>
+        <name>Channel Divinity: War Domain: Guided Strike (War Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19726,7 +19726,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Inescapable Destruction (Death Domain)</name>
+        <name>Divine Domain: Death Domain: Inescapable Destruction (Death Domain)</name>
         <text>Starting at 6th level, the cleric&#39;s ability to channel negative energy becomes more potent. Necrotic damage dealt by the character&#39;s cleric spells and Channel Divinity options ignores resistance to necrotic damage.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 97</text>
@@ -19735,7 +19735,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Channel Divinity: Read Thoughts (Knowledge Domain)</name>
+        <name>Channel Divinity: Knowledge Domain: Read Thoughts (Knowledge Domain)</name>
         <text>At 6th level, you can use your Channel Divinity to read a creature&#39;s thoughts. You can then use your access to the creature&#39;s mind to command it.</text>
         <text>    As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can&#39;t use this feature on it again until you finish a long rest.</text>
         <text>    If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.</text>
@@ -19747,7 +19747,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Blessed Healer (Life Domain)</name>
+        <name>Divine Domain: Life Domain: Blessed Healer (Life Domain)</name>
         <text>Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2+the spell&#39;s level.</text>
         <text />
         <text>Source: Player's Handbook, p. 60</text>
@@ -19756,7 +19756,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Improved Flare (Light Domain)</name>
+        <name>Divine Domain: Light Domain: Improved Flare (Light Domain)</name>
         <text>Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you.</text>
         <text />
         <text>Source: Player's Handbook, p. 61</text>
@@ -19765,7 +19765,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Dampen Elements (Nature Domain)</name>
+        <name>Divine Domain: Nature Domain: Dampen Elements (Nature Domain)</name>
         <text>Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19774,7 +19774,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Thunderbolt Strike (Tempest Domain)</name>
+        <name>Divine Domain: Tempest Domain: Thunderbolt Strike (Tempest Domain)</name>
         <text>At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19783,7 +19783,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Channel Divinity: Cloak of Shadows (Trickery Domain)</name>
+        <name>Channel Divinity: Tricker Domain:  Cloak of Shadows (Trickery Domain)</name>
         <text>Starting at 6th level, you can use your Channel Divinity to vanish.</text>
         <text>    As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.</text>
         <text />
@@ -19798,7 +19798,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Channel Divinity: War God's Blessing (War Domain)</name>
+        <name>Channel Divinity: War Domain: War God's Blessing (War Domain)</name>
         <text>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19825,7 +19825,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Strike (Death Domain)</name>
+        <name>Divine Domain: Death Domain: Divine Strike (Death Domain)</name>
         <text>At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric&#39;s turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra 1d8 necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to 2d8.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 97</text>
@@ -19834,7 +19834,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Potent Spellcasting (Knowledge Domain)</name>
+        <name>Divine Domain: Knowledge Domain: Potent Spellcasting (Knowledge Domain)</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text />
         <text>Source: Player's Handbook, p. 60</text>
@@ -19843,7 +19843,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Strike (Life Domain)</name>
+        <name>Divine Domain: Life Domain: Divine Strike (Life Domain)</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text />
         <text>Source: Player's Handbook, p. 60</text>
@@ -19852,7 +19852,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Potent Spellcasting (Light Domain)</name>
+        <name>Divine Domain: Light Domain: Potent Spellcasting (Light Domain)</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text />
         <text>Source: Player's Handbook, p. 61</text>
@@ -19861,7 +19861,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Strike (Nature Domain)</name>
+        <name>Divine Domain: Nature Domain: Divine Strike (Nature Domain)</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19870,7 +19870,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Strike (Tempest Domain)</name>
+        <name>Divine Domain: Tempest Domain: Divine Strike (Tempest Domain)</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -19879,7 +19879,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Strike (Trickery Domain)</name>
+        <name>Divine Domain: Trickery Domain: Divine Strike (Trickery Domain)</name>
         <text>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19888,7 +19888,7 @@
 
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Strike (War Domain)</name>
+        <name>Divine Domain: War Domain: Divine Strike (War Domain)</name>
         <text>At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric&#39;s turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When the cleric reaches 14th level, the extra damage increases to 2d8.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -19965,7 +19965,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Improved Reaper (Death Domain)</name>
+        <name>Divine Domain: Death Domain: Improved Reaper (Death Domain)</name>
         <text>Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 97</text>
@@ -19974,7 +19974,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Visions of the Past (Knowledge Domain)</name>
+        <name>Divine Domain: Knowledge Domain: Visions of the Past (Knowledge Domain)</name>
         <text>Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
@@ -19988,7 +19988,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Supreme Healing (Life Domain)</name>
+        <name>Divine Domain: Life Domain: Supreme Healing (Life Domain)</name>
         <text>Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.</text>
         <text />
         <text>Source: Player's Handbook, p. 60</text>
@@ -19997,7 +19997,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Corona of Light (Light Domain)</name>
+        <name>Divine Domain: Light Domain: Corona of Light (Light Domain)</name>
         <text>Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage.</text>
         <text />
         <text>Source: Player's Handbook, p. 61</text>
@@ -20006,7 +20006,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Master of Nature (Nature Domain)</name>
+        <name>Divine Domain: Nature Domain: Master of Nature (Nature Domain)</name>
         <text>At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -20015,7 +20015,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Stormborn (Tempest Domain)</name>
+        <name>Divine Domain: Tempest Domain: Stormborn (Tempest Domain)</name>
         <text>At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.</text>
         <text />
         <text>Source: Player's Handbook, p. 62</text>
@@ -20024,7 +20024,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Improved Duplicity (Trickery Domain)</name>
+        <name>Divine Domain: Trickery Domain: Improved Duplicity (Trickery Domain)</name>
         <text>At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -20033,7 +20033,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Avatar of Battle (War Domain)</name>
+        <name>Divine Domain: War Domain: Avatar of Battle (War Domain)</name>
         <text>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
         <text />
         <text>Source: Player's Handbook, p. 63</text>
@@ -20211,7 +20211,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Bonus Cantrip (Circle of the Land)</name>
+        <name>Druid Circle: Circle of the Land: Bonus Cantrip (Circle of the Land)</name>
         <text>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.</text>
         <text />
         <text>Source: Player's Handbook, p. 68</text>
@@ -20220,7 +20220,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Natural Recovery (Circle of the Land)</name>
+        <name>Druid Circle: Circle of the Land: Natural Recovery (Circle of the Land)</name>
         <text>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can&#39;t use this feature again until you finish a long rest</text>
         <text>    For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.</text>
         <text />
@@ -20245,7 +20245,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Combat Wild Shape (Circle of the Moon)</name>
+        <name>Druid Circle: Circle of the Moon: Combat Wild Shape (Circle of the Moon)</name>
         <text>When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.</text>
         <text>    Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.</text>
         <text />
@@ -20255,7 +20255,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Circle Forms (Circle of the Moon)</name>
+        <name>Druid Circle: Circle of the Moon: Circle Forms (Circle of the Moon)</name>
         <text>The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your Wild Shape to transform into a beast with a challenge rating as high as 1 (you ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there).</text>
         <text>    Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.</text>
         <text />
@@ -20269,7 +20269,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle Spells (Circle of the Land)</name>
+        <name>Druid Circle: Circle of the Land: Circle Spells (Circle of the Land)</name>
         <text>Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land &#8212; arctic, coast, desert, forest, grassland, mountain, swamp, or Underdark &#8212; and consult the associated list of spells.</text>
         <text>    Once you gain access to a circle spell, you always have it prepared, and it doesn&#39;t count against the number of spells you can prepare each day. If you gain access to a spell that doesn&#39;t appear on the druid spell list, the spell is nonetheless a druid spell for you.</text>
         <text />
@@ -20279,7 +20279,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Arctic</name>
+        <name>Druid Circle: Circle of the Land: Arctic</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; hold person, spike growth</text>
@@ -20293,7 +20293,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Coast</name>
+        <name>Druid Circle: Circle of the Land: Coast</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd&#8212; mirror image, misty step </text>
@@ -20307,7 +20307,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Desert</name>
+        <name>Druid Circle: Circle of the Land: Desert</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; blur, silence </text>
@@ -20321,7 +20321,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Forest</name>
+        <name>Druid Circle: Circle of the Land: Forest</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; barkskin, spider climb </text>
@@ -20335,7 +20335,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Grassland</name>
+        <name>Druid Circle: Circle of the Land: Grassland</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; invisibility, pass without trace </text>
@@ -20349,7 +20349,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Mountain</name>
+        <name>Druid Circle: Circle of the Land: Mountain</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; spider climb, spike growth </text>
@@ -20363,7 +20363,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Swamp</name>
+        <name>Druid Circle: Circle of the Land: Swamp</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; darkness, Melf&#39;s acid arrow</text>
@@ -20377,7 +20377,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Circle of the Land: Underdark</name>
+        <name>Druid Circle: Circle of the Land: Underdark</name>
         <text>At each indicated level, add the listed spells to your druid spell list. These spells are always prepared and don&#39;t count against the number of spells you prepare each day.</text>
         <text />
         <text>3rd &#8212; spider climb, web </text>
@@ -20413,7 +20413,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Land's Stride (Circle of the Land)</name>
+        <name>Druid Circle: Circle of the Land: Land's Stride (Circle of the Land)</name>
         <text>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</text>
         <text>    In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</text>
         <text />
@@ -20423,7 +20423,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Primal Strike (Circle of the Moon)</name>
+        <name>Druid Circle: Circle of the Moon: Primal Strike (Circle of the Moon)</name>
         <text>Starting at 6th level, your attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
         <text />
         <text>Source: Player's Handbook, p. 69</text>
@@ -20458,7 +20458,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Nature's Ward (Circle of the Land)</name>
+        <name>Druid Circle: Circle of the Land: Nature's Ward (Circle of the Land)</name>
         <text>When you reach 10th level, you can&#39;t be charmed or frightened by elementals or fey, and you are immune to poison and disease.</text>
         <text />
         <text>Source: Player's Handbook, p. 69</text>
@@ -20467,7 +20467,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Elemental Wild Shape (Circle of the Moon)</name>
+        <name>Druid Circle: Circle of the Moon: Elemental Wild Shape (Circle of the Moon)</name>
         <text>At 10th level, you can expend two uses of Wild Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.</text>
         <text />
         <text>Source: Player's Handbook, p. 69</text>
@@ -20502,7 +20502,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Nature's Sanctuary (Circle of the Land)</name>
+        <name>Druid Circle: Circle of the Land: Nature's Sanctuary (Circle of the Land)</name>
         <text>When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.</text>
         <text>    The creature is aware of this effect before it makes its attack against you.</text>
         <text />
@@ -20512,7 +20512,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Thousand Forms (Circle of the Moon)</name>
+        <name>Druid Circle: Circle of the Moon: Thousand Forms (Circle of the Moon)</name>
         <text>By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the alter self spell at will.</text>
         <text />
         <text>Source: Player's Handbook, p. 69</text>
@@ -20758,7 +20758,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Student of War (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Student of War (Battle Master)</name>
         <text>At 3rd level, you gain proficiency with one type of artisan&#39;s tools of your choice.</text>
         <text />
         <text>Source: Player's Handbook, p. 73</text>
@@ -20767,7 +20767,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Combat Superiority (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Combat Superiority (Battle Master)</name>
         <text>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</text>
         <text />
         <text>Maneuvers: You learn three maneuvers of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</text>
@@ -20799,7 +20799,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Improved Critical (Champion)</name>
+        <name>Martial Archetype: Champion: Improved Critical (Champion)</name>
         <text>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -20817,7 +20817,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Spellcasting (Eldritch Knight)</name>
+        <name>Martial Archetype: Eldritch Knight: Spellcasting (Eldritch Knight)</name>
         <text>When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list. </text>
         <text />
         <text>Cantrips: You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level. </text>
@@ -20841,7 +20841,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Weapon Bond (Eldritch Knight)</name>
+        <name>Martial Archetype: Eldritch Knight: Weapon Bond (Eldritch Knight)</name>
         <text>At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.</text>
         <text>    Once you have bonded a weapon to yourself, you can&#39;t be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.</text>
         <text>    You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.</text>
@@ -20898,7 +20898,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Know Your Enemy (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Know Your Enemy (Battle Master)</name>
         <text>Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice.</text>
         <text />
         <text>&#8226; Strength score</text>
@@ -20917,7 +20917,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Additional Maneuvers (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Additional Maneuvers (Battle Master)</name>
         <text>You learn two additional Combat Superiority maneuvers.</text>
         <text />
         <text>Source: Player's Handbook, p. 74</text>
@@ -20931,7 +20931,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Remarkable Athlete (Champion)</name>
+        <name>Martial Archetype: Champion: Remarkable Athlete (Champion)</name>
         <text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn&#39;t already use your proficiency bonus.</text>
         <text>    In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</text>
         <text />
@@ -20941,7 +20941,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>War Magic (Eldritch Knight)</name>
+        <name>Martial Archetype: Eldritch Knight: War Magic (Eldritch Knight)</name>
         <text>Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.</text>
         <text />
         <text>Source: Player's Handbook, p. 75</text>
@@ -20986,7 +20986,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Improved Combat Superiority (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Improved Combat Superiority (Battle Master)</name>
         <text>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.</text>
         <text />
         <text>Source: Player's Handbook, p. 74</text>
@@ -20995,7 +20995,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Additional Maneuvers (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Additional Maneuvers (Battle Master)</name>
         <text>You learn two additional Combat Superiority maneuvers.</text>
         <text />
         <text>Source: Player's Handbook, p. 73</text>
@@ -21004,7 +21004,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Additional Fighting Style (Champion)</name>
+        <name>Martial Archetype: Champion: Additional Fighting Style (Champion)</name>
         <text>At 10th level, you can choose a second option from the Fighting Style class feature.</text>
         <text />
         <text>Source: Player's Handbook, p. 73</text>
@@ -21013,7 +21013,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fighting Style: Archery</name>
+        <name>Martial Archetype: Champion: Fighting Style: Archery</name>
         <text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -21023,7 +21023,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fighting Style: Defense</name>
+        <name>Martial Archetype: Champion: Fighting Style: Defense</name>
         <text>While you are wearing armor, you gain a +1 bonus to AC.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -21033,7 +21033,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fighting Style: Dueling</name>
+        <name>Martial Archetype: Champion: Fighting Style: Dueling</name>
         <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -21043,7 +21043,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fighting Style: Great Weapon Fighting</name>
+        <name>Martial Archetype: Champion: Fighting Style: Great Weapon Fighting</name>
         <text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -21052,7 +21052,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fighting Style: Protection</name>
+        <name>Martial Archetype: Champion: Fighting Style: Protection</name>
         <text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -21061,7 +21061,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fighting Style: Two-Weapon Fighting</name>
+        <name>Martial Archetype: Champion: Fighting Style: Two-Weapon Fighting</name>
         <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
         <text />
         <text>Source: Player's Handbook, p. 72</text>
@@ -21070,7 +21070,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Eldritch Strike (Eldritch Knight)</name>
+        <name>Martial Archetype: Eldritch Knight: Eldritch Strike (Eldritch Knight)</name>
         <text>At 10th level, you learn how to make your weapon strikes undercut a creature&#39;s resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 75</text>
@@ -21143,7 +21143,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Relentless (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Relentless (Battle Master)</name>
         <text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.</text>
         <text />
         <text>Source: Player's Handbook, p. 74</text>
@@ -21152,7 +21152,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Additional Maneuvers (Battle Master)</name>
+        <name>Martial Archetype: Battle Master: Additional Maneuvers (Battle Master)</name>
         <text>You learn two additional Combat Superiority maneuvers.</text>
         <text />
         <text>Source: Player's Handbook, p. 73</text>
@@ -21166,7 +21166,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Superior Critical (Champion)</name>
+        <name>Martial Archetype: Champion: Superior Critical (Champion)</name>
         <text>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.</text>
         <text />
         <text>Source: Player's Handbook, p. 73</text>
@@ -21175,7 +21175,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Arcane Charge (Eldritch Knight)</name>
+        <name>Martial Archetype: Eldritch Knight: Arcane Charge (Eldritch Knight)</name>
         <text>At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.</text>
         <text />
         <text>Source: Player's Handbook, p. 75</text>
@@ -21232,7 +21232,7 @@
 
     <autolevel level="18">
       <feature optional="YES">
-        <name>Survivor (Champion)</name>
+        <name>Martial Archetype: Champion: Survivor (Champion)</name>
         <text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don&#39;t gain this benefit if you have 0 hit points.</text>
         <text />
         <text>Source: Player's Handbook, p. 73</text>
@@ -21241,7 +21241,7 @@
 
     <autolevel level="18">
       <feature optional="YES">
-        <name>Improved War Magic (Eldritch Knight)</name>
+        <name>Martial Archetype: Eldritch Knight: Improved War Magic (Eldritch Knight)</name>
         <text>Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.</text>
         <text />
         <text>Source: Player's Handbook, p. 75</text>
@@ -21445,7 +21445,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Shadow Arts (Way of Shadow)</name>
+        <name>Monastic Tradition: Way of Shadow: Shadow Arts (Way of Shadow)</name>
         <text>Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don&#39;t already know it.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21464,7 +21464,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Disciple of the Elements (Way of the Four Elements)</name>
+        <name>Monastic Tradition: Way of the Four Elements: Disciple of the Elements (Way of the Four Elements)</name>
         <text>When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.</text>
         <text>    You know the Elemental Attunement discipline and one other elemental discipline of your choice, which are detailed in the "Elemental Disciplines" section below. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.</text>
         <text>    Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</text>
@@ -21488,7 +21488,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Open Hand Technique (Way of the Open Hand)</name>
+        <name>Monastic Tradition: Way of the Open Hand: Open Hand Technique (Way of the Open Hand)</name>
         <text>Starting when you choose this tradition at 3rd level, you can manipulate your enemy&#39;s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</text>
         <text />
         <text>&#8226; It must succeed on a Dexterity saving throw or be knocked prone.</text>
@@ -21587,7 +21587,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Shadow Step (Way of Shadow)</name>
+        <name>Monastic Tradition: Way of ShadowShadow Step (Way of Shadow)</name>
         <text>At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21596,7 +21596,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Additional Elemental Discipline (Way of the Four Elements)</name>
+        <name>Monastic Tradition: Way of the Four Elements: Additional Elemental Discipline (Way of the Four Elements)</name>
         <text>At 6th level, you learn an additional elemental discipline of your choice.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21605,7 +21605,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Wholeness of Body (Way of the Open Hand)</name>
+        <name>Monastic Tradition: Way of the Open Hand: Wholeness of Body (Way of the Open Hand)</name>
         <text>At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</text>
         <text />
         <text>Source: Player's Handbook, p. 79</text>
@@ -21696,7 +21696,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Cloak of Shadows (Way of Shadow)</name>
+        <name>Monastic Tradition: Way of Shadow: Cloak of Shadows (Way of Shadow)</name>
         <text>By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.</text>
         <text />
         <text>Invisible:</text>
@@ -21710,7 +21710,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Additional Elemental Discipline (Way of the Four Elements)</name>
+        <name>Monastic Tradition: Way of the Four Elements: Additional Elemental Discipline (Way of the Four Elements)</name>
         <text>At 11th level, you learn an additional elemental discipline of your choice.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21719,7 +21719,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Tranquility (Way of the Open Hand)</name>
+        <name>Monastic Tradition: Way of the Open Hand: Tranquility (Way of the Open Hand)</name>
         <text>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier+your proficiency bonus.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21825,7 +21825,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Opportunist (Way of Shadow)</name>
+        <name>Monastic Tradition: Way of Shadow: Opportunist (Way of Shadow)</name>
         <text>At 17th level, you can exploit a creature&#39;s momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21834,7 +21834,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Additional Elemental Discipline (Way of the Four Elements)</name>
+        <name>Monastic Tradition: Way of the Four Elements: Additional Elemental Discipline (Way of the Four Elements)</name>
         <text>At 17th level, you learn an additional elemental discipline of your choice.</text>
         <text />
         <text>Source: Player's Handbook, p. 80</text>
@@ -21843,7 +21843,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Quivering Palm (Way of the Open Hand)</name>
+        <name>Monastic Tradition: Way of the Open Hand: Quivering Palm (Way of the Open Hand)</name>
         <text>At 17th level, you gain the ability to set up lethal vibrations in someone&#39;s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</text>
         <text>    You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</text>
         <text />
@@ -22168,7 +22168,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Sacred Weapon (Oath of Devotion)</name>
+        <name>Channel Divinity: Oath of Devotion: Sacred Weapon (Oath of Devotion)</name>
         <text>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</text>
         <text>    You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</text>
         <text />
@@ -22178,7 +22178,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Turn the Unholy (Oath of Devotion)</name>
+        <name>Channel Divinity: Oath of Devotion: Turn the Unholy (Oath of Devotion)</name>
         <text>As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</text>
         <text>    A turned creature must spend its turns trying to move as far away from you as it can, and it can&#39;t willingly move to a space within 30 feet of you. It also can&#39;t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there&#39;s nowhere to move, the creature can use the Dodge action.</text>
         <text />
@@ -22217,7 +22217,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Nature's Wrath (Oath of the Ancients)</name>
+        <name>Channel Divinity: Oath of the Ancients: Nature's Wrath (Oath of the Ancients)</name>
         <text>You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.</text>
         <text />
         <text>Restrained:</text>
@@ -22233,7 +22233,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Turn the Faithless (Oath of the Ancients)</name>
+        <name>Channel Divinity: Oath of the Ancients: Turn the Faithless (Oath of the Ancients)</name>
         <text>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
         <text>    A turned creature must spend its turns trying to move as far away from you as it can, and it can&#39;t willingly move to a space within 30 feet of you. It also can&#39;t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there&#39;s nowhere to move, the creature can use the Dodge action.</text>
         <text>    If the creature&#39;s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</text>
@@ -22273,7 +22273,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Abjure Enemy (Oath of Vengeance)</name>
+        <name>Channel Divinity: Oath of Vengence: Abjure Enemy (Oath of Vengeance)</name>
         <text>As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being frightened. Fiends and undead have disadvantage on this saving throw.</text>
         <text>    On a failed save, the creature is frightened for 1 minute or until it takes any damage. While frightened, the creature&#39;s speed is 0, and it can&#39;t benefit from any bonus to its speed.</text>
         <text>    On a successful save, the creature&#39;s speed is halved for 1 minute or until the creature takes any damage.</text>
@@ -22284,7 +22284,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Vow of Enmity (Oath of Vengeance)</name>
+        <name>Channel Divinity: Oath of Vengence: Vow of Enmity (Oath of Vengeance)</name>
         <text>As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.</text>
         <text />
         <text>Frightened:</text>
@@ -22317,7 +22317,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Control Undead (Oathbreaker)</name>
+        <name>Channel Divinity: Oathbreaker: Control Undead (Oathbreaker)</name>
         <text>As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin&#39;s commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin&#39;s level is immune to this effect.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 97</text>
@@ -22326,7 +22326,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Dreadful Aspect (Oathbreaker)</name>
+        <name>Channel Divinity: Oathbreaker: Dreadful Aspect (Oathbreaker)</name>
         <text>As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin&#39;s choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.</text>
         <text />
         <text>Frightened:</text>
@@ -22417,7 +22417,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Aura of Devotion (Oath of Devotion)</name>
+        <name>Sacred Oath: Oath of Devotion: Aura of Devotion (Oath of Devotion)</name>
         <text>Starting at 7th level, you and friendly creatures within 10 feet of you can&#39;t be charmed while you are conscious.</text>
         <text>    At 18th level, the range of this aura increases to 30 feet.</text>
         <text />
@@ -22427,7 +22427,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Aura of Warding (Oath of the Ancients)</name>
+        <name>Sacred Oath: Oath of the Ancients: Aura of Warding (Oath of the Ancients)</name>
         <text>Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.</text>
         <text>    At 18th level, the range of this aura increases to 30 feet.</text>
         <text />
@@ -22437,7 +22437,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Relentless Avenger (Oath of Vengeance)</name>
+        <name>Sacred Oath: Oath of Vengeance: Relentless Avenger (Oath of Vengeance)</name>
         <text>By 7th level, your supernatural focus helps you close off a foe&#39;s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn&#39;t provoke opportunity attacks.</text>
         <text />
         <text>Source: Player's Handbook, p. 88</text>
@@ -22446,7 +22446,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Aura of Hate (Oathbreaker)</name>
+        <name>Sacred Oath: Oathbreaker: Aura of Hate (Oathbreaker)</name>
         <text>Starting at 7th level, the paladin, as well as any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin&#39;s Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.</text>
         <text>    At 18th level, the range of this aura increases to 30 feet.</text>
         <text />
@@ -22500,6 +22500,7 @@
         <reset>L</reset>
       </counter>
 	</autolevel>
+
     <autolevel level="10">
       <feature>
         <name>Aura of Courage</name>
@@ -22522,6 +22523,7 @@
         <reset>L</reset>
       </counter>
 	</autolevel>
+
     <autolevel level="11">
       <feature>
         <name>Improved Divine Smite</name>
@@ -22601,7 +22603,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Purity of Spirit (Oath of Devotion)</name>
+        <name>Sacred Oath: Oath of Devotion: Purity of Spirit (Oath of Devotion)</name>
         <text>Beginning at 15th level, you are always under the effects of a protection from evil and good spell.</text>
         <text />
         <text>Source: Player's Handbook, p. 86</text>
@@ -22610,7 +22612,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Undying Sentinel (Oath of the Ancients)</name>
+        <name>Sacred Oath: Oath of the Ancients: Undying Sentinel (Oath of the Ancients)</name>
         <text>Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can&#39;t use it again until you finish a long rest.</text>
         <text>    Additionally, you suffer none of the drawbacks of old age, and you can&#39;t be aged magically.</text>
         <text />
@@ -22625,7 +22627,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Soul of Vengeance (Oath of Vengeance)</name>
+        <name>Sacred Oath: Oath of Vengeance: Soul of Vengeance (Oath of Vengeance)</name>
         <text>Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.</text>
         <text />
         <text>Source: Player's Handbook, p. 88</text>
@@ -22634,7 +22636,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Supernatural Resistance (Oathbreaker)</name>
+        <name>Sacred Oath: Oathbreaker: Supernatural Resistance (Oathbreaker)</name>
         <text>At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
         <text />
         <text>Source: Dungeon Master's Guide, p. 97</text>
@@ -22715,7 +22717,7 @@
 
     <autolevel level="20">
       <feature optional="YES">
-        <name>Holy Nimbus (Oath of Devotion)</name>
+        <name>Sacred Oath: Oath of Devotion: Holy Nimbus (Oath of Devotion)</name>
         <text>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</text>
         <text>    Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</text>
         <text>    In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</text>
@@ -22732,7 +22734,7 @@
 
     <autolevel level="20">
       <feature optional="YES">
-        <name>Elder Champion (Oath of the Ancients)</name>
+        <name>Sacred Oath: Oath of the Ancients: Elder Champion (Oath of the Ancients)</name>
         <text>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.</text>
         <text>    Using your action, you undergo a transformation. For 1 minute, you gain the following benefits.</text>
         <text />
@@ -22755,7 +22757,7 @@
 
     <autolevel level="20">
       <feature optional="YES">
-        <name>Avenging Angel (Oath of Vengeance)</name>
+        <name>Sacred Oath: Oath of Vengeance: Avenging Angel (Oath of Vengeance)</name>
         <text>At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits.</text>
         <text />
         <text>&#8226; Wings sprout from your back and grant you a flying speed of 60 feet.</text>
@@ -22775,7 +22777,7 @@
 
     <autolevel level="20">
       <feature optional="YES">
-        <name>Dread Lord (Oathbreaker)</name>
+        <name>Sacred Oath: Oathbreaker: Dread Lord (Oathbreaker)</name>
         <text>At 20th-level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.</text>
         <text>    While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 +the paladin&#39;s Charisma modifier.</text>
         <text>    After activating the aura, the paladin can&#39;t do so again until he or she finishes a long rest.</text>
@@ -22981,7 +22983,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Ranger's Companion (Beast Master)</name>
+        <name>Ranger Archetype: Beast Master: Ranger's Companion (Beast Master)</name>
         <text>At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast&#39;s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals the hit point number in its stat block or four times your ranger level, whichever is higher. Like any creature, it can spend Hit Dice during a short rest to regain hit points.</text>
         <text>    The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn&#39;t take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, Dodge, or Help action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.</text>
         <text>    If you are incapacitated or absent, the beast acts on its own, focusing on protecting you and itself. The beast never requires your command to use its reaction, such as when making an opportunity attack.</text>
@@ -23003,7 +23005,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Hunter's Prey (Hunter)</name>
+        <name>Ranger Archetype: Hunter: Hunter's Prey (Hunter)</name>
         <text>At 3rd level, you gain one of the following features of your choice: Colossus Slayer, Giant Killer, or Horde Breaker. Add your selected Hunter&#39;s Prey option as a feat.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23012,7 +23014,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Hunter's Prey: Colossus Slayer</name>
+        <name>Ranger Archetype: Hunter: Hunter's Prey: Colossus Slayer</name>
         <text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it&#39;s below its hit point maximum. You can deal this extra damage only once per turn. </text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23021,7 +23023,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Hunter's Prey: Giant Killer</name>
+        <name>Ranger Archetype: Hunter: Hunter's Prey: Giant Killer</name>
         <text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature. </text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23030,7 +23032,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Hunter's Prey: Horde Breaker</name>
+        <name>Ranger Archetype: Hunter: Hunter's Prey: Horde Breaker</name>
         <text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23074,7 +23076,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Exceptional Training (Beast Master)</name>
+        <name>Ranger Archetype: Beast Master: Exceptional Training (Beast Master)</name>
         <text>Beginning at 7th level, on any of your turns when your beast companion doesn&#39;t attack, you can use a bonus action to command the beast to take the Dash, Disengage, Dodge, or Help action on its turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23083,7 +23085,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Defensive Tactics (Hunter)</name>
+        <name>Ranger Archetype: Hunter: Defensive Tactics (Hunter)</name>
         <text>At 7th level, you gain one of the following features of your choice: Escape the Horde, Multiattack Defense, or Steel Will. Add your selected Defensive Tactic as a feat.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23092,7 +23094,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Defensive Tactics: Escape the Horde</name>
+        <name>Ranger Archetype: Hunter: Defensive Tactics: Escape the Horde</name>
         <text>Opportunity attacks against you are made with disadvantage. </text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23101,7 +23103,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Defensive Tactics: Multiattack Defense</name>
+        <name>Ranger Archetype: Hunter: Defensive Tactics: Multiattack Defense</name>
         <text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn. </text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23110,7 +23112,7 @@
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Defensive Tactics: Steel Will</name>
+        <name>Ranger Archetype: Hunter: Defensive Tactics: Steel Will</name>
         <text>You have advantage on saving throws against being frightened.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23165,7 +23167,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Bestial Fury (Beast Master)</name>
+        <name>Ranger Archetype: Beast Master: Bestial Fury (Beast Master)</name>
         <text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23174,7 +23176,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Multiattack (Hunter)</name>
+        <name>Ranger Archetype: Hunter: Multiattack (Hunter)</name>
         <text>At 11th level, you gain one of the following features of your choice: Volley or Whirlwind Attack. Add your selected Multiattack option as a feat.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23183,7 +23185,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Multiattack: Volley</name>
+        <name>Ranger Archetype: Hunter: Multiattack: Volley</name>
         <text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon&#39;s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. </text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23192,7 +23194,7 @@
 
     <autolevel level="11">
       <feature optional="YES">
-        <name>Multiattack: Whirlwind Attack</name>
+        <name>Ranger Archetype: Hunter: Multiattack: Whirlwind Attack</name>
         <text>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23236,7 +23238,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Share Spells (Beast Master)</name>
+        <name>Ranger Archetype: Beast Master: Share Spells (Beast Master)</name>
         <text>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23245,7 +23247,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Superior Hunter's Defense (Hunter)</name>
+        <name>Ranger Archetype: Hunter: Superior Hunter's Defense (Hunter)</name>
         <text>At 15th level, you gain one of the following features of your choice: Evasion, Stand Against the Tide, or Uncanny Dodge. Add your selected Superior Hunter&#39;s Defense as a feat.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23254,7 +23256,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Superior Hunter's Defense: Evasion</name>
+        <name>Ranger Archetype: Hunter: Superior Hunter's Defense: Evasion</name>
         <text>You can nimbly dodge out of the way of certain area effects, such as a red dragon&#39;s fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23263,7 +23265,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Superior Hunter's Defense: Stand Against the Tide</name>
+        <name>Ranger Archetype: Hunter: Superior Hunter's Defense: Stand Against the Tide</name>
         <text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice. </text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23272,7 +23274,7 @@
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Superior Hunter's Defense: Uncanny Dodge</name>
+        <name>Ranger Archetype: Hunter: Superior Hunter's Defense: Uncanny Dodge</name>
         <text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack&#39;s damage against you.</text>
         <text />
         <text>Source: Player's Handbook, p. 93</text>
@@ -23449,7 +23451,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Spellcasting (Arcane Trickster)</name>
+        <name>Roguish Archetype: Arcane Trickster: Spellcasting (Arcane Trickster)</name>
         <text>When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list. </text>
         <text />
         <text>Cantrips: You learn three cantrips: mage hand and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level. </text>
@@ -23473,7 +23475,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Mage Hand Legerdemain (Arcane Trickster)</name>
+        <name>Roguish Archetype: Arcane Trickster: Mage Hand Legerdemain (Arcane Trickster)</name>
         <text>Starting at 3rd level, when you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it.</text>
         <text />
         <text>&#8226; You can stow one object the hand is holding in a container worn or carried by another creature.</text>
@@ -23500,7 +23502,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bonus Proficiencies (Assassin)</name>
+        <name>Roguish Archetype: Assassin: Bonus Proficiencies (Assassin)</name>
         <text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner&#39;s kit.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23509,7 +23511,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Assassinate (Assassin)</name>
+        <name>Roguish Archetype: Assassin: Assassinate (Assassin)</name>
         <text>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn&#39;t taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23527,7 +23529,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fast Hands (Thief)</name>
+        <name>Roguish Archetype: Thief: Fast Hands (Thief)</name>
         <text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves&#39; tools to disarm a trap or open a lock, or take the Use an Object action.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23536,7 +23538,7 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Second-Story Work (Thief)</name>
+        <name>Roguish Archetype: Thief: Second-Story Work (Thief)</name>
         <text>When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.</text>
         <text>    In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.</text>
         <text />
@@ -23608,7 +23610,7 @@
 
     <autolevel level="9">
       <feature optional="YES">
-        <name>Magical Ambush (Arcane Trickster)</name>
+        <name>Roguish Archetype: Arcane Trickster: Magical Ambush (Arcane Trickster)</name>
         <text>Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 98</text>
@@ -23617,7 +23619,7 @@
 
     <autolevel level="9">
       <feature optional="YES">
-        <name>Infiltration Expertise (Assassin)</name>
+        <name>Roguish Archetype: Assassin: Infiltration Expertise (Assassin)</name>
         <text>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can&#39;t establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.</text>
         <text>    Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.</text>
         <text />
@@ -23627,7 +23629,7 @@
 
     <autolevel level="9">
       <feature optional="YES">
-        <name>Supreme Sneak (Thief)</name>
+        <name>Roguish Archetype: Thief: Supreme Sneak (Thief)</name>
         <text>Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23681,7 +23683,7 @@
 
     <autolevel level="13">
       <feature optional="YES">
-        <name>Versatile Trickster (Arcane Trickster)</name>
+        <name>Roguish Archetype: Arcane Trickster: Versatile Trickster (Arcane Trickster)</name>
         <text>At 13th level, you gain the ability to distract targets with your mage hand. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 98</text>
@@ -23690,7 +23692,7 @@
 
     <autolevel level="13">
       <feature optional="YES">
-        <name>Imposter (Assassin)</name>
+        <name>Roguish Archetype: Assassin: Imposter (Assassin)</name>
         <text>At 13th level, you gain the ability to unerringly mimic another person&#39;s speech, writing, and behavior. You must spend at least three hours studying these three components of the person&#39;s behavior, listening to speech, examining handwriting, and observing mannerisms.</text>
         <text>    Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.</text>
         <text />
@@ -23700,7 +23702,7 @@
 
     <autolevel level="13">
       <feature optional="YES">
-        <name>Use Magic Device (Thief)</name>
+        <name>Roguish Archetype: Thief: Use Magic Device (Thief)</name>
         <text>By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23754,7 +23756,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Spell Thief (Arcane Trickster)</name>
+        <name>Roguish Archetype: Arcane Trickster: Spell Thief (Arcane Trickster)</name>
         <text>At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.</text>
         <text>    Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell&#39;s effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn&#39;t need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can&#39;t cast that spell until the 8 hours have passed.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
@@ -23770,7 +23772,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Death Strike (Assassin)</name>
+        <name>Roguish Archetype: Assassin: Death Strike (Assassin)</name>
         <text>Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier+your proficiency bonus). On a failed save, double the damage of your attack against the creature.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23779,7 +23781,7 @@
 
     <autolevel level="17">
       <feature optional="YES">
-        <name>Thief's Reflexes (Thief)</name>
+        <name>Roguish Archetype: Thief: Thief's Reflexes (Thief)</name>
         <text>When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can&#39;t use this feature when you are surprised.</text>
         <text />
         <text>Source: Player's Handbook, p. 97</text>
@@ -23930,7 +23932,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Black Dragon Ancestor (Black Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Black Dragon Ancestor (Black Draconic Bloodline)</name>
         <text>You have a black dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -23940,7 +23942,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Blue Dragon Ancestor (Blue Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Blue Dragon Ancestor (Blue Draconic Bloodline)</name>
         <text>You have a blue dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -23950,7 +23952,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Brass Dragon Ancestor (Brass Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Brass Dragon Ancestor (Brass Draconic Bloodline)</name>
         <text>You have a brass dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -23960,7 +23962,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Bronze Dragon Ancestor (Bronze Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Bronze Dragon Ancestor (Bronze Draconic Bloodline)</name>
         <text>You have a bronze dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -23970,7 +23972,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Copper Dragon Ancestor (Copper Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Copper Dragon Ancestor (Copper Draconic Bloodline)</name>
         <text>You have a copper dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -23980,7 +23982,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Gold Dragon Ancestor (Gold Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Gold Dragon Ancestor (Gold Draconic Bloodline)</name>
         <text>You have a gold dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -23990,7 +23992,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Green Dragon Ancestor (Green Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Green Dragon Ancestor (Green Draconic Bloodline)</name>
         <text>You have a green dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -24000,7 +24002,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Red Dragon Ancestor (Red Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Red Dragon Ancestor (Red Draconic Bloodline)</name>
         <text>You have a red dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -24010,7 +24012,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Silver Dragon Ancestor (Silver Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Silver Dragon Ancestor (Silver Draconic Bloodline)</name>
         <text>You have a silver dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -24020,7 +24022,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>White Dragon Ancestor (White Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: White Dragon Ancestor (White Draconic Bloodline)</name>
         <text>You have a white dragon ancestor.</text>
         <text>    You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</text>
         <text />
@@ -24030,7 +24032,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Draconic Resilience (Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Draconic Resilience (Draconic Bloodline)</name>
         <text>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</text>
         <text>    Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren&#39;t wearing armor, your AC equals 13 + your Dexterity modifier.</text>
         <text />
@@ -24051,7 +24053,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Wild Magic Surge (Wild Magic)</name>
+        <name>Sorcerous Origin: Wild Magic: Wild Magic Surge (Wild Magic)</name>
         <text>Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Once per turn, the DM can have you roll a d20 immediately after you cast a sorcerer spell of 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn&#39;t require concentration in this case; the spell lasts for its full duration. </text>
         <text />
         <text>Wild Magic Surge: </text>
@@ -24162,7 +24164,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Tides of Chaos (Wild Magic)</name>
+        <name>Sorcerous Origin: Wild Magic: Tides of Chaos (Wild Magic)</name>
         <text>Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.</text>
         <text>    Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.</text>
         <text />
@@ -24351,7 +24353,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Black Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Black Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals acid damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to acid damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24360,7 +24362,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Blue Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Blue Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals lightning damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to lightning damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24369,7 +24371,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Brass Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Brass Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals fire damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to fire damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24378,7 +24380,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Bronze Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Bronze Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals lightning damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to lightning damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24387,7 +24389,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Copper Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Copper Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals acid damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to acid damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24396,7 +24398,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Gold Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Gold Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals fire damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to fire damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24405,7 +24407,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Green Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Green Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals poison damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to poison damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24414,7 +24416,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Red Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Red Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals fire damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to fire damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24423,7 +24425,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (Silver Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (Silver Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals cold damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to cold damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24432,7 +24434,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Elemental Affinity (White Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Elemental Affinity (White Draconic Bloodline)</name>
         <text>Starting at 6th level, when you cast a spell that deals cold damage, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to cold damage for 1 hour.</text>
         <text />
         <text>Source: Player's Handbook, p. 102</text>
@@ -24441,7 +24443,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Bend Luck (Wild Magic)</name>
+        <name>Sorcerous Origin: Wild Magic: Bend Luck (Wild Magic)</name>
         <text>Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature&#39;s roll. You can do so after the creature rolls but before any effects of the roll occur.</text>
         <text />
         <text>Source: Player's Handbook, p. 103</text>
@@ -24650,7 +24652,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Dragon Wings (Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Dragon Wings (Draconic Bloodline)</name>
         <text>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.</text>
         <text>    You can&#39;t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</text>
         <text />
@@ -24660,7 +24662,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Controlled Chaos (Wild Magic)</name>
+        <name>Sorcerous Origin: Wild Magic: Controlled Chaos (Wild Magic)</name>
         <text>At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.</text>
         <text />
         <text>Source: Player's Handbook, p. 103</text>
@@ -24811,7 +24813,7 @@
 
     <autolevel level="18">
       <feature optional="YES">
-        <name>Draconic Presence (Draconic Bloodline)</name>
+        <name>Sorcerous Origin: Draconic Bloodline: Draconic Presence (Draconic Bloodline)</name>
         <text>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.</text>
         <text />
         <text>Charmed:</text>
@@ -24830,7 +24832,7 @@
 
     <autolevel level="18">
       <feature optional="YES">
-        <name>Spell Bombardment (Wild Magic)</name>
+        <name>Sorcerous Origin: Wild Magic: Spell Bombardment (Wild Magic)</name>
         <text>Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.</text>
         <text />
         <text>Source: Player's Handbook, p. 103</text>
@@ -24990,7 +24992,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Fey Presence (The Archfey)</name>
+        <name>Otherworldly Patron: The Archfey: Fey Presence (The Archfey)</name>
         <text>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
@@ -25033,7 +25035,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Dark One's Blessing (The Fiend)</name>
+        <name>Otherworldly Patron: The Fiend: Dark One's Blessing (The Fiend)</name>
         <text>Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier+your warlock level (minimum of 1).</text>
         <text />
         <text>Source: Player's Handbook, p. 109</text>
@@ -25060,7 +25062,7 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Awakened Mind (The Great Old One)</name>
+        <name>Otherworldly Patron: The Great Old One: Awakened Mind (The Great Old One)</name>
         <text>Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don&#39;t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text>
         <text />
         <text>Source: Player's Handbook, p. 110</text>
@@ -25161,7 +25163,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Misty Escape (The Archfey)</name>
+        <name>Otherworldly Patron: The Archfey: Misty Escape (The Archfey)</name>
         <text>Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
@@ -25181,7 +25183,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Dark One's Own Luck (The Fiend)</name>
+        <name>Otherworldly Patron: The Fiend: Dark One's Own Luck (The Fiend)</name>
         <text>Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll&#39;s effects occur.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a short or long rest</text>
         <text />
@@ -25196,7 +25198,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Entropic Ward (The Great Old One)</name>
+        <name>Otherworldly Patron: The Great Old One: Entropic Ward (The Great Old One)</name>
         <text>At 6th level, you learn to magically ward yourself against attack and to turn an enemy&#39;s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
@@ -25255,7 +25257,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Beguiling Defenses (The Archfey)</name>
+        <name>Otherworldly Patron: The Archfey: Beguiling Defenses (The Archfey)</name>
         <text>Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.</text>
         <text />
         <text>Charmed:</text>
@@ -25269,7 +25271,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Fiendish Resilience (The Fiend)</name>
+        <name>Otherworldly Patron: The Fiend: Fiendish Resilience (The Fiend)</name>
         <text>Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.</text>
         <text />
         <text>Source: Player's Handbook, p. 109</text>
@@ -25278,7 +25280,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Thought Shield (The Great Old One)</name>
+        <name>Otherworldly Patron: The Great Old One: Thought Shield (The Great Old One)</name>
         <text>Starting at 10th level, your thoughts can&#39;t be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.</text>
         <text />
         <text>Source: Player's Handbook, p. 110</text>
@@ -25333,7 +25335,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Dark Delirium (The Archfey)</name>
+        <name>Otherworldly Patron: The Archfey: Dark Delirium (The Archfey)</name>
         <text>Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.</text>
         <text>    Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.</text>
         <text>    You must finish a short or long rest before you can use this feature again.</text>
@@ -25359,7 +25361,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Hurl Through Hell (The Fiend)</name>
+        <name>Otherworldly Patron: The Fiend: Hurl Through Hell (The Fiend)</name>
         <text>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.</text>
         <text>    At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
@@ -25375,7 +25377,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Create Thrall (The Great Old One)</name>
+        <name>Otherworldly Patron: The Great Old One: Create Thrall (The Great Old One)</name>
         <text>At 14th level, you gain the ability to infect a humanoid&#39;s mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a remove curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.</text>
         <text>    You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.</text>
         <text />
@@ -25612,7 +25614,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Abjuration Savant (School of Abjuration)</name>
+        <name>Arcane Tradition: School of Abjuration: Abjuration Savant (School of Abjuration)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 115</text>
@@ -25621,7 +25623,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Arcane Ward (School of Abjuration)</name>
+        <name>Arcane Tradition: School of Abjuration: Arcane Ward (School of Abjuration)</name>
         <text>Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell&#39;s magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your wizard level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.</text>
         <text>    While the ward has 0 hit points, it can&#39;t absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.</text>
         <text>    Once you create the ward, you can&#39;t create it again until you finish a long rest.</text>
@@ -25647,7 +25649,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Conjuration Savant (School of Conjuration)</name>
+        <name>Arcane Tradition: School of Conjuration: Conjuration Savant (School of Conjuration)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 116</text>
@@ -25656,7 +25658,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Minor Conjuration (School of Conjuration)</name>
+        <name>Arcane Tradition: School of Conjuration: Minor Conjuration (School of Conjuration)</name>
         <text>Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.</text>
         <text>    The object disappears after 1 hour, when you use this feature again, or if it takes or deals any damage.</text>
         <text />
@@ -25676,7 +25678,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Divination Savant (School of Divination)</name>
+        <name>Arcane Tradition: School of Divination: Divination Savant (School of Divination)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 116</text>
@@ -25685,7 +25687,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Portent (School of Divination)</name>
+        <name>Arcane Tradition: School of Divination: Portent (School of Divination)</name>
         <text>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</text>
         <text>    Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</text>
         <text />
@@ -25710,7 +25712,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Enchantment Savant (School of Enchantment)</name>
+        <name>Arcane Tradition: School of Enchantment: Enchantment Savant (School of Enchantment)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an enchantment spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -25719,7 +25721,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Hypnotic Gaze (School of Enchantment)</name>
+        <name>Arcane Tradition: School of Enchantment: Hypnotic Gaze (School of Enchantment)</name>
         <text>Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature&#39;s speed drops to 0, and the creature is incapacitated and visibly dazed.</text>
         <text>    On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.</text>
         <text>    Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can&#39;t use this feature on that creature again until you finish a long rest.</text>
@@ -25753,7 +25755,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Evocation Savant (School of Evocation)</name>
+        <name>Arcane Tradition: School of Evocation: Evocation Savant (School of Evocation)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -25762,7 +25764,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Sculpt Spells (School of Evocation)</name>
+        <name>Arcane Tradition: School of Evocation: Sculpt Spells (School of Evocation)</name>
         <text>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1+the spell&#39;s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -25781,7 +25783,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Illusion Savant (School of Illusion)</name>
+        <name>Arcane Tradition: School of Illusion: Illusion Savant (School of Illusion)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 118</text>
@@ -25790,7 +25792,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Improved Minor Illusion (School of Illusion)</name>
+        <name>Arcane Tradition: School of Illusion: Improved Minor Illusion (School of Illusion)</name>
         <text>When you choose this school at 2nd level, you learn the minor illusion cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn&#39;t count against your number of cantrips known.</text>
         <text>    When you cast minor illusion, you can create both a sound and an image with a single casting of the spell.</text>
         <text />
@@ -25810,7 +25812,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Necromancy Savant (School of Necromancy)</name>
+        <name>Arcane Tradition: School of Necromancy: Necromancy Savant (School of Necromancy)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 118</text>
@@ -25819,7 +25821,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Grim Harvest (School of Necromancy)</name>
+        <name>Arcane Tradition: School of Necromancy: Grim Harvest (School of Necromancy)</name>
         <text>At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell&#39;s level, or three times its level if the spell belongs to the School of Necromancy. You don&#39;t gain this benefit for killing constructs or undead.</text>
         <text />
         <text>Source: Player's Handbook, p. 118</text>
@@ -25838,7 +25840,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Transmutation Savant (School of Transmutation)</name>
+        <name>Arcane Tradition: School of Transmutation: Transmutation Savant (School of Transmutation)</name>
         <text>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.</text>
         <text />
         <text>Source: Player's Handbook, p. 119</text>
@@ -25847,7 +25849,7 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Minor Alchemy (School of Transmutation)</name>
+        <name>Arcane Tradition: School of Transmutation: Minor Alchemy (School of Transmutation)</name>
         <text>Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.</text>
         <text />
         <text>Source: Player's Handbook, p. 119</text>
@@ -25882,7 +25884,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Projected Ward (School of Abjuration)</name>
+        <name>Arcane Tradition: School of Abjuration: Projected Ward (School of Abjuration)</name>
         <text>Starting at 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.</text>
         <text />
         <text>Source: Player's Handbook, p. 115</text>
@@ -25891,7 +25893,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Benign Transposition (School of Conjuration)</name>
+        <name>Arcane Tradition: School of Conjuration: Benign Transposition (School of Conjuration)</name>
         <text>Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.</text>
         <text />
@@ -25906,7 +25908,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Expert Divination (School of Divination)</name>
+        <name>Arcane Tradition: School of Divination: Expert Divination (School of Divination)</name>
         <text>Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can&#39;t be higher than 5th level.</text>
         <text />
         <text>Source: Player's Handbook, p. 116</text>
@@ -25915,7 +25917,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Instinctive Charm (School of Enchantment)</name>
+        <name>Arcane Tradition: School of Enchantment: Instinctive Charm (School of Enchantment)</name>
         <text>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack&#39;s range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can&#39;t use this feature on the attacker again until you finish a long rest.</text>
         <text>    You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can&#39;t be charmed are immune to this effect.</text>
         <text />
@@ -25925,7 +25927,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Potent Cantrip (School of Evocation)</name>
+        <name>Arcane Tradition: School of Evocation: Potent Cantrip (School of Evocation)</name>
         <text>Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip&#39;s damage (if any) but suffers no additional effect from the cantrip.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -25934,7 +25936,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Malleable Illusions (School of Illusion)</name>
+        <name>Arcane Tradition: School of Illusion: Malleable Illusions (School of Illusion)</name>
         <text>Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell&#39;s normal parameters for the illusion), provided that you can see the illusion.</text>
         <text />
         <text>Source: Player's Handbook, p. 118</text>
@@ -25943,7 +25945,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Undead Thralls (School of Necromancy)</name>
+        <name>Arcane Tradition: School of Necromancy: Undead Thralls (School of Necromancy)</name>
         <text>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.</text>
         <text>    Whenever you create an undead using a necromancy spell, it has additional benefits.</text>
         <text />
@@ -25957,7 +25959,7 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Transmuter's Stone (School of Transmutation)</name>
+        <name>Arcane Tradition: School of Transmutation: Transmuter's Stone (School of Transmutation)</name>
         <text>Starting at 6th level, you can spend 8 hours creating a transmuter&#39;s stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature&#39;s possession. When you create the stone, choose the benefit from the following options.</text>
         <text />
         <text>&#8226; Darkvision out to a range of 60 feet, as described in chapter 8</text>
@@ -26003,7 +26005,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Improved Abjuration (School of Abjuration)</name>
+        <name>Arcane Tradition: School of Abjuration: Improved Abjuration (School of Abjuration)</name>
         <text>Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check.</text>
         <text />
         <text>Source: Player's Handbook, p. 115</text>
@@ -26012,7 +26014,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Focused Conjuration (School of Conjuration)</name>
+        <name>Arcane Tradition: School of Conjuration: Focused Conjuration (School of Conjuration)</name>
         <text>Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can&#39;t be broken as a result of taking damage.</text>
         <text />
         <text>Source: Player's Handbook, p. 116</text>
@@ -26021,7 +26023,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>The Third Eye (School of Divination)</name>
+        <name>Arcane Tradition: School of Divination: The Third Eye (School of Divination)</name>
         <text>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can&#39;t use the feature again until you finish a rest.</text>
         <text />
         <text>Darkvision:</text>
@@ -26047,7 +26049,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Split Enchantment (School of Enchantment)</name>
+        <name>Arcane Tradition: School of Enchantment: Split Enchantment (School of Enchantment)</name>
         <text>Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -26056,7 +26058,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Empowered Evocation (School of Evocation)</name>
+        <name>Arcane Tradition: School of Evocation: Empowered Evocation (School of Evocation)</name>
         <text>Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -26065,7 +26067,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Illusory Step (School of Illusion)</name>
+        <name>Arcane Tradition: School of Illusion: Illusory Step (School of Illusion)</name>
         <text>Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.</text>
         <text>    Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
@@ -26080,7 +26082,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Inured to Undeath (School of Necromancy)</name>
+        <name>Arcane Tradition: School of Necromancy: Inured to Undeath (School of Necromancy)</name>
         <text>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can&#39;t be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.</text>
         <text />
         <text>Source: Player's Handbook, p. 119</text>
@@ -26089,7 +26091,7 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Shapechanger (School of Transmutation)</name>
+        <name>Arcane Tradition: School of Transmutation: Shapechanger (School of Transmutation)</name>
         <text>At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.</text>
         <text>    Once you cast polymorph in this way, you can&#39;t do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</text>
         <text />
@@ -26130,7 +26132,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Spell Resistance (School of Abjuration)</name>
+        <name>Arcane Tradition: School of Abjuration: Spell Resistance (School of Abjuration)</name>
         <text>Starting at 14th level, you have advantage on saving throws against spells.</text>
         <text>    Furthermore, you have resistance against the damage of spells.</text>
         <text />
@@ -26140,7 +26142,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Durable Summons (School of Conjuration)</name>
+        <name>Arcane Tradition: School of Conjuration: Durable Summons (School of Conjuration)</name>
         <text>Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.</text>
         <text />
         <text>Source: Player's Handbook, p. 116</text>
@@ -26149,7 +26151,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Greater Portent (School of Divination)</name>
+        <name>Arcane Tradition: School of Divination: Greater Portent (School of Divination)</name>
         <text>Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.</text>
         <text />
         <text>Source: Player's Handbook, p. 117</text>
@@ -26163,7 +26165,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Alter Memories (School of Enchantment)</name>
+        <name>Arcane Tradition: School of Enchantment: Alter Memories (School of Enchantment)</name>
         <text>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature&#39;s understanding so that it remains unaware of being charmed.</text>
         <text>    Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum 1). You can make the creature forget less time, and the amount of time can&#39;t exceed the duration of your enchantment spell.</text>
         <text />
@@ -26173,7 +26175,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Overchannel (School of Evocation)</name>
+        <name>Arcane Tradition: School of Evocation: Overchannel (School of Evocation)</name>
         <text>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.</text>
         <text>    The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.</text>
         <text />
@@ -26183,7 +26185,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Illusory Reality (School of Illusion)</name>
+        <name>Arcane Tradition: School of Illusion: Illusory Reality (School of Illusion)</name>
         <text>By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.</text>
         <text>    The object can&#39;t deal damage or otherwise directly harm anyone.</text>
         <text />
@@ -26193,7 +26195,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Command Undead (School of Necromancy)</name>
+        <name>Arcane Tradition: School of Necromancy: Command Undead (School of Necromancy)</name>
         <text>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can&#39;t use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.</text>
         <text>    Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.</text>
         <text />
@@ -26203,7 +26205,7 @@
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Master Transmuter (School of Transmutation)</name>
+        <name>Arcane Tradition: School of Transmutation: Master Transmuter (School of Transmutation)</name>
         <text>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter&#39;s stone in a single burst. When you do so, choose one of the following effects. Your transmuter&#39;s stone is destroyed and can&#39;t be remade until you finish a long rest. </text>
         <text />
         <text>Major Transformation:</text>

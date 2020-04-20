@@ -15,7 +15,7 @@
         </autolevel>
         <autolevel level="3">
             <feature optional="YES">
-                <name>Note of Potential (College of Creation (UA))</name>
+                <name>Bard College: College of Creation (UA): Note of Potential (College of Creation (UA))</name>
                 <text>3rd-level College of Creation feature</text>
                 <text>   You can manipulate the Song of Creation to summon a floating musical note of possibility: Whenever you give a creature a Bardic Inspiration die, you can create a Note of Potential. The note orbits within 5 feet of the creature. The note is a Tiny object that is intangible and invulnerable, and it lasts until the Bardic Inspiration die is lost. A creature with a note can use it in the following ways.</text>
                 <text></text>
@@ -33,7 +33,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Animating Performance (College of Creation (UA))</name>
+                <name>Bard College: College of Creation (UA): Animating Performance (College of Creation (UA))</name>
                 <text>   6th-level College of Creation feature</text>
                 <text>   Your mastery over the Song of Creation allows you to magically bring items to life. As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the Dancing Item stat block and is under your control for 1 hour or until it is reduced to 0 hit points.</text>
                 <text>   In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
@@ -45,7 +45,7 @@
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>Performance of Creation (College of Creation (UA))</name>
+                <name>Bard College: College of Creation (UA): Performance of Creation (College of Creation (UA))</name>
                 <text>   14th-level College of Creation feature</text>
                 <text>   Your performance can manipulate the magic of creation, briefly transforming the world around you. As an action, you can create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 20 times your bard level and must be Large or smaller. Tiny glimmering, intangible notes float around it, and a creature can faintly hear music when touching it. For examples of items you can create, see the Armor, Weapons, Adventuring Gear, Tools, and Mounts and Vehicles tables in chapter 5, “Equipment,” of the Player's Handbook.</text>
                 <text>   The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item's duration is extended to the end of your next turn, up to a maximum of 1 minute. If you maintain the item for the full minute, it continues to exist for a number of hours equal to your bard level.</text>
@@ -90,7 +90,7 @@
         </autolevel>
         <autolevel level="1">
             <feature optional="YES">
-                <name>Emboldening Bond (Unity Domain (UA))</name>
+                <name>Divine Domain: Unity Domain (UA): Emboldening Bond (Unity Domain (UA))</name>
                 <text>1st-level Unity Domain feature</text>
                 <text>   You can forge an empowering bond between allies. As an action, you can choose two willing creatures you can see within 30 feet of you (this can include yourself) and create a magical bond between them. While either bonded creature is within 30 feet of the other, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn. The bond lasts for 1 hour or until you use this feature again.</text>
                 <text>   You can use this feature once, and you regain the ability to do so when you finish a long rest. You can also expend a spell slot to use the feature again.</text>
@@ -100,7 +100,7 @@
         </autolevel>
         <autolevel level="2">
             <feature optional="YES">
-                <name>Channel Divinity: Shared Burden (Unity Domain (UA))</name>
+                <name>Channel Divinity: Unity Domain (UA): Shared Burden (Unity Domain (UA))</name>
                 <text>2nd-level Unity Domain feature</text>
                 <text>   You can use your Channel Divinity to protect your allies through the strength of your shared bonds.</text>
                 <text>   When a creature you can see within 30 feet of you takes damage, you can use your reaction to choose a number of other willing creatures you can see, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). Distribute the damage taken between the original target and the chosen creatures. Each creature must take at least 1 damage. Apply any damage resistance or vulnerability of the creatures involved after you distribute the damage.</text>
@@ -110,7 +110,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Protective Bond (Unity Domain (UA))</name>
+                <name>Divine Domain: Unity Domain (UA): Protective Bond (Unity Domain (UA))</name>
                 <text>6th-level Unity Domain feature</text>
                 <text>   The bond you forge between people shields them from harm. While either creature chosen for your Emboldening Bond feature is within 30 feet of the other, the creature can use its reaction to grant resistance to all damage to the other creature when that other creature takes damage. This resistance lasts until the end of the current turn.</text>
                 <text></text>
@@ -119,7 +119,7 @@
         </autolevel>
         <autolevel level="8">
             <feature optional="YES">
-                <name>Potent Spellcasting (Unity Domain (UA))</name>
+                <name>Divine Domain: Unity Domain (UA): Potent Spellcasting (Unity Domain (UA))</name>
                 <text>8th-level Unity Domain feature</text>
                 <text>   You add your Wisdom modifier to the damage you deal with any cleric cantrip</text>
                 <text></text>
@@ -128,7 +128,7 @@
         </autolevel>
         <autolevel level="17">
             <feature optional="YES">
-                <name>Enduring Unity (Unity Domain (UA))</name>
+                <name>Divine Domain: Unity Domain (UA): Enduring Unity (Unity Domain (UA))</name>
                 <text>17th-level Unity Domain feature</text>
                 <text>   The bonds you create endure across vast distances. Creatures affected by your Emboldening Bond feature gain its benefits, as well as those of your Protective Bond feature, while they are on the same plane of existence as each other.</text>
                 <text>   Additionally, when a creature chosen for your Emboldening Bond is reduced to 0 hit points, their bonded partner gains the following benefits for 1 minute, or until the creature regains at least 1 hit point:</text>
@@ -163,7 +163,7 @@
         </autolevel>
         <autolevel level="1">
             <feature optional="YES">
-                <name>Clockwork Magic (Clockwork Soul (UA))</name>
+                <name>Sorcerous Origin: Clockwork Soul (UA): Clockwork Magic (Clockwork Soul (UA))</name>
                 <text>1st-level Clockwork Soul feature</text>
                 <text>   You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.</text>
                 <text></text>
@@ -180,7 +180,7 @@
         </autolevel>
         <autolevel level="1">
             <feature optional="YES">
-                <name>Restore Balance (Clockwork Soul (UA))</name>
+                <name>Sorcerous Origin: Clockwork Soul (UA): Restore Balance (Clockwork Soul (UA))</name>
                 <text>1st-level Clockwork Soul feature</text>
                 <text>   Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.</text>
                 <text>   You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
@@ -190,7 +190,7 @@
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Bulwark of Law (Clockwork Soul (UA))</name>
+                <name>Sorcerous Origin: Clockwork Soul (UA): Bulwark of Law (Clockwork Soul (UA))</name>
                 <text>   6th-level Clockwork Soul feature</text>
                 <text>   You can imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.</text>
                 <text>   The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can use its reaction to spend a number of those dice, roll them, and reduce the damage taken by the total of the spent dice.</text>
@@ -200,7 +200,7 @@
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>Trance of Order (Clockwork Soul (UA))</name>
+                <name>Sorcerous Origin: Clockwork Soul (UA): Trance of Order (Clockwork Soul (UA))</name>
                 <text>14th-level Clockwork Soul feature</text>
                 <text>   You gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.</text>
                 <text>   Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.</text>
@@ -210,7 +210,7 @@
         </autolevel>
         <autolevel level="18">
             <feature optional="YES">
-                <name>Clockwork Cavalcade (Clockwork Soul (UA))</name>
+                <name>Sorcerous Origin: Clockwork Soul (UA): Clockwork Cavalcade (Clockwork Soul (UA))</name>
                 <text>18th-level Clockwork Soul feature</text>
                 <text>   You summon spirits of order to restore balance around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, work fast and efficiently, and create the following effects within the cube before vanishing:</text>
                 <text>• The spirits restore up to 100 hit points, divided as you choose among any number of creatures of your choice in the cube.</text>

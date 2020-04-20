@@ -1009,16 +1009,6 @@ foreach($item in $file)
 }
 Write-Progress -Id 1 -Activity "Overall Progress" -Completed
 
-
-
-
-
-
-
-
-
-
-
 foreach($spell in $xmlFile.compendium.spell)
 {
     if((($spell.level -match "1") -or ($spell.level -match "2") -or ($spell.level -match "3")) -and ($spell.name -notmatch "\*") -and ($spell.name -notmatch "\[") -and ($spell.classes -match ("wizard")) )
@@ -1047,20 +1037,6 @@ foreach($spell in $xmlFile.compendium.spell)
         $xmlFile.compendium.AppendChild($import) | Out-Null
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 $xmlFile.compendium.spell | sort level | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.spell | sort ritual | % {[void]$xmlFile.compendium.AppendChild($_)}
@@ -1095,7 +1071,7 @@ $logMSG | Create-LogEntry -sLogMsg "$($MyInvocation.MyCommand.Name) has complete
 $class = $content.compendium.class
 foreach ($objClass in $class)
 {
-    Write-Host "$($objClass.name)"
+    Write-Host "Organizing class features for: $($objClass.name)"
     foreach($autolevel in $objClass.autolevel)
     {
         foreach($feature in $autolevel.feature)
