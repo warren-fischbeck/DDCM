@@ -27,7 +27,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         {
                             image = Image.FromStream(ms);
                             string save = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{item.uid}.jpeg";
-                            string save2 = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_pc.character.FirstOrDefault().name.Replace("\"","")}.jpeg";
+                            string save2 = $"{System.IO.Directory.GetCurrentDirectory()}\\Images\\{_pc.character.FirstOrDefault().name.Replace("\"", "")}.jpeg";
                             _printablePlayerCharacter.CharacterImageFilePath = save2;
                             image.Save(save);
                             image.Save(save2);

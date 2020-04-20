@@ -13,13 +13,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             GenerateProficienyBonus();
             List<int> ListofProficiencies = new List<int>();
             _pc.character.ForEach(e => e.race.proficiency.ToList().ForEach(a => ListofProficiencies.Add(a)));
-            foreach(Character c in _pc.character)
+            foreach (Character c in _pc.character)
             {
                 List<int> _proficiencies = new List<int>();
 
                 var feats = c.feat.Where(x => x.proficiency != null).Select(s => s.proficiency).ToList().FirstOrDefault();
                 var classes = c.@class.Where(x => x.feat.Where(b => b.proficiency != null) != null).Select(s => s.proficiency).ToList().FirstOrDefault();
-                
+
                 if (feats != null)
                     _proficiencies.AddRange(feats);
                 if (classes != null)
@@ -68,18 +68,18 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         private void Expertise()
         {
             List<int> ProficiencyExpertise = new List<int>();
-            _pc.character.ForEach(e => e.feat.Where(a => a.mod.Count > 0).Select(b => b.mod).ToList().ForEach(a=> a.Where(b=>b.category==4).ToList().ForEach(c=> ProficiencyExpertise.Add(c.type))));
+            _pc.character.ForEach(e => e.feat.Where(a => a.mod.Count > 0).Select(b => b.mod).ToList().ForEach(a => a.Where(b => b.category == 4).ToList().ForEach(c => ProficiencyExpertise.Add(c.type))));
             _pc.character.ForEach(e => e.@class.ToList().ForEach(a => a.feat.Where(b => b.mod.Count > 0)
-                .Select(a => a.mod.Where(b => b.category == 4)).ToList().Select(a=>a).ToList()
-                    .ForEach(d=>d.ToList().ForEach(e=>ProficiencyExpertise.Add(e.type)))));
-            
+                .Select(a => a.mod.Where(b => b.category == 4)).ToList().Select(a => a).ToList()
+                    .ForEach(d => d.ToList().ForEach(e => ProficiencyExpertise.Add(e.type)))));
+
             foreach (var item in ProficiencyExpertise)
             {
                 switch (item)
                 {
                     case 0: { if (!_printablePlayerCharacter.ProficencyAcrobatics) { _printablePlayerCharacter.ProficencyAcrobatics = true; } _printablePlayerCharacter.ExpertiseAcrobatics = true; break; }
                     case 1: { if (!_printablePlayerCharacter.ProficencyAnimalHandling) { _printablePlayerCharacter.ProficencyAnimalHandling = true; } _printablePlayerCharacter.ExpertiseAnimalHandling = true; break; }
-                    case 2: { if (!_printablePlayerCharacter.ProficencyArcana) { _printablePlayerCharacter.ProficencyArcana = true; } _printablePlayerCharacter.ExpertiseArcana = true; break;  }
+                    case 2: { if (!_printablePlayerCharacter.ProficencyArcana) { _printablePlayerCharacter.ProficencyArcana = true; } _printablePlayerCharacter.ExpertiseArcana = true; break; }
                     case 3: { if (!_printablePlayerCharacter.ProficencyAthletics) { _printablePlayerCharacter.ProficencyAthletics = true; } _printablePlayerCharacter.ExpertiseAthletics = true; break; }
                     case 4: { if (!_printablePlayerCharacter.ProficencyDeception) { _printablePlayerCharacter.ProficencyDeception = true; } _printablePlayerCharacter.ExpertiseDeception = true; break; }
                     case 5: { if (!_printablePlayerCharacter.ProficencyHistory) { _printablePlayerCharacter.ProficencyHistory = true; } _printablePlayerCharacter.ExpertiseHistory = true; break; }

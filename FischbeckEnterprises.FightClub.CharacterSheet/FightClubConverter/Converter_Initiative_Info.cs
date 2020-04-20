@@ -36,18 +36,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         score += item.value;
                     }
                 }
-
-                // Feat featInfo = c.feat.Where(a => a.mod != null && a.mod.Where(b => b.type == 12) != null).FirstOrDefault();
-                //if(featInfo!=null)
-                //{
-                //   score += featInfo.mod.Where(a => a.type == 12).ToList().FirstOrDefault().value;
-                //}
-                //List<Feat> charInfo = c.@class.Where(a => a.feat.Where(b => b.mod != null).ToList().FirstOrDefault() !=null).Select(a => a.feat).ToList().FirstOrDefault();
-                //if (charInfo != null)
-                // {
-                //   var modList = charInfo.Where(a => a.mod != null).ToList().FirstOrDefault();
-                // score += modList.mod.Where(a => a.type == 12).Select(a => a.value).FirstOrDefault();
-                //}
                 _printablePlayerCharacter.Inititive = score;
             }
         }

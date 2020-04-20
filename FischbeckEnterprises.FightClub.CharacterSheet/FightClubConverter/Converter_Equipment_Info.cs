@@ -21,7 +21,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     equipmentItems.Add(i);
                 }
             }
-            foreach(Item item in equipmentItems)
+            foreach (Item item in equipmentItems)
             {
                 switch (item.type)
                 {
@@ -39,7 +39,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 1:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -54,7 +55,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 2:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -69,7 +71,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 3:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -84,7 +87,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 4:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -99,7 +103,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 5:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -114,7 +119,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 6:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -129,7 +135,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 7:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -144,7 +151,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 8:
                         {
                             if (string.IsNullOrEmpty(equipment2))
@@ -159,7 +167,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment2 += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 9:
                         {
                             if (string.IsNullOrEmpty(equipment2))
@@ -174,7 +183,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment2 += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 10:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -189,7 +199,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 11:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -204,7 +215,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 12:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -219,7 +231,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 13:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -234,7 +247,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 14:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -249,7 +263,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 15:
                         {
                             if (string.IsNullOrEmpty(equipment2))
@@ -280,7 +295,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 17:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -295,7 +311,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 18:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -310,7 +327,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 19:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -325,7 +343,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     case 20:
                         {
                             if (string.IsNullOrEmpty(equipment))
@@ -340,7 +359,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                             {
                                 equipment += $" - ({item.quantity})";
                             }
-                            break; }
+                            break;
+                        }
                     default:
                         break;
                 }

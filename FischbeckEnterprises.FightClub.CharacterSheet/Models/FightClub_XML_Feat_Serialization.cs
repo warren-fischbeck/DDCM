@@ -14,7 +14,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 		private bool nameFieldSpecified;
 
 		private string textField;
-		
+
 		private bool textFieldSpecified;
 
 		private bool expandedField;

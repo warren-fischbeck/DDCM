@@ -9,22 +9,22 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
     internal partial class Converter
     {
         private void AllMods()
-       {
+        {
             List<Mod> ListOfAllMods = new List<Mod>();
-          string Name = _pc.character.FirstOrDefault().name;
+            string Name = _pc.character.FirstOrDefault().name;
 
             //Race.mod
             _pc.character.ForEach(e => e.race.mod.ToList().ForEach(a => ListOfAllMods.Add(a)));
-            
+
             //race.feat.mod
             _pc.character.ForEach(e => e.race.feat.Where(a => a.mod.Count > 0).Select(a => a.mod).ToList().ForEach(a => ListOfAllMods.AddRange(a)));
 
             //Class.mod
             _pc.character.ForEach(e => e.@class.Where(a => a.mod.Count > 0).Select(a => a.mod).ToList().ForEach(a => ListOfAllMods.AddRange(a)));
-           
+
             //class.feat.mod
             _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(a => a.feat).ToList().ForEach(a => a.Where(b => b.mod.Count > 0).Select(c => c.mod).ToList().ForEach(a => ListOfAllMods.AddRange(a))));
-           
+
             //feat.mod
             _pc.character.ForEach(e => e.feat.Where(a => a.mod.Count > 0).Select(a => a.mod).ToList().ForEach(a => ListOfAllMods.AddRange(a)));
 
@@ -39,7 +39,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
         private void ApplyMods(List<Mod> ListOfMods)
         {
-            foreach(Mod mod in ListOfMods)
+            foreach (Mod mod in ListOfMods)
             {
                 switch (mod.type)
                 {
@@ -71,7 +71,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         {
                             if (mod.category == 1 || (mod.nameSpecified && mod.name.ToLower().Contains("ability")))
                             {
-                                _printablePlayerCharacter.Intelligence += mod.value; 
+                                _printablePlayerCharacter.Intelligence += mod.value;
                             }
                             break;
                         }
@@ -79,7 +79,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         {
                             if (mod.category == 1 || (mod.nameSpecified && mod.name.ToLower().Contains("ability")))
                             {
-                                _printablePlayerCharacter.Wisdom += mod.value; 
+                                _printablePlayerCharacter.Wisdom += mod.value;
                             }
                             break;
                         }
@@ -87,7 +87,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         {
                             if (mod.category == 1 || (mod.nameSpecified && mod.name.ToLower().Contains("ability")))
                             {
-                                _printablePlayerCharacter.Charisma += mod.value; 
+                                _printablePlayerCharacter.Charisma += mod.value;
                             }
                             break;
                         }

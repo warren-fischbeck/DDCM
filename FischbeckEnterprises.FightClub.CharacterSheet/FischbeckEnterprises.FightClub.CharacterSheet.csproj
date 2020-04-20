@@ -32,6 +32,9 @@
     <None Update="Output\Working\TextFile1.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Sources\1_Main_Sheet.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Sources\Details_Sheet.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

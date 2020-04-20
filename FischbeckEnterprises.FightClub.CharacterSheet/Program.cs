@@ -14,7 +14,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
         {
             string directory = $"{System.IO.Directory.GetCurrentDirectory()}\\FightClubXML";
             FileInfo[] files = new DirectoryInfo(directory).GetFiles();
-            
+
             pc playerCharacter = new pc();
             data collectionPlayerCharacter = new data();
 
@@ -30,8 +30,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
 
                         playerCharacter = (pc)playerCharacterSerializer.Deserialize(fileStream);
                         PrintablePlayerCharacter _playerCharacter = new FightClubConverter.Converter(playerCharacter).Build();
-                        //new XMLConverter(playerCharacter);
-                        
+
                     }
                 }
                 catch (System.InvalidOperationException)
@@ -39,12 +38,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                     using (FileStream fileStream = new FileStream(file.FullName, FileMode.Open))
                     {
                         collectionPlayerCharacter = (data)collectionPlayerCharacterSerializer.Deserialize(fileStream);
-                        //new XMLConverter(collectionPlayerCharacter);
                     }
                 }
             }
             Console.WriteLine("Finished building character sheets!");
-            //Console.ReadLine();
         }
     }
 }

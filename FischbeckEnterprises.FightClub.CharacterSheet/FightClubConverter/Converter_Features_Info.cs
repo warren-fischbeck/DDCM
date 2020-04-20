@@ -54,8 +54,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
                 foreach (Feat feat in _raceFeat)
                 {
-                    if ((feat.name != null) 
-                        && (feat.name.ToLower() != "languages") 
+                    if ((feat.name != null)
+                        && (feat.name.ToLower() != "languages")
                         && (!feat.name.ToLower().Contains("ability"))
                         && (!feat.name.ToLower().Contains("feat"))
                         && (!feat.name.ToLower().Contains("skills")))

@@ -9,7 +9,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
     {
         private void Abilities()
         {
-            foreach(Character c in _pc.character)
+            foreach (Character c in _pc.character)
             {
                 string[] a = c.abilities.Split(',');
                 _printablePlayerCharacter.Strength = Convert.ToInt32(a[0]);

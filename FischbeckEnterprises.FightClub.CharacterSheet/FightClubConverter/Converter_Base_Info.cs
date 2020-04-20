@@ -47,8 +47,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     _printablePlayerCharacter.HitPointCurrent = c.hpCurrent;
                 if (c.hpMax >= 0)
                     _printablePlayerCharacter.HitPointMax = c.hpMax;
-                
-                foreach(PcClass pcClass in c.@class)
+
+                foreach (PcClass pcClass in c.@class)
                 {
                     if (pcClass.level == 0)
                         pcClass.level++;

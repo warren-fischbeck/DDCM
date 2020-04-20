@@ -18,13 +18,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 SpellCasting racialSpells = new SpellCasting();
                 racialSpells.SpellCastingClass = race.name;
                 XmlSpellAbility(racialSpells, race.spellAbility);
-                foreach(Models.Spell spell in race.spell)
+                foreach (Models.Spell spell in race.spell)
                 {
                     racialSpells.SpellsKnown.Add(XMLSpellConvert(spell));
                 }
                 _printablePlayerCharacter.SpellCasting.Add(racialSpells);
             }
-            foreach(PcClass p in pcClasses)
+            foreach (PcClass p in pcClasses)
             {
                 if (p.spellSpecified)
                 {
@@ -32,7 +32,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     spells.SpellCastingClass = p.name;
                     XmlSpellAbility(spells, p.spellAbility);
                     XmlSlotConverter(spells, p.slots.Split(','));
-                    foreach(Models.Spell spell in p.spell)
+                    foreach (Models.Spell spell in p.spell)
                     {
                         spells.SpellsKnown.Add(XMLSpellConvert(spell));
                     }

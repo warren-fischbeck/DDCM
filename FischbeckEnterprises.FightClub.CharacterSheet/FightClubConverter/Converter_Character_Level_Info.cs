@@ -11,11 +11,11 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         {
             string _characterLevel = string.Empty;
             string _hitDice = string.Empty;
-            foreach(Character c in _pc.character)
+            foreach (Character c in _pc.character)
             {
                 foreach (PcClass pcClass in c.@class)
                 {
-                   string _dice = string.Empty;
+                    string _dice = string.Empty;
                     switch (pcClass.hd)
                     {
                         case 0: { _dice = "6"; break; }

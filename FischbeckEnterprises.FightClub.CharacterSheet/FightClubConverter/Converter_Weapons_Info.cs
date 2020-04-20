@@ -72,12 +72,12 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             int dexterityModifier = _printablePlayerCharacter.DexterityModifier;
             int attackBonus = 0;
             List<int> Specials = new List<int>();
-           
+
             _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
                 .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.specialSpecified) && (b.special == 0))
                     .Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
 
-            switch (IsFinesseWeapon( Weapon.weaponProperty))
+            switch (IsFinesseWeapon(Weapon.weaponProperty))
             {
                 case true:
                     {
@@ -122,7 +122,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             }
             return $"+ {attackBonus}";
         }
-    
+
         private string Damage(Item Weapon, bool OnlyOneWeapon)
         {
             int strengthModifier = _printablePlayerCharacter.StrengthModifier;
@@ -131,7 +131,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             string damage = string.Empty;
             string damagetype = string.Empty;
             List<int> Specials = new List<int>();
-            
+
             _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
                 .ForEach(a => a.Where(b => (b.name.ToLower().Contains("fighting")) && (b.special == 2))
                     .Select(c => c.special).ToList().ForEach(a => Specials.Add(a))));
@@ -147,7 +147,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     break;
             }
 
-            switch (IsFinesseWeapon( Weapon.weaponProperty))
+            switch (IsFinesseWeapon(Weapon.weaponProperty))
             {
                 case true:
                     {
@@ -206,10 +206,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             }
             return $"{damage} + {damageBonus} / {damagetype}";
         }
-        
-        private bool IsAmmoWeapon(int weaponProp)  { return (weaponProp & (1 << 0)) != 0;  }
 
-        private bool IsFinesseWeapon(int weaponprop) {  return (weaponprop & (1 << 1)) != 0; }
+        private bool IsAmmoWeapon(int weaponProp) { return (weaponProp & (1 << 0)) != 0; }
+
+        private bool IsFinesseWeapon(int weaponprop) { return (weaponprop & (1 << 1)) != 0; }
 
         private bool IsHeavyWeapon(int weaponProp) { return (weaponProp & (1 << 2)) != 0; }
 
@@ -220,13 +220,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         private bool IsReachWeapon(int weaponProp) { return (weaponProp & (1 << 5)) != 0; }
 
         private bool IsSpecialWeapon(int weaponProp) { return (weaponProp & (1 << 6)) != 0; }
- 
-        private bool IsThrownWeapon(int weaponProp) {  return (weaponProp & (1 << 7)) != 0; }
+
+        private bool IsThrownWeapon(int weaponProp) { return (weaponProp & (1 << 7)) != 0; }
 
         private bool IsTwoHandedWeapon(int weaponProp) { return (weaponProp & (1 << 8)) != 0; }
-        
-        private bool IsVersitileWeapon(int weaponprop) {  return (weaponprop & (1 << 9)) != 0; }
 
-        private bool IsMartialWeapon(int weaponProp) {  return (weaponProp & (1 << 10)) != 0;  }
+        private bool IsVersitileWeapon(int weaponprop) { return (weaponprop & (1 << 9)) != 0; }
+
+        private bool IsMartialWeapon(int weaponProp) { return (weaponProp & (1 << 10)) != 0; }
     }
 }

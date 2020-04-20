@@ -47,28 +47,28 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlElementAttribute("name")]
 		public string name { get { return this.nameField; } set { this.nameField = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("level")]
 		public int level { get { return this.levelField; } set { this.levelField = value; } }
-		
+
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool levelSpecified { get { return this.levelFieldSpecified; } set { this.levelFieldSpecified = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("hpCurrent")]
 		public int hpCurrent { get { return this.hpCurrentField; } set { this.hpCurrentField = value; } }
-		
+
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool hpCurrentSpecified { get { return this.hdCurrentFieldSpecified; } set { this.hdCurrentFieldSpecified = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("hd")]
 		public int hd { get { return this.hdField; } set { this.hdField = value; } }
-		
+
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool hdSpecified { get { return this.hdFieldSpecified; } set { this.hdFieldSpecified = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("wealth")]
 		public string wealth { get { return this.wealthField; } set { this.wealthField = value; } }
-		
+
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool wealthSpecified { get { return this.wealthFieldSpecified; } set { this.wealthFieldSpecified = value; } }
 
@@ -125,7 +125,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool spellAbilitySpecified { get { return this.spellAbilityFieldSpecified; } set { this.spellAbilityFieldSpecified = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("spell")]
 		public List<Spell> spell { get { return this.spellField; } set { this.spellField = value; } }
 

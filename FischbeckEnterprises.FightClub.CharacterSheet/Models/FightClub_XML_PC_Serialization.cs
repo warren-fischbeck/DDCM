@@ -71,7 +71,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
         public int version
         {
             get { return this.versionField; }
-            set { this.versionField = value;  }
+            set { this.versionField = value; }
         }
     }
 }

@@ -60,7 +60,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
 
                 form.GetField("charactername").SetValue($"{_character.CharacterName}").SetFontSizeAutoScale();
                 form.GetField("classlevel").SetValue($"{_character.ClassLevel}").SetFontSizeAutoScale();
-                (form.GetField("background").SetValue($"{_character.Background}")).SetFontSize(FontSize(_character.Background.Length) - 1);
+                form.GetField("background").SetValue($"{_character.Background}").SetFontSize(FontSize(_character.Background.Length) - 1);
                 form.GetField("race").SetValue($"{_character.Race}").SetFontSizeAutoScale();
                 form.GetField("playername").SetValue($"{_character.PlayerName}").SetFontSizeAutoScale();
                 form.GetField("alignment").SetValue($"{_character.Alignment}").SetFontSizeAutoScale();
@@ -230,7 +230,6 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 form.GetField("speed").SetValue($"{_character.Speed}");
                 form.GetField("hpmax").SetValue($"{_character.HitPointMax}");
                 form.GetField("hpcurrent").SetValue($"{_character.HitPointCurrent}");
-                //form.GetField("hptemp").SetValue($"{_character.HitPointTemperary}");
                 form.GetField("hitdicetotal").SetValue($"{_character.HitDiceTotal}").SetFontSize(FontSize(_character.HitDiceTotal.Length) - 6);
                 form.GetField("hitdice").SetValue($"{_character.HitDice}").SetFontSize(FontSize(_character.HitDice.Length) - 2);
                 form.GetField("weaponname1").SetValue($"{_character.WeaponName1}");

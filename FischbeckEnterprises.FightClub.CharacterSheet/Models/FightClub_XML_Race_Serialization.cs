@@ -95,7 +95,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Models
 
 		[System.Xml.Serialization.XmlIgnoreAttribute()]
 		public bool spellSpecified { get { return this.spellFieldSpecified; } set { this.spellFieldSpecified = value; } }
-		
+
 		[System.Xml.Serialization.XmlElementAttribute("speed")]
 		public string speed { get { return this.speedField; } set { this.speedField = value; } }
 
