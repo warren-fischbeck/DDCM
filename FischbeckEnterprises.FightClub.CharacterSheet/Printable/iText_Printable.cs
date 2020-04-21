@@ -52,7 +52,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             //BuildSpellSheet();
         }
 
-        private async void BuildCharacterSheet()
+        private void BuildCharacterSheet()
         {
             using (PdfDocument _pdfDocument = new PdfDocument(new PdfReader(Main_Sheet), new PdfWriter(_FinishedCharacterSheet)))
             {
