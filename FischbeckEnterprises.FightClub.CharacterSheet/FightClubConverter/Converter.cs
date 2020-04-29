@@ -33,15 +33,15 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             CharacterLevel();
             Equipment();
             Speed();
+            AllMods();
             Features();
             Languages();
-            Inititive();
             Notes();
             AC();
             PCImage();
-            FactionImage();
+            FactionImage();            
             BuildSpellCasting();
-            AllMods();
+            Inititive();
             GenerateSkillModifiers();
             Weapons();
             new PDFCreator(_printablePlayerCharacter);

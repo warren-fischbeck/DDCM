@@ -89,7 +89,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 default:
                     {
-                        attackBonus = profBonus + strengthModifier;
+                        if (!Weapon.name.ToLower().Contains("bow"))
+                        {
+                            attackBonus = profBonus + strengthModifier;
+                        }
+                        else
+                        {
+                            attackBonus = profBonus + dexterityModifier;
+                        }
                         break;
                     }
             }
@@ -168,6 +175,10 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         if (Weapon.slot != 2 || OnlyOneWeapon)
                         {
                             damageBonus = strengthModifier;
+                        }
+                        if (Weapon.name.ToLower().Contains("bow"))
+                        {
+                            damageBonus = dexterityModifier;
                         }
                         damage = $"{Weapon.damage1H}";
                         if (Specials.Count > 0 && Weapon.slot != 2)

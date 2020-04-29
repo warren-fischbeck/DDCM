@@ -72,7 +72,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             {
                 case 0:
                     {
-                        spellCasting.AbilityScore = "strength";
+                        spellCasting.AbilityScore = "Strength";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.StrengthModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.StrengthModifier;
                         break;
