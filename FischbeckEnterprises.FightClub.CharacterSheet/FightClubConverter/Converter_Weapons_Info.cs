@@ -51,7 +51,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                                 _printablePlayerCharacter.WeaponAttackBonus3 = AttackBonus(damageItems[i]);
                                 _printablePlayerCharacter.WeaponDamageAndType3 = Damage(damageItems[i], OnlyOneEquipedWeapon);
                                 if (damageItems[i].weaponRangeSpecified)
-                                    _printablePlayerCharacter.WeaponName2 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
+                                    _printablePlayerCharacter.WeaponName3 += $" ({damageItems[i].weaponRange}\\{damageItems[i].weaponLongRange})";
                                 break;
                             }
                         default:
