@@ -71,6 +71,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             int strengthModifier = _printablePlayerCharacter.StrengthModifier;
             int dexterityModifier = _printablePlayerCharacter.DexterityModifier;
             int attackBonus = 0;
+            bool isProficient = false;
+
+            List<string> weaponProficiencies = new List<string>();
+            _pc.character.ForEach(e => e.@class.ToList().ForEach(a => weaponProficiencies.AddRange(a.weapons.ToLower().Split(','))));
+            weaponProficiencies.ForEach(e => e.Trim());
+            weaponProficiencies = weaponProficiencies.Distinct().ToList();
+
             List<int> Specials = new List<int>();
 
             _pc.character.ForEach(e => e.@class.Where(a => a.feat.Count > 0).Select(b => b.feat).ToList()
@@ -127,6 +134,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                     }
                 }
             }
+
+            foreach (var prof in weaponProficiencies)
+            {
+                if (prof.Contains(Weapon.name.ToLower()) || Weapon.name.ToLower().Contains(prof)) { isProficient = true; break; }
+                if (IsMartialWeapon(Weapon.weaponProperty) && prof.Contains("martial weapons")) { isProficient = true; break; }
+                else if (!IsMartialWeapon(Weapon.weaponProperty) && prof.Contains("simple weapons")) { isProficient = true; break; }
+            }
+            if (!isProficient) { attackBonus -= profBonus; }
             return $"+ {attackBonus}";
         }
 

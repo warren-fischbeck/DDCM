@@ -28,18 +28,18 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
         public PrintablePlayerCharacter Build()
         {
             Abilities();
+            Speed();
+            AllMods();
             BaseInfo();
             Proficiencies();
             CharacterLevel();
             Equipment();
-            Speed();
-            AllMods();
             Features();
             Languages();
             Notes();
             AC();
             PCImage();
-            FactionImage();            
+            FactionImage();
             BuildSpellCasting();
             Inititive();
             GenerateSkillModifiers();

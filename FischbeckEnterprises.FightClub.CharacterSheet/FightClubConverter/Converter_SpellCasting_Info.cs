@@ -72,42 +72,42 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             {
                 case 0:
                     {
-                        spellCasting.AbilityScore = "Strength";
+                        spellCasting.AbilityScore = "STRENGTH";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.StrengthModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.StrengthModifier;
                         break;
                     }
                 case 1:
                     {
-                        spellCasting.AbilityScore = "Dexterity";
+                        spellCasting.AbilityScore = "DEXTERITY";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.DexterityModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.DexterityModifier;
                         break;
                     }
                 case 2:
                     {
-                        spellCasting.AbilityScore = "Constitution";
+                        spellCasting.AbilityScore = "CONSTITUTION";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.ConstitutionModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.ConstitutionModifier;
                         break;
                     }
                 case 3:
                     {
-                        spellCasting.AbilityScore = "Intelligence";
+                        spellCasting.AbilityScore = "INTELLEGENCE";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.IntelligenceModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.IntelligenceModifier;
                         break;
                     }
                 case 4:
                     {
-                        spellCasting.AbilityScore = "Wisdom";
+                        spellCasting.AbilityScore = "WISDOM";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.WisdomModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.WisdomModifier;
                         break;
                     }
                 case 5:
                     {
-                        spellCasting.AbilityScore = "Charisma";
+                        spellCasting.AbilityScore = "CHARISMA";
                         spellCasting.SpellAttachBonus = _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.CharismaModifier;
                         spellCasting.SpellDC = 8 + _printablePlayerCharacter.ProficencyBonus + _printablePlayerCharacter.CharismaModifier;
                         break;
