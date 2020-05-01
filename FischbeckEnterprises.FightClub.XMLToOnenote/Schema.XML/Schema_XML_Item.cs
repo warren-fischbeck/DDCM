@@ -101,7 +101,7 @@ namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
         public bool acSpecified { get { return this.acFieldSpecified; } set { this.acFieldSpecified = value; } }
 
         [System.Xml.Serialization.XmlElementAttribute("mod")]
-        public List<Mod> mod { get { return this.modField; } set { this.modField = value; } }
+        public List<Schema_XML_Modifier> mod { get { return this.modField; } set { this.modField = value; } }
         [System.Xml.Serialization.XmlIgnoreAttribute()]
         public bool modSpecified { get { return this.modFieldSpecified; } set { this.modFieldSpecified = value; } }
 
