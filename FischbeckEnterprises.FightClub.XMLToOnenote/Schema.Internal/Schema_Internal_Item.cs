@@ -19,7 +19,7 @@ namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.Internal
         private List<Schema_Internal_Modifier> ModifierField;
         private string Damage1HField;
         private string Damage2HField;
-        private int DamageTypeField;
+        private DamgeType DamageTypeField;
         private int WeaponPropertyField;
         private int StrengthField;
         private int QuantityField;
@@ -81,6 +81,10 @@ namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.Internal
             get { return this.Damage2HField; }
             set { this.Damage2HField = value; }
         }
-public 
+        public DamgeType DamageType
+        {
+            get { return this.DamageTypeField; }
+            set { this.DamageTypeField = value; }
+        }
     }
 }
