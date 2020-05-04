@@ -2,7 +2,7 @@
 
 namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
-    class Schema_XML_Background
+    partial class Schema_XML_Background
     {
         private string nameField;
         private bool nameFieldSpecified;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
-    class Schema_XML_Class
+	partial class Schema_XML_Class
     {
 		private string nameField;
 		private int levelField;

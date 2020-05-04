@@ -2,7 +2,7 @@
 
 namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
-	class Schema_XML_Feature
+	partial class Schema_XML_Feature
 	{
 		[System.SerializableAttribute()]
 		[System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
-    class Schema_XML_Conatiner
+    partial class Schema_XML_Conatiner
     {
         private string nameField;
         private bool nameFieldSpecified;

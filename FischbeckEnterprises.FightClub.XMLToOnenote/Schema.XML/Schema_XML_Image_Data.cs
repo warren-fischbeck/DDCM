@@ -1,6 +1,6 @@
 ﻿namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
-    class Schema_XML_Image_Data
+    partial class Schema_XML_Image_Data
     {
         /// <remarks/>
         [System.SerializableAttribute()]

@@ -2,7 +2,7 @@
 
 namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
-	class Schema_XML_Character
+	partial class Schema_XML_Character
 	{
 		private int versionField;
 		private string uidField;
