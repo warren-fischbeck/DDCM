@@ -604,7 +604,58 @@
     <text />
     <text>Source: Custom item in World of Koreth, OneNote - Warren Fischbeck</text>
   </item>
-
+  <item>
+    <name>Backbreaker</name>
+    <type>M</type>
+    <magic>1</magic>
+    <weight>3</weight>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <property>V</property>
+    <rarity>Rare</rarity>
+    <text>Rarity: Rare</text>
+    <text />
+    <text>Backbreaker was originally forged during THE SECOND AGE and used by the forces of the mind flayers. It eventually fell into the hands of the Slaad hero Crroock.  Crroock used the weapon to great effect during it's lifetime, but eventually Crroock and the blade went missing.   Backbreaker resurfaced again during THE FOURTH AGE as the primary weapon of the Orc War Chief Plunyyak and became the tribal weapon of the Backbreaker Clan.</text>
+    <text />
+    <text>Backbreaker remained with the Backbreaker clan until it's might was smashed by the encroaching elves of Helms.  There Backbreaker was both a trophy and family heirloom weapon of the Umbra-Vastator family.  During The War of Elven Submission the blade was captured by the Order of the White Rose and placed in Boarderland's The Manor of Infinite Mirrors.</text>
+    <text />
+    <text>You have a +1 bonus to attack and damage rolls made with this weapon.  On a successful melee hit against aberrations the target will also take an extra 1d6 radiant damage.</text>
+    <text />
+    <text>The sword holds three charges.  While holding it, you can expend 1 charge as an action to cast banishment using DC 14 for the charisma saving throw and using your concentration to maintain the effect.  It regains 1d3 expended charges daily at dawn.</text>
+    <text />
+    <text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
+    <text />
+    <text>Proficiency: martial, longsword</text>
+    <text />
+    <text>Source: Custom item in World of Koreth, OneNote - Warren Fischbeck</text>
+    <modifier category="bonus">melee attacks +1</modifier>
+    <modifier category="bonus">melee damage +1</modifier>
+    <roll>1d6</roll>
+  </item>
+  <item>
+    <name>The Sword of Hevedious</name>
+    <type>M</type>
+    <magic>1</magic>
+    <detail>uncommon</detail>
+    <weight>3</weight>
+	<text>This +1 longsword was lost during the sacking of Hevedious in year 319 (Lendarth Reckoning).  It is believed that the blade disappeared with most of the priceless artwork that lined the walls of the Hall of Gauis Hevedious.</text>
+	<text />
+    <text>You have a +1 bonus to attack and damage rolls made with this weapon.</text>
+    <text />
+    <text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
+    <text />
+    <text>Proficiency: martial, longsword</text>
+	<text />
+    <text>Source: Custom item in World of Koreth, OneNote - Warren Fischbeck</text>
+    <modifier category="bonus">melee attacks +1</modifier>
+    <modifier category="bonus">melee damage +1</modifier>
+    <dmg1>1d8</dmg1>
+    <dmg2>1d10</dmg2>
+    <dmgType>S</dmgType>
+    <property>M,V</property>
+    <range></range>
+  </item>
 
   <class>
     <name>Blood Hunter</name>
