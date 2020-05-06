@@ -1085,6 +1085,24 @@ foreach ($objClass in $class)
         }
     }
 }
+$monster = $content.compendium.monster
+foreach ($objMonster in $monster)
+{
+    foreach($trait in $objMonster.trait)
+    {
+        if([string]::IsNullOrEmpty($trait.name))
+        {
+            $trait.ParentNode.RemoveChild($trait) | Out-Null
+        }
+    }
+    foreach($action in $objMonster.action)
+    {
+        if([string]::IsNullOrEmpty($action.name))
+        {
+            $action.ParentNode.RemoveChild($action) | Out-Null
+        }
+    }
+}
 $content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
 $content.Save("$($temp)\Complete\temp.xml")
 #Clear-Host
