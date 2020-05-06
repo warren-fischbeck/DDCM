@@ -17326,7 +17326,15 @@
     <range>150/600</range>
     <roll>2d6</roll>
   </item>
-
+    <item>
+		<name>Wooden Stake</name>
+		<type>G</type>
+		<weight>.25</weight>
+		<text></text>
+		<text />
+		<value>0.02</value>
+		<text>Source: Player's Handbook p. 150</text>
+    </item>
   <!-- Races -->
   <race>
     <name>Aasimar (Variant)</name>
@@ -68743,25 +68751,42 @@
     <name>Monster Hunters’s Pack</name>
     <text>Includes a chest, a crowbar, a hammer, three wooden states, a holy symbol, a flask of holy water, a set of manacles, a steel mirror, a flask of oil, a tinderbox, three torches</text>
     <value>33.0</value>
+  <item>
+    <name>Chest</name>
+    <type>G</type>
+    <weight>25</weight>
+    <text>A chest holds 12 cubic feet or 300 pounds of gear.</text>
+    <text />
+    <value>5</value>
+    <text>Source: Player's Handbook p. 153</text>
+  </item>    
+  <item>
+    <name>Crowbar</name>
+    <type>G</type>
+    <weight>5</weight>
+    <text>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</text>
+    <text />
+    <value>2</value>
+    <text>Source: Player's Handbook p. 151</text>
+  </item>
+  <item>
+    <name>Hammer</name>
+    <type>G</type>
+    <weight>3</weight>
+    <text></text>
+    <text />
+    <value>1</value>
+    <text>Source: Player's Handbook p. 150</text>
+  </item>
     <item>
-      <name>Chest</name>
-      <value>2.0</value>
-      <weight>5.0</weight>
-    </item>
-    <item>
-      <name>Crowbar</name>
-      <text>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).</text>
-      <value>25.0</value>
-      <weight>5.0</weight>
-    </item>
-    <item>
-      <name>Hammer</name>
-      <value>10.0</value>
-    </item>
-    <item>
-      <name>Wooden Stake</name>
-      <value>0.02</value>
-	  <quantity>3</quantity>
+		<name>Wooden Stake</name>
+		<type>G</type>
+		<weight>.25</weight>
+		<text></text>
+		<text />
+		<value>0.02</value>
+		<text>Source: Player's Handbook p. 150</text>
+		<quantity>3</quantity>
     </item>
     <item>
       <name>Holy Symbol</name>

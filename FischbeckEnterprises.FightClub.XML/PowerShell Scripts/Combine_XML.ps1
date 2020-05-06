@@ -824,13 +824,13 @@ Function Create-XMLFile
                 for ($i = 0; $i -lt $sourceItem.Count; $i++)
                 {
                     Write-Progress -Id 0 -Activity "Processing $($Component)" -Status "$($SourceFile.Name)" -PercentComplete (($i/$sourceItem.count) * 100)
-                    $logMSG | Create-LogEntry -sLogMsg "Processing race             $($sourceItem[$i].name)" -sLogType INFO
+                    $logMSG | Create-LogEntry -sLogMsg "Processing container             $($sourceItem[$i].name)" -sLogType INFO
                     $containerRequired = $true
                     foreach($containerXML in $xmlFile.compendium.container)
                     {
                         if($containerXML.name -eq $sourceItem[$i].name)
                         {
-                            $raceRequired = $false
+                            $containerRequired = $false
                         }
                     }
                     if($containerRequired)
