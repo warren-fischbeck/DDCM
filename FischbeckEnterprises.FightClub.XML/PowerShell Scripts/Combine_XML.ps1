@@ -1076,6 +1076,7 @@ $xmlFile.compendium.background | sort Name | % {[void]$xmlFile.compendium.Append
 $xmlFile.compendium.class | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.Feat | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.item | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.container | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 $xmlFile.compendium.monster | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 
 foreach ($class in $xmlFile.compendium.class)
@@ -1130,6 +1131,7 @@ foreach ($objMonster in $monster)
 $content.Save("C:\Users\wfischbeck\OneDrive\Documents\Dungeon & Dragons\xml_Sheets\Complete\_Complete.xml")
 $content.Save("$($temp)\Complete\temp.xml")
 #Clear-Host
+Write-Host "`r`n`r`n"
 Write-Host "There are a total of $($xmlFile.compendium.spell.count) spell(s)"
 Write-Host "There are a total of $($xmlFile.compendium.class.Count) class(es)"
 Write-Host "There are a total of $($xmlFile.compendium.background.Count) background(s)"
