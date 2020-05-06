@@ -1137,6 +1137,7 @@ Write-Host "There are a total of $($xmlFile.compendium.class.Count) class(es)"
 Write-Host "There are a total of $($xmlFile.compendium.background.Count) background(s)"
 Write-Host "There are a total of $($xmlFile.compendium.feat.Count) feat(s)"
 Write-Host "There are a total of $($xmlFile.compendium.item.Count) item(s)"
+Write-Host "There are a total of $($xmlFile.compendium.container.Count) containers(s)"
 Write-Host "There are a total of $($xmlFile.compendium.race.Count) race(s)"
 Write-Host "There are a total of $($xmlFile.compendium.monster.Count) monster(s)"
 
