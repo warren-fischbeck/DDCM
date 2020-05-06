@@ -27085,6 +27085,10 @@ A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso
       <attack>|4|1d6+2</attack>
     </action>
     <trait>
+      <name>Source</name>
+      <text>Monster Manual, p. 204</text>
+    </trait>	
+    <trait>
       <name>Hold Breath</name>
       <text>The lizardfolk can hold its breath for 15 minutes.</text>
     </trait>
