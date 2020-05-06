@@ -258,7 +258,7 @@ Function Create-XMLFile
         [Parameter(Mandatory=$true,
                    ValueFromPipelineByPropertyName=$true,
                    Position=0)]
-        [ValidateSet("Background", "Monster", "Class", "Feat", "Item", "Race", "Spell")]
+        [ValidateSet("Background", "Monster", "Class", "Feat", "Item", "Race", "Spell", "Container")]
         $Component,
 
         [Parameter(Mandatory=$true,
@@ -818,6 +818,29 @@ Function Create-XMLFile
                     Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
                 }
             }
+            'Container'
+            {
+                $sourceItem = $source.compendium.container
+                for ($i = 0; $i -lt $sourceItem.Count; $i++)
+                {
+                    Write-Progress -Id 0 -Activity "Processing $($Component)" -Status "$($SourceFile.Name)" -PercentComplete (($i/$sourceItem.count) * 100)
+                    $logMSG | Create-LogEntry -sLogMsg "Processing race             $($sourceItem[$i].name)" -sLogType INFO
+                    $containerRequired = $true
+                    foreach($containerXML in $xmlFile.compendium.container)
+                    {
+                        if($containerXML.name -eq $sourceItem[$i].name)
+                        {
+                            $raceRequired = $false
+                        }
+                    }
+                    if($containerRequired)
+                    {
+                        $import = $xmlFile.compendium.OwnerDocument.ImportNode($sourceItem[$i], 1)
+                        $xmlFile.compendium.AppendChild($import) | Out-Null
+                    }
+                }
+                Write-Progress -Id 0 -Activity "Processing $($Component)" -Completed
+            }
             'Race' 
             {
                 $sourceItem = $source.compendium.race
@@ -1005,6 +1028,7 @@ foreach($item in $file)
     Create-XMLFile -Component Feat -SourceFile $item
     Create-XMLFile -Component Background -SourceFile $item
     Create-XMLFile -Component Monster -SourceFile $item
+    Create-XMLFile -Component Container -SourceFile $item
     $progress++
 }
 Write-Progress -Id 1 -Activity "Overall Progress" -Completed
