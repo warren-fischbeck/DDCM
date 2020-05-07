@@ -18,6 +18,9 @@
     <None Update="FightClubXML\Dyethean Nylite.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="FightClubXML\Hunter Eagleblood.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="FightClubXML\Jerquet Blight.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

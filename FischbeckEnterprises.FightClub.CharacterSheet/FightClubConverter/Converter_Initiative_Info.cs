@@ -36,6 +36,8 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                         score += item.value;
                     }
                 }
+                List<Mod> Mod = GetModByType(12);
+                if (Mod.Count > 0) { Mod.ForEach(e => score += e.value); }
                 _printablePlayerCharacter.Inititive = score;
             }
         }
