@@ -662,7 +662,9 @@
     <magic>1</magic>
     <detail>uncommon</detail>
     <weight>0.05</weight>
-    <text>You have a +1 bonus to attack made with this piece of magic ammunition.  On a successful ranged hit, roll damage normally but instead of reducing the hitpoints of the target by that amount the attack restores that many hitpoints.</text>
+    <text>You have a +1 bonus to attack made with this piece of magic ammunition.  On a successful ranged hit, roll damage normally but instead of reducing the targets hitpoints, the attack restores amount rolled.</text>
+    <text />
+    <text>Once this piece of ammunition has been used, it cannot be used again until the following dawn.</text>
     <text />
     <text>Source: Custom item in World of Koreth, OneNote - Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
@@ -673,7 +675,9 @@
     <magic>1</magic>
     <detail>uncommon</detail>
     <weight>0.05</weight>
-    <text>You have a +1 bonus to attack made with this piece of magic ammunition.  On a successful ranged hit, roll damage normally but instead of reducing the hitpoints of the target by that amount the attack restores that many hitpoints.</text>
+    <text>You have a +1 bonus to attack made with this piece of magic ammunition.  On a successful ranged hit, roll damage normally but instead of reducing the targets hitpoints, the attack restores amount rolled.</text>
+    <text />
+    <text>Once this piece of ammunition has been used, it cannot be used again until the following dawn.</text>
     <text />
     <text>Source: Custom item in World of Koreth, OneNote - Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
@@ -684,7 +688,9 @@
     <magic>1</magic>
     <detail>uncommon</detail>
     <weight>0.05</weight>
-    <text>You have a +1 bonus to attack made with this piece of magic ammunition.  On a successful ranged hit, roll damage normally but instead of reducing the hitpoints of the target by that amount the attack restores that many hitpoints.</text>
+    <text>You have a +1 bonus to attack made with this piece of magic ammunition.  On a successful ranged hit, roll damage normally but instead of reducing the targets hitpoints, the attack restores amount rolled.</text>
+    <text />
+    <text>Once this piece of ammunition has been used, it cannot be used again until the following dawn.</text>
     <text />
     <text>Source: Custom item in World of Koreth, OneNote - Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
