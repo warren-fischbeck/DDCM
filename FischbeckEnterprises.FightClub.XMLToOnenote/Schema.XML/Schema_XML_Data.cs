@@ -4,6 +4,9 @@ using System.Text;
 
 namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
 {
+    [System.SerializableAttribute()]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+
     partial class Schema_XML_Data
     {
         private List<Schema_XML_Character> characterField;

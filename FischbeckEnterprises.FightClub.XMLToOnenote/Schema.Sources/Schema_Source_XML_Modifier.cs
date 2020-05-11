@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.XML
+namespace FischbeckEnterprises.FightClub.XMLToOnenote.Schema.Sources
 {
-	[System.SerializableAttribute()]
-	[System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
-	partial class Schema_XML_Modifier
-    {
+	public partial class Schema_Source_XML_Modifier
+	{
 		private string nameField;
 
 		private bool nameFieldSpecified;
