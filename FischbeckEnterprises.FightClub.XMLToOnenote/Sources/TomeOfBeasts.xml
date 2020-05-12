@@ -108,7 +108,7 @@
 
 		<legendary>
 			<name>The regional effects of a nihileth's lair are the same as that of an aboleth, except as following</name>
-			<text></text>
+			<text />
 		</legendary>
 		<legendary>
 			<name>Water sources within 1 mile of a nihileth's lair are not only supernaturally fouled but can spread the disease of the nihileth</name>
@@ -4546,7 +4546,7 @@
 		</trait>
 		<trait>
 			<name>large enough for a Tiny insect</name>
-			<text></text>
+			<text />
 		</trait>
 		<trait>
 			<name>Magic Resistance</name>
@@ -6693,7 +6693,7 @@
 		</trait>
 		<trait>
 			<name>and structures</name>
-			<text></text>
+			<text />
 		</trait>
 		<action>
 			<name>Multiattack</name>

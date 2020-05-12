@@ -1986,21 +1986,21 @@
     <trait>
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
-      <text> </text>
+      <text />
       <text>Skills: Athletes, Animal Handling</text>
-      <text> </text>
+      <text />
       <text>Tools: one type of gaming set</text>
     </trait>
     <trait>
       <name>Reduced stabling</name>
       <text>	As a guild-knight, you are familiar with traveling within the Lendarth Empire. In any town within its boarders, you can use your standing the Merchants Guild for a reduced rate for stabling, -10% to the cost.  Also, in any settlement that has a guild house, you can stay there for free.  You start with 10 renown within the merchants guild.</text>
-      <text> </text>
+      <text />
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
       <name>Guild Renown</name>
       <text>	As a guild-knight, you start with 10 renown within the merchants guild.</text>
-      <text> </text>
+      <text />
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
@@ -2010,73 +2010,73 @@
     <trait>
       <name>Personality Trait</name>
       <text>Choose or randomly determine</text>
-      <text></text>
-      <text> </text>
+      <text />
+      <text />
       <text>1. My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. </text>
-      <text> </text>
+      <text />
       <text>2. The common folk love me for my kindness and generosity. </text>
-      <text> </text>
+      <text />
       <text>3. No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses. </text>
-      <text> </text>
+      <text />
       <text>4. I take great pains to always look my best and follow the latest fashions. </text>
-      <text> </text>
+      <text />
       <text>5. I don&apos;t like to get my hands dirty, and I won&apos;t be caught dead in unsuitable accommodations. </text>
-      <text> </text>
+      <text />
       <text>6. Despite my noble birth, I do not place myself above other folk. We all have the same blood. </text>
-      <text> </text>
+      <text />
       <text>7. My favor, once lost, is lost forever. </text>
-      <text> </text>
+      <text />
       <text>8. If you do me an injury, I will crush you, ruin your name, and salt your fields.</text>
     </trait>
     <trait>
       <name>Ideal</name>
       <text>Choose or randomly determine</text>
-      <text></text>
-      <text> </text>
+      <text />
+      <text />
       <text>1. Respect: Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good). </text>
-      <text> </text>
+      <text />
       <text>2. Responsibility: It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful). </text>
-      <text> </text>
+      <text />
       <text>3. Independence: I must prove that I can handle myself without the coddling of my family. (Chaotic). </text>
-      <text> </text>
+      <text />
       <text>4. Power: If I can attain more power, no one will tell me what to do. (Evil). </text>
-      <text> </text>
+      <text />
       <text>5. Family: Blood runs thicker than water. (Any). </text>
-      <text> </text>
+      <text />
       <text>6. Noble Obligation: It is my duty to protect and care for the people beneath me. (Good).</text>
     </trait>
     <trait>
       <name>Bond</name>
       <text>Choose or randomly determine</text>
-      <text></text>
-      <text> </text>
+      <text />
+      <text />
       <text>1. I will face any challenge to win the approval of my family. </text>
-      <text> </text>
+      <text />
       <text>2. My house&apos;s alliance with another noble family must be sustained at all costs. </text>
-      <text> </text>
+      <text />
       <text>3. Nothing is more important than the other members of my family. </text>
-      <text> </text>
+      <text />
       <text>4. I am in love with the heir of a family that my family despises. </text>
-      <text> </text>
+      <text />
       <text>5. My loyalty to my sovereign is unwavering. </text>
-      <text> </text>
+      <text />
       <text>6. The common folk must see me as a hero of the people.</text>
     </trait>
     <trait>
       <name>Flaw</name>
       <text>Choose or randomly determine</text>
-      <text></text>
-      <text> </text>
+      <text />
+      <text />
       <text>1. I secretly believe that everyone is beneath me. </text>
-      <text> </text>
+      <text />
       <text>2. I hide a truly scandalous secret that could ruin my family forever. </text>
-      <text> </text>
+      <text />
       <text>3. I too often hear veiled insults and threats in every word addressed to me, and I&apos;m quick to anger. </text>
-      <text> </text>
+      <text />
       <text>4. I have an insatiable desire for carnal pleasures. </text>
-      <text> </text>
+      <text />
       <text>5. In fact, the world does revolve around me. </text>
-      <text> </text>
+      <text />
       <text>6. By my words and actions, I often bring shame to my family.</text>
     </trait>
   </background>
@@ -2109,13 +2109,13 @@
     <trait>
       <name>House of Mere Renown</name>
       <text>As a member of House of Mere, you start with 10 renown within the House of Mere.</text>
-      <text> </text>
+      <text />
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
       <name>The Watchers Renown</name>
       <text>As a member of The Watchers, you start with 10 renown within The Watchers.</text>
-      <text> </text>
+      <text />
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>

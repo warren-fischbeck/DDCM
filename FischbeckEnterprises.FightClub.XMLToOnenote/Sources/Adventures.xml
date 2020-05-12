@@ -61,18 +61,18 @@
 		<weight>4</weight>
 		<text>Forged by the archwizard Ahghairon, this intelligent battleaxe was crafted to defend Waterdeep. Its current wielder is a former member of Force Grey named Meloon Wardragon, but the weapon is searching for a new owner.</text>
 		<text>	Azuredge has a solid steel handle etched with tiny runes, wrapped in blue dragon hide with a star sapphire set into the pommel. The axe head is forged from silver, electrum, and steel alloys whose edges constantly shimmer with deep blue luminescence.</text>
-		<text>  </text>
+		<text />
 		<text>Magic Weapon: You gain +3 bonus to attack and damage rolls made with this magic weapon. The shield spell provides no defense against the axe, which passes through that spell's barrier or magic force.</text>
-		<text>  </text>
+		<text />
 		<text>	When you hit a fiend or an undead with this axe, cold blue flames erupt from its blade and deal and extra 2d6 radiant damage to the target.</text>
-		<text>  </text>
+		<text />
 		<text>Hurling: The battleaxe has 3 charges. You can expend 1 charge and make a ranged attack with the axe, hurling it as if it had the thrown property with a normal range of 60 feet and a long range of 180 feet. Whether it hits or misses, the axe flies back to you at the end of the current turn, landing in your open hand or at your feet in your space (as you choose). The axe regains all expended charges daily at dawn.</text>
-		<text>  </text>
+		<text />
 		<text>Illumination: While holding the axe you can use an action to cause the axe to glow blue or to quench the glow. This glow sheds bright light in a 30-foot radius and dim light for an additional 30 feet.</text>
-		<text>  </text>
+		<text />
 		<text>Sentience: Azuredge is a sentient lawful neutral weapon with an Intelligence of 12, a Wisdom of 15, and a Charisma of 15. It has hearing and darkvision out to a range of 120 feet.</text>
 		<text>	The weapon communicates telepathically with its wielder and can speak, read and understand Common. It has a calm, delicate voice. The weapon can sense the presence of non-lawful characters within 120 feet of it.</text>
-		<text>  </text>
+		<text />
 		<text>Personality: Azuredge is sworn to protect Waterdeep, and it desires to be wielded by a law-abiding person willing to dedicate everything to the city's defense. The weapon is patient and takes its time finding its ideal wielder.</text>
 		<text>	If someone tries to use Azuredge against its will, the axe can become ten times heavier than normal, and can magically adhere to any Medium or larger object or surface it comes into contact with. Once it does so, the axe can't be wielded. Nothing short of a Wish spell can separate the axe from the item or surface to which it is adhered to without destroying one or the other, though the axe can choose to end the effect at any time.</text>
 		<text />
@@ -94,20 +94,20 @@
 		<weight>4</weight>
 		<text>The Blackstaff is a sentient, rune-carved staff set with thin silver veins. It is the symbol of office for the Blackstaff, the highest-ranking wizard in Waterdeep. As the rightful owner of the Blackstaff, Vajra Safahr is the only one who can become attuned to it. The staff can. however, choose a new owner (see " Personality" below).</text>
 		<text>	The Blackstaff has the magical properties of a Staff of Power (see the Dungeon Master's Guide) in addition to the following properties.</text>
-		<text>  </text>
+		<text />
 		<text>Animate Walking Statues: You can expend 1 or more of the staff's charges as an action to animate or deactivate one or more of the walking statues of Waterdeep. You must be in the city to use this property, and you can animate or deactivate one statue for each charge expended. An animated statue obeys the telepathic commands of Khelben Arunsun's spirit, which is trapped inside the staff (see "Personality" below). A walking statue becomes inanimate if deactivated or if the staff is broken.</text>
-		<text>  </text>
+		<text />
 		<text>Dispel Magic: You can expend 1 of the staff's charges as a bonus action to cast dispel magic on a creature, an object, or a magical effect that you touch with the tip of the staff. If the target is an unwilling creature or an object in the possession of such a creature, you must hit the creature with a melee attack using the Blackstaff before you can expend the charge to cast the spell.</text>
-		<text>  </text>
+		<text />
 		<text>Drain Magic: This property affects only creatures that use spell slots. When you hit such a creature with a melee attack using the Blackstaff, you can expend 1 of the staff's charges as a bonus action, causing the target to expend one spell slot of the highest spell level it can cast without casting a spell. If the target has already expended all its spell slots, nothing happens. Spell slots that are expended in this fashion are regained when the target finishes a long rest, as normal.</text>
-		<text>  </text>
+		<text />
 		<text>Master of Enchantment: When you cast an enchantment spell of 1st level or higher while holding the staff, you can make an Intelligence (Arcana) check with a DC of 10 +the level of the spell. If the check succeeds, you cast the spell without expending a spell slot.</text>
-		<text>  </text>
+		<text />
 		<text>Sentience: The Blackstaff is a sentient staff of neutral alignment, with an Intelligence of 22, a Wisdom of 15, and a Charisma of 18. It has hearing and darkvision out to a range of 120 feet, and it can communicate telepathically with any creature that is holding it.</text>
-		<text>  </text>
+		<text />
 		<text>Personality: The staff has the spirits of all previous Blackstaffs trapped within it. Its creator, Khelben Arunsun, is the dominant personality among them. Like Khelben, the staff is extremely devious and manipulative. It prefers to counsel its owner without exerting outright control. The staff's primary goal is to protect Waterdeep and its Open Lord, currently Laeral Silverhand. Its secondary goal is to help its wielder become more powerful.</text>
 		<text>	In the event that the holder of the office of the Blackstaff no longer serves the staff's wishes, the staff ceases to function until it finds a worthy inheritor- someone whose loyalty to Waterdeep is beyond reproach.</text>
-		<text>  </text>
+		<text />
 		<text>Spirit Trap: When the Blackstaff dies, the spirit of that individual becomes trapped in the staff along with the spirits of the previous Blackstaffs. (A Blackstaff whose spirit is trapped in the staff can't be raised from the dead.)</text>
 		<text>	Destroying the staff would release the spirits trapped inside it, but in that event, Khelben's spirit can lodge itself inside any one piece of the staff that remains. The piece containing Khelben's spirit has the staff's Sentience property but none of its other properties. As long as this piece of the staff exists, Khelben's spirit can make the staff whole again whenever he wishes. When the staff is remade, the spirits of the previous Blackstaffs become trapped inside it again.</text>
 		<text>Proficiency: simple, quarterstaff</text>
@@ -2075,19 +2075,19 @@
 	<trait>
 		<name>Flight</name>
 		<text>You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 5</text>
 	</trait>
 	<trait>
 		<name>Talons</name>
 		<text>You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 5</text>
 	</trait>
 	<trait>
 		<name>Language</name>
 		<text>You can speak, read, and write Common, Aarakocra, and Auran.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 5</text>
 	</trait>
 </race>
@@ -2101,21 +2101,21 @@
     <trait>
         <name>Unending Breath</name>
         <text>You can hold your breath indefinitely while you're not incapacitated.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Mingle with the Wind</name>
         <text>You can cast the levitate spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Languages</name>
         <text>You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 228</text>
     </trait>
@@ -2130,21 +2130,21 @@
     <trait>
         <name>Earth Walk</name>
         <text>You can move across difficult terrain made of earth or stone without expending extra movement.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Merge with Stone</name>
         <text>You can cast the pass without trace spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Languages</name>
         <text>You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 228</text>
     </trait>
@@ -2159,28 +2159,28 @@
 	<trait>
 		<name>Darkvision</name>
 		<text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 10</text>
 		<text>		Princes of the Apocalypse, p. 229</text>
 	</trait>
 	<trait>
 		<name>Fire Resistance</name>
 		<text>You have resistance to fire damage.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 10</text>
 		<text>		Princes of the Apocalypse, p. 229</text>
 	</trait>
 	<trait>
 		<name>Reach to the Blaze</name>
 		<text>You know the produce flame cantrip. Once you reach 3rd level, you can cast the burning hands spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 10</text>
 		<text>		Princes of the Apocalypse, p. 229</text>
 	</trait>
 	<trait>
 		<name>Languages</name>
 		<text>You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</text>
-		<text> </text>
+		<text />
 		<text>Source: Elemental Evil Player's Companion, p. 9</text>
 		<text>		Princes of the Apocalypse, p. 228</text>
 	</trait>
@@ -2195,35 +2195,35 @@
     <trait>
         <name>Acid Resistance</name>
         <text>You have resistance to acid damage.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 10</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Amphibious</name>
         <text>You can breathe air and water.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 10</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Swim</name>
         <text>You have a swimming speed of 30 feet.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 10</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Call to the Wave</name>
         <text>You know the shape water cantrip. When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 10</text>
         <text>        Princes of the Apocalypse, p. 229</text>
     </trait>
     <trait>
         <name>Languages</name>
         <text>You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.</text>
-        <text> </text>
+        <text />
         <text>Source: Elemental Evil Player's Companion, p. 9</text>
         <text>        Princes of the Apocalypse, p. 228</text>
     </trait>
@@ -2242,7 +2242,7 @@
 	<trait>
 		<name>Cultural Chameleon</name>
 		<text>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs. Choose a race whose culture you&#39;ve adopted, or roll on the Adopted Culture table.</text>
-		<text> </text>
+		<text />
 		<text>d8 &#8212; Culture </text>
 		<text>1 &#8212; Aarakocra </text>
 		<text>2 &#8212; Dwarf </text>
@@ -2256,17 +2256,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Insight, Religion</text>
-		<text> </text>
+		<text />
 		<text>Languages: any two of your choice</text>
-		<text> </text>
+		<text />
 		<text>Tools: none</text>
 	</trait>
 	<trait>
 		<name>Adept Linguist</name>
 		<text>You can communicate with humanoids who don&#39;t speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures &#8212; enough to communicate on a rudimentary level.</text>
-		<text> </text>
+		<text />
 		<text>Source: Tomb of Annihilation, p. 191</text>
 	</trait>
 	<trait>
@@ -2276,69 +2276,69 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I prefer the company of those who aren&#39;t like me, including people of other races. </text>
-		<text> </text>
+		<text />
 		<text>2. I&#39;m a stickler when it comes to observing proper etiquette and local customs. </text>
-		<text> </text>
+		<text />
 		<text>3. I would rather observe than meddle. </text>
-		<text> </text>
+		<text />
 		<text>4. By living among violent people, I have become desensitized to violence. </text>
-		<text> </text>
+		<text />
 		<text>5. I would risk life and limb to discover a new culture or unravel the secrets of a dead one. </text>
-		<text> </text>
+		<text />
 		<text>6. When I arrive at a new settlement for the first time, I must learn all its customs.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Discovery. I want to be the first person to discover a lost culture. (Any) </text>
-		<text> </text>
+		<text />
 		<text>2. Distance. One must not interfere with the affairs of another culture &#8212; even one in need of aid. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>3. Knowledge. By understanding other races and cultures, we learn to understand ourselves. (Any) </text>
-		<text> </text>
+		<text />
 		<text>4. Power. Common people crave strong leadership, and I do my utmost to provide it. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>5. Protection. I must do everything possible to save a society facing extinction. (Good) </text>
-		<text> </text>
+		<text />
 		<text>6. Indifferent. Life is cruel. What&#39;s the point in saving people if they&#39;re going to die anyway? (Chaotic)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. My mentor gave me a journal filled with lore and wisdom. Losing it would devastate me. </text>
-		<text> </text>
+		<text />
 		<text>2. Having lived among the people of a primeval tribe or clan, I long to return and see how they are faring. </text>
-		<text> </text>
+		<text />
 		<text>3. Years ago, tragedy struck the members of an isolated society I befriended, and I will honor them. </text>
-		<text> </text>
+		<text />
 		<text>4. I want to learn more about a particular humanoid culture that fascinates me. </text>
-		<text> </text>
+		<text />
 		<text>5. I seek to avenge a clan, tribe, kingdom, or empire that was wiped out. </text>
-		<text> </text>
+		<text />
 		<text>6. I have a trinket that I believe is the key to finding a long-lost society.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Boats make me seasick. </text>
-		<text> </text>
+		<text />
 		<text>2. I talk to myself, and I don&#39;t make friends easily. </text>
-		<text> </text>
+		<text />
 		<text>3. I believe that I&#39;m intellectually superior to people from other cultures and have much to teach them. </text>
-		<text> </text>
+		<text />
 		<text>4. I&#39;ve picked up some unpleasant habits living among goblins, lizardfolk, or orcs. </text>
-		<text> </text>
+		<text />
 		<text>5. I complain about everything. </text>
-		<text> </text>
+		<text />
 		<text>6. I wear a tribal mask and never take it off.</text>
 	</trait>
 </background>
@@ -2352,7 +2352,7 @@
 	<trait>
 		<name>Dust Digger</name>
 		<text>Prior to becoming an adventurer, you spent most of your young life crawling around in the dust, pilfering relics of questionable value from crypts and ruins. Though you managed to sell a few of your discoveries and earn enough coin to buy proper adventuring gear, you have held onto an item that has great emotional value to you. Roll on the Signature Item table to see what you have, or choose an item from the table.</text>
-		<text> </text>
+		<text />
 		<text>d8 &#8212; Item </text>
 		<text>1 &#8212; 10-foot pole </text>
 		<text>2 &#8212; Crowbar </text>
@@ -2366,17 +2366,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: History, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: any one of your choice</text>
-		<text> </text>
+		<text />
 		<text>Tools: cartographer's tools or navigator's tools</text>
 	</trait>
 	<trait>
 		<name>Historical Knowledge</name>
 		<text>When you enter a ruin or dungeon, you can correctly ascertain its original purpose and determine its builders, whether those were dwarves, elves, humans, yuan-ti, or some other known race. In addition, you can determine the monetary value of art objects more than a century old.</text>
-		<text> </text>
+		<text />
 		<text>Source: Tomb of Annihilation, p. 192</text>
 	</trait>
 	<trait>
@@ -2386,71 +2386,71 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I love a good puzzle or mystery. </text>
-		<text> </text>
+		<text />
 		<text>2. I&#39;m a pack rat who never throws anything away. </text>
-		<text> </text>
+		<text />
 		<text>3. Fame is more important to me than money. </text>
-		<text> </text>
+		<text />
 		<text>4. I have no qualms about stealing from the dead. </text>
-		<text> </text>
+		<text />
 		<text>5. I&#39;m happier in a dusty old tomb than I am in the centers of civilization. </text>
-		<text> </text>
+		<text />
 		<text>6. Traps don&#39;t make me nervous. Idiots who trigger traps make me nervous. </text>
-		<text> </text>
+		<text />
 		<text>8. I might fail, but I will never give up. 8 You might think I&#39;m a scholar, but I love a good brawl. These fists were made for punching.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Preservation. That artifact belongs in a museum. (Good) </text>
-		<text> </text>
+		<text />
 		<text>2. Greed. I won&#39;t risk my life for nothing. I expect some kind of payment. (Any) </text>
-		<text> </text>
+		<text />
 		<text>3. Death Wish. Nothing is more exhilarating than a narrow escape from the jaws of death. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>4. Dignity. The dead and their belongings deserve to be treated with respect. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>5. Immortality. All my exploring is part of a plan to find the secret of everlasting life. (Any) </text>
-		<text> </text>
+		<text />
 		<text>6. Danger. With every great discovery comes grave danger. The two walk hand in hand. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Ever since I was a child, I&#39;ve heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books. </text>
-		<text> </text>
+		<text />
 		<text>2. I want to find my mentor, who disappeared on an expedition some time ago. </text>
-		<text> </text>
+		<text />
 		<text>3. I have a friendly rival. Only one of us can be the best, and I aim to prove it&#39;s me. </text>
-		<text> </text>
+		<text />
 		<text>4. I won&#39;t sell an art object or other treasure that has historical significance or is one of a kind. </text>
-		<text> </text>
+		<text />
 		<text>5. I&#39;m secretly in love with the wealthy patron who sponsors my archaeological exploits. </text>
-		<text> </text>
+		<text />
 		<text>6. I hope to bring prestige to a library, a museum, or a university.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have a secret fear of some common wild animal &#8212; and in my work, I see them everywhere. </text>
-		<text> </text>
+		<text />
 		<text>2. I can&#39;t leave a room without searching it for secret doors. </text>
-		<text> </text>
+		<text />
 		<text>3. When I&#39;m not exploring dungeons or ruins, I get jittery and impatient. </text>
-		<text> </text>
+		<text />
 		<text>4. I have no time for friends or family. I spend every waking moment thinking about and preparing for my next expedition. </text>
-		<text> </text>
+		<text />
 		<text>5. When given the choice of going left or right, I always go left. </text>
-		<text> </text>
+		<text />
 		<text>6. I can&#39;t sleep except in total darkness.</text>
 	</trait>
 </background>
@@ -2466,17 +2466,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Deception, Insight</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: disguise kit and one type of artisan's tools or gaming set</text>
 	</trait>
 	<trait>
 		<name>Double Agent</name>
 		<text>You have a reliable and trusty contact within the Tears of Virulence garrison in Phlan to whom you pass information and secrets. In exchange, you can get away with minor criminal offenses within the town of Phlan. In addition, your Black Fists contacts can help you secure an audience with the Lord Regent, the Lord Sage, members of the Black Fists, or deposed nobles and authority figures who are sympathetic to the Phlan refugees and insurgents.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 2</text>
 	</trait>
 	<trait>
@@ -2486,73 +2486,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. People are only as trustworthy as you are valuable to them. Always strive to be the most valuable person around.</text>
-		<text> </text>
+		<text />
 		<text>2.My eloquence and sophistication are tools I use to avoid arousing suspicion myself.</text>
-		<text> </text>
+		<text />
 		<text>3. I am a thrill-seeker, excited by covert and dangerous missions.</text>
-		<text> </text>
+		<text />
 		<text>4. I live by my wits and always check every lock twice, just to be certain.</text>
-		<text> </text>
+		<text />
 		<text>5. I never admit to my mistakes lest they be used against me.</text>
-		<text> </text>
+		<text />
 		<text>6. I take every effort to be unnoticeable and blend into the crowd. Passersby rarely give me a second look.</text>
-		<text> </text>
+		<text />
 		<text>7. I am prepared for any eventuality; including the day my usefulness as a spy comes to an end.</text>
-		<text> </text>
+		<text />
 		<text>8. I always make certain to know my enemy before acting, lest I bite off more than I can chew.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Suspicious: In my experience, everybody has something to hide, and what they hide can usually hurt me (Any).</text>
-		<text> </text>
+		<text />
 		<text>2. Secretive: I trade in secrets, and am not about to let any of mine slip (Any).</text>
-		<text> </text>
+		<text />
 		<text>3. Hedonist: Life is short. I live my life to the fullest, as I know any day could be my last (Chaotic).</text>
-		<text> </text>
+		<text />
 		<text>4. Selfless: I use my position to help the downtrodden avoid persecution from the authorities (Good).</text>
-		<text> </text>
+		<text />
 		<text>5. Patriotic: I am a loyal supporter of Phlan and its leaders, and see my role as a solemn duty and necessary evil to prevent anarchy. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>6. Manipulative: I use my knowledge to blackmail and manipulate others to my own benefit (Evil). </text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I was framed for a crime I did not commit, and seek to bring the true culprit to justice.</text>
-		<text> </text>
+		<text />
 		<text>2. I am a part of an underground network that smuggles innocent civilians out of the city prior to being raided by the authorities.</text>
-		<text> </text>
+		<text />
 		<text>3. I miss the glory days of Phlan, before the coming of the dragon.</text>
-		<text> </text>
+		<text />
 		<text>4. I seek to prove myself worthy of joining the Black Fist as a member of their order.</text>
-		<text> </text>
+		<text />
 		<text>5. My sister was killed by a Tear of Virulence, and now I feed them false information whenever possible.</text>
-		<text> </text>
+		<text />
 		<text>6. My family was wrongly imprisoned, and I act as an informant in order to secure their release.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I think too highly of myself, and have an exaggerated sense of self-importance.</text>
-		<text> </text>
+		<text />
 		<text>2. I have difficulty trusting strangers. I see spies and informants everywhere.</text>
-		<text> </text>
+		<text />
 		<text>3. Years of getting away with minor crimes has left me believing that I am above the law, and have diplomatic immunity above my station.</text>
-		<text> </text>
+		<text />
 		<text>4. Years of seeing innocent people suffer have left me despondent and pessimistic for the future.</text>
-		<text> </text>
+		<text />
 		<text>5. My desire for vengeance often gets me into trouble</text>
-		<text> </text>
+		<text />
 		<text>6. I am spendthrift, and share my wealth with the patrons of my favorite tavern.</text>
 	</trait>
 </background>
@@ -2566,17 +2566,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Animal Handling, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: any one of your choice</text>
-		<text> </text>
+		<text />
 		<text>Tools: land vehicles</text>
 	</trait>
 	<trait>
 		<name>Wagonmaster</name>
 		<text>You are used to being in charge of the operation and your reputation for reliability has you on a short list when the job is critical. Experience has taught you to rely on your gut. Others recognize this and look to you for direction when a situation gets serious. You are able to identify the most defensible locations for camping. If you are part of a caravan outfit, you are able to attract two additional workers that are loyal to you based on your reputation. You have an excellent memory for maps and geography and can always determine your cardinal directions while traveling.</text>
-		<text> </text>
+		<text />
 		<text>Source: Mulmaster Bonds, p. 2</text>
 	</trait>
 	<trait>
@@ -2586,73 +2586,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Any group is only as strong as its weakest link. Everyone has to pull their own weight.</text>
-		<text> </text>
+		<text />
 		<text>2. There's always someone out there trying to take what I've got. Always be vigilant.</text>
-		<text> </text>
+		<text />
 		<text>3. Anything can be learned if you have the right teacher. Most folks just need a chance.</text>
-		<text> </text>
+		<text />
 		<text>4. Early to bed and early to rise; this much at least is under my control.</text>
-		<text> </text>
+		<text />
 		<text>5. You can listen to me or don't and wish you had. Everyone ends up on one side of that fence.</text>
-		<text> </text>
+		<text />
 		<text>6. Eventually my hard work will be rewarded. Maybe that time has finally come.</text>
-		<text> </text>
+		<text />
 		<text>7. A strong ox or horse is more reliable than most people I've met.</text>
-		<text> </text>
+		<text />
 		<text>8. I never had time for books, but wish I had. I admire folks who have taken the time to learn. </text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Service: Using my talents to help others is the best way of helping myself. (Good) d6 Ideal</text>
-		<text> </text>
+		<text />
 		<text>2. Selfish: What people don't know WILL hurt them, but why is that my problem? (Evil)</text>
-		<text> </text>
+		<text />
 		<text>3. Wanderer: I go where the road takes me. Sometimes that's a good thing... (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>4. Fittest: On the open road, the law of nature wins. Victims are the unprepared. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>5. Focused: I simply have a job to do, and I'm going to do it. (Neutral)</text>
-		<text> </text>
+		<text />
 		<text>6. Motivated: There's a reason I'm good at what I do, I pay attention to the details. (Any) </text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. My brother has a farm In Elmwood and I've helped him and his neighbors move their goods to Mulmaster and other surrounding towns. Those are good people.</text>
-		<text> </text>
+		<text />
 		<text>2. A caravan I lead was attacked by bandits and many innocents died. I swear that I will avenge them by killing any bandits I encounter.</text>
-		<text> </text>
+		<text />
 		<text>3. The Soldiery are mostly good guys who understand the importance of protecting the roads. The City Watch is who you have to look out for. If they are inspecting your goods, get ready to pay a fine.</text>
-		<text> </text>
+		<text />
 		<text>4. The new commander of Southroad Tower, Capt. Holke, understands the importance of safe roads. He's hired me for several jobs and I'm grateful.</text>
-		<text> </text>
+		<text />
 		<text>5. There's always a road I haven't traveled before. I'm always looking for new places to explore.</text>
-		<text> </text>
+		<text />
 		<text>6. Wealth and power mean little without the freedom to go where and when you want.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have trouble trusting people I've just met.</text>
-		<text> </text>
+		<text />
 		<text>2. I enjoy the open road. Underground and tight spaces make me very nervous.</text>
-		<text> </text>
+		<text />
 		<text>3. I expect others to heed my orders and have little respect or sympathy if they don't.</text>
-		<text> </text>
+		<text />
 		<text>4. I am very prideful and have trouble admitting when I'm wrong.</text>
-		<text> </text>
+		<text />
 		<text>5. Once I decide on a course of action, I do not waiver.</text>
-		<text> </text>
+		<text />
 		<text>6. I like to explore, and my curiosity will sometimes get me into trouble.</text>
 	</trait>
 </background>
@@ -2666,17 +2666,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Nature, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: Elvish</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of artisan's tools</text>
 	</trait>
 	<trait>
 		<name>Shelter of the Elven Clergy</name>
 		<text>The clerics of Elventree have vowed to care for the Cormanthor refugees. They will help you when they can, including providing you and your companions with free healing and care at temples, shrines, and other established presences in Elventree. They will also provide you (but only you) with a poor lifestyle.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 4</text>
 	</trait>
 	<trait>
@@ -2686,73 +2686,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I long for a home that never really existed, whether in the camps, Hillsfar, or Myth Drannor.</text>
-		<text> </text>
+		<text />
 		<text>2. Though I am not an elf, I am a fervent, radical worshipper of the elven gods. </text>
-		<text> </text>
+		<text />
 		<text>3. I live in the moment, knowing my life could be turned upside down any day.</text>
-		<text> </text>
+		<text />
 		<text>4. I appreciate beauty in all of its forms. </text>
-		<text> </text>
+		<text />
 		<text>5. I hate the dark elves and the Netherese for each driving the elves out of Cormanthyr in the past.</text>
-		<text> </text>
+		<text />
 		<text>6. I am a forest bumpkin who grew up in a tent in the woods and is wholly ignorant of city life. </text>
-		<text> </text>
+		<text />
 		<text>7. I was raised alongside children of many other races. I harbor no racial prejudices at all.</text>
-		<text> </text>
+		<text />
 		<text>8. The elves have just the right word for so many things that cannot be expressed as well in other languages. I pepper my speech with elven words, phrases, and sayings</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Patient: The elves have taught me to think and plan for the long-term. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>2. Rebellious: Governments and politicians drove my family to the camps. I subtly defy authority whenever I think I can get away with it. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Self-Absorbed: I've had to look out for number one so long that it has become second nature. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4. Wanderlust: I want to see as much of the world beyond the camps as I can. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Generous: I give everything I can to help those in need, regardless of who they are. (Good)</text>
-		<text> </text>
+		<text />
 		<text>6. To the Abyss with Them: The people of Hillsfar cast me out. I won't risk my hide to help them. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. The elves took me in when I had nowhere else to go. In return, I do what I can to help elves in need.</text>
-		<text> </text>
+		<text />
 		<text>2. I seek revenge against the people of Hillsfar for driving my family into the forest. </text>
-		<text> </text>
+		<text />
 		<text>3. My family lost everything when they were driven from Hillsfar. I strive to rebuild that fortune.</text>
-		<text> </text>
+		<text />
 		<text>4. The forest has provided me with food and shelter. In return, I protect forests and those who dwell within. </text>
-		<text> </text>
+		<text />
 		<text>5. I am deeply, tragically in love with someone whose racial lifespan is far longer or shorter than mine.</text>
-		<text> </text>
+		<text />
 		<text>6. Members of my extended family did not make it to the camps or have been kidnapped to fight in the Arena. I search for them tirelessly.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am very uncomfortable indoors and underground.</text>
-		<text> </text>
+		<text />
 		<text>2. I am haughty. I grew up among the elves and emulate them. Other races are crude in comparison. </text>
-		<text> </text>
+		<text />
 		<text>3. Elf this, elf that. I am sick and tired of the elves.</text>
-		<text> </text>
+		<text />
 		<text>4. I am a miser. Having lost everything once before, I clutch my possessions and wealth very tightly. </text>
-		<text> </text>
+		<text />
 		<text>5. I am a moocher. I am so used to others providing for me that I have come to expect everyone to do it.</text>
-		<text> </text>
+		<text />
 		<text>6. I believe the gods have cursed me, my family, and all of the Cormanthor refugees. We are all doomed, doomed I tell you!</text>
 	</trait>
 </background>
@@ -2769,47 +2769,47 @@
 		<name>Origin</name>
 		<text>Prior to the coordinated attack by the Maimed Virulence and her rebel Black Fist supporters, you were once a citizen or visitor to Phlan. While the trauma of your recent ordeal has greatly altered your motivations and perception of the world, your former life still clings to you and colors your mannerisms, behaviors, and outlook on life.</text>
 		<text>Choose one entry on the following table (or roll randomly) to determine your former occupation prior to your incarceration and torture. Your choice determines your tool proficiency from this background.</text>
-		<text></text>
+		<text />
 		<text>1. Dockworker/Fisherman &#8212; Vehicles (Water)</text>
-		<text></text>
+		<text />
 		<text>2. Tradesperson / Merchant &#8212; Artisans' Tools</text>
-		<text></text>
+		<text />
 		<text>3. Black Fist Soldier &#8212; Gaming set or Vehicles (Land)</text>
-		<text></text>
+		<text />
 		<text>4. Adventurer / Visitor &#8212; Vehicles (Land)</text>
-		<text></text>
+		<text />
 		<text>5. Entertainer &#8212; Musical Instrument</text>
-		<text></text>
+		<text />
 		<text>6. Scholar / Healer &#8212; Alchemists Supplies or Herbalism Kit</text>
-		<text></text>
+		<text />
 		<text>7. Criminal &#8212; Thieves' Tools, Forgery Kit, or Disguise Kit</text>
-		<text></text>
+		<text />
 		<text>8. Unskilled laborer &#8212; Gaming Set</text>
 	</trait>
 	<trait>
 		<name>Disfigurement (Optional)</name>
 		<text>In addition to extensive scarring, you may choose one of the following options to represent your disfigurement. This disfigurement is purely cosmetic, misshapen, and horrific to look upon.</text>
-		<text></text>
+		<text />
 		<text>1. Small non-functional wing(s) or alternately - misshapen, wing-like membranes along one or both arms</text>
-		<text></text>
+		<text />
 		<text>2. Elongated, claw-like hand(s) and/or feet</text>
-		<text></text>
+		<text />
 		<text>3. Painful green scales randomly embedded in skin</text>
-		<text></text>
+		<text />
 		<text>4. Bulbous, reptilian eye(s)</text>
-		<text></text>
+		<text />
 		<text>5. Enlarged dorsal spines</text>
-		<text></text>
+		<text />
 		<text>6. Hair replaced with small irregular spines</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Intimidation, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: Draconic</text>
-		<text> </text>
+		<text />
 		<text>Tools: special (see origin below)</text>
 	</trait>
 	<trait>
@@ -2817,7 +2817,7 @@
 		<text>Over a period of several months you were subject to magical and mundane torture at the claws of Vorgansharax and his minions. These experiments have left you horribly disfigured but mark you as a survivor of the Maimed Virulence.</text>
 		<text>	This affords you a measure of fame and notoriety, for those who know of your harrowing ordeal are keen to hear the tale personally but makes it difficult to disguise your appearance and hide from prying eyes. You can parley this attention into access to people and places you might not otherwise have, for you and your companions. Nobles, scholars, mages, and those who seek to ferret out the secrets of the Maimed Virulence would all be keen to hear your tale of survival, and learn what secrets (if any) you might possess, and/or study your affliction with great interest.</text>
 		<text>	However, you fear that your afflictions are not completely mundane and that the Maimed Virulence may as yet have some nefarious reason for allowing your escape, as your scars burn with acidic fury and seem to writhe beneath your skin at times.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 3</text>
 	</trait>
 	<trait>
@@ -2827,73 +2827,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am driven to escape my past, and rarely stay in one place long.</text>
-		<text> </text>
+		<text />
 		<text>2. I know secrets of the Maimed Virulence, but fear the harm that may befall me should others learn them.</text>
-		<text> </text>
+		<text />
 		<text>3. Speaking of my ordeal helps sooth the still open wounds in my soul.</text>
-		<text> </text>
+		<text />
 		<text>4. My former life is meaningless, and was ripped to shreds by the claws of Vorgansharax. All that matters now is what I do with the future.</text>
-		<text> </text>
+		<text />
 		<text>5. I have faced the worst a dragon can deliver and survived. I am fearless, and my resolve unshakable.</text>
-		<text> </text>
+		<text />
 		<text>6. I am haunted my tortured past, and wake at night screaming at half-remembered horrors.</text>
-		<text> </text>
+		<text />
 		<text>7. I sleep with my back to a wall or tree, and a weapon within arm&#39;s reach.</text>
-		<text> </text>
+		<text />
 		<text>8. I am slow to trust, but incredibly loyal to those who have earned it.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Survivor: No matter the cost, I will take any action necessary to survive (any)</text>
-		<text> </text>
+		<text />
 		<text>2. Independence: When in trouble, the only person I can rely on is myself (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>3. Compassionate: I have suffered long at the hands of a Dragon, and take pity and compassion on the suffering of others (Good)</text>
-		<text> </text>
+		<text />
 		<text>4. Secretive: I am withdrawn, and hide my monstrous appearance for fear of drawing unwanted attention (Chaotic).</text>
-		<text> </text>
+		<text />
 		<text>5. Justice: I have been wronged, and will not allow the same fate to befall others (Lawful).</text>
-		<text> </text>
+		<text />
 		<text>6. Sycophant: During my ordeal, I became a willing servant of the Maimed Virulence, and spy on his behalf (evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have sworn vengeance on the Maimed Virulence and those that follow him.</text>
-		<text> </text>
+		<text />
 		<text>2. I long to reunite with friends and family who may dwell among the Phlan Refugees, and protect them.</text>
-		<text> </text>
+		<text />
 		<text>3. While a prisoner of the Maimed Virulence, I overheard rumors of an item or treasure the Dragon seeks. I will have that treasure for myself!</text>
-		<text> </text>
+		<text />
 		<text>4. I seek to reclaim and rebuild my former life to the best of my ability.</text>
-		<text> </text>
+		<text />
 		<text>5. I have been reborn as a child of Vorgansharax. I will claim my birthright as his chosen heir and successor.</text>
-		<text> </text>
+		<text />
 		<text>6. I attribute my survival to the work of the divine, and seek to prove myself worthy of the honor.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have been touched with dragon-greed, and have a lust for wealth which can never be satisfied.</text>
-		<text> </text>
+		<text />
 		<text>2. I secretly believe others are plotting to harm me.</text>
-		<text> </text>
+		<text />
 		<text>3. I no longer enjoy the simple pleasures in life. Food is but ashes and bile in my throat.</text>
-		<text> </text>
+		<text />
 		<text>4. Anyone who refuses to celebrate my celebrity does not deserve my company.</text>
-		<text> </text>
+		<text />
 		<text>5. I am paranoid and overly suspicious of others. Anyone may be an agent of the Maimed Virulence.</text>
-		<text> </text>
+		<text />
 		<text>6. Once I make up my mind, I follow my chosen course of action regardless of the consequences.</text>
 	</trait>
 </background>
@@ -2907,17 +2907,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Athletics, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: Dwarvish, Undercommon</text>
-		<text> </text>
+		<text />
 		<text>Tools: none</text>
 	</trait>
 	<trait>
 		<name>Deep Miner</name>
 		<text>You are used to navigating the deep places of the earth. You never get lost in caves or mines if you have either seen an accurate map of them or have been through them before. Furthermore, you are able to scrounge fresh water and food for yourself and as many as five other people each day if you are in a mine or natural caves.</text>
-		<text> </text>
+		<text />
 		<text>Source: Mulmaster Bonds, p. 3</text>
 	</trait>
 	<trait>
@@ -2927,73 +2927,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Nothing bothers me for long. </text>
-		<text> </text>
+		<text />
 		<text>2. I hate the horrors of the Underdark with a passion. They took my friends and family and almost got me. </text>
-		<text> </text>
+		<text />
 		<text>3. Anything worth doing takes time and patience. I have learned to plan and wait for the things I want and to be patient to achieve my goals. </text>
-		<text> </text>
+		<text />
 		<text>4. I can party with everyone. Whether with dwarves, or goliaths, or deep gnomes, I can find a way to have a good time. </text>
-		<text> </text>
+		<text />
 		<text>5. I'd rather be mining. This is okay; mining is better. </text>
-		<text> </text>
+		<text />
 		<text>6. I think that I will stumble upon great riches if I just keep looking. </text>
-		<text> </text>
+		<text />
 		<text>7. People who don't work with their hands and who live in houses are soft and weak. </text>
-		<text> </text>
+		<text />
 		<text>8. I wish I were more educated. I look up to people who are.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Generosity: The riches of the earth are to be shared by all. (Good) </text>
-		<text> </text>
+		<text />
 		<text>2. Greed: Gems and precious metals, I want them all for myself. (Evil) </text>
-		<text> </text>
+		<text />
 		<text>3. Mooch: Property, schmoperty. If I need it, I take and use it. If I don't, I leave it for someone else. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>4. Boundaries: Everything and everyone has its prescribed place; I respect that and expect others to do the same. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>5. Let it Be: I don't meddle in the affairs of others if I can avoid it. They're none of my business. (Neutral) </text>
-		<text> </text>
+		<text />
 		<text>6. Materialist: I want riches to improve my life. (Any) </text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. The people of the Earthspur mines are my family. I will do anything to protect them. </text>
-		<text> </text>
+		<text />
 		<text>2. A deep gnome saved my life when I was injured and alone. I owe his people a great debt. </text>
-		<text> </text>
+		<text />
 		<text>3. I must behold and preserve the natural beauty of places below the earth. </text>
-		<text> </text>
+		<text />
 		<text>4. Gems hold a special fascination for me, more than gold, land, magic, or power. </text>
-		<text> </text>
+		<text />
 		<text>5. I want to explore new depths and scale new heights. </text>
-		<text> </text>
+		<text />
 		<text>6. Someday I'm going to find the mother lode, then I'll spend the rest of my life in luxury.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I'm uncomfortable spending time under the open sky. I'd rather be indoors or underground. </text>
-		<text> </text>
+		<text />
 		<text>2. I'm not used to being around other people much and sometimes get grouchy about it. </text>
-		<text> </text>
+		<text />
 		<text>3. Good tools are more reliable than people. In a cave in, I would save a sturdy pick before a stranger. </text>
-		<text> </text>
+		<text />
 		<text>4. I jealously guard my secrets, because I think others will take advantage of me if they learn what I know. </text>
-		<text> </text>
+		<text />
 		<text>5. I am obsessed with getting rich. I always have a scheme brewing for making it big. </text>
-		<text> </text>
+		<text />
 		<text>6. I'm afraid of the dark.</text>
 	</trait>
 </background>
@@ -3011,38 +3011,38 @@
 	<trait>
 		<name>Fishing Tale</name>
 		<text>You can tell a compelling tale. whether tall or true. to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM's discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. You can roll on the following table to help determine the theme of your tale or choose one that best fits your character. Alternatively, work with your OM to create your own fishing tale.</text>
-		<text> </text>
+		<text />
 		<text>1. Lobster Wrestling: You fought in hand-to-hand combat with an immense lobster.</text>
-		<text> </text>
+		<text />
 		<text>2. It Dragged the Boat: You nearly caught a fish of monstrous size that pulled your boat for miles.</text>
-		<text> </text>
+		<text />
 		<text>3. Fins of Pure Gold. You caught a sea animal whose fins were made of pure gold, but another fisher stole it.</text>
-		<text> </text>
+		<text />
 		<text>4. Ghost Fish: You are haunted by a ghostly fish that only you can see.</text>
-		<text> </text>
+		<text />
 		<text>5. Nemesis Clam. A large clam containing a pearl the size of your head claimed one of your fingers before jetting away; one day, you'll find that clam.</text>
-		<text> </text>
+		<text />
 		<text>6. It Swallowed the Sun. You once saw a fish leap from the water and turn day into night.</text>
-		<text> </text>
+		<text />
 		<text>7. Dive into the Abyss. You found yourself in an underwater cave leading to the Abyss, and your luck has been sour ever since.</text>
-		<text> </text>
+		<text />
 		<text>8. Love Story. You fell in love with a creature of pure water, but your brief romance ended tragically.</text>
-		<text> </text>
+		<text />
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies</text>
-		<text> </text>
+		<text />
 		<text>Skills: History, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: One of your choice</text>
-		<text> </text>
+		<text />
 		<text>Tools: none</text>
 	</trait>
 	<trait>
 		<name>Fisher</name>
 		<text>Fishers succeed only if they spend time at their jobs. As such, most fishers have a strong work ethic, and they admire others who earn their living honestly. Fishers tend to be superstitious, forming attachments to particular fishing lures or special fishing spots. They have a connection to the bodies of water in which they fish, and they think poorly of those whose actions adversely affect their livelihood.</text>
-		<text> </text>
+		<text />
 		<text>Source: Ghosts of Saltmarsh p. 30</text>
 	</trait>
 	<trait>
@@ -3052,73 +3052,73 @@
 	<trait>
 		<name>Personality</name>
 		<text>Choose one or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am unmoved by the wrath of nature.</text>
-		<text> </text>
+		<text />
 		<text>2. My friends are my crew; we sink or float together.</text>
-		<text> </text>
+		<text />
 		<text>3. I need long stretches of quiet to clear my head.</text>
-		<text> </text>
+		<text />
 		<text>4. Rich folk don't know the satisfaction of hard work.</text>
-		<text> </text>
+		<text />
 		<text>5. I laugh heartily, feel deeply, and fear nothing.</text>
-		<text> </text>
+		<text />
 		<text>6. I work hard; nature offers no handouts.</text>
-		<text> </text>
+		<text />
 		<text>7. I dislike bargaining; state your price and mean it.</text>
-		<text> </text>
+		<text />
 		<text>8. Luck favors me, and l take risks others might not.</text>
 	</trait>
 	<trait>
 		<name>Ideals</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Camaraderie. Good people make even the longest voyage bearable. (Good)</text>
-		<text> </text>
+		<text />
 		<text>2. Luck. Our luck depends on respecting its rules-now throw this salt over your shoulder. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>3. Daring. The richest bounty goes to those who risk everything. (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>4. Plunder. Take all that you can and leave nothing for the scavengers. (Evil)</text>
-		<text> </text>
+		<text />
 		<text>5. Balance. Do not fish the same spot twice in a row; suppress your greed, and nature will reward you. (Neutral)</text>
-		<text> </text>
+		<text />
 		<text>6. Hard Work. No wave can move a soul hard at work. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I lost something important in the deep sea, and I intend to find it.</text>
-		<text> </text>
+		<text />
 		<text>2. Someone else's greed destroyed my livelihood, and I will be compensated.</text>
-		<text> </text>
+		<text />
 		<text>3. I will fish the many famous waters of this land.</text>
-		<text> </text>
+		<text />
 		<text>4. The gods saved me during a terrible storm, and I will honor their gift.</text>
-		<text> </text>
+		<text />
 		<text>5. My destiny awaits me at the bottom of a particular pond in the Feywild.</text>
-		<text> </text>
+		<text />
 		<text>6. I must repay my village's debt.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. l am judgmental, especially of those I deem homebodies or otherwise lazy.</text>
-		<text> </text>
+		<text />
 		<text>2. I become depressed and anxious if I'm away from the sea too long.</text>
-		<text> </text>
+		<text />
 		<text>3. l have lived a hard life and find it difficult to empathize with others.</text>
-		<text> </text>
+		<text />
 		<text>4. I am inclined to tell long-winded stones at inopportune times.</text>
-		<text> </text>
+		<text />
 		<text>5. I work hard, but l play harder.</text>
-		<text> </text>
+		<text />
 		<text>6. l am obsessed with catching an elusive aquatic beast, often to the detriment of other pursuits.</text>
 	</trait>
 </background>
@@ -3132,17 +3132,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Deception, Sleight of Hand</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: thieves' tools, one type of musical instrument</text>
 	</trait>
 	<trait>
 		<name>Red Plume and Mage Guild Contacts</name>
 		<text>You made a number of friends among the Red Plumes and the Mage's Guild when you lived at the Hillsfar Gate. They remember you fondly and help you in little ways when they can. You can invoke their assistance in and around Hillsfar to obtain food, as well as simple equipment for temporary use. You can also invoke it to gain access to the low-security areas of their garrisons, halls, and encampments.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 5</text>
 	</trait>
 	<trait>
@@ -3152,73 +3152,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I appreciate the simple things in life: a song, a warm meal, a sunny day. I don't need any more.</text>
-		<text> </text>
+		<text />
 		<text>2.My problems are always caused by others. I'm never to blame. </text>
-		<text> </text>
+		<text />
 		<text>3. I am afraid I could wind up back on the streets any day.</text>
-		<text> </text>
+		<text />
 		<text>4.I get along with everyone. </text>
-		<text> </text>
+		<text />
 		<text>5. I see people as marks for a con and have difficulty feeling true empathy for them.</text>
-		<text> </text>
+		<text />
 		<text>6.I have a real flair for matchmaking. I can find anyone a spouse! </text>
-		<text> </text>
+		<text />
 		<text>7. I think money is the true measure of appreciation and affection. Everything else is talk or an act.</text>
-		<text> </text>
+		<text />
 		<text>8.I don't like having a lot of stuff, just a few simple things I need. I don't like being tied down and tend to leave things behind when I don't need them anymore.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Loyal: I never rat out any of my friends, even when the Red Plumes or the Rogues Guild ask. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>2.Adventurous: I don't like doing the same thing every day. I crave variety. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Strong: Only the strong survive. I respect those who are strong and powerful. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4.Witty: Brains are better than brawn. I rely on my wits and respect others who do the same. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Honest: Others can do what they want, but I won't lie or steal, even to feed my family. (Good)</text>
-		<text> </text>
+		<text />
 		<text>6.Ungrateful: Those who give, only do it to make themselves feel better. I steal from them. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. The Joydancers of Lliira gave me my instrument when I really needed food. I hate them for that.</text>
-		<text> </text>
+		<text />
 		<text>2.Busking has taught me to love music above all else. </text>
-		<text> </text>
+		<text />
 		<text>3. The Rogues Guild spared me when I did a job without cutting them in. I owe them a great debt.</text>
-		<text> </text>
+		<text />
 		<text>4.I know people hate the Red Plumes, but some of them were really good to me. I help Red Plumes whenever I can, and I respect them. They're just doing what they have to do to get by in this world. </text>
-		<text> </text>
+		<text />
 		<text>5. I will be wealthy some day. My descendants will live in comfort and style.</text>
-		<text> </text>
+		<text />
 		<text>6.I know how hard life on the streets is. I do everything I can for those who have less than me.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Though I no longer live at the Gate, I am still always concerned about where I will get my next meal.</text>
-		<text> </text>
+		<text />
 		<text>2.Years of thieving have become habit. I sometimes steal from strangers without thinking about it. </text>
-		<text> </text>
+		<text />
 		<text>3. I am ashamed of my origins. I pretend I am higher-born and fear others will find out the truth.</text>
-		<text> </text>
+		<text />
 		<text>4.I think people who grew up in houses are soft, spoiled, and ungrateful. I frequently tell them so. </text>
-		<text> </text>
+		<text />
 		<text>5. I am still very uncomfortable wearing nice clothes, sleeping in a warm bed, and eating fine food.</text>
-		<text> </text>
+		<text />
 		<text>6.I do not trust anyone who has not had a hard life.</text>
 	</trait>
 </background>
@@ -3232,17 +3232,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Athletics, Sleight of Hand</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of gaming set, water vehicles </text>
 	</trait>
 	<trait>
 		<name>Harborfolk</name>
 		<text>You grew up on the docks and waters of Mulmaster Harbor. The harborfolk remember you and still treat you as one of them. They welcome you and your companions. While they might charge you for it, they'll always offer what food and shelter they have; they'll even hide you if the City Watch is after you (but not if the Hawks are).</text>
-		<text> </text>
+		<text />
 		<text>Source: Mulmaster Bonds, p. 4</text>
 	</trait>
 	<trait>
@@ -3252,71 +3252,71 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am curious. I want to know why things are the way they are and why people do the things that they do. </text>
-		<text> </text>
+		<text />
 		<text>2. I can't sing, but that never stops me from doing it, loudly. Everyone loves a good sea chanty! </text>
-		<text> </text>
+		<text />
 		<text>3. I think the High Blade is doing a terrific job, don't you? </text>
-		<text> </text>
+		<text />
 		<text>4. I'm very excited that the House Built on Gold is being restored. I am a zealous worshipper of Waukeen. </text>
-		<text> </text>
+		<text />
 		<text>5. I am quite superstitious. I see portents in everyday occurrences. </text>
-		<text> </text>
+		<text />
 		<text>6. I resent the rich and enjoy thwarting their plans and spoiling their fun in small ways. </text>
-		<text> </text>
+		<text />
 		<text>7. I have a sea story to fit every occasion. </text>
-		<text> </text>
+		<text />
 		<text>8. I'm a fisher, but I secretly detest eating fish. I will do anything to avoid it. </text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Calm: For all things, there is a tide. I set sail when it is right, and mend my nets when it is not. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>2. Windblown: I go where the winds blow. No man or woman tells me where or when to sail. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Aspiring: I will gain the favor of a Zor or Zora patron, maybe even one of the Blades! (Any) </text>
-		<text> </text>
+		<text />
 		<text>4. Salty: I want people to look to me as an expert on plying Mulmaster Harbor. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Selfless: We are all children of the sea. I help everyone in peril afloat and ashore. (Good) </text>
-		<text> </text>
+		<text />
 		<text>6. Let them Drown: I refuse to risk my hide to help others. They wouldn't help me if roles were reversed. (Evil) </text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
 		<text>1. I once lost everything but my rowboat. I'll do anything to protect it. </text>
-		<text> </text>
+		<text />
 		<text>2. My brother was in the Soldiery, but he was killed. I really look up to the men and women who serve. </text>
-		<text> </text>
+		<text />
 		<text>3. The Cloaks killed my friend for spellcasting. I'll get them back somehow, someday. </text>
-		<text> </text>
+		<text />
 		<text>4. The High House of Hurting helped me when I was hurt and asked nothing in return. I owe them my life. </text>
-		<text> </text>
+		<text />
 		<text>5. I was robbed in the Zhent ghetto once. It will not happen again. </text>
-		<text> </text>
+		<text />
 		<text>6. I would do anything to protect the other harborfolk. They are my family. </text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I drink too much, which causes me to miss the tide. </text>
-		<text> </text>
+		<text />
 		<text>2. I killed a drunk member of the City Watch in a brawl. I am terrified that they might find out. </text>
-		<text> </text>
+		<text />
 		<text>3. I oversell myself and make promises I can't keep when I want to impress someone. </text>
-		<text> </text>
+		<text />
 		<text>4. Book learning is a waste of time. I have no patience for people who don't speak from experience. </text>
-		<text> </text>
+		<text />
 		<text>5. I almost always cheat. I can't help myself. </text>
-		<text> </text>
+		<text />
 		<text>6. I am a secret informant for the Hawks. I send them reports about everything I see and hear, even what my friends and allies are up to.</text>
 	</trait>
 </background>
@@ -3330,41 +3330,41 @@
 	<trait>
 		<name>Harrowing Event</name>
 		<text>Prior to becoming an adventurer, your path in life was defined by one dark moment, one fateful decision, or one tragedy. Now you feel a darkness threatening to consume you, and you fear there may be no hope of escape. Choose a harrowing event that haunts you, or roll 1d10.</text>
-		<text></text>
+		<text />
 		<text>1. A monster that slaughtered dozens of innocent people spared your life, and you don&#39;t know why. </text>
-		<text></text>
+		<text />
 		<text>2. You were born under a dark star. You can feel it watching you, coldly and distantly. Sometimes it beckons you in the dead of night. </text>
-		<text></text>
+		<text />
 		<text>3. An apparition that has haunted your family for generations now haunts you. You don&#39;t know what it wants, and it won&#39;t leave you alone. </text>
-		<text></text>
+		<text />
 		<text>4. Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you  ed in terror. </text>
-		<text></text>
+		<text />
 		<text>5. An oni took your sibling one cold, dark night, and you were unable to stop it. </text>
-		<text></text>
+		<text />
 		<text>6. You were cursed with lycanthropy and later cured. You are now haunted by the innocents you slaughtered. </text>
-		<text></text>
+		<text />
 		<text>7. A hag kidnapped and raised you. You escaped, but the hag still has a magical hold over you and fills your mind with evil thoughts. </text>
-		<text></text>
+		<text />
 		<text>8. You opened an eldritch tome and saw things un t for a sane mind. You burned the book, but its words and images are burned into your psyche. </text>
-		<text></text>
+		<text />
 		<text>9. A fiend possessed you as a child. You were locked away but escaped. The fiend is still inside you, but now you try to keep it locked away. </text>
-		<text></text>
+		<text />
 		<text>10. You did terrible things to avenge the murder of someone you loved. You became a monster, and it haunts your waking dreams.</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Choose two from Arcana, Investigation, Religion, or Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: any one exotic language (Abyssal, Celestial, Deep Speech, Draconic, Infernal, Primordial, Sylvan, or Undercommon) of your choice</text>
-		<text> </text>
+		<text />
 		<text>Tools: none</text>
 	</trait>
 	<trait>
 		<name>Heart of Darkness</name>
 		<text>Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd, p. 209</text>
 	</trait>
 	<trait>
@@ -3374,73 +3374,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I don&#39;t run from evil. Evil runs from me. </text>
-		<text> </text>
+		<text />
 		<text>2. I like to read and memorize poetry. It keeps me calm and brings me fleeting moments of happiness. </text>
-		<text> </text>
+		<text />
 		<text>3. I spend money freely and live life to the fullest, knowing that tomorrow I might die. </text>
-		<text> </text>
+		<text />
 		<text>4. I live for the thrill of the hunt. </text>
-		<text> </text>
+		<text />
 		<text>5. I don&#39;t talk about the thing that torments me. I&#39;d rather not burden others with my curse. </text>
-		<text> </text>
+		<text />
 		<text>6. I expect danger around every corner. </text>
-		<text> </text>
+		<text />
 		<text>7. I refuse to become a victim, and I will not allow others to be victimized. </text>
-		<text> </text>
+		<text />
 		<text>8. I put no trust in divine beings.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I try to help those in need, no matter what the personal cost. (Good) </text>
-		<text> </text>
+		<text />
 		<text>2. I&#39;ll stop the spirits that haunt me or die trying. (Any) </text>
-		<text> </text>
+		<text />
 		<text>3. I kill monsters to make the world a safer place, and to exorcise my own demons. (Good) </text>
-		<text> </text>
+		<text />
 		<text>4. I have a dark calling that puts me above the law. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>5. I like to know my enemy&#39;s capabilities and weaknesses before rushing into battle. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>6. I&#39;m a monster that destroys other monsters, and anything else that gets in my way. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I keep my thoughts and discoveries in a journal. My journal is my legacy. </text>
-		<text> </text>
+		<text />
 		<text>2. I would sacrifice my life and my soul to protect the innocent. </text>
-		<text> </text>
+		<text />
 		<text>3. My torment drove away the person I love. I strive to win back the love I&#39;ve lost. </text>
-		<text> </text>
+		<text />
 		<text>4. A terrible guilt consumes me. I hope that I can find redemption through my actions. </text>
-		<text> </text>
+		<text />
 		<text>5. There&#39;s evil in me, I can feel it. It must never be set free. </text>
-		<text> </text>
+		<text />
 		<text>6. I have a child to protect. I must make the world a safer place for him (or her).  </text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have certain rituals that I must follow every day. I can never break them. </text>
-		<text> </text>
+		<text />
 		<text>2. I assume the worst in people. </text>
-		<text> </text>
+		<text />
 		<text>3. I feel no compassion for the dead. They're the lucky ones. </text>
-		<text> </text>
+		<text />
 		<text>4. I have an addiction. </text>
-		<text> </text>
+		<text />
 		<text>5. I am a purveyor of doom and gloom who lives in a world without hope. </text>
-		<text> </text>
+		<text />
 		<text>6. I talk to spirits that no one else can see.</text>
 	</trait>
 </background>
@@ -3458,17 +3458,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Insight, Persuasion</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: land vehicles, water vehicles</text>
 	</trait>
 	<trait>
 		<name>Factor</name>
 		<text>Although you&#39;ve left the day-to-day life of a merchant behind, your family has assigned you the services of a loyal retainer from the business, a factor, husbanding agent, seafarer, caravan guard, or clerk. This individual is a commoner who can perform mundane tasks for you such as making purchases, delivering messages, and running errands. He or she will not fight for you and will not follow you into obviously dangerous areas (such as dungeons), and will leave if frequently endangered or abused. If he or she is killed, the family assigns you another within a few days.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 6</text>
 	</trait>
 	<trait>
@@ -3478,73 +3478,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I fill my evenings with wine or mead and song.</text>
-		<text> </text>
+		<text />
 		<text>2.I greatly admire gladiators and enjoy the Arena. </text>
-		<text> </text>
+		<text />
 		<text>3. I take my wealth for granted. It seldom occurs to me that others aren't rich themselves.</text>
-		<text> </text>
+		<text />
 		<text>4.I leave broken hearts all around the Moonsea and up and down the Sword Coast. </text>
-		<text> </text>
+		<text />
 		<text>5. I work hard and seldom make time for fun.</text>
-		<text> </text>
+		<text />
 		<text>6.I am a particularly devout and pray often. </text>
-		<text> </text>
+		<text />
 		<text>7. The Red Plumes caught me once. I hate them.</text>
-		<text> </text>
+		<text />
 		<text>8.I ask a lot of questions to get information about those with whom I am working and dealing.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Frugal: I spend my money very carefully. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>2.Profligate: I tend to spend extravagantly. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Honest: I deal with others above board. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4.Sharp: I seek to make the best deal possible. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Charitable: I give generously to others. (Good)</text>
-		<text> </text>
+		<text />
 		<text>6.Greedy: I do not share my wealth with others. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am fiercely loyal to those with whom I work.</text>
-		<text> </text>
+		<text />
 		<text>2.I must uphold the good name of my family. </text>
-		<text> </text>
+		<text />
 		<text>3. I will prove myself to my family as an adventurer.</text>
-		<text> </text>
+		<text />
 		<text>4.Deals are sacrosanct. I never go back on my word. </text>
-		<text> </text>
+		<text />
 		<text>5. I love making deals and negotiating agreements.</text>
-		<text> </text>
+		<text />
 		<text>6.I guard my wealth jealously.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am a braggart. I promote myself shamelessly.</text>
-		<text> </text>
+		<text />
 		<text>2.I am vain. I always wear the latest fashions. </text>
-		<text> </text>
+		<text />
 		<text>3. I am a glutton. I eat and drink to excess.</text>
-		<text> </text>
+		<text />
 		<text>4.I am a snob. I want only the finest things in life. </text>
-		<text> </text>
+		<text />
 		<text>5. I am lazy. I want others to take care of everything.</text>
-		<text> </text>
+		<text />
 		<text>6.I am overconfident. I overestimate my abilities.</text>
 	</trait>
 </background>
@@ -3559,17 +3559,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Perception, Stealth</text>
-		<text> </text>
+		<text />
 		<text>Languages: one racial language</text>
-		<text> </text>
+		<text />
 		<text>Tools: forgery kit</text>
 	</trait>
 	<trait>
 		<name>Secret Passage</name>
 		<text>You can call on your contacts within the smuggling community to secure secret passage into or out of Hillsfar for yourself and your adventuring companions, no questions asked, and no Red Plume entanglements. Because you&#39;re calling in a favor, you can&#39;t be certain they will be able to help on your timetable or at all. Your Dungeon Master will determine whether you can be smuggled into or out of the city. In return for your passage, you and your companions may owe the Rouges Guild a favor and/or may have to pay bribes.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 7</text>
 	</trait>
 	<trait>
@@ -3579,73 +3579,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. When I'm not smuggling, I gamble.</text>
-		<text> </text>
+		<text />
 		<text>2.I just love Halfling cooking and baking! </text>
-		<text> </text>
+		<text />
 		<text>3. I party with dwarves whenever I can.</text>
-		<text> </text>
+		<text />
 		<text>4.I'm a terrible singer, but I love to do it. </text>
-		<text> </text>
+		<text />
 		<text>5. I was raised to honor Chauntea and still do.</text>
-		<text> </text>
+		<text />
 		<text>6.The blood sports of the Arena sicken me.</text>
-		<text> </text>
+		<text />
 		<text>7. I think non-humans are really interesting.</text>
-		<text> </text>
+		<text />
 		<text>8.I exaggerate the tales of my exploits.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Fair: I think everyone deserves to be treated fairly. I don't play favorites. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>2.Impulsive: Planning is often a waste of time. No plan survives contact with reality. It's easier to dive in and deal with the consequences. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Curious: I want to learn as much as I can about the people and places I encounter. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4.Prepared: I think success depends on preparing as much as possible in advance. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Respectful: I think everyone deserves to be treated with respect and dignity, regardless of their race, creed, color, or origin. (Good)</text>
-		<text> </text>
+		<text />
 		<text>6.Corrupt: I will break the law or act dishonestly if the money is right. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am loyal to the Rogues Guild and would do anything for them.</text>
-		<text> </text>
+		<text />
 		<text>2.I love the city of Hillsfar and my fellow Hillsfarians, despite the recent problems. </text>
-		<text> </text>
+		<text />
 		<text>3. I admire the elves. I help them whenever I can.</text>
-		<text> </text>
+		<text />
 		<text>4.A gnome helped me once. I pay the favor forward. </text>
-		<text> </text>
+		<text />
 		<text>5. I enjoy tricking the Red Plumes at every opportunity.</text>
-		<text> </text>
+		<text />
 		<text>6.I smuggled agricultural goods for non-human farmers. I try to help them when I can.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. My hatred for the Red Plumes burns so brightly that I have difficulty suppressing It around them.</text>
-		<text> </text>
+		<text />
 		<text>2.The Red Plumes caught me once before, and I was branded for my crime. If they catch me again, for any offense, the punishment will be dire. </text>
-		<text> </text>
+		<text />
 		<text>3. I treat all Hillsfarans poorly. I am disgusted with their failure to revolt against the Great Law of Humanity.</text>
-		<text> </text>
+		<text />
 		<text>4.I have difficulty trusting strangers. Anyone could be a spy for the authorities. </text>
-		<text> </text>
+		<text />
 		<text>5. I am greedy. There Isn't much I won't do for money.</text>
-		<text> </text>
+		<text />
 		<text>6.I'm an informant for the Red Plumes. They let me continue my activities, so long as I pass them information about illegal activity in Hillsfar.</text>
 	</trait>
 </background>
@@ -3659,17 +3659,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Stealth, Animal Handling</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of gaming set, land vehicles </text>
 	</trait>
 	<trait>
 		<name>Black-Market Breeder</name>
 		<text>You know how to find people who are always looking for stolen animals &#38; vehicles, whether to provide for animal pit fights, or to supply some desperate rogues the means to get away faster on mounts during an illegal job. This contact not only provides you with information of what such animals &#38; vehicles are in high demand in the area, but also offer to give you favors and information (DM choice) if you bring such animals &#38; vehicles to them.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 5</text>
 	</trait>
 	<trait>
@@ -3679,73 +3679,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. If people leave their gear unsecured, they must not want it very much.</text>
-		<text> </text>
+		<text />
 		<text>2. I feel more comfortable sleeping under the open sky.</text>
-		<text> </text>
+		<text />
 		<text>3. I always pre-plan my escape should things go bad; I always like to have an exit strategy.</text>
-		<text> </text>
+		<text />
 		<text>4. I tend to give animal owners breeding and care advice whether or not they want it.</text>
-		<text> </text>
+		<text />
 		<text>5. I lost a pet as a child and sadly reflect on it to this day.</text>
-		<text> </text>
+		<text />
 		<text>6. I always form a powerful, emotional bond with my mount.</text>
-		<text> </text>
+		<text />
 		<text>7. I recoil at the thought of killing someone else&#39;s pet or mount.</text>
-		<text> </text>
+		<text />
 		<text>8. I prefer to hang to the back of a scuffle or discussion. Better to have my enemies in front of me.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Loyalty: Never bite the hand that feeds. (Good)</text>
-		<text> </text>
+		<text />
 		<text>2. Unpredictability: Keep your enemy guessing and off-balance like a confused deer. (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>3. Power: I strive to become leader of the pack at all costs. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>4. Freedom: I bow to no one I don&#39;t respect. (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>5. Resourcefulness: Our wits are our most valuable resource in troubled times. (Any)</text>
-		<text> </text>
+		<text />
 		<text>6. Unity: Lone wolves fail where the pack succeeds. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I cannot leave a harmed animal behind; I must save it or put it out of its misery.</text>
-		<text> </text>
+		<text />
 		<text>2. I leave behind my own personal calling cards when I do a job.</text>
-		<text> </text>
+		<text />
 		<text>3. I do not trust people who do not have a pet, mount, or furry companion.</text>
-		<text> </text>
+		<text />
 		<text>4. The pelt I wear on my back was from an animal that died saving my life, I will always cherish it.</text>
-		<text> </text>
+		<text />
 		<text>5. If my pet does not like you, I do not like you!</text>
-		<text> </text>
+		<text />
 		<text>6. Once you&#39;ve ridden with me and fought by my side, I&#39;ll be there for you, odds be damned.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I growl at and bite anyone who gets too close to my food while I am eating.</text>
-		<text> </text>
+		<text />
 		<text>2. I growl at and bite anyone who gets too close to my food while I am eating.</text>
-		<text> </text>
+		<text />
 		<text>3. I strongly dislike enclosed spaces and require intoxication or firm encouragement to enter them.</text>
-		<text> </text>
+		<text />
 		<text>4. I robbed the wrong caravan once. The owner is a powerful merchant who holds a grudge.</text>
-		<text> </text>
+		<text />
 		<text>5. I&#39;m an inveterate gambler.</text>
-		<text> </text>
+		<text />
 		<text>6. I judge people based on how well they stand their ground in a fight. I got no time for cowards...</text>
 	</trait>
 </background>
@@ -3763,34 +3763,34 @@
 	<trait>
 		<name>Hardship Endured</name>
 		<text>Hardship in your past has forged you into an unstoppable living weapon. This hardship is essential to you and is at the heart of a personal philosophy or ethos that often guides your actions. You can roll on the following table to determine this hardship or choose one that best fits your character.</text>
-		<text> </text>
-		<text></text>
+		<text />
+		<text />
 		<text>1. Nearly Drowned: You hid underwater to avoid detection by enemies and held your breath for an extremely long time. Just before you would have died, you had a revelation about your existence.</text>
-		<text> </text>
+		<text />
 		<text>2. Captured: You spent months enduring thirst, starvation, and torture at the hands of your enemy, but you never broke.</text>
-		<text> </text>
+		<text />
 		<text>3. Sacrifice: You enabled the escape of your fellow soldiers, but at great cost to yourself. Some of your past comrades may think you're dead.</text>
-		<text> </text>
+		<text />
 		<text>4. Juggernaut: No reasonable explanation can explain how you survived a particular battle. Every arrow and bolt missed you. You slew scores of enemies single-handedly and led your comrades to victory.</text>
-		<text> </text>
+		<text />
 		<text>5. Stowaway: For days, you hid in the bilge of an enemy ship, surviving on brackish water and foolhardy rats. At the right moment, you crept up to the deck and took over the ship on your own.</text>
-		<text> </text>
+		<text />
 		<text>6. Leave None Behind: You carried an injured marine for miles to avoid capture and death.</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Athletics, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: Vehicles (water, land)</text>
 	</trait>
 	<trait>
 		<name>Marine Life</name>
 		<text>Marines are looked up to by other soldiers and respected by their superiors. They are veteran warriors who rarely lose composure on the battlefield. Marines who leave the service tend to work as mercenaries, but their combat experience also makes them excellent adventurers. Though they are self-reliant. marines tend to operate best in groups, valuing camaraderie and the companionship of like-minded individuals.</text>
-		<text> </text>
+		<text />
 		<text>Source: Ghosts of Saltmarsh p. 31</text>
 	</trait>
 	<trait>
@@ -3800,73 +3800,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I speak rarely but mean every word I say.</text>
-		<text> </text>
+		<text />
 		<text>2. laugh loudly and see the humor in stressful situations.</text>
-		<text> </text>
+		<text />
 		<text>3. I prefer to solve problems without violence, but I finish fights decisively.</text>
-		<text> </text>
+		<text />
 		<text>4. I enjoy being out in nature; poor weather never sours my mood.</text>
-		<text> </text>
+		<text />
 		<text>5. I am dependable.</text>
-		<text> </text>
+		<text />
 		<text>6. I am always working on some project or other.</text>
-		<text> </text>
+		<text />
 		<text>7. I become cantankerous and quiet in the rain.</text>
-		<text> </text>
+		<text />
 		<text>8. When the sea is within my sight, my mood is jovial and optimistic.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Teamwork: Success depends on cooperation and communication. {Good)</text>
-		<text> </text>
+		<text />
 		<text>2. Code: The marines' code provides a solution for every problem, and following it is imperative. {Lawful)</text>
-		<text> </text>
+		<text />
 		<text>3. Embracing: Lafe is messy. Throwing yourself into the worst of it is necessary to get the job done. (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>4. Might: The strong train so that they might rule those who are weak. (Evil)</text>
-		<text> </text>
+		<text />
 		<text>5. Bravery: To act when others quake in fear- this is the essence of the warrior. (Any)</text>
-		<text> </text>
+		<text />
 		<text>6. Perseverance: No injury or obstacle can turn me from my goal. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I face danger and evil to offset an unredeemable act in my past.</text>
-		<text> </text>
+		<text />
 		<text>2. I. Will. Finish. The. job.</text>
-		<text> </text>
+		<text />
 		<text>3. I must set an example of hope for those who have given up.</text>
-		<text> </text>
+		<text />
 		<text>4. I'm searching for a fellow marine captured by an elusive enemy.</text>
-		<text> </text>
+		<text />
 		<text>5. Fear leads to tyranny, and both must be eradicated.</text>
-		<text> </text>
+		<text />
 		<text>6. My commander betrayed my unit, and I will have revenge.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I grow combative and unpredictable when I drink.</text>
-		<text> </text>
+		<text />
 		<text>2. I find civilian life difficult and struggle to say the right thing in social situations.</text>
-		<text> </text>
+		<text />
 		<text>3. My intensity can drive others away.</text>
-		<text> </text>
+		<text />
 		<text>4. I hold grudges and have difficulty forgiving others.</text>
-		<text> </text>
+		<text />
 		<text>5. I become irrational when innocent people are hurt.</text>
-		<text> </text>
+		<text />
 		<text>6. I sometimes stay up all night listening to the ghosts of my fallen enemies.</text>
 	</trait>
 </background>
@@ -3881,17 +3881,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Deception, Performance</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of artistic artisan's tools and one musical instrument</text>
 	</trait>
 	<trait>
 		<name>Highborn</name>
 		<text>Mulmaster is run by and for its aristocracy. Every other class of citizen in the city defers to you, and even the priesthood, Soldiery, Hawks, and Cloaks treat you with deference. Other aristocrats and nobles accept you in their circles and likely know you or of you. Your connections can get you the ear of a Zor or Zora under the right circumstances.</text>
-		<text> </text>
+		<text />
 		<text>Source: Mulmaster Bonds, p. 5</text>
 	</trait>
 	<trait>
@@ -3901,73 +3901,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. My ambitions are boundless. I will be a Zor or Zora one day! </text>
-		<text> </text>
+		<text />
 		<text>2. I must always look my best. </text>
-		<text> </text>
+		<text />
 		<text>3. Beauty is everywhere. I can find it in even the homeliest person and the most horrible tragedy. </text>
-		<text> </text>
+		<text />
 		<text>4. Decorum must be preserved at all costs. </text>
-		<text> </text>
+		<text />
 		<text>5. I will not admit I am wrong if I can avoid it. </text>
-		<text> </text>
+		<text />
 		<text>6. I am extremely well-educated and frequently remind others of that fact. </text>
-		<text> </text>
+		<text />
 		<text>7. I take what I can today, because I do not know what tomorrow holds. </text>
-		<text> </text>
+		<text />
 		<text>8. My life is full of dance, song, drink, and love. </text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Generous: I have a responsibility to help and protect the less fortunate. (Good) </text>
-		<text> </text>
+		<text />
 		<text>2. Loyal: My word, once given, is my bond. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>3. Callous: I am unconcerned with any negative effects my actions may have on the lives and fortunes of others. (Evil) </text>
-		<text> </text>
+		<text />
 		<text>4. Impulsive: I follow my heart. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>5. Ignorant: Explanations bore me. (Neutral) </text>
-		<text> </text>
+		<text />
 		<text>6. Isolationist: I am concerned with the fortunes of my friends and family. Others must see to themselves. (Any)  </text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have dedicated my wealth and my talents to the service of one of the city's many temples. </text>
-		<text> </text>
+		<text />
 		<text>2. My family and I are loyal supporters of High Blade Jaseen Drakehorn. Our fortunes are inexorably tied to hers. I would do anything to support her. </text>
-		<text> </text>
+		<text />
 		<text>3. Like many families who were close to High Blade Selfaril Uoumdolphin, mine has suffered greatly since his fall. We honor his memory in secret. </text>
-		<text> </text>
+		<text />
 		<text>4. My family plotted with Rassendyll Uoumdolphin brother usurped brother as High Blade. Betrayal is the quickest route to power. </text>
-		<text> </text>
+		<text />
 		<text>5. Wealth and power are nothing. Fulfilment can only be found in artistic expression. </text>
-		<text> </text>
+		<text />
 		<text>6. It's not how you feel, who you know, or what you can do - it's how you look, and I look fabulous.  </text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have difficulty caring about anyone or anything other than myself. </text>
-		<text> </text>
+		<text />
 		<text>2. Having grown up with wealth, I am careless with my finances. I overspend and am overly generous. </text>
-		<text> </text>
+		<text />
 		<text>3. The ends (my advancement) justify any means. </text>
-		<text> </text>
+		<text />
 		<text>4. I must have what I want and will brook no delay. </text>
-		<text> </text>
+		<text />
 		<text>5. My family has lost everything. I must keep up appearances, lest we become a laughingstock. </text>
-		<text> </text>
+		<text />
 		<text>6. I have no artistic sense. I hide that fact behind extreme opinions and have become a trendsetter.</text>
 	</trait>
 </background>
@@ -3982,7 +3982,7 @@
 	<trait>
 		<name>Origin</name>
 		<text>Removed from your life as a townsperson, you&#39;ve adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both). </text>
-		<text> </text>
+		<text />
 		<text>General: </text>
 		<text>1. Fisher  </text>
 		<text>2. Hunter </text>
@@ -3992,7 +3992,7 @@
 		<text>6. City Watch </text>
 		<text>7. Servant  </text>
 		<text>8. Unskilled laborer  </text>
-		<text> </text>
+		<text />
 		<text>Specific: </text>
 		<text>1. Stojanow river worker </text>
 		<text>2. Twilight Marsh worker  </text>
@@ -4006,17 +4006,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Stealth, Survival</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of artisan's tools, land vehicles</text>
 	</trait>
 	<trait>
 		<name>Guerilla</name>
 		<text>You&#39;ve come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge&#8212;or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 6</text>
 	</trait>
 	<trait>
@@ -4026,73 +4026,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. My patience knows no bounds, so long as my goal is in sight.</text>
-		<text> </text>
+		<text />
 		<text>2. In life and in struggle, the ends justify my actions. </text>
-		<text> </text>
+		<text />
 		<text>3. If you aren&#39;t helping me, you&#39;d best at least stay out of my way.</text>
-		<text> </text>
+		<text />
 		<text>4. I long for the life that was taken away from me. </text>
-		<text> </text>
+		<text />
 		<text>5. Friends and family perished, tragically, before my eyes. I hope never to undergo that again.</text>
-		<text> </text>
+		<text />
 		<text>6. Making the right choices in life are important to me. The choices I make might save not just my life, but the lives of others as well. </text>
-		<text> </text>
+		<text />
 		<text>7. I can never allow my foes to get the drop on me.</text>
-		<text> </text>
+		<text />
 		<text>8. Time is a precious resource that I must spend wisely.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Leadership: The oppressed need someone to inspire them to courageous acts. (Good)</text>
-		<text> </text>
+		<text />
 		<text>2. Unpredictability: Keeping the enemy guessing and off-balance is my tactical strength. (Chaos) </text>
-		<text> </text>
+		<text />
 		<text>3. Determination: Threats to my home must be eliminated at all costs. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4. Freedom: Those who are enslaved and unjustly imprisoned deserve my aid. (Good) </text>
-		<text> </text>
+		<text />
 		<text>5. Resourcefulness: Our wits are our most valuable resource in troubled times. (Any)</text>
-		<text> </text>
+		<text />
 		<text>6. Unity: Working together, we can overcome all obstacles, even the most seemingly insurmountable ones. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I&#39;ll never let my fellow insurgents down. They are my only remaining friends.</text>
-		<text> </text>
+		<text />
 		<text>2. I was separated from a loved one during my escape from town. I will find them. </text>
-		<text> </text>
+		<text />
 		<text>3. One of the Tears of the Virulence was a trusted friend, until the day they betrayed the city. They will pay harshly for their transgressions.</text>
-		<text> </text>
+		<text />
 		<text>4. An item I hold close is my last remaining connection to the family I lost during the fall. </text>
-		<text> </text>
+		<text />
 		<text>5. The dragon who took my past life away from me will feel the full extent of my vengeance.</text>
-		<text> </text>
+		<text />
 		<text>6. The knowledge in Mantor&#39;s Library is an irreplaceable treasure that must be protected.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have no respect for those who flee. I harbor a deep grudge against the citizens who abandoned Phlan.</text>
-		<text> </text>
+		<text />
 		<text>2. Ale is the only way I can escape the desperation of my circumstances. </text>
-		<text> </text>
+		<text />
 		<text>3. It doesn&#39;t take much to get me into a fight.</text>
-		<text> </text>
+		<text />
 		<text>4. Being an insurgent means doing things that aren&#39;t always ethical. I&#39;m still learning to live with that. </text>
-		<text> </text>
+		<text />
 		<text>5. My desire to liberate Phlan oftentimes clouds my judgement, despite my best efforts.</text>
-		<text> </text>
+		<text />
 		<text>6. I relentlessly despise the Maimed Virulence and his allies. I&#39;d abandon other goals in order to strike out at them.</text>
 	</trait>
 </background>
@@ -4106,17 +4106,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Insight, Athletics</text>
-		<text> </text>
+		<text />
 		<text>Languages: any one of your choice</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of artisan's tools</text>
 	</trait>
 	<trait>
 		<name>Phlan Survivor</name>
 		<text>Whatever your prior standing was, you are now one of the many refugees that have come to Mulmaster. You are able to find refuge with others from Phlan and those who sympathize with your plight. Within Mulmaster this means that you can find a place to bed down, recover, and hide from the watch with either other refugees from Phlan, or the Zhents within the ghettos.</text>
-		<text> </text>
+		<text />
 		<text>Source: Mulmaster Bonds, p. 6</text>
 	</trait>
 	<trait>
@@ -4126,73 +4126,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I may have lost everything I worked for most of my life, but there's work to be done, no time to linger on the past. </text>
-		<text> </text>
+		<text />
 		<text>2. I worked hard to get where I am and I refuse to let a little hardship stop me from succeeding. </text>
-		<text> </text>
+		<text />
 		<text>3. I protect those around me, you never know when one of them will be useful. </text>
-		<text> </text>
+		<text />
 		<text>4. I have always gotten ahead by giving, why change now? </text>
-		<text> </text>
+		<text />
 		<text>5. I prepare for everything, it paid off in Phlan and it will pay off again. </text>
-		<text> </text>
+		<text />
 		<text>6. I will reclaim my home, though the path may be long, I will never give up hope. </text>
-		<text> </text>
+		<text />
 		<text>7. I never cared for personal hygiene, and am amazed that It bothers others. </text>
-		<text> </text>
+		<text />
 		<text>8. I am always willing to volunteer my services, just as long as don&#39;t have to do anything. </text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Justice: Corruption brought Phlan down, I will not tolerate that any longer. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>2. Acceptance: Stability is a myth, to think you can control your future is futile. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Hope: I am guided by a higher power and I trust that everything will be right in the end. (Good) </text>
-		<text> </text>
+		<text />
 		<text>4. Restraint: I hate those who caused my loss. It is all I can do not to lash out at them. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Strength: As shown in Phlan, the strong survive. If you are weak you deserve what you get (Evil) </text>
-		<text> </text>
+		<text />
 		<text>6. Openness: I am always willing to share my life story with anyone who will listen. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I have the chance at a new life and this time I am going to do things right. </text>
-		<text> </text>
+		<text />
 		<text>2. The Lord Regent brought this suffering upon his people. I will see him brought to justice. </text>
-		<text> </text>
+		<text />
 		<text>3. I await the day I will be able to return to my home in Phlan. </text>
-		<text> </text>
+		<text />
 		<text>4. I will never forget the debt owed to Glevith of the Welcomers. I will be ready to repay that debt when called upon. </text>
-		<text> </text>
+		<text />
 		<text>5. There was someone I cared about in Phlan, I will find out what happened to them. </text>
-		<text> </text>
+		<text />
 		<text>6. Some say my life wasn't worth saving, I will prove them wrong.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I used the lives of children to facilitate my escape from Phlan. </text>
-		<text> </text>
+		<text />
 		<text>2. I am a sucker for the underdog, and always bet on the loosing team. </text>
-		<text> </text>
+		<text />
 		<text>3. I am incapable of standing up for myself. </text>
-		<text> </text>
+		<text />
 		<text>4. I will borrow money from friends with no intention to repay it. </text>
-		<text> </text>
+		<text />
 		<text>5. I am unable to keep secrets. A secret is just an untold story. </text>
-		<text> </text>
+		<text />
 		<text>6. When something goes wrong, it&#39;s never my fault.</text>
 	</trait>
 </background>
@@ -4208,17 +4208,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Deception, Stealth</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: disguise kit, forgery kit</text>
 	</trait>
 	<trait>
 		<name>Secret Identity</name>
 		<text>You have created a secret identity that you use to conceal your true race and that offers a covering explanation for your presence in Hillsfar. In addition, you can forge documents, including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 8</text>
 	</trait>
 	<trait>
@@ -4228,73 +4228,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Despite its problems, I love Hillsfar, it's the greatest city in the world. The only one for me.</text>
-		<text> </text>
+		<text />
 		<text>2.I move from place to place, never staying anywhere long and leaving nothing behind. </text>
-		<text> </text>
+		<text />
 		<text>3. I think flattery is the best way to direct attention away from me.</text>
-		<text> </text>
+		<text />
 		<text>4.I don't make friends easily. They're a liability I cannot afford. </text>
-		<text> </text>
+		<text />
 		<text>5. Risk and danger are exhilarate me. Pulling off schemes and deceptions is a rush.</text>
-		<text> </text>
+		<text />
 		<text>6.The First Lord is right, humans are superior. I really admire them, despite the atrocities. </text>
-		<text> </text>
+		<text />
 		<text>7. I avoid people of my own race, as well as things associated with my race, lest they give me away.</text>
-		<text> </text>
+		<text />
 		<text>8.I live for the Arena. I admire gladiators and enjoy the thrill of blood on the sands!</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Quisling: Supporting the rulers of the land and following the laws is the road to salvation. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>2.Scofflaw: The laws and lawmakers are corrupt. I follow laws only when it suits me. (Chaotic) </text>
-		<text> </text>
+		<text />
 		<text>3. Optimist: Everyone Is basically good. Though the government is misguided it will all be okay. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4.Secretive: I am in the habit of not talking about myself. My business is none of yours. (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Heroic: I do everything I can to help non-humans, regardless of the personal cost to me. (Good)</text>
-		<text> </text>
+		<text />
 		<text>6.Depraved: I have lost my moral compass. The ends justify most any means. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. The humans of Hillsfar have inflicted terrible harm on me, my family, and my race. I will have revenge.</text>
-		<text> </text>
+		<text />
 		<text>2.I am part of an underground network that smuggles non-humans into and out of the city. </text>
-		<text> </text>
+		<text />
 		<text>3. I am a partisan. I commit minor acts of defiance against the First Lord and Red Plumes when I can.</text>
-		<text> </text>
+		<text />
 		<text>4.I am a spy. I report on events in and around Hillsfar. </text>
-		<text> </text>
+		<text />
 		<text>5. My secret identity is the only thing protecting me from the Arena. I will stop at nothing to maintain it.</text>
-		<text> </text>
+		<text />
 		<text>6.I am madly in love with a human who does not know my true identity, and I fear rejection if I reveal it.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. After years of denying who I am, I now despise myself and other members of my pathetic race.</text>
-		<text> </text>
+		<text />
 		<text>2.Years have hiding have made me somewhat paranoid. I trust no one. </text>
-		<text> </text>
+		<text />
 		<text>3. I've been lying so often and for so long that I can't help it anymore. I frequently lie for no reason at all.</text>
-		<text> </text>
+		<text />
 		<text>4.I am ashamed. I failed to protect a member of my family who was seized and thrown into the Area. </text>
-		<text> </text>
+		<text />
 		<text>5. I am struggling with maintaining my secret identity. I subconsciously want to get caught and therefore sometimes let my secret identity slip.</text>
-		<text> </text>
+		<text />
 		<text>6.Years of successfully deceiving others have made me cocky. I think no one can see through my lies.</text>
 	</trait>
 </background>
@@ -4309,17 +4309,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Deception, Intimidation</text>
-		<text> </text>
+		<text />
 		<text>Languages: Netherese</text>
-		<text> </text>
+		<text />
 		<text>Tools: forgery kit</text>
 	</trait>
 	<trait>
 		<name>Secret Society</name>
 		<text>You have a special way of communicating with others who feel the same way you do about the Shade. When you enter a village or larger city you can identify contact who will give you information on those that would hinder your goals and those would help you simply because of your desire to see the Shade Enclave return in all its glory.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 9</text>
 	</trait>
 	<trait>
@@ -4329,73 +4329,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am a bully; I try to hide it though.</text>
-		<text> </text>
+		<text />
 		<text>2.I let my actions speak for themselves </text>
-		<text> </text>
+		<text />
 		<text>3. I am important; I will not let anyone forget that.</text>
-		<text> </text>
+		<text />
 		<text>4.You are either with me or against me. </text>
-		<text> </text>
+		<text />
 		<text>5. I know it is only a time before I am betrayed by those I care for.</text>
-		<text> </text>
+		<text />
 		<text>6.I never understand why people get so emotional. </text>
-		<text> </text>
+		<text />
 		<text>7. They are out to get me. It is only my cunning that keeps me ahead of them</text>
-		<text> </text>
+		<text />
 		<text>8.Everyone has a choice, the one I make is always right though.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Hope: I know even if I need do evil acts, history will be my redemption. (Chaos)</text>
-		<text> </text>
+		<text />
 		<text>2. Dedicated: I can do anything I put my mind to (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>3. Exciting: I have found the truth of the Shadovar and want to share it with everyone. (Any)</text>
-		<text> </text>
+		<text />
 		<text>4.Frugal: I horde my possessions knowing that someday I will be called upon to give everything I have to the cause (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Eloquent: I use my words to sway others to my beliefs. (Any)</text>
-		<text> </text>
+		<text />
 		<text>6.Compassionate: It is through love that others will join in our cause. (Good)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. They say the Shade broke the bonds of mortality; I want to find out how.</text>
-		<text> </text>
+		<text />
 		<text>2.The whispers in my head remind me that there is power to be found in the shadows. </text>
-		<text> </text>
+		<text />
 		<text>3. For the glory of Netheril, I will grow in power.</text>
-		<text> </text>
+		<text />
 		<text>4.I once lived in Hillsfar, I was chased out before I was able to say farewell. </text>
-		<text> </text>
+		<text />
 		<text>5. My true love was a killed by the Red Plumes; I plot to make them suffer.</text>
-		<text> </text>
+		<text />
 		<text>6.I had a loved one die in the arena at Hillsfar; I am out to prove I am stronger than them!</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I always over exaggerate my abilities.</text>
-		<text> </text>
+		<text />
 		<text>2.I cannot bear to let those I care for out of my sight. </text>
-		<text> </text>
+		<text />
 		<text>3. I am incapable of standing up for myself.</text>
-		<text> </text>
+		<text />
 		<text>4.The group I am with has committed atrocities; I am always worried their actions will become public. </text>
-		<text> </text>
+		<text />
 		<text>5. I always enjoy a good mug of ale... or five.</text>
-		<text> </text>
+		<text />
 		<text>6.I know what I do is wrong, but am afraid to speak up about it.</text>
 	</trait>
 </background>
@@ -4413,27 +4413,27 @@
 	<trait>
 		<name>Life at Sea</name>
 		<text>Your life at sea and in port has shaped you; you can roll on the following table to determine its impact or choose an element that best fits your character.</text>
-		<text> </text>
+		<text />
 		<text>1. Grand Designs: You are working on plans and schematics for a new, very fast ship. You must examine as many different kinds of vessels as possible to help ensure the success of your design.</text>
-		<text> </text>
+		<text />
 		<text>2. Solid and Sound: You patched up a war galley and prevented it from sinking. The local navy regards you as a friend.</text>
-		<text> </text>
+		<text />
 		<text>3. Favored: You insisted on thicker planking for a merchant vessel's hull, which saved it from sinking when it smashed against a reef. You have a standing invitation to visit the merchant's distant mansion.</text>
-		<text> </text>
+		<text />
 		<text>4. Master of Armaments: You specialized in designing and mounting defenses for the navy. You easily recognize and determine the quality of such items.</text>
-		<text> </text>
+		<text />
 		<text>5. Low Places: You have contacts in the smuggling outfits along the coast; you occasionally repair the criminals' ships in exchange for coin and favors.</text>
-		<text> </text>
+		<text />
 		<text>6. Mysteries of the Deep. You experienced an encounter with a possibly divine being while sailing alone. Work with your DM to determine the secret about the deep waters of the sea that this entity revealed to you.</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: History, Perception</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: Carpenter's tools, vehicles (water)</text>
 	</trait>
 	<trait>
@@ -4443,79 +4443,79 @@
 	<trait>
 		<name>Shipwright</name>
 		<text>Shipwrights are resourceful carpenters and designers. They often have a dedicated spot at the local tavern, since shipwrights are invaluable to coastal communities. Some travel with naval fleets and might serve as officers if their temperament suits it. Shipwrights have an affinity for working with their hands and often perform feats of carpentry that others might deem miraculous.</text>
-		<text> </text>
+		<text />
 		<text>Source: Ghosts of Saltmarsh p. 33</text>
 	</trait>
 	<trait>
 		<name>Personality Traits</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I love talking and being heard more than I like to listen.</text>
-		<text> </text>
+		<text />
 		<text>2. I'm extremely fond of puzzles.</text>
-		<text> </text>
+		<text />
 		<text>3. thrive under pressure.</text>
-		<text> </text>
+		<text />
 		<text>4. I love sketching and designing objects, especially boats.</text>
-		<text> </text>
+		<text />
 		<text>5. I'm not afraid of hard work-in fact, I prefer it.</text>
-		<text> </text>
+		<text />
 		<text>6. A pipe, an ale, and the smell of the sea: paradise.</text>
-		<text> </text>
+		<text />
 		<text>7. I have an endless supply of cautionary tales related to the sea.</text>
-		<text> </text>
+		<text />
 		<text>8. I don't mind getting my hands dirty.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Crew: If everyone on deck pitches in, we'll never sink. (Good)</text>
-		<text> </text>
+		<text />
 		<text>2. Careful Lines: A ship must be balanced according to the laws of the universe. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>3. Invention: Make what you need out of whatever is at hand. (Chaotic)</text>
-		<text> </text>
+		<text />
 		<text>4. Perfection… To measure a being and find it lacking is the greatest disappointment. (Evil)</text>
-		<text> </text>
+		<text />
 		<text>5. Reflection: Muddied water always clears in time. (Any)</text>
-		<text> </text>
+		<text />
 		<text>6. Hope: The horizon at sea holds the greatest promise. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bonds</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I must visit all the oceans of the world and behold the ships that sail there.</text>
-		<text> </text>
+		<text />
 		<text>2. Much of the treasure I claim will be used to enrich my community.</text>
-		<text> </text>
+		<text />
 		<text>3. I must find a kind of wood rumored to possess magical qualities.</text>
-		<text> </text>
+		<text />
 		<text>4. I repair broken things to redeem what's broken in myself.</text>
-		<text> </text>
+		<text />
 		<text>5. I will craft a boat capable of sailing through the most dangerous of storms.</text>
-		<text> </text>
+		<text />
 		<text>6. A kraken destroyed my masterpiece; its teeth shall adorn my hearth.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I don't know when to throw something away. You never know when it might be useful again.</text>
-		<text> </text>
+		<text />
 		<text>2. I get frustrated to the point of distraction by shoddy craftsmanship.</text>
-		<text> </text>
+		<text />
 		<text>3. Though I am an excellent crafter, my work tends to look as though it belongs on a ship.</text>
-		<text> </text>
+		<text />
 		<text>4. I am so obsessed with sketching my ideas for elaborate inventions that I sometimes forget little thing like eating and sleeping.</text>
-		<text> </text>
+		<text />
 		<text>5. I'm judgmental of those who are not skilled with tools of some kind.</text>
-		<text> </text>
+		<text />
 		<text>6. I sometimes take things that don't belong to me, especially if they are very well made.</text>
 	</trait>
 </background>
@@ -4533,33 +4533,33 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Athletics, Deception</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: Vehicles (water)</text>
 	</trait>
 	<trait>
 		<name>Claim to Fame</name>
 		<text>Every smuggler has that one tale that sets them apart from common criminals. By wits, sailing skill, or a silver tongue, you lived co tell the story- and you tell it often. You can roll on the following table to determine your claim or choose one that best fits your character.</text>
-		<text> </text>
+		<text />
 		<text>1. Spirit of the Whale: You smuggled stolen dwarven spirits in the body of a dead whale being pulled behind a fishing boat. When you delivered the goods, the corpse suddenly exploded, sending whale meat and whiskey bottles for half a mile.</text>
-		<text> </text>
+		<text />
 		<text>2. Cart and Sword: You drove a cart filled with stolen art through the middle of a battlefield while singing sea shanties to confuse the combatants.</text>
-		<text> </text>
+		<text />
 		<text>3. The Recruit. You enlisted in another nation's navy for the purpose of smuggling stolen jewels to a distant port. You attained a minor rank before disappearing from the navy and making your way here.</text>
-		<text> </text>
+		<text />
 		<text>4. River of Shadows. Your riverboat accidentally slipped through the veil into the Shadowfell for several hours. While you were there, you sold some stolen dragonborn artifacts before returning to this plane and paddling home.</text>
-		<text> </text>
+		<text />
 		<text>5. Cold-Hearted. You agreed to transport a family escaping a war. The baby began to cry at a checkpoint, and you gave the guards all your gold to let you pass. The family never found out about this gesture.</text>
-		<text> </text>
+		<text />
 		<text>6. Playing Both Sides. You once smuggled crates of crossbow bolts and bundles of arrows, each destined for an opposing side in a regional war, at the same time. The buyers arrived within moments of each other but did not discover your trickery.</text>
 	</trait>
 	<trait>
 		<name>Smuggler</name>
 		<text>In general, smugglers value survival, and then profit, above other things. One could be a part of a larger organization, or might run a small smuggling vessel of their own. Smugglers live the lies they have told, and they have a natural ability to recall all the falsehoods and half-truths they have ever spouted.</text>
-		<text> </text>
+		<text />
 		<text>Source: Ghosts of Saltmarsh p. 35</text>
 	</trait>
 	<trait>
@@ -4569,73 +4569,73 @@
 	<trait>
 		<name>Personality Traits</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I love being on the water but hate fishing.</text>
-		<text> </text>
+		<text />
 		<text>2. I think of everything in terms of monetary value.</text>
-		<text> </text>
+		<text />
 		<text>3. I never stop smiling.</text>
-		<text> </text>
+		<text />
 		<text>4. Nothing rattles me; I have a lie for every occasion.</text>
-		<text> </text>
+		<text />
 		<text>5. I love gold but won't cheat a friend.</text>
-		<text> </text>
+		<text />
 		<text>6. I enjoy doing things others believe to be impossible.</text>
-		<text> </text>
+		<text />
 		<text>7. I become wistful when I see the sun rise over the ocean.</text>
-		<text> </text>
+		<text />
 		<text>8. I am no common criminal; I am a mastermind.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Wealth: Heaps of coins in a secure vault is all I dream of. (Any)</text>
-		<text> </text>
+		<text />
 		<text>2. Smuggler's Code: I uphold the unwritten rules of the smugglers, who do not cheat one another or directly harm innocents. (Lawful)</text>
-		<text> </text>
+		<text />
 		<text>3. All for a Coin: I'll do nearly anything if it means I turn a profit. (Evil)</text>
-		<text> </text>
+		<text />
 		<text>4. Peace and Prosperity: I smuggle only to achieve a greater goal that benefits my community. (Good)</text>
-		<text> </text>
+		<text />
 		<text>5. People: For all my many lies, I place a high value on friendship. (Any)</text>
-		<text> </text>
+		<text />
 		<text>6. Daring: I am most happy when risking everything. (Any)</text>
 	</trait>
 	<trait>
 		<name>Bonds</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. My vessel was stolen from me, and I burn with the desire to recover it.</text>
-		<text> </text>
+		<text />
 		<text>2. I intend to become the leader of the network of smugglers that I belong to.</text>
-		<text> </text>
+		<text />
 		<text>3. I owe a debt that cannot be repaid in gold.</text>
-		<text> </text>
+		<text />
 		<text>4. After one last job, I will retire from the business.</text>
-		<text> </text>
+		<text />
 		<text>5. I was tricked by a fellow smuggler who stole something precious from me. I will find that thief.</text>
-		<text> </text>
+		<text />
 		<text>6. I give most of my profits to a charitable cause, and I don't like to brag about it.</text>
 	</trait>
 	<trait>
 		<name>Flaws</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Lying is reflexive, and I sometimes engage in it without realizing.</text>
-		<text> </text>
+		<text />
 		<text>2. I tend to assess my relationships in terms of profit and loss.</text>
-		<text> </text>
+		<text />
 		<text>3. I believe everyone has a price and am cynical toward those who present themselves as virtuous.</text>
-		<text> </text>
+		<text />
 		<text>4. I struggle to trust the words of others.</text>
-		<text> </text>
+		<text />
 		<text>5. Few people know the real me.</text>
-		<text> </text>
+		<text />
 		<text>6. Though I act charming, I feel nothing for others and don't know what friendship is.</text>
 	</trait>
 </background>
@@ -4651,17 +4651,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Deception, Perception</text>
-		<text> </text>
+		<text />
 		<text>Languages: none</text>
-		<text> </text>
+		<text />
 		<text>Tools: one type of gaming set, thieves' tools</text>
 	</trait>
 	<trait>
 		<name>Ex-Convict</name>
 		<text>The knowledge gained during your incarceration lets you gain insight into local guards and jailors. You know which will accept bribes, or look the other way for you. You can also seek shelter for yourself from authorities with other criminals in the area.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 8</text>
 	</trait>
 	<trait>
@@ -4671,73 +4671,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am a bully; others will suffer as I have.</text>
-		<text> </text>
+		<text />
 		<text>2.I always say yes even when I mean no; it&#39;s just easier. </text>
-		<text> </text>
+		<text />
 		<text>3. I aim to misbehave.</text>
-		<text> </text>
+		<text />
 		<text>4.I go out of my way to frustrate or anger those in power. </text>
-		<text> </text>
+		<text />
 		<text>5. I strive to obey the law. I will never again make the mistake of going against authority.</text>
-		<text> </text>
+		<text />
 		<text>6.I always plan everything out. The one time I let others plan things it did not end well for me. </text>
-		<text> </text>
+		<text />
 		<text>7. I take blame to protect others from pain.</text>
-		<text> </text>
+		<text />
 		<text>8.I horde information, you never know what may come in handy.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Loss: I freely give those who offend me what was so brutally denied me, death. (Chaos)</text>
-		<text> </text>
+		<text />
 		<text>2.Dedication: I never betray those who trust me. (Law) </text>
-		<text> </text>
+		<text />
 		<text>3. Vengeance: I use any means to get information I need; I have been well taught. (Evil)</text>
-		<text> </text>
+		<text />
 		<text>4.Redemption: Everyone deserves a second chance. (Good) </text>
-		<text> </text>
+		<text />
 		<text>5. Resilience: I can survive any challenge (Any)</text>
-		<text> </text>
+		<text />
 		<text>6.Leadership: The best teams are made up of those that society has discarded.</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I take up arms to help establish a free Phlan.</text>
-		<text> </text>
+		<text />
 		<text>2.The horrors of my time in Stojanow haunt my dreams, only after a day of hard work can I find sleep. </text>
-		<text> </text>
+		<text />
 		<text>3. I am indebted to those who freed me from prison, I will repay this debt.</text>
-		<text> </text>
+		<text />
 		<text>4.My torturer survived the attack that set me free, I will find him/her. </text>
-		<text> </text>
+		<text />
 		<text>5. I will not rest while others suffer fates similar to mine.</text>
-		<text> </text>
+		<text />
 		<text>6.I am searching for a way to heal the scars of Stojanow, both physical and emotional.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. During stressful times, I find myself crying for no reason.</text>
-		<text> </text>
+		<text />
 		<text>2.My nerve endings are shot from the interrogations; I am numb to all but the harshest touch. </text>
-		<text> </text>
+		<text />
 		<text>3. I am incapable of standing up for myself.</text>
-		<text> </text>
+		<text />
 		<text>4.I folded under the torture, and gave information that I promised would be kept secret. My life would be in jeopardy if others found out. </text>
-		<text> </text>
+		<text />
 		<text>5. Survival is worth more than friendship.</text>
-		<text> </text>
+		<text />
 		<text>6.The ghosts from my past hinder my actions.</text>
 	</trait>
 </background>
@@ -4752,17 +4752,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Nature, Animal Handling</text>
-		<text> </text>
+		<text />
 		<text>Languages: Giant</text>
-		<text> </text>
+		<text />
 		<text>Tools: herbalism kits</text>
 	</trait>
 	<trait>
 		<name>At Home in the Wild</name>
 		<text>The wilderness is your home and you are comfortable dwelling in it. You can find a place to hide, rest, or recuperate when out in the wild. This place of rest is secure enough to conceal you from most natural threats. Threats that are supernatural, magical, or are actively seeking you out might do so with difficulty depending on the nature of the threat (as determined by the DM). However, this feature doesn&#39;t shield or conceal you from scrying, mental probing, nor from threats that don&#39;t necessarily require the five senses to find you.</text>
-		<text> </text>
+		<text />
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 9</text>
 	</trait>
 	<trait>
@@ -4772,73 +4772,73 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I eagerly inject myself into the unknown.</text>
-		<text> </text>
+		<text />
 		<text>2.Villages, towns, and cities do not suit me. I&#39;d rather be out in the wilderness any day. </text>
-		<text> </text>
+		<text />
 		<text>3. I accomplish my tasks efficiently, using as few resources as possible.</text>
-		<text> </text>
+		<text />
 		<text>4.It&#39;s difficult for me to remain in one place for long. </text>
-		<text> </text>
+		<text />
 		<text>5. I loudly brag about my tribe every chance I get.</text>
-		<text> </text>
+		<text />
 		<text>6.Having walked among giants, I am fearless in the face of bigger creatures. </text>
-		<text> </text>
+		<text />
 		<text>7. I am quiet and reserved, but observant. Nothing escapes my attention.</text>
-		<text> </text>
+		<text />
 		<text>8.My word is my bond. I see a promise to completion, even if it conflicts with my beliefs.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Kinship: Family is most important in life. Though I may be far from my own, the bonds of family must be protected in others&#39; lives as well. (Good)</text>
-		<text> </text>
+		<text />
 		<text>2.Preservation: Nature must not be despoiled by encroaching civilization. (Any) </text>
-		<text> </text>
+		<text />
 		<text>3. Wanderlust: One must expand their horizons by seeing the world and exploring. (Chaos)</text>
-		<text> </text>
+		<text />
 		<text>4.Isolation: My tribe and its ways must be protected and shielded from outside influence. (Neutral) </text>
-		<text> </text>
+		<text />
 		<text>5. Protection: Threats to the land and to the people must be dealt with at any and all costs. (Law)</text>
-		<text> </text>
+		<text />
 		<text>6.Belonging: All creatures have a place in the world, so I strive to help others find theirs. (Good)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I ache to return to my tribe and the family I left, but cannot until my obligations are fulfilled.</text>
-		<text> </text>
+		<text />
 		<text>2.The dragon cultists that invaded my homeland stole away one of my tribe&#39;s people. I will not know rest until I&#39;ve found them. </text>
-		<text> </text>
+		<text />
 		<text>3. The dragon&#39;s presence in the hills destroyed valuable territory and resulted in deaths within my tribe. The creature must pay for what it has done.</text>
-		<text> </text>
+		<text />
 		<text>4.I carry a trinket that spiritually and emotionally ties me to my people and my home. </text>
-		<text> </text>
+		<text />
 		<text>5. I discovered a strange relic in the hills during my tribe&#39;s wanderings. I must discover what it is.</text>
-		<text> </text>
+		<text />
 		<text>6.One of the stone giant clans from the Giant&#39;s Cairn has graced me with a mark of kinship.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I throw myself and my friends into situations rarely ever thinking about consequences.</text>
-		<text> </text>
+		<text />
 		<text>2.Unfamiliar people and surroundings put me on edge. </text>
-		<text> </text>
+		<text />
 		<text>3. I have absolutely no patience for slowpokes and those who prove indecisive.</text>
-		<text> </text>
+		<text />
 		<text>4.My desire to experience new things causes me to make unsafe choices. </text>
-		<text> </text>
+		<text />
 		<text>5. I am overly protective of nature, sometimes to the detriment of my companions and myself.</text>
-		<text> </text>
+		<text />
 		<text>6.My lack of worldliness often proves my undoing in social, commercial, and hostile situations.</text>
 	</trait>
 </background>
@@ -4853,17 +4853,17 @@
 	<trait>
 		<name>Starting Proficiencies</name>
 		<text>Your background grants you the following proficiencies.</text>
-		<text> </text>
+		<text />
 		<text>Skills: Investigation, Persuasion</text>
-		<text> </text>
+		<text />
 		<text>Languages: Elvish</text>
-		<text> </text>
+		<text />
 		<text>Tools: thieves' tools</text>
 	</trait>
 	<trait>
 		<name>Investigative Services</name>
 		<text>You are part of a small force outside of Hillsfar You have a special way of communicating with others and they seem to be at ease around you. You can invoke your rank to allow you access to a crime scene or to requisition equipment or horses on a temporary basis. When you enter a town or village around Hillsfar you can identify a contact who will give you information on the local rumors and would help you simply because of your desire to get answers and information for anyone wanting to disrupt trade.</text>
-		<text> </text>
+		<text />
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 10</text>
 	</trait>
 	<trait>
@@ -4873,71 +4873,71 @@
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I am always polite and respectful. I let my actions speak for themselves </text>
-		<text> </text>
+		<text />
 		<text>3. I am haunted by my past having seen the murder of a close friend or family member and it is the one case I always needed to solve but have not been able to.</text>
-		<text> </text>
+		<text />
 		<text>4.I am quick to judge and slow to vindicate </text>
-		<text> </text>
+		<text />
 		<text>5. I can be very persuasive and am able to ask questions where others might not be able to.</text>
-		<text> </text>
+		<text />
 		<text>6.I have a quirky personality that seems to take others off their guard. </text>
-		<text> </text>
+		<text />
 		<text>7. My sense of humor is considered by most to be awkward</text>
-		<text> </text>
+		<text />
 		<text>8.Everyone has a choice, and they can always make the right choice, mine!</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. Hope: my job is to speak for the victim (good)</text>
-		<text> </text>
+		<text />
 		<text>2.Dedicated: Once I start an investigation, until told to do so, I do not quit, not matter where it leads. (Lawful) </text>
-		<text> </text>
+		<text />
 		<text>3. Nation: My city, nation, or people are all that matter (any)</text>
-		<text> </text>
+		<text />
 		<text>4.Mercenary: When I do investigations, I expect answers immediately (Any) </text>
-		<text> </text>
+		<text />
 		<text>5. Eloquent: I use my words to sway others to give me answers. (good)</text>
-		<text> </text>
+		<text />
 		<text>6.Might: It is through threats and force that I get my answers (lawful)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. To this day an unsolved case will always leave me haunted and bother me.</text>
-		<text> </text>
+		<text />
 		<text>2.Through the might of my personality I will solve an investigation or puzzle </text>
-		<text> </text>
+		<text />
 		<text>3. It is my right to believe what I will, just try and stop me.</text>
-		<text> </text>
+		<text />
 		<text>4.I need to prove my worth to my fellow sheriffs. </text>
-		<text> </text>
+		<text />
 		<text>5. Someone I cared for died under suspicious circumstances. I will find out what happened to them and bring their killer to justice.</text>
-		<text> </text>
+		<text />
 		<text>6.I speak for those that cannot speak for themselves.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
 		<text>Choose or randomly determine</text>
-		<text></text>
-		<text> </text>
+		<text />
+		<text />
 		<text>1. I always over exaggerate my abilities.</text>
-		<text> </text>
+		<text />
 		<text>2.I cannot bear to let those I care for out of my sight. </text>
-		<text> </text>
+		<text />
 		<text>3. I took a bribe to tank an investigation and I would do anything to keep it secret.</text>
-		<text> </text>
+		<text />
 		<text>4.I have little respect for those that are of &#8220;low&#8221; intelligence/race. </text>
-		<text> </text>
+		<text />
 		<text>5. I always enjoy a good mug of ale ... or five to cover up my past.</text>
-		<text> </text>
+		<text />
 		<text>6.I speak for the First Lord of Hillsfar and make sure everyone knows it.</text>
 	</trait>
 </background>
@@ -10245,7 +10245,7 @@
 			<text>4 &#8212;Hit point maximum halved</text>
 			<text>5 &#8212;Speed reduced to 0</text>
 			<text>	6 &#8212;Death</text>
-			<text></text>
+			<text />
 			<text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</text>
 			<text>	A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
 			<text>	An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</text>

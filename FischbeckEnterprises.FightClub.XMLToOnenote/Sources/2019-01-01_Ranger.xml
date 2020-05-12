@@ -487,22 +487,22 @@
 			<feature optional="YES">
 				<name>Starting Ranger (Alternate)</name>
 				<text>As a 1st-level Ranger (Alternate), you begin play with 12+your Constitution modifier hit points.</text>
-				<text> </text>
+				<text />
 				<text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
 				<text>&#8226; Armor: light armor, shields</text>
 				<text>&#8226; Weapons: simple weapons, martial weapons</text>
 				<text>&#8226; Tools: herbalism kit</text>
 				<text>&#8226; Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 </text>
-				<text> </text>
+				<text />
 				<text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
 				<text>&#8226; Leather armor</text>
 				<text>&#8226; (a) two shortswords or (b) two martial melee weapons or (c) a martial weapon and a shield</text>
 				<text>&#8226; (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
 				<text>&#8226; (a) a longbow and a quiver of 20 arrows or (b) a martial weapon</text>
-				<text> </text>
+				<text />
 				<text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
-				<text> </text>
+				<text />
 				<text>Source: Unearthed Arcana: Ranger Options, p. 1</text>
 			</feature>
 		</autolevel>
@@ -512,10 +512,10 @@
 				<name>Multiclass Ranger (Alternate)</name>
 				<text>To multiclass as a Ranger (Alternate), you must meet the following prerequisites:</text>
 				<text>&#8226; Dexterity 13 and Wisdom 13</text>
-				<text> </text>
+				<text />
 				<text>You gain the following proficiencies:</text>
 				<text>&#8226; light armor, medium armor, shields, simple weapons, martial weapons; choose one skill from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
-				<text> </text>
+				<text />
 				<text>Source: Unearthed Arcana: Ranger Options, p. 1</text>
 			</feature>
 		</autolevel>
@@ -794,21 +794,21 @@
 			<feature optional="YES">
 				<name>Starting Ranger (No Spells)</name>
 				<text>As a 1st-level Ranger (No Spells), you begin play with 10+your Constitution modifier hit points.</text>
-				<text> </text>
+				<text />
 				<text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
 				<text>&#8226; Armor: light armor, medium armor, shields</text>
 				<text>&#8226; Weapons: simple weapons, martial weapons</text>
 				<text>&#8226; Tools: none</text>
 				<text>&#8226; Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
-				<text> </text>
+				<text />
 				<text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
 				<text>&#8226; (a) scale mail or (b) leather armor</text>
 				<text>&#8226; (a) two shortswords or (b) two simple melee weapons</text>
 				<text>&#8226; (a) a dungeoneer's pack or (b) an explorer's pack</text>
 				<text>&#8226; A longbow and a quiver of 20 arrows</text>
-				<text> </text>
+				<text />
 				<text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
-				<text> </text>
+				<text />
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 5</text>
 			</feature>
 		</autolevel>
@@ -818,10 +818,10 @@
 				<name>Multiclass Ranger (No Spells)</name>
 				<text>To multiclass as a Ranger (No Spells), you must meet the following prerequisites:</text>
 				<text>&#8226; Dexterity 13 and Wisdom 13</text>
-				<text> </text>
+				<text />
 				<text>You gain the following proficiencies:</text>
 				<text>&#8226; light armor, medium armor, shields, simple weapons, martial weapons; choose one skill from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
-				<text> </text>
+				<text />
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 5</text>
 			</feature>
 		</autolevel>

@@ -13,13 +13,13 @@
             <feature optional="YES">
                 <name>Starting Expert Sidekick (UA)</name>
                 <text>As a 1st-level Expert Sidekick (UA), you begin play with 10+your Constitution modifier hit points.</text>
-                <text></text>
+                <text />
                 <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
                 <text>• Armor: none</text>
                 <text>• Weapons: none</text>
                 <text>• Tools: none</text>
-                <text></text>
-                <text></text>
+                <text />
+                <text />
                 <text>Source: Unearthed Arcana: Sidekicks p. 3</text>
             </feature>
         </autolevel>
@@ -181,13 +181,13 @@
             <feature optional="YES">
                 <name>Starting Spellcaster Sidekick (UA)</name>
                 <text>As a 1st-level Spellcaster Sidekick (UA), you begin play with 10+your Constitution modifier hit points.</text>
-                <text></text>
+                <text />
                 <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
                 <text>• Armor: none</text>
                 <text>• Weapons: none</text>
                 <text>• Tools: none</text>
-                <text></text>
-                <text></text>
+                <text />
+                <text />
                 <text>Source: Unearthed Arcana: Sidekicks p. 4</text>
             </feature>
         </autolevel>
@@ -209,7 +209,7 @@
             <feature>
                 <name>Spellcasting</name>
                 <text>At 1st level, the sidekick gains the ability to cast spells. (If the creature already has the Spellcasting trait, this feature replaces that trait.) Choose a class: bard, cleric, druid, sorceror, warlock, or wizard. This choice determines the spell list, spellcasting ability, and spellcasting focus used by the sidekick, as shown on the Spellcasting table.</text>
-                <text></text>
+                <text />
                 <text>Spell List | Ability | Focus</text>
                 <text>Bard | Charisma | Musical instrument</text>
                 <text>Cleric | Wisdom | Holy Symbol</text>
@@ -217,23 +217,23 @@
                 <text>Sorceror | Charisma | Arcane Focus</text>
                 <text>Warlock | Charisma | Arcane Focus</text>
                 <text>Wizard | Intelligence | Arcane Focus</text>
-                <text></text>
+                <text />
                 <text>Cantrips:</text>
                 <text>   At first level, the sidekick knows three cantrips of your choice from its spell list. The sidekick learns additional cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Spellcaster table.</text>
-                <text></text>
+                <text />
                 <text>Spell Slots:</text>
                 <text>   The Spellcaster table shows how many spell slots the sidekick has to cast its spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell's level or higher. The spellcaster regains all expended spell slots when it finishes a long rest.</text>
                 <text>   For example, if the sidekick knows the 1st-level spell cure wounds and has a 1st-level and a 2nd-level spell slot available, it can cast the spell using either slot.</text>
-                <text></text>
+                <text />
                 <text>Spells Known:</text>
                 <text>   The sidekick knows three 1st-level spells of your choice from its spell list.</text>
                 <text>   The Spells Known column of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of these spells must be of a level for which the sidekick has spell slots, as shown on the table. For instance when the sidekick reaches 3rd level in this class, it can learn one new spell of 1st or 2nd level.</text>
                 <text>   Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list, which also must be of a level for which it has spell slots.</text>
-                <text></text>
+                <text />
                 <text>Spellcasting Ability:</text>
                 <text>   The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.</text>
                 <text>   The sidekick uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.</text>
-                <text></text>
+                <text />
                 <text>Spellcasting Focus:</text>
                 <text>   The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table.</text>
             </feature>
@@ -313,13 +313,13 @@
             <feature optional="YES">
                 <name>Starting Warrior Sidekick (UA)</name>
                 <text>As a 1st-level Warrior Sidekick (UA), you begin play with 10+your Constitution modifier hit points.</text>
-                <text></text>
+                <text />
                 <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
                 <text>• Armor: none</text>
                 <text>• Weapons: none</text>
                 <text>• Tools: none</text>
-                <text></text>
-                <text></text>
+                <text />
+                <text />
                 <text>Source: Unearthed Arcana: Sidekicks p. 2</text>
             </feature>
         </autolevel>

@@ -46,59 +46,59 @@
         <trait>
             <name>Superior Darkvision</name>
             <text>Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 104</text>
             <text>        Mordenkainen's Tome of Foes, p. 81</text>
         </trait>
         <trait>
             <name>Dwarven Resilience</name>
             <text>You have advantage on saving throws against poison, and you have resistance against poison damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook p. 20</text>
         </trait>
         <trait>
             <name>Dwarven Combat Training</name>
             <text>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook p. 20</text>
         </trait>
         <trait>
             <name>Tool Proficiency</name>
             <text>You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook p. 20</text>
         </trait>
         <trait>
             <name>Stonecunning</name>
             <text>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook p. 20</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Dwarvish, Common, and Undercommon.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 104</text>
             <text>        Mordenkainen's Tome of Foes, p. 81</text>
         </trait>
         <trait>
             <name>Duergar Resilience</name>
             <text>You have advantage on saving throws against illusions and against being charmed or paralyzed.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 104</text>
             <text>        Mordenkainen's Tome of Foes, p. 81</text>
         </trait>
         <trait>
             <name>Duergar Magic</name>
             <text>When you reach 3rd level, you can cast the enlarge/reduce spell on yourself once with this trait, using only the spell's enlarge option. When your each 5th level, you can cast invisibility on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 104</text>
             <text>        Mordenkainen's Tome of Foes, p. 81</text>
         </trait>
         <trait>
             <name>Sunlight Sensitivity</name>
             <text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 104</text>
             <text>        Mordenkainen's Tome of Foes, p. 81</text>
         </trait>
@@ -113,31 +113,31 @@
         <trait>
             <name>Darkvision</name>
             <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Keen Senses</name>
             <text>You have proficiency in the Perception skill.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Fey Ancestry</name>
             <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Trance</name>
             <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
@@ -148,7 +148,7 @@
             <text />            <text>Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.</text>
             <text />            <text>Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.</text>
             <text />            <text>Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 61</text>
         </trait>
         <trait>
@@ -159,7 +159,7 @@
             <text>Spring is the season of cheerfulness and celebration, marked by merriment as winter&#39;s sorrow passes.</text>
             <text>Summer is the season of boldness and aggression, a time of unfettered energy.</text>
             <text />            <text>    Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season. When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin&#39;s current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 61</text>
         </trait>
     </race>
@@ -173,49 +173,49 @@
         <trait>
             <name>Darkvision</name>
             <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Keen Senses</name>
             <text>You have proficiency in the Perception skill.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Fey Ancestry</name>
             <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Trance</name>
             <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common, Elvish, and Aquan. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Sea Elf Training</name>
             <text>You have proficiency with the spear, trident, light crossbow, and net.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 62</text>
         </trait>
         <trait>
             <name>Child of the Sea</name>
             <text>You have a swimming speed of 30 feet and can breathe air and water.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 62</text>
         </trait>
         <trait>
             <name>Friend of the Sea</name>
             <text>Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 62</text>
         </trait>
     </race>
@@ -229,44 +229,44 @@
         <trait>
             <name>Darkvision</name>
             <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Keen Senses</name>
             <text>You have proficiency in the Perception skill.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Fey Ancestry</name>
             <text>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Trance</name>
             <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 23</text>
         </trait>
         <trait>
             <name>Necrotic Resistance</name>
             <text>You have resistance to necrotic damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 62</text>
         </trait>
         <trait>
             <name>Blessing of the Raven Queen</name>
             <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can&#39;t do so again until you finish a long rest.</text>
             <text>    Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 62</text>
         </trait>
     </race>
@@ -280,19 +280,19 @@
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Gith.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
         <trait>
             <name>Decadent Mastery</name>
             <text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu&#39;narath, githyanki have bountiful time to master odd bits of knowledge.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
         <trait>
             <name>Martial Prodigy</name>
             <text>You are proficient with light and medium armor and with shortswords, longswords, and greatswords.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
         <trait>
@@ -300,7 +300,7 @@
             <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
             <text>    When you reach 3rd level, you can cast the jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
             <text>    Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
     </race>
@@ -314,13 +314,13 @@
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Gith.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
         <trait>
             <name>Mental Discipline</name>
             <text>You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
         <trait>
@@ -328,7 +328,7 @@
             <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
             <text>    When you reach 3rd level, you can cast the shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
             <text>    Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
     </race>
@@ -342,7 +342,7 @@
         <trait>
             <name>Superior Darkvision</name>
             <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 115</text>
             <text>        Elemental Evil Player's Companion, p. 7</text>
             <text>        Mordenkainen's Tome of Foes, p. 113</text>
@@ -350,7 +350,7 @@
         <trait>
             <name>Gnome Cunning</name>
             <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 115</text>
             <text>        Elemental Evil Player's Companion, p. 7</text>
             <text>        Mordenkainen's Tome of Foes, p. 113</text>
@@ -358,7 +358,7 @@
         <trait>
             <name>Stone Camouflage</name>
             <text>You have advantage on Dexterity (stealth) checks to hide in rocky terrain and underground.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 115</text>
             <text>        Elemental Evil Player's Companion, p. 7</text>
             <text>        Mordenkainen's Tome of Foes, p. 113</text>
@@ -366,7 +366,7 @@
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common, Gnomish, and Undercommon. The svirfneblin dialect is more guttural than surface Gnomish, and most svirfneblin know only a little bit of Common, but those who deal with outsiders (and that includes you as an adventurer) pick up enough Common to get by in other lands.</text>
-            <text> </text>
+            <text />
             <text>Source: Sword Coast Adventurer's Guide, p. 115</text>
             <text>        Elemental Evil Player's Companion, p. 7</text>
             <text>        Mordenkainen's Tome of Foes, p. 113</text>
@@ -382,25 +382,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Maladomini</name>
             <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the crown of madness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 21</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -414,25 +414,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Dis</name>
             <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 21</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -446,25 +446,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Phlegethos</name>
             <text>You know the friends cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 22</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -478,25 +478,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Malbolge</name>
             <text>You know the minor illusion cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 22</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -510,25 +510,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Stygia</name>
             <text>You know the ray of frost cantrip. When you reach 3rd level, you can cast the armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 22</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -542,25 +542,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Minauros</name>
             <text>You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser&#39;s floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 22</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -574,25 +574,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Cania</name>
             <text>You know the mage hand cantrip. When you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the flame blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 23</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -606,25 +606,25 @@
         <trait>
             <name>Darkvision</name>
             <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Hellish Resistance</name>
             <text>You have resistance to fire damage.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
         <trait>
             <name>Legacy of Avernus</name>
             <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-            <text> </text>
+            <text />
             <text>Source: Mordenkainen's Tome of Foes, p. 23</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Infernal.</text>
-            <text> </text>
+            <text />
             <text>Source: Player's Handbook, p. 43</text>
         </trait>
     </race>
@@ -635,7 +635,7 @@
         <prerequisite>Gnome (deep gnome)</prerequisite>
         <text>You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast nondetection on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: blindness/deafness, blur, and disguise self. You regain the ability to cast these spells when you finish a long rest.</text>
         <text>    Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.</text>
-        <text> </text>
+        <text />
         <text>Source: Sword Coast Adventurer's Guide, p. 115</text>
         <text>        Elemental Evil Player's Companion, p. 7</text>
         <text>        Mordenkainen's Tome of Foes, p. 114</text>
@@ -6620,7 +6620,7 @@
             <text>4 &#8212;Hit point maximum halved</text>
             <text>5 &#8212;Speed reduced to 0</text>
             <text>    6 &#8212;Death</text>
-            <text></text>
+            <text />
             <text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</text>
             <text>    A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
             <text>    An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</text>
@@ -7342,7 +7342,7 @@
             <text>4 &#8212;Hit point maximum halved</text>
             <text>5 &#8212;Speed reduced to 0</text>
             <text>    6 &#8212;Death</text>
-            <text></text>
+            <text />
             <text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</text>
             <text>    A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
             <text>    An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</text>
@@ -7581,7 +7581,7 @@
             <text>4 &#8212;Hit point maximum halved</text>
             <text>5 &#8212;Speed reduced to 0</text>
             <text>    6 &#8212;Death</text>
-            <text></text>
+            <text />
             <text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</text>
             <text>    A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
             <text>    An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</text>
