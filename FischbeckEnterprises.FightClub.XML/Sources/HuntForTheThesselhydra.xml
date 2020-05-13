@@ -31,11 +31,11 @@
         </trait>
         <trait>
             <name>Blood Frenzy</name>
-            <text>The demogorgon has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
+            <text>The demogorgon has advantage on melee attack rolls against any creature that doesn&#39;t have all its hit points.</text>
         </trait>
         <trait>
             <name>Regeneration</name>
-            <text>The demogorgon regains 10 hit points at the start of its turn. If the demogorgon takes acid or fire damage, this trait doesn't function at the start of the demogorgon's next turn. The demogorgon dies only if it starts its turn with 0 hit points and doesn't regenerate.</text>
+            <text>The demogorgon regains 10 hit points at the start of its turn. If the demogorgon takes acid or fire damage, this trait doesn&#39;t function at the start of the demogorgon&#39;s next turn. The demogorgon dies only if it starts its turn with 0 hit points and doesn&#39;t regenerate.</text>
         </trait>
         <action>
             <name>Multiattack</name>
@@ -94,7 +94,7 @@
         </action>
         <action>
             <name>Tail Pincer</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 10 (1d12 + 4) slashing damage, and the target is grappled. As an action, the target can escape the grapple by succeeding on a DC 14 Strength (Athletics) or Dexterity (Acrobatics) check (its choice). Until this grapple ends, the thessalhydra can't use its tail pincer.</text>
+            <text>Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 10 (1d12 + 4) slashing damage, and the target is grappled. As an action, the target can escape the grapple by succeeding on a DC 14 Strength (Athletics) or Dexterity (Acrobatics) check (its choice). Until this grapple ends, the thessalhydra can&#39;t use its tail pincer.</text>
             <attack>Tail Pincer|7|1d12+4</attack>
         </action>
         <action>
@@ -102,7 +102,7 @@
             <text>The thessalhydra spits a glob of acid at a point it can see within 30 feet of it. Each creature within 10 feet of that point must make a DC 15 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.</text>
         </action>
         <legendary>
-            <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
+            <text>The monstrosity can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature&#39;s turn. The monstrosity regains spent legendary actions at the start of its turn.</text>
         </legendary>
         <legendary>
             <name>Detect</name>

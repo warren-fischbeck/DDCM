@@ -23,7 +23,7 @@
         <text>   Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll, the creature can expend the note to create a burst of sound. Each other creature within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.</text>
         <text />
         <text>Note of Protection</text>
-        <text>   Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the creature can expend the note to gain temporary hit points equal to the number rolled on the Bardic Inspiration die + your Charisma modifier, provided the creature doesn't already have temporary hit points.</text>
+        <text>   Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the creature can expend the note to gain temporary hit points equal to the number rolled on the Bardic Inspiration die + your Charisma modifier, provided the creature doesn&#39;t already have temporary hit points.</text>
         <text />
         <text>Note of Inspiration</text>
         <text>   When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can expend the note to roll the Bardic Inspiration die again and choose which roll to use.</text>
@@ -38,7 +38,7 @@
         <text>   Your mastery over the Song of Creation allows you to magically bring items to life. As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the Dancing Item stat block and is under your control for 1 hour or until it is reduced to 0 hit points.</text>
         <text>   In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
         <text>   When you use your Bardic Inspiration feature, you can command which action your animated item takes as part of the same bonus action.</text>
-        <text>   In combat, the item shares your initiative count, but it takes its turn immediately after yoOnce you animate an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher to use this feature. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.</text>
+        <text>   In combat, the item shares your initiative count, but it takes its turn immediately after yoOnce you animate an item with this feature, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher to use this feature. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt2</text>
       </feature>
@@ -47,9 +47,9 @@
       <feature optional="YES">
         <name>Bard College: College of Creation (UA): Performance of Creation (College of Creation (UA))</name>
         <text>   14th-level College of Creation feature</text>
-        <text>   Your performance can manipulate the magic of creation, briefly transforming the world around you. As an action, you can create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 20 times your bard level and must be Large or smaller. Tiny glimmering, intangible notes float around it, and a creature can faintly hear music when touching it. For examples of items you can create, see the Armor, Weapons, Adventuring Gear, Tools, and Mounts and Vehicles tables in chapter 5, “Equipment,” of the Player's Handbook.</text>
-        <text>   The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item's duration is extended to the end of your next turn, up to a maximum of 1 minute. If you maintain the item for the full minute, it continues to exist for a number of hours equal to your bard level.</text>
-        <text>   Once you create an item with this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 5th level or higher to use this feature. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.</text>
+        <text>   Your performance can manipulate the magic of creation, briefly transforming the world around you. As an action, you can create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can&#39;t be more than 20 times your bard level and must be Large or smaller. Tiny glimmering, intangible notes float around it, and a creature can faintly hear music when touching it. For examples of items you can create, see the Armor, Weapons, Adventuring Gear, Tools, and Mounts and Vehicles tables in chapter 5, “Equipment,” of the Player&#39;s Handbook.</text>
+        <text>   The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item&#39;s duration is extended to the end of your next turn, up to a maximum of 1 minute. If you maintain the item for the full minute, it continues to exist for a number of hours equal to your bard level.</text>
+        <text>   Once you create an item with this feature, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 5th level or higher to use this feature. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt2</text>
       </feature>
@@ -83,7 +83,7 @@
         <text>3rd | aid, warding bond</text>
         <text>5th | beacon of hope, sending</text>
         <text>7th | aura of purity, guardian of faith</text>
-        <text>9th | greater restoration, Rary's telepathic bond</text>
+        <text>9th | greater restoration, Rary&#39;s telepathic bond</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2</text>
       </feature>
@@ -147,7 +147,7 @@
       <feature optional="YES">
         <name>Sorcerous Origin: Clockwork Soul (UA)</name>
         <text>A plane of utmost order, Mechanus is a realm overseen by a godlike entity called Primus, whose actions are inscrutable and calculations, vast. You, or someone from your lineage, might have become entangled in one of the machinations of the leader of the modrons. Perhaps you were exposed to an artifact created by Primus, or your ancestor took part in the Great Modron March in some way.</text>
-        <text>The power of Mechanus can seem strange and alien to others, but for you it is part of a vast and glorious system that others can't comprehend. At your option, you can pick from or roll on the Manifestations of Mechanus table to create a way your connection to the plane manifests while you are casting a spell.</text>
+        <text>The power of Mechanus can seem strange and alien to others, but for you it is part of a vast and glorious system that others can&#39;t comprehend. At your option, you can pick from or roll on the Manifestations of Mechanus table to create a way your connection to the plane manifests while you are casting a spell.</text>
         <text />
         <text>Manifestations of Mechanus</text>
         <text>d6 | Manifestation</text>
@@ -165,14 +165,14 @@
       <feature optional="YES">
         <name>Sorcerous Origin: Clockwork Soul (UA): Clockwork Magic (Clockwork Soul (UA))</name>
         <text>1st-level Clockwork Soul feature</text>
-        <text>   You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.</text>
+        <text>   You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn&#39;t count against the number of sorcerer spells you know. These spells can&#39;t be replaced when you gain a level in this class.</text>
         <text />
         <text>Clockwork Spells Sorcerer</text>
         <text>Level | Spells</text>
         <text>1st | alarm, protection from evil and good</text>
         <text>3rd | find traps, heat metal</text>
         <text>5th | counterspell, glyph of warding</text>
-        <text>7th | arcane eye, Otiluke's resilient sphere</text>
+        <text>7th | arcane eye, Otiluke&#39;s resilient sphere</text>
         <text>9th | animate objects, wall of force</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
@@ -202,8 +202,8 @@
       <feature optional="YES">
         <name>Sorcerous Origin: Clockwork Soul (UA): Trance of Order (Clockwork Soul (UA))</name>
         <text>14th-level Clockwork Soul feature</text>
-        <text>   You gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.</text>
-        <text>   Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.</text>
+        <text>   You gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can&#39;t benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.</text>
+        <text>   Once you use this action, you can&#39;t use it again until you finish a long rest or until you expend 5 sorcery points to use it again.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
       </feature>
@@ -216,7 +216,7 @@
         <text>• The spirits restore up to 100 hit points, divided as you choose among any number of creatures of your choice in the cube.</text>
         <text>• Any damaged objects entirely in the cube are repaired.</text>
         <text>• Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.</text>
-        <text>   Once you use this action, you can't use it again until you finish a long rest or until you expend 7 sorcery points to use it again.</text>
+        <text>   Once you use this action, you can&#39;t use it again until you finish a long rest or until you expend 7 sorcery points to use it again.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 3</text>
       </feature>
@@ -250,7 +250,7 @@
     <senses>darkvision 60 ft.</senses>
     <trait>
       <name>Hit Points</name>
-      <text>equal the dancing item's Constitution modifier + your Charisma modifier + five times your level in this class</text>
+      <text>equal the dancing item&#39;s Constitution modifier + your Charisma modifier + five times your level in this class</text>
     </trait>
     <trait>
       <name>Endless Waltz</name>

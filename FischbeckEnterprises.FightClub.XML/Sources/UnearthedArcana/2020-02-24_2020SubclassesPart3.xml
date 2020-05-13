@@ -12,19 +12,19 @@
       </feature>
       <feature optional="YES">
         <name>Tools of the Trade (Armorer (UA))</name>
-        <text>You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. </text>
+        <text>You gain proficiency with heavy armor. You also gain proficiency with smith&#39;s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice. </text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
         <name>Power Armor (Armorer (UA))</name>
-        <text>Your metallurgical pursuits have led to you making armor a conduit for your artificer magic.  As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith's tools in hand.</text>
+        <text>Your metallurgical pursuits have led to you making armor a conduit for your artificer magic.  As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith&#39;s tools in hand.</text>
         <text />
         <text>You gain the following benefits while wearing the power armor:</text>
         <text>
           • If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
           • You can use the power armor as a spellcasting focus for your artificer spells.
-          • The power armor attaches to you and can't be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
+          • The power armor attaches to you and can&#39;t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
         </text>
         <text />
         <text>The armor continues to be power armor until you doff it, you don another suit of armor, or you die.</text>
@@ -33,7 +33,7 @@
       </feature>
       <feature optional="YES">
         <name>Armorer Spells (Armorer (UA))</name>
-        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</text>
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.</text>
         <text />
         <text>Armorer Spells</text>
         <text>
@@ -49,7 +49,7 @@
         <name>Armor Model</name>
         <text>You can customize your power armor. When you do so, choose one of the following armor models: guardian or infiltrator. The model you choose gives you special benefits while you wear it.</text>
         <text>Each model includes a special weapon. When you attack with that weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.</text>
-        <text>You can change your power armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.</text>
+        <text>You can change your power armor&#39;s model whenever you finish a short or long rest, provided you have smith&#39;s tools in hand.</text>
         <text />
         <text>Guardian. You design your armor to be in the frontline of conflict. It has the following features:</text>
         <text>Thunder Gauntlets. Your armored fists each count as a simple melee weapon, and each deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</text>
@@ -58,7 +58,7 @@
         <text>Infiltrator. You customize your armor for subtle undertakings. It has the following features:</text>
         <text>Lightning Launcher. A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.</text>
         <text>Powered Steps. Your walking speed increases by 5 feet.</text>
-        <text>Second Skin. The armor's weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn't.</text>
+        <text>Second Skin. The armor&#39;s weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn&#39;t.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -84,7 +84,7 @@
         <name>Perfected Armor (Armorer (UA))</name>
         <text>Your power armor gains additional benefits based on its model, as shown below.</text>
         <text />
-        <text>Guardian. Tinkering with your armor's energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.</text>
+        <text>Guardian. Tinkering with your armor&#39;s energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.</text>
         <text />
         <text>     You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
         <text />
@@ -100,13 +100,13 @@
       <feature optional="YES">
         <name>Druid Circle: Circle of the Stars (UA)</name>
         <text>An ancient lineage, the Circle of Stars allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos</text>
-        <text>     Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.</text>
+        <text>     Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle&#39;s sacred knowledge even against a great cataclysm.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
         <name>Druid Circle: Circle of the Stars (UA): Star Map (Circle of the Stars (UA))</name>
-        <text>You've created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.</text>
+        <text>You&#39;ve created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.</text>
         <text />
         <text>Star Map</text>
         <text>
@@ -126,8 +126,8 @@
       </feature>
       <feature optional="YES">
         <name>Druid Circle: Circle of the Stars (UA): Stary Form (Circle of the Stars (UA))</name>
-        <text>You gain the ability to harness constellations' power to alter your form. As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.</text>
-        <text>     While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10 foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you're incapacitated.</text>
+        <text>You gain the ability to harness constellations&#39; power to alter your form. As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.</text>
+        <text>     While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10 foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you&#39;re incapacitated.</text>
         <text>     Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:</text>
         <text />
         <text>Chalice. A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + half your level in this class.</text>
@@ -161,7 +161,7 @@
       <feature optional="YES">
         <name>Druid Circle: Circle of the Stars (UA): Star Flare (Circle of the Stars (UA))</name>
         <text>Your connection to the cosmos allows you to conjure brilliant starlight. As an action, you conjure a burst of light in a 30-foot-radius sphere centered on a point you can see within 120 feet of you. You can immediately teleport each willing creature in the sphere to an unoccupied space within 30 feet of it. Each creature remaining in the sphere must succeed on a Constitution saving throw against your spell save DC or take 4d10 radiant damage and be blinded until the end of your next turn.</text>
-        <text>Once you have used this action, you can't use it again until you finish a long rest or until you expend a spell slot of 5th level or higher to use it again.</text>
+        <text>Once you have used this action, you can&#39;t use it again until you finish a long rest or until you expend a spell slot of 5th level or higher to use it again.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -189,7 +189,7 @@
       </feature>
       <feature optional="YES">
         <name>Ranger Archtype: Fey Wanderer (UA): Fey Wanderer Magic (Fey Wanderer (UA))</name>
-        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</text>
+        <text>You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.</text>
         <text>Fey Wanderer Spells</text>
         <text>
           Ranger Level Spell
@@ -211,7 +211,7 @@
       </feature>
       <feature optional="YES">
         <name>Ranger Archtype: Fey Wanderer (UA): Dreadful Strikes (Fey Wanderer (UA))</name>
-        <text>You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
+        <text>You augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you&#39;re currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.</text>
         <text>When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
@@ -245,8 +245,8 @@
     <autolevel level="15">
       <feature optional="YES">
         <name>Ranger Archtype: Fey Wanderer (UA): Misty Presence (Fey Wanderer (UA))</name>
-        <text>You can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw athe end of any turn during which you hit it withan attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful savethe target is immune to this feature for 7 days.</text>
-        <text>Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
+        <text>You can magically remove yourself from one creature&#39;s perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can&#39;t see or hear you for 24 hours. The target can repeat the saving throw athe end of any turn during which you hit it withan attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful savethe target is immune to this feature for 7 days.</text>
+        <text>Once you&#39;ve used this bonus action, you can&#39;t use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -280,7 +280,7 @@
     <classes>Artificer Infusions</classes>
     <text>Item: A suit of armor</text>
     <text />
-    <text>As an action, a creature wearing this infused armor can integrate into it artisan's tools or thieves' tools. The tools remain integrated in the armor for 8 hours or until the wearer removes the tools as an action. The armor can have only one tool integrated at a time.</text>
+    <text>As an action, a creature wearing this infused armor can integrate into it artisan&#39;s tools or thieves&#39; tools. The tools remain integrated in the armor for 8 hours or until the wearer removes the tools as an action. The armor can have only one tool integrated at a time.</text>
     <text>The wearer can add its Intelligence modifier to any ability checks it makes with the integratedtool. The wearer must have a hand free to use the tool.</text>
     <text />
     <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
@@ -297,7 +297,7 @@
     <text>PPrerequisite: 10th-level artificer</text>
     <text>Item: A helmet (requires attunement)</text>
     <text />
-    <text>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.</text>
+    <text>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can&#39;t be surprised, provided it isn&#39;t incapacitated.</text>
     <text />
     <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
   </spell>
@@ -328,7 +328,7 @@
     <text>Prerequisite: 6th-level artificer</text>
     <text>Item: A ring (requires attunement)</text>
     <text />
-    <text>While wearing this ring, the creature can recover one expended spell slot as an action. The maximum level of the recovered slot is equal to the number of magic items the wearer is currently attuned to. Once used, the ring can't be used again until the next dawn.</text>
+    <text>While wearing this ring, the creature can recover one expended spell slot as an action. The maximum level of the recovered slot is equal to the number of magic items the wearer is currently attuned to. Once used, the ring can&#39;t be used again until the next dawn.</text>
     <text />
     <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
   </spell>
@@ -365,7 +365,7 @@
     <text>    The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage. </text>
     <text>    In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.</text>
     <text />
-    <text>Source: Player's Handbook, p. 242</text>
+    <text>Source: Player&#39;s Handbook, p. 242</text>
     <components>V, S, M (a bit of phosphorous or a firefly)</components>
     <duration>10 minutes</duration>
     <range>Self</range>

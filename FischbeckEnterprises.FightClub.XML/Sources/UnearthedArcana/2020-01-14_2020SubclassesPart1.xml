@@ -36,7 +36,7 @@
         <text>   You can also call on the feral spirit to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish a short or long rest:</text>
         <text>• You gain a swimming speed equal to your walking speed, and you can breathe underwater.</text>
         <text>• You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
-        <text>• When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.</text>
+        <text>• When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check&#39;s total. You can make this special check only once per turn.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -87,7 +87,7 @@
       <feature optional="YES">
         <name>Monastic Tradition: Way of Mercy (UA): Implements of Mercy (Way of Mercy (UA))</name>
         <text>3rd-level Way of Mercy feature</text>
-        <text>   You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner's kit.</text>
+        <text>   You gain proficiency in the Insight or Medicine skill (your choice), and you gain proficiency with the herbalism kit and the poisoner&#39;s kit.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -115,7 +115,7 @@
       <feature optional="YES">
         <name>Monastic Tradition: Way of Mercy (UA): Noxious Aura (Way of Mercy (UA))</name>
         <text>6th-level Way of Mercy feature</text>
-        <text>   As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you're incapacitated, or you dismiss it (no action required).</text>
+        <text>   As a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you&#39;re incapacitated, or you dismiss it (no action required).</text>
         <text>   While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
@@ -134,7 +134,7 @@
       <feature optional="YES">
         <name>Monastic Tradition: Way of Mercy (UA): Hand of Mercy (Way of Mercy (UA))</name>
         <text>17th-level Way of Mercy feature</text>
-        <text>   Your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature's status.</text>
+        <text>   Your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature&#39;s status.</text>
         <text>   You can have only one creature under the effect of this feature at a time.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
@@ -148,7 +148,7 @@
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Watchers (UA)</name>
         <text>Paladins who vow the Oath of the Watchers seek to protect the mortal realm from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.</text>
-        <text>Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.</text>
+        <text>Paladins who follow the Watchers&#39; oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one&#39;s surroundings is as natural as wearing armor in battle.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -188,7 +188,7 @@
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Oath of the Watchers (UA): Watcher's Will (Oath of the Watchers (UA))</name>
+        <name>Channel Divinity: Oath of the Watchers (UA): Watcher&#39;s Will (Oath of the Watchers (UA))</name>
         <text>You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, all the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
@@ -198,7 +198,7 @@
       <feature optional="YES">
         <name>Channel Divinity: Oath of the Watchers (UA): Abjure the Extraplanar (Oath of the Watchers (UA))</name>
         <text>You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each elemental, fey, fiend, or aberration within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</text>
-        <text>   A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+        <text>   A turned creature must spend its turns trying to move as far away from you as it can, and it can&#39;t willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there&#39;s nowhere to move, the creature can use the Dodge action.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -207,7 +207,7 @@
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Watchers (UA): Aura of the Sentinel (Oath of the Watchers (UA))</name>
         <text>7th-level Oath of the Watchers feature</text>
-        <text>   You emit an aura of alertness while you aren't incapacitated. When you and any creature of your choice within 10 feet of you rolls initiative, you each gain a bonus to initiative equal to your Charisma modifier (minimum of +1).</text>
+        <text>   You emit an aura of alertness while you aren&#39;t incapacitated. When you and any creature of your choice within 10 feet of you rolls initiative, you each gain a bonus to initiative equal to your Charisma modifier (minimum of +1).</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -216,7 +216,7 @@
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Watchers (UA): Vigilant Rebuke (Oath of the Watchers (UA))</name>
         <text>15th-level Oath of the Watchers feature</text>
-        <text>   You've learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the spellcaster.</text>
+        <text>   You&#39;ve learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the spellcaster.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -234,11 +234,11 @@
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Watchers (UA): Mortal Bulwark (Oath of the Watchers (UA))</name>
         <text>20th-level Oath of the Watchers feature</text>
-        <text>   You manifest a spark of your deity's power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:</text>
+        <text>   You manifest a spark of your deity&#39;s power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:</text>
         <text>• You gain truesight in a 120-foot radius.</text>
         <text>• You have advantage on attack rolls against elementals, fey, fiends, and aberrations.</text>
-        <text>• When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.</text>
-        <text>   Once you use this bonus action, you can't use it again until you finish a long rest.</text>
+        <text>• When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it&#39;s currently not there. On a successful save, the creature can&#39;t be banished by this feature for 24 hours.</text>
+        <text>   Once you use this bonus action, you can&#39;t use it again until you finish a long rest.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -266,16 +266,16 @@
         <text>2nd | enlarge/reduce, phantasmal force</text>
         <text>3rd | create food and water, protection from energy</text>
         <text>4th | polymorph, phantasmal killer</text>
-        <text>5th | Bigby's hand, creation</text>
+        <text>5th | Bigby&#39;s hand, creation</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Noble Genie (UA): Collector's Vessel (The Noble Genie (UA))</name>
+        <name>Otherworldly Patron: The Noble Genie (UA): Collector&#39;s Vessel (The Noble Genie (UA))</name>
         <text>1st-level Noble Genie feature</text>
-        <text>   Your patron gives you a magical vessel with which you can bind a creature to you and to your patron's menagerie. The vessel is a Tiny object, and it is a spellcasting focus for you. You decide what the object is, or you can determine what it is randomly by rolling on the Collector's Vessel table.</text>
+        <text>   Your patron gives you a magical vessel with which you can bind a creature to you and to your patron&#39;s menagerie. The vessel is a Tiny object, and it is a spellcasting focus for you. You decide what the object is, or you can determine what it is randomly by rolling on the Collector&#39;s Vessel table.</text>
         <text />
         <text>d6 | Vessel</text>
         <text>1 | Oil lamp</text>
@@ -289,12 +289,12 @@
         <text>   As an action while you are holding the vessel, you target a willing creature you can see within 100 feet of you and create a tether of wispy elemental material that links the target to you. The tether lasts for 1 hour, until you use this feature to create another tether, until the bound target is reduced to 0 hit points, or until the target ends its turn more than 100 feet from you.</text>
         <text>   While you are tethered to a creature, you gain the following benefits:</text>
         <text>• You gain a bonus to your Wisdom (Perception) checks equal to your Charisma modifier (minimum of +1).</text>
-        <text>• When you can cast a spell, you can deliver the spell from your space or the bound creature's space.</text>
+        <text>• When you can cast a spell, you can deliver the spell from your space or the bound creature&#39;s space.</text>
         <text>   You can create the tether a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
         <text />
-        <text>Collector's Vessel and Pact Boons</text>
-        <text>When you create a tether with your Collector's Vessel, the tether takes on a form that reflects your patron's type of geniekind: swirling mist and wind for a djinni, sand and flecks of rock or gems for a dao, smoke and embers for an efreeti, and foamy water for a marid.</text>
-        <text>   When you gain the Pact Boon feature at 3rd level, if you choose a boon that grants you a physical object, your vessel transforms into that object. For example, a warlock whose patron is a noble efreeti and chooses the Pact of the Tome might find their bottle transformed into an elaborate scroll made of a red dragon's wing, with brass and iron rolling rods.</text>
+        <text>Collector&#39;s Vessel and Pact Boons</text>
+        <text>When you create a tether with your Collector&#39;s Vessel, the tether takes on a form that reflects your patron&#39;s type of geniekind: swirling mist and wind for a djinni, sand and flecks of rock or gems for a dao, smoke and embers for an efreeti, and foamy water for a marid.</text>
+        <text>   When you gain the Pact Boon feature at 3rd level, if you choose a boon that grants you a physical object, your vessel transforms into that object. For example, a warlock whose patron is a noble efreeti and chooses the Pact of the Tome might find their bottle transformed into an elaborate scroll made of a red dragon&#39;s wing, with brass and iron rolling rods.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -304,7 +304,7 @@
         <name>Otherworldly Patron: The Noble Genie (UA): Elemental Resistance (The Noble Genie (UA))</name>
         <text>6th-level Noble Genie feature</text>
         <text>   Your patron grants you protection from an element. Whenever you finish a long rest, you gain resistance to acid, cold, fire, or lightning damage (your choice) until the end of your next long rest.</text>
-        <text>   While the tether of your Collector's Vessel is active, the tethered creature gains resistance to the damage type you chose.</text>
+        <text>   While the tether of your Collector&#39;s Vessel is active, the tethered creature gains resistance to the damage type you chose.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -313,30 +313,30 @@
       <feature optional="YES">
         <name>Otherworldly Patron: The Noble Genie (UA): Protective Wish (The Noble Genie (UA))</name>
         <text>10th-level Noble Genie feature</text>
-        <text>   You're now able to use your Collector's Vessel to wish for protection for yourself or your tethered creature. If you or the tethered creature is hit by an attack, you can use your reaction to teleport, swapping places with the creature and switching which one of you is hit by the attack.</text>
+        <text>   You&#39;re now able to use your Collector&#39;s Vessel to wish for protection for yourself or your tethered creature. If you or the tethered creature is hit by an attack, you can use your reaction to teleport, swapping places with the creature and switching which one of you is hit by the attack.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Noble Genie (UA): Genie's Entertainment (The Noble Genie (UA))</name>
+        <name>Otherworldly Patron: The Noble Genie (UA): Genie&#39;s Entertainment (The Noble Genie (UA))</name>
         <text>10th-level Noble Genie feature</text>
-        <text>   As an action, you attempt to send a creature you can see within 90 feet to your patron's court. The target must succeed on a Charisma saving throw against your warlock spell save DC or be magically drawn into your vessel and teleported to your patron's court in the Elemental Planes. While there, the target is stunned and your patron marvels at the target with amusement but brings no harm to it. The target can repeat the saving throw at the end of each of its turns, reappearing in the space it left or in the nearest unoccupied space if that space is occupied on a success.</text>
-        <text>   Once you use this feature, you can't use it again until you finish a long rest. If the target remains in your patron's court for 1 minute, the genie sends the target back at the end of its turn as if it successfully saved, and you regain the use of this feature.</text>
+        <text>   As an action, you attempt to send a creature you can see within 90 feet to your patron&#39;s court. The target must succeed on a Charisma saving throw against your warlock spell save DC or be magically drawn into your vessel and teleported to your patron&#39;s court in the Elemental Planes. While there, the target is stunned and your patron marvels at the target with amusement but brings no harm to it. The target can repeat the saving throw at the end of each of its turns, reappearing in the space it left or in the nearest unoccupied space if that space is occupied on a success.</text>
+        <text>   Once you use this feature, you can&#39;t use it again until you finish a long rest. If the target remains in your patron&#39;s court for 1 minute, the genie sends the target back at the end of its turn as if it successfully saved, and you regain the use of this feature.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Noble Genie (UA): Collector's Call (The Noble Genie (UA))</name>
+        <name>Otherworldly Patron: The Noble Genie (UA): Collector&#39;s Call (The Noble Genie (UA))</name>
         <text>14th-level Noble Genie feature</text>
-        <text>   In exchange for extending your patron's influence over the multiverse, you can call on more of their power. As an action, you can implore your patron for aid by making a Charisma (Persuasion) check against your warlock spell save DC. If the check succeeds, you can choose one of the following effects:</text>
+        <text>   In exchange for extending your patron&#39;s influence over the multiverse, you can call on more of their power. As an action, you can implore your patron for aid by making a Charisma (Persuasion) check against your warlock spell save DC. If the check succeeds, you can choose one of the following effects:</text>
         <text>• A creature you can see within 60 feet of you regains 8d6 hit points and ends one disease or condition afflicting it: blinded, charmed, deafened, frightened, paralyzed, or poisoned.</text>
         <text>• A creature you can see within 60 feet of you has disadvantage on attack rolls and saving throws until the start of your next turn.</text>
         <text>• You cast the legend lore spell without material components.</text>
-        <text>   Whether the check succeeds or fails, you can't use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 500 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron's realm, provided you have the vessel of your Collector's Vessel in hand.</text>
+        <text>   Whether the check succeeds or fails, you can&#39;t use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 500 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron&#39;s realm, provided you have the vessel of your Collector&#39;s Vessel in hand.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>

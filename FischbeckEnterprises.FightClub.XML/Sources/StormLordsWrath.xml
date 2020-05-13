@@ -20,7 +20,7 @@
         <passive>14</passive>
         <languages>Terran</languages>
         <cr>10</cr>
-        <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine</resist>
+        <resist>bludgeoning, piercing, slashing from nonmagical attacks that aren&#39;t adamantine</resist>
         <immune>poison</immune>
         <vulnerable></vulnerable>
         <conditionImmune>exhaustion, petrified, poisoned</conditionImmune>
@@ -43,7 +43,7 @@
             <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 9 (2d4 + 4) slashing damage.</text>
             <attack>Lightning Bolt Blades|8|2d4+4</attack>
         </action>
-        <description>Source: Storm Lord's Wrath</description>
+        <description>Source: Storm Lord&#39;s Wrath</description>
         <environment></environment>
     </monster>
     <monster>
@@ -75,7 +75,7 @@
             <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
             <attack>Sting|4|1d6+2</attack>
         </action>
-        <description>Source: Storm Lord's Wrath</description>
+        <description>Source: Storm Lord&#39;s Wrath</description>
         <environment></environment>
     </monster>
     <monster>
@@ -95,7 +95,7 @@
         <save></save>
         <skill>Perception +5</skill>
         <passive>15</passive>
-        <languages>understands Infernal but can't speak it</languages>
+        <languages>understands Infernal but can&#39;t speak it</languages>
         <cr>3</cr>
         <resist></resist>
         <immune>cold</immune>
@@ -108,7 +108,7 @@
         </trait>
         <trait>
             <name>Pack Tactics</name>
-            <text>Tooth-N-Claw has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.</text>
+            <text>Tooth-N-Claw has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn&#39;t incapacitated.</text>
         </trait>
         <action>
             <name>Bite</name>
@@ -119,7 +119,7 @@
             <name>Freezing Breath (Recharge 5-6)</name>
             <text>Tooth-N-Claw exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) cold damage on a failed save, or half as much damage on a successful one.</text>
         </action>
-        <description>Source: Storm Lord's Wrath</description>
+        <description>Source: Storm Lord&#39;s Wrath</description>
         <environment></environment>
     </monster>
 </compendium>

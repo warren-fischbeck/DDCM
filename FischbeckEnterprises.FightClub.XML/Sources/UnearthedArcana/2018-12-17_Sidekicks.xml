@@ -41,8 +41,8 @@
     <autolevel level="1">
       <feature>
         <name>Expertise</name>
-        <text>At 1st level, choose two of the sidekick's skill proficiencies. The sidekick's proficiency bonus is doubled for any ability check it makes that uses either of the chosen proficiencies.</text>
-        <text>At 6th level and again at 17th level, choose two more of the sidekick's skill proficiencies to gain this benefit.</text>
+        <text>At 1st level, choose two of the sidekick&#39;s skill proficiencies. The sidekick&#39;s proficiency bonus is doubled for any ability check it makes that uses either of the chosen proficiencies.</text>
+        <text>At 6th level and again at 17th level, choose two more of the sidekick&#39;s skill proficiencies to gain this benefit.</text>
       </feature>
     </autolevel>
     <autolevel level="1">
@@ -54,19 +54,19 @@
     <autolevel level="2">
       <feature>
         <name>Cunning Action</name>
-        <text>Starting at 2nd level, the sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the Dash, Disengage, or Hide action as a bonus action.</text>
+        <text>Starting at 2nd level, the sidekick&#39;s agility or quick thinking allows it to act speedily. On its turn in combat, it can take the Dash, Disengage, or Hide action as a bonus action.</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature>
         <name>Jack of Many Trades</name>
-        <text>Beginning at 3rd level, the sidekick can add half its proficiency bonus to any ability check it makes that uses a skill but doesn't already include its proficiency bonus.</text>
+        <text>Beginning at 3rd level, the sidekick can add half its proficiency bonus to any ability check it makes that uses a skill but doesn&#39;t already include its proficiency bonus.</text>
       </feature>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 10th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.</text>
+        <text>When you reach 4th level, and again at 8th, 10th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&#39;t increase an ability score above 20 using this feature.</text>
       </feature>
     </autolevel>
     <autolevel level="5">
@@ -84,7 +84,7 @@
     <autolevel level="7">
       <feature>
         <name>Evasion</name>
-        <text>Beginning at 7th level, because of extraordinary good luck, the sidekick is skilled at avoiding certain dangers. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while incapacitated.</text>
+        <text>Beginning at 7th level, because of extraordinary good luck, the sidekick is skilled at avoiding certain dangers. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn&#39;t benefit from this feature while incapacitated.</text>
       </feature>
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
@@ -96,7 +96,7 @@
     <autolevel level="9">
       <feature>
         <name>Inspiring Help (1d6)</name>
-        <text>Starting at 9th level, the sidekick's assistance becomes especially inspiring. When the sidekick uses its Helpful bonus action, the creature who receives the help also gains a 1d6 bonus to the d20 roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.</text>
+        <text>Starting at 9th level, the sidekick&#39;s assistance becomes especially inspiring. When the sidekick uses its Helpful bonus action, the creature who receives the help also gains a 1d6 bonus to the d20 roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack&#39;s damage roll against one target.</text>
         <text>At 18th level, the bonus increases to 2d6.</text>
       </feature>
     </autolevel>
@@ -163,8 +163,8 @@
     <autolevel level="20">
       <feature>
         <name>Stroke of Luck</name>
-        <text>At 20th level, the sidekick has an uncanny knack for turning failure into success. If the sidekick's attack misses a target within range, it can turn the miss into a hit. Alternatively, if it fails an ability check, it can treat the d20 roll as a 20.</text>
-        <text>Once it uses this feature, the sidekick can't use it again until it finishes a short or long rest.</text>
+        <text>At 20th level, the sidekick has an uncanny knack for turning failure into success. If the sidekick&#39;s attack misses a target within range, it can turn the miss into a hit. Alternatively, if it fails an ability check, it can treat the d20 roll as a 20.</text>
+        <text>Once it uses this feature, the sidekick can&#39;t use it again until it finishes a short or long rest.</text>
       </feature>
     </autolevel>
   </class>
@@ -222,7 +222,7 @@
         <text>   At first level, the sidekick knows three cantrips of your choice from its spell list. The sidekick learns additional cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Spellcaster table.</text>
         <text />
         <text>Spell Slots:</text>
-        <text>   The Spellcaster table shows how many spell slots the sidekick has to cast its spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell's level or higher. The spellcaster regains all expended spell slots when it finishes a long rest.</text>
+        <text>   The Spellcaster table shows how many spell slots the sidekick has to cast its spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell&#39;s level or higher. The spellcaster regains all expended spell slots when it finishes a long rest.</text>
         <text>   For example, if the sidekick knows the 1st-level spell cure wounds and has a 1st-level and a 2nd-level spell slot available, it can cast the spell using either slot.</text>
         <text />
         <text>Spells Known:</text>
@@ -231,7 +231,7 @@
         <text>   Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list, which also must be of a level for which it has spell slots.</text>
         <text />
         <text>Spellcasting Ability:</text>
-        <text>   The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.</text>
+        <text>   The sidekick&#39;s spellcasting ability for these spells depends on the choice you made on the Spellcasting table.</text>
         <text>   The sidekick uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.</text>
         <text />
         <text>Spellcasting Focus:</text>
@@ -242,13 +242,13 @@
       <feature>
         <name>Magical Recovery</name>
         <text>Beginning at 2nd level, when the sidekick finishes a short rest, it can recover expended spell slots. The spell slots can have a combined level that is equal to or less than half its level in this class (rounded up), and none of the spell slots can be 6th level or higher.</text>
-        <text>Once the sidekick uses this feature, it can't use the feature again until it finishes a long rest.</text>
+        <text>Once the sidekick uses this feature, it can&#39;t use the feature again until it finishes a long rest.</text>
       </feature>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.</text>
+        <text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&#39;t increase an ability score above 20 using this feature.</text>
       </feature>
     </autolevel>
     <autolevel level="6">
@@ -266,7 +266,7 @@
     <autolevel level="10">
       <feature>
         <name>Empowered Spells</name>
-        <text>At 10th level, choose one school of magic. Whenever the sidekick casts a spell of that school by expending a spell slot, the sidekick can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.</text>
+        <text>At 10th level, choose one school of magic. Whenever the sidekick casts a spell of that school by expending a spell slot, the sidekick can add its spellcasting ability modifier to the spell&#39;s damage roll or healing roll, if any.</text>
       </feature>
     </autolevel>
     <autolevel level="12" scoreImprovement="YES">
@@ -346,19 +346,19 @@
     <autolevel level="2">
       <feature>
         <name>Danger Sense</name>
-        <text>Beginning at 2nd level, the sidekick has advantage on Dexterity saving throws against effects that it can see, such as traps and spells. This feature doesn't work if the sidekick is incapacitated.</text>
+        <text>Beginning at 2nd level, the sidekick has advantage on Dexterity saving throws against effects that it can see, such as traps and spells. This feature doesn&#39;t work if the sidekick is incapacitated.</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature>
         <name>Improved Critical</name>
-        <text>Starting at 3rd level, the sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the d20.</text>
+        <text>Starting at 3rd level, the sidekick&#39;s attack rolls score a critical hit on a roll of 19 or 20 on the d20.</text>
       </feature>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature>
         <name>Ability Score Improvement</name>
-        <text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.</text>
+        <text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can&#39;t increase an ability score above 20 using this feature.</text>
       </feature>
     </autolevel>
     <autolevel level="5">
@@ -389,14 +389,14 @@
     <autolevel level="9">
       <feature>
         <name>Indomitable (1 use)</name>
-        <text>Starting at 9th level, the sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again unless it finishes a long rest.</text>
+        <text>Starting at 9th level, the sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can&#39;t use the feature again unless it finishes a long rest.</text>
         <text>The sidekick can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature>
         <name>Improved Defense</name>
-        <text>At 10th level, the sidekick's Armor Class increases by 1.</text>
+        <text>At 10th level, the sidekick&#39;s Armor Class increases by 1.</text>
       </feature>
     </autolevel>
     <autolevel level="11">
@@ -426,7 +426,7 @@
     <autolevel level="15">
       <feature>
         <name>Superior Critical</name>
-        <text>Starting at 15th level, the sidekick's attack rolls score a critical hit on a roll of 18-20 on the d20.</text>
+        <text>Starting at 15th level, the sidekick&#39;s attack rolls score a critical hit on a roll of 18-20 on the d20.</text>
       </feature>
     </autolevel>
     <autolevel level="16" scoreImprovement="YES">

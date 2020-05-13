@@ -84,16 +84,16 @@
             <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 24 (9d4 + 2) bludgeoning damage, or 14 (5d4 + 2) bludgeoning damage if the decapus is grappling a creature other than the target or if the decapus is on the ground or floor. The target is also grappled (escape DC 14) unless the decapus is already grappling a creature. Until this grapple ends, the target is restrained.</text>
             <text />
             <text>Grappled:</text>
-            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>&#8226; A grappled creature&#39;s speed becomes 0, and it can&#39;t benefit from any bonus to its speed.</text>
             <text />
             <text>&#8226; The condition ends if the grappler is incapacitated.</text>
             <text />
             <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
             <text />
             <text>Restrained:</text>
-            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>&#8226; A restrained creature&#39;s speed becomes 0, and it can&#39;t benefit from any bonus to its speed.</text>
             <text />
-            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature&#39;s attack rolls have disadvantage.</text>
             <text />
             <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
             <attack>Tentacles|4|9d4+2</attack>
@@ -126,7 +126,7 @@
         </trait>
         <trait>
             <name>Boulder Guise</name>
-            <text>While fully withdrawn into its shell, the geonid can't see and is indistinguishable from a small boulder.</text>
+            <text>While fully withdrawn into its shell, the geonid can&#39;t see and is indistinguishable from a small boulder.</text>
         </trait>
         <action>
             <name>Multiattack</name>
@@ -185,16 +185,16 @@
             <text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 24 (9d4 + 2) bludgeoning damage, or 14 (5d4 + 2) bludgeoning damage if the decapus is grappling a creature other than the target or if the decapus is on the ground or floor. The target is also grappled (escape DC 14) unless the decapus is already grappling a creature. Until this grapple ends, the target is restrained.</text>
             <text />
             <text>Grappled:</text>
-            <text>&#8226; A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>&#8226; A grappled creature&#39;s speed becomes 0, and it can&#39;t benefit from any bonus to its speed.</text>
             <text />
             <text>&#8226; The condition ends if the grappler is incapacitated.</text>
             <text />
             <text>&#8226; The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.</text>
             <text />
             <text>Restrained:</text>
-            <text>&#8226; A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</text>
+            <text>&#8226; A restrained creature&#39;s speed becomes 0, and it can&#39;t benefit from any bonus to its speed.</text>
             <text />
-            <text>&#8226; Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</text>
+            <text>&#8226; Attack rolls against the creature have advantage, and the creature&#39;s attack rolls have disadvantage.</text>
             <text />
             <text>&#8226; The creature has disadvantage on Dexterity saving throws.</text>
             <attack>Tentacles|4|9d4+2</attack>
@@ -219,7 +219,7 @@
         <conditionImmune>poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>10</passive>
-        <languages>understands the languages it knew in life but can't speak</languages>
+        <languages>understands the languages it knew in life but can&#39;t speak</languages>
         <cr>1/2</cr>
         <trait>
             <name>Source</name>
@@ -235,7 +235,7 @@
         </trait>
         <action>
             <name>Venomous Claws</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned until the end of the target's next turn.</text>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned until the end of the target&#39;s next turn.</text>
             <text />
             <text>Poisoned:</text>
             <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
