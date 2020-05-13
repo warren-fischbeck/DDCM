@@ -1263,10 +1263,10 @@ Dragons are innately magical creatures that can master a few spells as they age,
 GOLD DRAGON
 -------------
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil. 
-A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
+A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon&#39;s sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
 
 Devourer of Wealth
-Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes. 
+Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn&#39;t need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren&#39;t bribes. 
 
 Reserved Shapeshifters
 Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
@@ -1275,20 +1275,20 @@ Older gold dragons can assume animal and humanoid forms. Rarely does a gold drag
 Master Hoarders
 A gold dragon keeps its hoard ina well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.
 
-A GOLD DRAGON'S LAIR
+A GOLD DRAGON&#39;S LAIR
 ---------------------
 Gold dragons make their homes in out-of-the-way places, where they can do as they please without arousing suspicion or fear. Most dwell near idyllic lakes and rivers, mist-shrouded islands, cave complexes hidden behind sparkling waterfalls, or ancient ruins.
 
 LAIR ACTIONS
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row: 
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can&#39;t use the same effect two rounds in a row: 
 &#8226; The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
-&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
+&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon&#39;s. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
 
 REGIONAL EFFECTS
-The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects: 
-&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
-&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
-&#8226; Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.
+The region containing a legendary gold dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects: 
+&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon&#39;s lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
+&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon&#39;s lair. The mist doesn&#39;t obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
+&#8226; Gems and pearls within 1 mile of the dragon&#39;s lair sparkle and gleam, shedding dim light in a 5-foot radius.
 
 If the dragon dies, these effects end immediately.</description>    <action>
       <name>Multiattack</name>
@@ -1732,22 +1732,22 @@ Dragons are innately magical creatures that can master a few spells as they age,
 SILVER DRAGON
 -------------
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need. 
-A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
+A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling&#39;s scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
 
 Dragons of Virtue
-Silver dragons believe that living a moral life involves doing good deeds and ensuring that one's actions cause no undeserved harm to other sentient beings. They don't take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
+Silver dragons believe that living a moral life involves doing good deeds and ensuring that one&#39;s actions cause no undeserved harm to other sentient beings. They don&#39;t take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
 
 Friends of the Small Races
 Silver dragons enjoy the company of other silver dragons. Their only true friendships outside their own kin arise in the company of humanoids, and many silver dragons spend as much time in humanoid form as they do in draconic form. A silver dragon adopts a benign humanoid persona such as a kindly old sage or a young wanderer, and it often has mortal companions with whom it develops strong frieqdships.
 Silver dragons must step away from their humanoid lives on a regular basis, returning to their true forms to mate and rear offspring, or to tend to their hoards and personal affairs. Because many lose track of time while away, they sometimes return to find that their companions have grown old or died. Silver dragons often end up befriending several generations of humanoids within a single family as a result.
 
 Respect for Humanity
-Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don't. Humans have a drive and zest for life that silver dragons find fascinating.
+Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don&#39;t. Humans have a drive and zest for life that silver dragons find fascinating.
 
 Hoarding History
 Silver dragons love to possess relics of humanoid history. This includes the great piles of coins they covet, minted by current and fallen humanoid empires, as well as art objects and fine jewelry crafted by numerous races. Other treasures that make up their hoards can include intact ships, the remains of kings and queens, thrones, the crown jewels of ancient empires, inventions and contraptions, and monoliths carried from the ruins of fallen cities. 
 
-A SILVER DRAGON's LAIR
+A SILVER DRAGON&#39;s LAIR
 -----------------------
 Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of. 
 
@@ -1758,9 +1758,9 @@ On initiative count 20 (iosing initiative ties), the dragon takes a lair action 
 
 REGIONAL EFFECTS
 ----------------
-The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
-&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
-&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
+The region containing a legendary silver dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects.
+&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn&#39;t need to be outdoors; otherwise the effect is identical to the control weather spell.
+&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon&#39;s or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
 &#8226; Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes. 
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</description>    <action>
@@ -2074,10 +2074,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 AIR ELEMENTAL
 --------------
@@ -2145,10 +2145,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 AIR ELEMENTAL
 --------------
@@ -3183,10 +3183,10 @@ Dragons are innately magical creatures that can master a few spells as they age,
 GOLD DRAGON
 -------------
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil. 
-A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
+A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon&#39;s sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
 
 Devourer of Wealth
-Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes. 
+Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn&#39;t need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren&#39;t bribes. 
 
 Reserved Shapeshifters
 Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
@@ -3195,20 +3195,20 @@ Older gold dragons can assume animal and humanoid forms. Rarely does a gold drag
 Master Hoarders
 A gold dragon keeps its hoard ina well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.
 
-A GOLD DRAGON'S LAIR
+A GOLD DRAGON&#39;S LAIR
 ---------------------
 Gold dragons make their homes in out-of-the-way places, where they can do as they please without arousing suspicion or fear. Most dwell near idyllic lakes and rivers, mist-shrouded islands, cave complexes hidden behind sparkling waterfalls, or ancient ruins.
 
 LAIR ACTIONS
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row: 
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can&#39;t use the same effect two rounds in a row: 
 &#8226; The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
-&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
+&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon&#39;s. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
 
 REGIONAL EFFECTS
-The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects: 
-&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
-&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
-&#8226; Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.
+The region containing a legendary gold dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects: 
+&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon&#39;s lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
+&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon&#39;s lair. The mist doesn&#39;t obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
+&#8226; Gems and pearls within 1 mile of the dragon&#39;s lair sparkle and gleam, shedding dim light in a 5-foot radius.
 
 If the dragon dies, these effects end immediately.</description>
     <action>
@@ -3650,22 +3650,22 @@ Dragons are innately magical creatures that can master a few spells as they age,
 SILVER DRAGON
 -------------
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need. 
-A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
+A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling&#39;s scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
 
 Dragons of Virtue
-Silver dragons believe that living a moral life involves doing good deeds and ensuring that one's actions cause no undeserved harm to other sentient beings. They don't take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
+Silver dragons believe that living a moral life involves doing good deeds and ensuring that one&#39;s actions cause no undeserved harm to other sentient beings. They don&#39;t take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
 
 Friends of the Small Races
 Silver dragons enjoy the company of other silver dragons. Their only true friendships outside their own kin arise in the company of humanoids, and many silver dragons spend as much time in humanoid form as they do in draconic form. A silver dragon adopts a benign humanoid persona such as a kindly old sage or a young wanderer, and it often has mortal companions with whom it develops strong frieqdships.
 Silver dragons must step away from their humanoid lives on a regular basis, returning to their true forms to mate and rear offspring, or to tend to their hoards and personal affairs. Because many lose track of time while away, they sometimes return to find that their companions have grown old or died. Silver dragons often end up befriending several generations of humanoids within a single family as a result.
 
 Respect for Humanity
-Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don't. Humans have a drive and zest for life that silver dragons find fascinating.
+Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don&#39;t. Humans have a drive and zest for life that silver dragons find fascinating.
 
 Hoarding History
 Silver dragons love to possess relics of humanoid history. This includes the great piles of coins they covet, minted by current and fallen humanoid empires, as well as art objects and fine jewelry crafted by numerous races. Other treasures that make up their hoards can include intact ships, the remains of kings and queens, thrones, the crown jewels of ancient empires, inventions and contraptions, and monoliths carried from the ruins of fallen cities. 
 
-A SILVER DRAGON's LAIR
+A SILVER DRAGON&#39;s LAIR
 -----------------------
 Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of. 
 
@@ -3676,9 +3676,9 @@ On initiative count 20 (iosing initiative ties), the dragon takes a lair action 
 
 REGIONAL EFFECTS
 ----------------
-The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
-&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
-&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
+The region containing a legendary silver dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects.
+&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn&#39;t need to be outdoors; otherwise the effect is identical to the control weather spell.
+&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon&#39;s or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
 &#8226; Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes. 
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</description>
@@ -13755,7 +13755,7 @@ Intelligent evil creatures favor displacer beasts as pets, but a displacer beast
     </spells>
     <environment>Coastal, Underwater</environment>
     <description>Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
-A dragon turtle's rough shell is the same dark green color as the deep water where this monster dwells. Silver highlights lining the shell resemble light dancing on open water, and a surfacing dragon turtle is sometimes mistaken for the reflection of the sun or moon on the waves. 
+A dragon turtle&#39;s rough shell is the same dark green color as the deep water where this monster dwells. Silver highlights lining the shell resemble light dancing on open water, and a surfacing dragon turtle is sometimes mistaken for the reflection of the sun or moon on the waves. 
 
 Dragons of the Deep
 Like true dragons, dragon turtles collect treasure, first by sinking ships and then by sifting through the wreckage for coins and other precious items. A dragon turtle swallows treasure for transport, then regurgitates it when it reaches its lair. Dragon turtles dwell in caves hidden in coral reefs or beneath the seafloor, or along rugged stretches of coastline. If a choice cave is already inhabited, a dragon turtle attacks its current residents in an attempt to take over.
@@ -14362,11 +14362,11 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
     </slots>
     <spells>dancing lights, darkness, faerie fire</spells>
     <environment>Underdark</environment>
-    <description>When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders- a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
+    <description>When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen&#39;s favor. Those that fail are transformed into driders- a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth&#39;s power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
 
 Scarred for Life
 Drow transformed into driders return to the Material Plane as twisted and debased creatures. Driven by madness, they disappear into the Underdark to become hermits and hunters, either wandering alone or leading packs of giant spiders.
-On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth's will, and a reminder of the fate that awaits all who fail the Spider Queen. 
+On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth&#39;s will, and a reminder of the fate that awaits all who fail the Spider Queen. 
 
 VARIANT: DRIDER SPELLCASTING
 -----------------------------
@@ -14454,11 +14454,11 @@ Cantrips (at will): poison spray, thaumaturgy
     <slots>4,3,3,2,0,0,0,0,0</slots>
     <spells>dancing lights, darkness, faerie fire, poison spray, thaumaturgy, bane, detect magic, sanctuary, hold person, silence, clairvoyance, dispel magic, divination, freedom of movement</spells>
     <environment>coastal,forest,grassland,hill,mountain</environment>
-    <description>When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders- a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
+    <description>When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen&#39;s favor. Those that fail are transformed into driders- a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth&#39;s power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
 
 Scarred for Life
 Drow transformed into driders return to the Material Plane as twisted and debased creatures. Driven by madness, they disappear into the Underdark to become hermits and hunters, either wandering alone or leading packs of giant spiders.
-On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth's will, and a reminder of the fate that awaits all who fail the Spider Queen. 
+On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth&#39;s will, and a reminder of the fate that awaits all who fail the Spider Queen. 
 
 VARIANT: DRIDER SPELLCASTING
 -----------------------------
@@ -14657,11 +14657,11 @@ Drow craft weapons made of adamantine, a dark and supernaturally hard metal. Dro
 
 Cutthroat Politics
 Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short lived and fraught with peril. 
-Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house's social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
+Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house&#39;s social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
 
 Matriarchal Rule
 Lolth, through her faithful priestesses, dictates the rules of drow society, ensuring that her orders and plots are carried out. Since Lolth is prone to manifesting on the Material Plane and directly punishing those that disobey her, the drow have learned to heed what she says and do as her priestesses command.
-In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can't be priests, nor can they rule a house.
+In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can&#39;t be priests, nor can they rule a house.
 
 Poison Predilection
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies unconscious. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat. </description>
@@ -14744,11 +14744,11 @@ Drow craft weapons made of adamantine, a dark and supernaturally hard metal. Dro
 
 Cutthroat Politics
 Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short lived and fraught with peril. 
-Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house's social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
+Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house&#39;s social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
 
 Matriarchal Rule
 Lolth, through her faithful priestesses, dictates the rules of drow society, ensuring that her orders and plots are carried out. Since Lolth is prone to manifesting on the Material Plane and directly punishing those that disobey her, the drow have learned to heed what she says and do as her priestesses command.
-In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can't be priests, nor can they rule a house.
+In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can&#39;t be priests, nor can they rule a house.
 
 Poison Predilection
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies unconscious. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
@@ -14845,11 +14845,11 @@ Drow craft weapons made of adamantine, a dark and supernaturally hard metal. Dro
 
 Cutthroat Politics
 Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short lived and fraught with peril. 
-Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house's social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
+Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house&#39;s social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
 
 Matriarchal Rule
 Lolth, through her faithful priestesses, dictates the rules of drow society, ensuring that her orders and plots are carried out. Since Lolth is prone to manifesting on the Material Plane and directly punishing those that disobey her, the drow have learned to heed what she says and do as her priestesses command.
-In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can't be priests, nor can they rule a house.
+In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can&#39;t be priests, nor can they rule a house.
 
 Poison Predilection
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies unconscious. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
@@ -14946,19 +14946,19 @@ Drow craft weapons made of adamantine, a dark and supernaturally hard metal. Dro
 
 Cutthroat Politics
 Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short lived and fraught with peril. 
-Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house's social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
+Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house&#39;s social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
 
 Matriarchal Rule
 Lolth, through her faithful priestesses, dictates the rules of drow society, ensuring that her orders and plots are carried out. Since Lolth is prone to manifesting on the Material Plane and directly punishing those that disobey her, the drow have learned to heed what she says and do as her priestesses command.
-In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can't be priests, nor can they rule a house.
+In drow society, males are subservient to females. A male drow might lead an Underdark patrol or a raiding party to the surface, but he reports to a female drow-either the matron of his house or one of her hand-picked female subordinates. Although male drow can fill almost any function in drow society, they can&#39;t be priests, nor can they rule a house.
 
 Poison Predilection
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies unconscious. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 DROW PRIESTESS OF LOLTH
 -------------------------
-Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions. 
-Such priestesses execute the will 0f the Spider Queen, and as a result, they wield tremendous power and influence in drow society. The matron mothers who rule the drow houses are the most powerful of Lolth's priestesses, but they must constantly balance their devotion to the Spider Queen with their devotion to their families. </description>
+Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn&#39;t allow male drow to hold such positions. 
+Such priestesses execute the will 0f the Spider Queen, and as a result, they wield tremendous power and influence in drow society. The matron mothers who rule the drow houses are the most powerful of Lolth&#39;s priestesses, but they must constantly balance their devotion to the Spider Queen with their devotion to their families. </description>
 	<action>
       <name>Multiattack</name>
       <text>The drow makes two scourge attacks.</text>
@@ -15132,7 +15132,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 Reclusive Fey
 Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be charmed.
-Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
+Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads&#39; devotion to the woods they call home.
 
 Woodland Magic
 Dryads can speak with plants and animals. They can teleport from one tree to another, luring interlopers away from their groves. If pressed, a dryad can beguile liumanoids with her enchantments, turning enemies into friends. They also know a handful of useful spells. </description>
@@ -15212,11 +15212,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15290,11 +15290,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15376,11 +15376,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15466,11 +15466,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15559,11 +15559,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15642,11 +15642,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15697,11 +15697,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15790,11 +15790,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>    <action>
@@ -15869,11 +15869,11 @@ The duergar were once dwarves, before their greed and endless delving beneath th
 Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
 Tough as Stone
-Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.
+Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar&#39;s mind is a fortress, able to shrug off charms, illusions, and other spells.
 
 Born of Darkness
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
-Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight. 
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can&#39;t fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. 
+Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar&#39;s vision is compromised by sunlight. 
 
 Infernal Master
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.</description>
@@ -16163,10 +16163,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 EARTH ELEMENTAL
 --------------
@@ -16233,10 +16233,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 EARTH ELEMENTAL
 --------------
@@ -16631,10 +16631,10 @@ Manifest Emotion
 An empyrean can experience deity-like fits of serenity or rage. It can affect the environment a round it by its mood. When an empyrean is unhappy, the clouds might cry tears of salt water, the wildflowers in surrounding meadows might wilt, dead fish might wash ashore in lakes or rivers, or a nearby forest might lose the leaves from its trees. When an empyrean is jubilant, sunlight follows it everywhere, small animals frolic in its footsteps, and birds fill the sky with their pleasing songs.
 
 Evil Empyreans
-A few empyreans have turned to evil after venturing to the Lower Planes and becoming corrupted, or as the result of being cursed by evil gods. An evil empyrean can't survive long on the Upper Planes and usually retreats to the Material Plane, where it can rule over a kingdom of mortals as an indomitable tyrant.
+A few empyreans have turned to evil after venturing to the Lower Planes and becoming corrupted, or as the result of being cursed by evil gods. An evil empyrean can&#39;t survive long on the Upper Planes and usually retreats to the Material Plane, where it can rule over a kingdom of mortals as an indomitable tyrant.
 
 Immortal Titans
-Empyreans don't age but can be  slain. Because few empyreans can imagine their own demise, they fight fearlessly when drawn into battle, refusing to believe that the end is upon them even when standing at death's door. When an empyrean dies, its spirit returns to its home plane. There, one of the fallen empyrean's parents resurrects the emprean unless he or she has a good reason not to.</description>
+Empyreans don&#39;t age but can be  slain. Because few empyreans can imagine their own demise, they fight fearlessly when drawn into battle, refusing to believe that the end is upon them even when standing at death&#39;s door. When an empyrean dies, its spirit returns to its home plane. There, one of the fallen empyrean&#39;s parents resurrects the emprean unless he or she has a good reason not to.</description>
     <action>
       <name>Maul</name>
       <text>Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 31 (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be stunned until the end of the empyrean&#39;s next turn.</text>
@@ -16996,22 +16996,22 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
     </spells>
     <environment>Forest</environment>
     <description>Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests. 
-Fine strands of silk stream from glands in an ettercap's abdomen, letting it shoot sticky strands of webbing to bind, entrap, or strangle its victims. It can also use its webbing to fashion elaborate snares and nets, which often festoon its lair.
+Fine strands of silk stream from glands in an ettercap&#39;s abdomen, letting it shoot sticky strands of webbing to bind, entrap, or strangle its victims. It can also use its webbing to fashion elaborate snares and nets, which often festoon its lair.
 
 Quiet Killers
-When travelers and explorers venture into an ettercap's territory, the ettercap stalks them. Some meet their end wandering blindly into traps or sections of forest enclosed by webs. Others, the ettercap garrotes with strands of web or envenoms with its poisonous bite.
+When travelers and explorers venture into an ettercap&#39;s territory, the ettercap stalks them. Some meet their end wandering blindly into traps or sections of forest enclosed by webs. Others, the ettercap garrotes with strands of web or envenoms with its poisonous bite.
 
 Sylvan Despoilers
-Though they dwell in the wilds, ettercaps have no desire to live in harmony with nature. A forest infested with ettercaps transforms into a gloomy place, choked with webs and infested with giant spiders, giant insects, and other sinister predators. Creatures that wander too far into such a wood are soon lost in a maze of webs that dangle with the bones and lost treasures of the ettercaps' victims. 
+Though they dwell in the wilds, ettercaps have no desire to live in harmony with nature. A forest infested with ettercaps transforms into a gloomy place, choked with webs and infested with giant spiders, giant insects, and other sinister predators. Creatures that wander too far into such a wood are soon lost in a maze of webs that dangle with the bones and lost treasures of the ettercaps&#39; victims. 
 
 Enemies of the Fey
-Ettercaps are natural enemies of fey creatures. The foul creatures set web snares to catch sprites and pixies, which they hungrily devour, and will encase a dryad's tree in webbing in a vain attempt to trap the dryad. Otherwise timid fey will sometimes approach outsiders for help in dealing with an ettercap infestation, being ill-equipped to deal with the malevolent creatures themselves.
+Ettercaps are natural enemies of fey creatures. The foul creatures set web snares to catch sprites and pixies, which they hungrily devour, and will encase a dryad&#39;s tree in webbing in a vain attempt to trap the dryad. Otherwise timid fey will sometimes approach outsiders for help in dealing with an ettercap infestation, being ill-equipped to deal with the malevolent creatures themselves.
 
 VARIANT: WEB GARROTE
 Some ettercaps like to strangle prey using garrotes fashioned from webbing. An ettercap so armed gains the following action option, which it uses in place of its claws.
 
 Web Garrote
-Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or Small creature against which the ettercap has advantage on the attack roll. Hit: 4 (1 d4 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target can't breathe, and the ettercap has advantage on attack rolls against it. </description>
+Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or Small creature against which the ettercap has advantage on the attack roll. Hit: 4 (1 d4 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target can&#39;t breathe, and the ettercap has advantage on attack rolls against it. </description>
     <action>
       <name>Multiattack</name>
       <text>The ettercap makes two attacks: one with its bite and one with its claws.</text>
@@ -17086,18 +17086,18 @@ Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or Small creature agains
     <description>An ettin is a foul, two-headed giant with the crude characterists of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
 
 Dual Personality
-The twin heads of an ettin are two individuals trapped in the same brutish body. Each head has its own mind, personality, and name, and possesses unique preferences and quirks. Bound from birth, both minds only rarely experience privacy or solitude. This familiarity breeds contempt, and an ettin bullies and argues with itself constantly, its two heads each taking constant offense at the other's slights. 
+The twin heads of an ettin are two individuals trapped in the same brutish body. Each head has its own mind, personality, and name, and possesses unique preferences and quirks. Bound from birth, both minds only rarely experience privacy or solitude. This familiarity breeds contempt, and an ettin bullies and argues with itself constantly, its two heads each taking constant offense at the other&#39;s slights. 
 When other creatures refer to an ettin, they combine its double names to form a single compound name that applies to the creature as a whole. If an ettin has one head named Hargle and another named Vargle, other creatures call the ettin Harglevargle.
 
 Solitary Lives
-As much as an ettin argues with itself, it is even less tolerant of other ettins, since a conversation between two ettins almost always amounts to a shouting match between a crowd of four belligerent heads. Most ettins are solitary creatures as a result, tolerating one another only to reproduce. An ettin's twin heads are always the same gender, with a body to match. Females are the dominant gender among ettins, and they initiate the ettins' mating rituals. After finding a suitable den, a female ettin hunts and conquers a male, which cares for and feeds her during her sixmonth pregnancy. Once the child is born, the male ettin is released from servitude. When the child is old enough to hunt for itself, the mother sends it away and abandons the den.
+As much as an ettin argues with itself, it is even less tolerant of other ettins, since a conversation between two ettins almost always amounts to a shouting match between a crowd of four belligerent heads. Most ettins are solitary creatures as a result, tolerating one another only to reproduce. An ettin&#39;s twin heads are always the same gender, with a body to match. Females are the dominant gender among ettins, and they initiate the ettins&#39; mating rituals. After finding a suitable den, a female ettin hunts and conquers a male, which cares for and feeds her during her sixmonth pregnancy. Once the child is born, the male ettin is released from servitude. When the child is old enough to hunt for itself, the mother sends it away and abandons the den.
 
 Two Heads are Better than One
 When focused on a mutually beneficial purpose or united by a common threat, an ettin can resolve its personality differences and dedicate itself fully to a task. An ettin fights with a weapon in each hand, making twin attacks directed by its respective heads. When an ettin sleeps, one of its heads remains ever alert, gaining its only moments of privacy and keeping two eyes open for any creature that disturbs its precious solitude. 
 
 Orcish Ties
 In ancient dialects of Common, the word "ettin" translates as "ugly giant." Legends tell of orcs that once stumbled upon a temple to Demogorgon, the magic of which transformed them into giant mockeries of the twin-headed Prince of Demons. Driven to near madness, these creatures scattered into the wilderness to become the first ettins. 
-Whatever the truth of the ettins' origin, orcs treat them as distant cousins, and ore tribes often entice ettins to serve as guards, scouts, and marauders. An ettin is n't particularly loyal to its ore handlers, but the orcs can win it over with the promise of food and loot. </description>
+Whatever the truth of the ettins&#39; origin, orcs treat them as distant cousins, and ore tribes often entice ettins to serve as guards, scouts, and marauders. An ettin is n&#39;t particularly loyal to its ore handlers, but the orcs can win it over with the promise of food and loot. </description>
     <action>
       <name>Multiattack</name>
       <text>The ettin makes two attacks: one with its battleaxe and one with its morningstar.</text>
@@ -17352,13 +17352,13 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -17448,13 +17448,13 @@ Violet              51 or more</description>
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -17544,13 +17544,13 @@ Violet              51 or more</description>
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -17640,13 +17640,13 @@ Violet              51 or more</description>
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -17736,13 +17736,13 @@ Violet              51 or more</description>
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -17832,13 +17832,13 @@ Violet              51 or more</description>
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -17928,13 +17928,13 @@ Violet              51 or more</description>
     <description>A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment only if it is attacked.
 
 Invisible Tricksters
-The only warning of a faerie dragon's presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
+The only warning of a faerie dragon&#39;s presence is a stifled giggle. The dragon stays out of sight, watching invisibly as its victims contend with its pranks. When its fun is done, the dragon might reveal itself, depending on the disposition of its "prey."
 
 Friendly and Bright
-A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon's draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
+A faerie dragon has a sharp mind, a fondness for treasure and good company, and a puckish sense of humor. Travelers can play to a faerie dragon&#39;s draconic nature by offering it "treasure" in the form of sweets, baked goods, and baubles in exchange for information or safe passage through its territory. 
 
 The Colors of Age
-A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
+A faerie dragon&#39;s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color        Age Range
 Red                 5 years or less
@@ -18209,10 +18209,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 FIRE ELEMENTAL
 --------------
@@ -18284,10 +18284,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 FIRE ELEMENTAL
 --------------
@@ -18712,16 +18712,16 @@ Legacy of Life
 A flameskull only dimly recalls its former life. Though it might speak in its old voice and recount key events from its past, it is but an echo of its former self. However, its undead transformation grants it full access to the magic it wielded in life, letting it cast spells while ignoring the material and somatic components it can no longer employ.
 
 Eternally Bound
-Intelligent and vigilant, a flameskull serves its creator by protecting a hidden treasure hoard, a secret chamber, or a specific individual. A flameskull carries out the directives given to it when it was created, and it interprets those commands to the letter. A flameskull's master must craft its instructions with care to ensure that the creature carries out its tasks properly.
+Intelligent and vigilant, a flameskull serves its creator by protecting a hidden treasure hoard, a secret chamber, or a specific individual. A flameskull carries out the directives given to it when it was created, and it interprets those commands to the letter. A flameskull&#39;s master must craft its instructions with care to ensure that the creature carries out its tasks properly.
 
 Wreathed in Flame
 The fire wreathing a flameskull burns continually, giving off bright light that the creature controls. It uses those  flames as a weapon, focusing them to loose them as fiery rays from its eye sockets.
 
 Eldritch Rejuvenation
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a dispel magic or remove curse spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+A flameskull&#39;s shattered fragments reform unless they are splashed with holy water or subjected to a dispel magic or remove curse spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
 
 Undead Nature
-A flameskull doesn't require air, food, drink, or sleep. </description>
+A flameskull doesn&#39;t require air, food, drink, or sleep. </description>
     <action>
       <name>Multiattack</name>
       <text>The flameskull uses Fire Ray twice.</text>
@@ -23061,10 +23061,10 @@ Dragons are innately magical creatures that can master a few spells as they age,
 GOLD DRAGON
 -------------
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil. 
-A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
+A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon&#39;s sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
 
 Devourer of Wealth
-Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes. 
+Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn&#39;t need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren&#39;t bribes. 
 
 Reserved Shapeshifters
 Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
@@ -23073,20 +23073,20 @@ Older gold dragons can assume animal and humanoid forms. Rarely does a gold drag
 Master Hoarders
 A gold dragon keeps its hoard ina well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.
 
-A GOLD DRAGON'S LAIR
+A GOLD DRAGON&#39;S LAIR
 ---------------------
 Gold dragons make their homes in out-of-the-way places, where they can do as they please without arousing suspicion or fear. Most dwell near idyllic lakes and rivers, mist-shrouded islands, cave complexes hidden behind sparkling waterfalls, or ancient ruins.
 
 LAIR ACTIONS
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row: 
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can&#39;t use the same effect two rounds in a row: 
 &#8226; The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
-&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
+&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon&#39;s. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
 
 REGIONAL EFFECTS
-The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects: 
-&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
-&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
-&#8226; Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.
+The region containing a legendary gold dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects: 
+&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon&#39;s lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
+&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon&#39;s lair. The mist doesn&#39;t obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
+&#8226; Gems and pearls within 1 mile of the dragon&#39;s lair sparkle and gleam, shedding dim light in a 5-foot radius.
 
 If the dragon dies, these effects end immediately.</description>    <action>
       <name>Bite</name>
@@ -40182,22 +40182,22 @@ Dragons are innately magical creatures that can master a few spells as they age,
 SILVER DRAGON
 -------------
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need. 
-A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
+A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling&#39;s scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
 
 Dragons of Virtue
-Silver dragons believe that living a moral life involves doing good deeds and ensuring that one's actions cause no undeserved harm to other sentient beings. They don't take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
+Silver dragons believe that living a moral life involves doing good deeds and ensuring that one&#39;s actions cause no undeserved harm to other sentient beings. They don&#39;t take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
 
 Friends of the Small Races
 Silver dragons enjoy the company of other silver dragons. Their only true friendships outside their own kin arise in the company of humanoids, and many silver dragons spend as much time in humanoid form as they do in draconic form. A silver dragon adopts a benign humanoid persona such as a kindly old sage or a young wanderer, and it often has mortal companions with whom it develops strong frieqdships.
 Silver dragons must step away from their humanoid lives on a regular basis, returning to their true forms to mate and rear offspring, or to tend to their hoards and personal affairs. Because many lose track of time while away, they sometimes return to find that their companions have grown old or died. Silver dragons often end up befriending several generations of humanoids within a single family as a result.
 
 Respect for Humanity
-Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don't. Humans have a drive and zest for life that silver dragons find fascinating.
+Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don&#39;t. Humans have a drive and zest for life that silver dragons find fascinating.
 
 Hoarding History
 Silver dragons love to possess relics of humanoid history. This includes the great piles of coins they covet, minted by current and fallen humanoid empires, as well as art objects and fine jewelry crafted by numerous races. Other treasures that make up their hoards can include intact ships, the remains of kings and queens, thrones, the crown jewels of ancient empires, inventions and contraptions, and monoliths carried from the ruins of fallen cities. 
 
-A SILVER DRAGON's LAIR
+A SILVER DRAGON&#39;s LAIR
 -----------------------
 Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of. 
 
@@ -40208,9 +40208,9 @@ On initiative count 20 (iosing initiative ties), the dragon takes a lair action 
 
 REGIONAL EFFECTS
 ----------------
-The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
-&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
-&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
+The region containing a legendary silver dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects.
+&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn&#39;t need to be outdoors; otherwise the effect is identical to the control weather spell.
+&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon&#39;s or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
 &#8226; Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes. 
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</description>    <action>
@@ -46802,10 +46802,10 @@ Certain spells and magic items can conjure an elemental, summoning it from the I
 
 Bound and Shaped
 Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can&#39;t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely. 
 
 Elemental Nature
-An elemental doesn't require air, food, drink, or sleep. 
+An elemental doesn&#39;t require air, food, drink, or sleep. 
 
 WATER ELEMENTAL
 --------------
@@ -49680,10 +49680,10 @@ Dragons are innately magical creatures that can master a few spells as they age,
 GOLD DRAGON
 -------------
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil. 
-A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
+A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon&#39;s sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
 
 Devourer of Wealth
-Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes. 
+Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn&#39;t need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren&#39;t bribes. 
 
 Reserved Shapeshifters
 Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
@@ -49692,20 +49692,20 @@ Older gold dragons can assume animal and humanoid forms. Rarely does a gold drag
 Master Hoarders
 A gold dragon keeps its hoard ina well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.
 
-A GOLD DRAGON'S LAIR
+A GOLD DRAGON&#39;S LAIR
 ---------------------
 Gold dragons make their homes in out-of-the-way places, where they can do as they please without arousing suspicion or fear. Most dwell near idyllic lakes and rivers, mist-shrouded islands, cave complexes hidden behind sparkling waterfalls, or ancient ruins.
 
 LAIR ACTIONS
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row: 
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can&#39;t use the same effect two rounds in a row: 
 &#8226; The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
-&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
+&#8226; One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon&#39;s. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied. 
 
 REGIONAL EFFECTS
-The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects: 
-&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
-&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
-&#8226; Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.
+The region containing a legendary gold dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects: 
+&#8226; Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon&#39;s lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
+&#8226; Banks of beautiful, opalescent mist manifest within 6 miles of the dragon&#39;s lair. The mist doesn&#39;t obscure anything. It assumes haunting forms when evil cveatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
+&#8226; Gems and pearls within 1 mile of the dragon&#39;s lair sparkle and gleam, shedding dim light in a 5-foot radius.
 
 If the dragon dies, these effects end immediately.</description>    <action>
       <name>Multiattack</name>
@@ -50215,22 +50215,22 @@ Dragons are innately magical creatures that can master a few spells as they age,
 SILVER DRAGON
 -------------
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need. 
-A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
+A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling&#39;s scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury. 
 
 Dragons of Virtue
-Silver dragons believe that living a moral life involves doing good deeds and ensuring that one's actions cause no undeserved harm to other sentient beings. They don't take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
+Silver dragons believe that living a moral life involves doing good deeds and ensuring that one&#39;s actions cause no undeserved harm to other sentient beings. They don&#39;t take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
 
 Friends of the Small Races
 Silver dragons enjoy the company of other silver dragons. Their only true friendships outside their own kin arise in the company of humanoids, and many silver dragons spend as much time in humanoid form as they do in draconic form. A silver dragon adopts a benign humanoid persona such as a kindly old sage or a young wanderer, and it often has mortal companions with whom it develops strong frieqdships.
 Silver dragons must step away from their humanoid lives on a regular basis, returning to their true forms to mate and rear offspring, or to tend to their hoards and personal affairs. Because many lose track of time while away, they sometimes return to find that their companions have grown old or died. Silver dragons often end up befriending several generations of humanoids within a single family as a result.
 
 Respect for Humanity
-Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don't. Humans have a drive and zest for life that silver dragons find fascinating.
+Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don&#39;t. Humans have a drive and zest for life that silver dragons find fascinating.
 
 Hoarding History
 Silver dragons love to possess relics of humanoid history. This includes the great piles of coins they covet, minted by current and fallen humanoid empires, as well as art objects and fine jewelry crafted by numerous races. Other treasures that make up their hoards can include intact ships, the remains of kings and queens, thrones, the crown jewels of ancient empires, inventions and contraptions, and monoliths carried from the ruins of fallen cities. 
 
-A SILVER DRAGON's LAIR
+A SILVER DRAGON&#39;s LAIR
 -----------------------
 Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of. 
 
@@ -50241,9 +50241,9 @@ On initiative count 20 (iosing initiative ties), the dragon takes a lair action 
 
 REGIONAL EFFECTS
 ----------------
-The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
-&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
-&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
+The region containing a legendary silver dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects.
+&#8226; Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn&#39;t need to be outdoors; otherwise the effect is identical to the control weather spell.
+&#8226; Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon&#39;s or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
 &#8226; Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes. 
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.</description>    <action>
