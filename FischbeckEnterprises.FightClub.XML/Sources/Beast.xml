@@ -18975,7 +18975,18 @@ A flameskull doesn&#39;t require air, food, drink, or sleep. </description>
     <spells>
     </spells>
     <environment>Underdark</environment>
-    <description>None given.</description>
+    <description>The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
+
+Intelligent and Wise
+Flumphs communicate telepathically. Though they resemble jellyfish, flumphs are sentient beings of great intelligence and wisdom, possessing advanced knowledge of religion, philosophy, mathematics, and countless other subjects.
+Flumphs are sensitive to the emotional states of nearby creatures. If a creature&#39;s thoughts suggest goodness, a flumph seeks that creature out. When facing creatures that exude evil, a flumph flees.
+
+Psionic Siphons
+Flumphs feed by siphoning mental energy from psionic creatures, and they can be found lurking near communities of mind flayers, aboleths, githyanki, and githzerai. As passive parasites, they take only the mental energy they need, and most creatures feel no loss or discomfort from such feeding.
+Consuming psionic energy reveals the thoughts and emotions of the creatures on which the flumphs feed. Since so many of those creatures are evil, flumphs are often subjected to thoughts, emotions, and hungers that sicken their pure nature. When flumphs encounter goodhearted adventurers, they eagerly share the dark secrets they have learned in the hopes of casting down their evil sources of energy, even if doing so rn.eans they must seek out new sources of nourishment.
+
+Flumph Society
+Flumphs live in complex and organized groups called cloisters, within which each flumph has a place and purpose. These harmonious groupings have no need for leaders, since all flumphs contribute in their own way. </description>
     <action>
       <name>Tendrils</name>
       <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (1d4) acid damage on a failure or ending the recurring acid damage on a success. A lesser restoration spell cast on the target also ends the recurring acid damage.</text>
@@ -19137,7 +19148,20 @@ A flameskull doesn&#39;t require air, food, drink, or sleep. </description>
     <spells>
     </spells>
     <environment>Underdark</environment>
-    <description>None given.</description>
+    <description>The most hideous and wicked of all giantkind are the godles&#39;s fomohans, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
+
+Fey Curse
+The elves remember when the fomorians were among the most handsome of races, possessed of brilliant minds and unrivaled magical ability. That physical perfection did not extend to their hearts, however, as a lust for magic and power consumed them. The fomorians sought to conquer the Feywild and enslave its inhabitants, claiming those creatures&#39; magic for themselves. When the fey united to defend their realm, the fomorians fought them and were subjected to a terrible curse.
+One by one, the giants fell as their bodies were warped to reflect the evil in their hearts. Stripped of their grace and magical power, the wretched horrors fled from the light, delving deep beneath the world to nurse their hatred. Cursing their fate, they have ever after plotted vengeance against the fey that wronged them.
+
+Giants of the Underdark
+The fomorians dwell in eerily beautiful caverns in the Underdark, rarely venturing to the surface. Their lairs feature abundant access to water, fish, and mushroom forests, as well as to the creatures whose slave labor keeps the fomorians fed. When those slaves can no longer toil, they are slain and devoured. Wickedness and depravity are the cornerstones of fomorian society, in which the strongest and cruelest giants rule. Fomorians mark their territories with the corpses of their enemies, painting their cavern walls with blood or stitching together limbs and body parts to make mockeries of the creatures they have killed.
+
+Ruined Flesh, Evil Minds
+The deformities visited on the fomorians prevent them from hurling rocks like their giant kin, or wearing anything more than scraps of cloth. However, the grotesque positioning of their eyes, noses, and ears gives fomorians keen perceptive abilities, making it hard to surprise or ambush them. The greed and evil of the fomorians lies at the heart of their degeneration and fall, and continues to plague them. Fomorians make alliances with other creatures when it suits them, but they are disloyal by nature and betray their allies on a whim. 
+
+Curse of the Evil Eye
+Fomorians can pass their curse onto others using a power called the evil eye- a last vestige of the giants&#39; once-remarkable spellcasting ability. A creature cursed by a fomorian&#39;s evil eye is magically twisted and deformed, gaining a glimpse into the pain and malice that has consumed this evil race. </description>
     <action>
       <name>Multiattack</name>
       <text>The fomorian attacks twice with its greatclub or makes one greatclub attack and uses Evil Eye once.</text>
