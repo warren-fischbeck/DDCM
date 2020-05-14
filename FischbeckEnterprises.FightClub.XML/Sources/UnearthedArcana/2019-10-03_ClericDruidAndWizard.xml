@@ -53,8 +53,8 @@
         <text>2nd-level Twilight Domain feature</text>
         <text>   You can use your Channel Divinity to refresh your allies with soothing twilight.</text>
         <text>   As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:</text>
-        <text>• Give it 1d8 temporary hit points.</text>
-        <text>• End one effect causing it to be charmed or frightened.</text>
+        <text>&#183; Give it 1d8 temporary hit points.</text>
+        <text>&#183; End one effect causing it to be charmed or frightened.</text>
         <text />
         <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
       </feature>
@@ -64,8 +64,8 @@
         <name>Divine Domain: Twilight Domain (UA): Steps of the Brave (Twilight Domain (UA))</name>
         <text>6th-level Twilight Domain feature</text>
         <text>   You draw strength from your connection to twilight and find yourself at home within its dark embrace, gaining two benefits:</text>
-        <text>• You have advantage on saving throws against being frightened.</text>
-        <text>• If you are in dim light or darkness, you can use a bonus action to magically give yourself a flying speed equal to your walking speed until the end of your next turn.</text>
+        <text>&#183; You have advantage on saving throws against being frightened.</text>
+        <text>&#183; If you are in dim light or darkness, you can use a bonus action to magically give yourself a flying speed equal to your walking speed until the end of your next turn.</text>
         <text />
         <text>Source: Unearthed Arcana: Cleric Druid Wizard p. 1</text>
       </feature>
@@ -347,35 +347,35 @@
     </autolevel>
   </class>
   <spell>
-    <name>Locate Animals or Plants*</name>
+    <name>Locate Animals or Plants&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray*</name>
+    <name>Scorching Ray&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Fireball*</name>
+    <name>Fireball&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Plant Growth*</name>
+    <name>Plant Growth&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Aura of Life*</name>
+    <name>Aura of Life&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Fire Shield*</name>
+    <name>Fire Shield&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Flame Strike*</name>
+    <name>Flame Strike&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
   <spell>
-    <name>Raise Dead*</name>
+    <name>Raise Dead&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
 </compendium>

@@ -80,9 +80,9 @@
         <name>Martial Archetype: Psychic Warrior (UA): Psychic Dreadnaught (Psychic Warrior (UA))</name>
         <text>18th-level Psychic Warrior feature</text>
         <text>   The power of your mind suffuses your entire being, making you a nigh-unstoppable force on the battlefield. Using your reaction when you take damage, you can give yourself the following benefits for 1 minute or until you&#39;re incapacitated:</text>
-        <text>• At the start of each of your turns, you regain 10 hit points.</text>
-        <text>• Your walking speed increases by 10 feet.</text>
-        <text>• If you&#39;re prone, you can stand up by spending 5 feet of movement.</text>
+        <text>&#183; At the start of each of your turns, you regain 10 hit points.</text>
+        <text>&#183; Your walking speed increases by 10 feet.</text>
+        <text>&#183; If you&#39;re prone, you can stand up by spending 5 feet of movement.</text>
         <text>   Once you activate this feature, you can&#39;t use it again until you finish a long rest.</text>
         <text />
         <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 1</text>
@@ -116,9 +116,9 @@
         <name>Roguish Archetype: Soulknife (UA): Psionic Enhancement (Soulknife (UA))</name>
         <text>3rd-level Soulknife feature</text>
         <text>   You can focus your psionic power to give yourself an extraordinary ability. When you finish a long rest, you gain one of the following benefits of your choice, which lasts until you finish a long rest:</text>
-        <text>• You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.</text>
-        <text>• Increase your walking speed by 5 feet.</text>
-        <text>• Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your rogue level.</text>
+        <text>&#183; You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.</text>
+        <text>&#183; Increase your walking speed by 5 feet.</text>
+        <text>&#183; Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your rogue level.</text>
         <text />
         <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 2</text>
       </feature>
@@ -172,8 +172,8 @@
         <text>2nd-level Psionics feature</text>
         <text>   You have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).</text>
         <text>   While your psionic focus is on your person, you gain the following benefits:</text>
-        <text>• The object is a spellcasting focus for you.</text>
-        <text>• When you roll psychic or force damage for any of your wizard spells, you can reroll any of those damage dice that rolls a 1, but you must use the new roll.</text>
+        <text>&#183; The object is a spellcasting focus for you.</text>
+        <text>&#183; When you roll psychic or force damage for any of your wizard spells, you can reroll any of those damage dice that rolls a 1, but you must use the new roll.</text>
         <text>   If your psionic focus is lost, you can magically recreate it by meditating for 1 hour during a short or long rest, at the end of which the focus appears in your hand.</text>
         <text />
         <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
@@ -212,12 +212,12 @@
       <feature optional="YES">
         <name>Arcane Tradition: Psionics (UA): Psionic Spells (Psionics (UA))</name>
         <text>Spell selection is part of what defines a wizard and their individual fields of expertise. When creating your Psionics wizard, consider spells that are thematically appropriate for that tradition. Psionics as a theme generally includes spells that do the following:</text>
-        <text>• contact or manipulate minds</text>
-        <text>• allow the caster to perceive distant locations or planes</text>
-        <text>• alter perception</text>
-        <text>• move objects and creatures</text>
-        <text>• teleport</text>
-        <text>• deal psychic or force damage</text>
+        <text>&#183; contact or manipulate minds</text>
+        <text>&#183; allow the caster to perceive distant locations or planes</text>
+        <text>&#183; alter perception</text>
+        <text>&#183; move objects and creatures</text>
+        <text>&#183; teleport</text>
+        <text>&#183; deal psychic or force damage</text>
         <text />
         <text>Source: Unearthed Arcana: Fighter Rogue Wizard p. 3</text>
       </feature>

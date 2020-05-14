@@ -2076,7 +2076,7 @@
     <autolevel level="15">
       <feature optional="YES">
         <name>Martial Archetype: Cavalier: Ferocious Charger (Cavalier)</name>
-        <text>Starting at 15th level, you can run down your foes, whether you&#39;re mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC * + your proficiency bonus + your Strength modifier) or be knocked prone. You can use this feature only once on each of your turns.</text>
+        <text>Starting at 15th level, you can run down your foes, whether you&#39;re mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC &#42; + your proficiency bonus + your Strength modifier) or be knocked prone. You can use this feature only once on each of your turns.</text>
         <text />
         <text>Prone:</text>
         <text>&#8226; A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.</text>

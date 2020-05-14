@@ -967,11 +967,11 @@
         <trait>
             <name>Innate Spellcasting</name>
             <text>Ygorl&#39;s innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
-            <text>At will: blight, blink, chaos bolt*, detect magic, fly, shield</text>
-            <text>3/day each: circle of death, enervation*, symbol (discord only)</text>
-            <text>2/day each: finger of death, harm, mental prison*</text>
+            <text>At will: blight, blink, chaos bolt&#42;, detect magic, fly, shield</text>
+            <text>3/day each: circle of death, enervation&#42;, symbol (discord only)</text>
+            <text>2/day each: finger of death, harm, mental prison&#42;</text>
             <text>1/day each: power word kill, power word stun, symbol (death only), weird</text>
-            <text>* Spell from Xanathar&#39;s Guide to Everything</text>
+            <text>&#42; Spell from Xanathar&#39;s Guide to Everything</text>
         </trait>
         <spells>blight, blink, chaos bolt, detect magic, fly, shield, circle of death, enervation, symbol, finger of death, harm, mental prison, power word kill, power word stun, symbol, weird</spells>
         <description>The enigmatic being known as Ygorl was one of the first slaadi created after Primus unleashed the Spawning Stone upon Limbo. A powerful being suffused with entropic power, Ygorl delights in the act of unmaking and bringing chaos to any ecosystem it visits. Lesser slaadi follow close behind the lord of entropy, delighting and furthering the destruction it brings.

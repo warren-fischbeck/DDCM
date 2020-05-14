@@ -116,9 +116,9 @@
         <ac>2</ac>
         <text>The Shield of the Hidden Lord is of celestial origin and serves as a prison for the pit fiend Gargauth, whose mortal followers revere it as a god. Over time, Gargauth&#39;s evil has warped the shield&#39;s appearance, so that its celestial motif and designs have become twisted into a fiendish face that subtly moves in disturbing ways. While holding this shield, you gain a +2 bonus to AC and resistance to fire damage.</text>
         <text>Sentience. The Shield ofthe Hidden Lord is sentient as long as it imprisons Gargauth. While sentient, the shield has the following properties:
-            • The shield has an Intelligence of 22, a Wisdom of 18, and a Charisma of 24, as well as hearing and truesight out to a range of 120 feet.
-            • The shield can speak, read, and understand Common and Infernal, and it can communicate telepathically with any creature it can sense within 120 feet of it. Its voice is a deep, hollow whisper.
-            • The shield has 3 charges. You can use an action to expend 1 charge to cast fireball or 2 charges to cast wall offire from the shield (save DC 21 for each). The wall of fire spell lasts for 1 minute (no concentration required). The shield regains all expended charges daily at dawn.
+            &#183; The shield has an Intelligence of 22, a Wisdom of 18, and a Charisma of 24, as well as hearing and truesight out to a range of 120 feet.
+            &#183; The shield can speak, read, and understand Common and Infernal, and it can communicate telepathically with any creature it can sense within 120 feet of it. Its voice is a deep, hollow whisper.
+            &#183; The shield has 3 charges. You can use an action to expend 1 charge to cast fireball or 2 charges to cast wall offire from the shield (save DC 21 for each). The wall of fire spell lasts for 1 minute (no concentration required). The shield regains all expended charges daily at dawn.
             Anytime during your turn, the shield can choose to radiate an aura of dread for 1 minute. (This is not a power of the shield that you control.) Any creature hostile to you that starts its turn within 20 feet of the shield must make a DC 18 Wisdom saving throw. On a failed save, the creature is frightened until the start of its next turn. On a successful save, the creature is im- mune to this power of the shield for the next 24 hours. Once the shield uses this power, it can&#39;t use it again until the next dawn.</text>
         <text>Gargauth&#39;s Personality. Gargauth desperately seeks freedom but can&#39;t escape on its own. The pit fiend won&#39;t reveal its true nature, referring to itself only as the Hidden Lord. It drops hints and subtle suggestions that it is an angel trapped in an unholy prison. If released from the shield, the pit fiend honors the terms of whatever bargain it struck to facilitate its escape.
             While trapped in the shield, Gargauth carefully steers the shield&#39;s current owner toward committing acts of cruelty and domination, hoping to condemn the individual&#39;s soul to the Nine Hells. Conflict occurs if the shield&#39;s owner does anything that would make it more difficult for Gargauth to escape its prison, such as leaving the shield in a place where others are unlikely to find it.
@@ -137,8 +137,8 @@
         <text>Carrying Soul Coins. To hold a soul coin is to feel the soul bound within it overcome with rage or fraught with despair.</text>
         <text>An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A non-evil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.</text>
         <text>Using a Soul Coin. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
-            • Drain Life. You siphon away some of the soul&#39;s essence and gain 1dlO temporary hit points.
-            • Query. You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows on ly what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.</text>
+            &#183; Drain Life. You siphon away some of the soul&#39;s essence and gain 1dlO temporary hit points.
+            &#183; Query. You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows on ly what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.</text>
         <text>Freeing a Soul. Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin&#39;s charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM&#39;s choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.</text>
         <text>A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage ex- cept that which is dealt by a hellfire weapon (page 223) or an infernal war machine&#39;s furnace (page 217).
             Freeing a soul from a soul coin is considered a good act, even if the soul belongs to an evil creature.
@@ -154,11 +154,11 @@
         <detail>artifact (requires attunement by a creature the sword deems worthy)</detail>
         <text>This longsword belonged to the angel Zariel before her fall from grace. Fashioned from celestial steel, it gives off a faint glow and hum. The weapon chooses who can attune to it and who can&#39;t. It desires a wielder who em- bodies bravery and heroism.</text>
         <text>Attunement. The sword allows you to attune to it immediately, without having to take a short rest. The first time you attune to the sword, you are transformed into a heavenly, idealized version of yourself, blessed with otherworldly beauty and a touch of heaven in your heart. Neither magic nor divine intervention can reverse this transformation. Your alignment becomes lawful good, and you gain the following traits:
-            • Angelic Language. You can speak, read. and write Celestial.
-            • Celestial Resistance. You have resistance to necrotic and radiant damage.
-            • Divine Presence. Your Charisma score becomes 20, unless it is already 20 or higher.
-            • Feathered Wings. You sprout a beautiful pair of feathered wings that grant you a flying speed of 90 feet and the ability to hover. If you already have a different kind of wings, these new wings replace the old ones, which fall off.
-            • Truesight. Your eyes become luminous pools of silver. You can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all within 60 feet.</text>
+            &#183; Angelic Language. You can speak, read. and write Celestial.
+            &#183; Celestial Resistance. You have resistance to necrotic and radiant damage.
+            &#183; Divine Presence. Your Charisma score becomes 20, unless it is already 20 or higher.
+            &#183; Feathered Wings. You sprout a beautiful pair of feathered wings that grant you a flying speed of 90 feet and the ability to hover. If you already have a different kind of wings, these new wings replace the old ones, which fall off.
+            &#183; Truesight. Your eyes become luminous pools of silver. You can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all within 60 feet.</text>
         <text>New Personality. You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond or flaw.</text>
         <text>Personality Traits:
             
@@ -228,10 +228,10 @@
             <name>Description</name>
             <text>Being who you are, you could never be a hero. Whether due to your class, your people, your family, or your sins, something about you prevents you from effectively pursuing the path you&#39;ve chosen. Even so, that doesn&#39;t stop you. You&#39;ve left your old face behind, taking on a new persona, becoming something more.
                 Characters with the faceless background don a disguise—literally or otherwise—as they adventure. This persona might be dramatic or subtle. In a way, though, many characters have such larger than life personalities. Therefore, this background largely focuses on detailing the hero behind the mask.
-                • Skill Proficiencies: Deception, Intimidation
-                • Tool Proficiencies: Disguise kit
-                • Languages: One of your choice
-                • Equipment: Disguise kit, a costume clothes, a pouch containing 10 gp
+                &#183; Skill Proficiencies: Deception, Intimidation
+                &#183; Tool Proficiencies: Disguise kit
+                &#183; Languages: One of your choice
+                &#183; Equipment: Disguise kit, a costume clothes, a pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 203</text>
         </trait>
         <trait>
@@ -299,9 +299,9 @@
         <proficiency>Insight, Religion</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Insight, Religion
-                • Languages: Two of your choice
-                • Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
+            <text>&#183; Skill Proficiencies: Insight, Religion
+                &#183; Languages: Two of your choice
+                &#183; Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
         </trait>
         <trait>
@@ -360,9 +360,9 @@
         <proficiency>Deception, Sleight Of Hand</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Deception, Sleight of Hand
-                • Tool Proficiencies: Disguise kit, Forgery kit
-                • Equipment: A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
+            <text>&#183; Skill Proficiencies: Deception, Sleight of Hand
+                &#183; Tool Proficiencies: Disguise kit, Forgery kit
+                &#183; Equipment: A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
         </trait>
         <trait>
@@ -433,9 +433,9 @@
         <proficiency>Deception, Stealth</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Deception, Stealth
-                • Tool Proficiencies: One type of gaming set, thieves&#39; tools
-                • Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
+            <text>&#183; Skill Proficiencies: Deception, Stealth
+                &#183; Tool Proficiencies: One type of gaming set, thieves&#39; tools
+                &#183; Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
         </trait>
         <trait>
@@ -521,9 +521,9 @@
         <proficiency>Acrobatics, Performance</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Acrobatics, Performance
-                • Tool Proficiencies: Disguise kit, one type of musical instrument
-                • Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), costume clothes, and a belt pouch containing 15 gp
+            <text>&#183; Skill Proficiencies: Acrobatics, Performance
+                &#183; Tool Proficiencies: Disguise kit, one type of musical instrument
+                &#183; Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), costume clothes, and a belt pouch containing 15 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
         </trait>
         <trait>
@@ -597,9 +597,9 @@
         <proficiency>Animal Handling, Survival</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Animal Handling, Survival
-                • Tool Proficiencies: One type of artisan&#39;s tools, vehicles (land)
-                • Equipment: A set of artisan&#39;s tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
+            <text>&#183; Skill Proficiencies: Animal Handling, Survival
+                &#183; Tool Proficiencies: One type of artisan&#39;s tools, vehicles (land)
+                &#183; Equipment: A set of artisan&#39;s tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -685,10 +685,10 @@
         <proficiency>Insight, Persuasion</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Insight, Persuasion
-                • Tool Proficiencies: One type of artisan&#39;s tools
-                • Languages: One of your choice
-                • Equipment: A set of artisan&#39;s tools (one of your choice), a letter of introduction from your guild, a set of traveler&#39;s clothes, and a belt pouch containing 15 gp
+            <text>&#183; Skill Proficiencies: Insight, Persuasion
+                &#183; Tool Proficiencies: One type of artisan&#39;s tools
+                &#183; Languages: One of your choice
+                &#183; Equipment: A set of artisan&#39;s tools (one of your choice), a letter of introduction from your guild, a set of traveler&#39;s clothes, and a belt pouch containing 15 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -774,10 +774,10 @@
         <proficiency>Medicine, Religion</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Medicine, Religion
-                • Tool Proficiencies: Herbalism kit
-                • Languages: One of your choice
-                • Equipment: A Map or Scroll Case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
+            <text>&#183; Skill Proficiencies: Medicine, Religion
+                &#183; Tool Proficiencies: Herbalism kit
+                &#183; Languages: One of your choice
+                &#183; Equipment: A Map or Scroll Case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -862,10 +862,10 @@
         <proficiency>History, Persuasion</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: History, Persuasion
-                • Tool Proficiencies: One type of gaming set
-                • Languages: One of your choice
-                • Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
+            <text>&#183; Skill Proficiencies: History, Persuasion
+                &#183; Tool Proficiencies: One type of gaming set
+                &#183; Languages: One of your choice
+                &#183; Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -923,10 +923,10 @@
         <proficiency>Athletics, Survival</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Athletics, Survival
-                • Tool Proficiencies: One type of musical instrument
-                • Languages: One of your choice
-                • Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp
+            <text>&#183; Skill Proficiencies: Athletics, Survival
+                &#183; Tool Proficiencies: One type of musical instrument
+                &#183; Languages: One of your choice
+                &#183; Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -1012,9 +1012,9 @@
         <proficiency>Arcana, History</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Arcana, History
-                • Languages: Two of your choice
-                • Equipment: A Ink (1-ounce bottle), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
+            <text>&#183; Skill Proficiencies: Arcana, History
+                &#183; Languages: Two of your choice
+                &#183; Equipment: A Ink (1-ounce bottle), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -1086,9 +1086,9 @@
         <proficiency>Athletics, Perception</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Athletics, Perception
-                • Tool Proficiencies: Navigator&#39;s tools, vehicles (water)
-                • Equipment: A belaying pin (club), silk rope (50 feet), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
+            <text>&#183; Skill Proficiencies: Athletics, Perception
+                &#183; Tool Proficiencies: Navigator&#39;s tools, vehicles (water)
+                &#183; Equipment: A belaying pin (club), silk rope (50 feet), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -1146,9 +1146,9 @@
         <proficiency>Athletics, Intimidation</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Athletics, Intimidation
-                • Tool Proficiencies: One type of gaming set, vehicles (land)
-                • Equipment: An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a bone dice set or playing card set, a set of common clothes, and a belt pouch containing 10 gp
+            <text>&#183; Skill Proficiencies: Athletics, Intimidation
+                &#183; Tool Proficiencies: One type of gaming set, vehicles (land)
+                &#183; Equipment: An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a bone dice set or playing card set, a set of common clothes, and a belt pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -1226,9 +1226,9 @@
         <proficiency>Sleight Of Hand, Stealth</proficiency>
         <trait>
             <name>Description</name>
-            <text>• Skill Proficiencies: Sleight of Hand, Stealth
-                • Tool Proficiencies: Disguise kit, Thieves&#39; tools
-                • Equipment: A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp
+            <text>&#183; Skill Proficiencies: Sleight of Hand, Stealth
+                &#183; Tool Proficiencies: Disguise kit, Thieves&#39; tools
+                &#183; Equipment: A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp
                 Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
         </trait>
         <trait>
@@ -1455,15 +1455,15 @@
         <legendary>
             <name>Lair Actions</name>
             <text>On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can&#39;t use the same effect two rounds in a row:</text>
-            <text>• Zariel casts major image four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders&#39; loved ones being burned alive. Zariel doesn&#39;t need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become frightened of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-            <text>• Zariel casts her innate fireball spell.</text>
+            <text>&#183; Zariel casts major image four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders&#39; loved ones being burned alive. Zariel doesn&#39;t need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become frightened of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+            <text>&#183; Zariel casts her innate fireball spell.</text>
         </legendary>
         <legendary>
             <name>Regional Effects</name>
             <text>The region containing Zariel&#39;s lair is warped by her magic, which creates one or more of the following effects:</text>
-            <text>• The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.</text>
-            <text>• Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes 7 (2d6) fire damage, though it can take this damage no more than once per round.</text>
-            <text>• The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can&#39;t be cleared away.</text>
+            <text>&#183; The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.</text>
+            <text>&#183; Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes 7 (2d6) fire damage, though it can take this damage no more than once per round.</text>
+            <text>&#183; The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can&#39;t be cleared away.</text>
             <text>If Zariel dies, these effects fade over the course of 1d10 days.</text>
         </legendary>
         <trait>
@@ -2396,16 +2396,16 @@
             <text>Sylvira is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Sylvira can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
             <text>At will: disguise self, invisibility</text>
             <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
-            <text>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
-            <text>• 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
-            <text>• 3rd level (3 slots): counterspell, fly, lightning bolt</text>
-            <text>• 4th level (3 slots): banishment, fire shield, stoneskin*</text>
-            <text>• 5th level (3 slots): cone of cold, scrying, wall of force</text>
-            <text>• 6th level (1 slots): globe of invulnerability</text>
-            <text>• 7th level (1 slots): teleport</text>
-            <text>• 8th level (1 slots): mind blank*</text>
-            <text>• 9th level (1 slots): time stop</text>
-            <text>*Sylvira casts these spells on itself before combat.</text>
+            <text>&#183; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
+            <text>&#183; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
+            <text>&#183; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
+            <text>&#183; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
+            <text>&#183; 5th level (3 slots): cone of cold, scrying, wall of force</text>
+            <text>&#183; 6th level (1 slots): globe of invulnerability</text>
+            <text>&#183; 7th level (1 slots): teleport</text>
+            <text>&#183; 8th level (1 slots): mind blank&#42;</text>
+            <text>&#183; 9th level (1 slots): time stop</text>
+            <text>&#42;Sylvira casts these spells on itself before combat.</text>
         </trait>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         <trait>
@@ -2490,7 +2490,7 @@
             <name>Spellcasting</name>
             <text>Thurstwell is a 2nd-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13). He has the following cleric spells prepared:</text>
             <text>Cantrips (at will): guidance, sacred flame (see "Actions" below), thaumaturgy</text>
-            <text>• 1st level (3 slots): command, detect evil and good, sanctuary</text>
+            <text>&#183; 1st level (3 slots): command, detect evil and good, sanctuary</text>
         </trait>
         <slots>3</slots>
         <spells>guidance, sacred flame, thaumaturgy, command, detect evil and good, sanctuary</spells>
@@ -2641,16 +2641,16 @@
             <text>Traxigor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Traxigor can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
             <text>At will: disguise self, invisibility</text>
             <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
-            <text>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
-            <text>• 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
-            <text>• 3rd level (3 slots): counterspell, fly, lightning bolt</text>
-            <text>• 4th level (3 slots): banishment, fire shield, stoneskin*</text>
-            <text>• 5th level (3 slots): cone of cold, scrying, wall of force</text>
-            <text>• 6th level (1 slots): globe of invulnerability</text>
-            <text>• 7th level (1 slots): plane shift</text>
-            <text>• 8th level (1 slots): mind blank*</text>
-            <text>• 9th level (1 slots): time stop</text>
-            <text>*Traxigor casts these spells on itself before combat.</text>
+            <text>&#183; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
+            <text>&#183; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
+            <text>&#183; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
+            <text>&#183; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
+            <text>&#183; 5th level (3 slots): cone of cold, scrying, wall of force</text>
+            <text>&#183; 6th level (1 slots): globe of invulnerability</text>
+            <text>&#183; 7th level (1 slots): plane shift</text>
+            <text>&#183; 8th level (1 slots): mind blank&#42;</text>
+            <text>&#183; 9th level (1 slots): time stop</text>
+            <text>&#42;Traxigor casts these spells on itself before combat.</text>
         </trait>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, plane shift, mind blank, time stop</spells>
@@ -3015,13 +3015,13 @@
             <name>Spellcasting</name>
             <text>Krull is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following cleric spells prepared:</text>
             <text>Cantrips (at will): chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy</text>
-            <text>• 1st level (4 slots): cure wounds, detect evil and good, false life, inflict wounds, ray of sickness</text>
-            <text>• 2nd level (3 slots): blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon</text>
-            <text>• 3rd level (3 slots): animate dead, magic circle, speak with dead, spirit guardians, vampiric touch</text>
-            <text>• 4th level (3 slots): banishment, blight, death ward, divination, locate creature</text>
-            <text>• 5th level (2 slots): antilife shell, cloudkill, contagion, greater restoration</text>
-            <text>• 6th level (1 slots): create undead, true seeing</text>
-            <text>• 7th level (1 slots): divine word, regenerate</text>
+            <text>&#183; 1st level (4 slots): cure wounds, detect evil and good, false life, inflict wounds, ray of sickness</text>
+            <text>&#183; 2nd level (3 slots): blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon</text>
+            <text>&#183; 3rd level (3 slots): animate dead, magic circle, speak with dead, spirit guardians, vampiric touch</text>
+            <text>&#183; 4th level (3 slots): banishment, blight, death ward, divination, locate creature</text>
+            <text>&#183; 5th level (2 slots): antilife shell, cloudkill, contagion, greater restoration</text>
+            <text>&#183; 6th level (1 slots): create undead, true seeing</text>
+            <text>&#183; 7th level (1 slots): divine word, regenerate</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1, 1</slots>
         <spells>chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy, cure wounds, detect evil and good, false life, inflict wounds, ray of sickness, blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon, animate dead, magic circle, speak with dead, spirit guardians, vampiric touch, banishment, blight, death ward, divination, locate creature, antilife shell, cloudkill, contagion, greater restoration, create undead, true seeing, divine word, regenerate</spells>
@@ -3463,15 +3463,15 @@
         <legendary>
             <name>Lair Actions</name>
             <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
-            <text>• The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.</text>
-            <text>• The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.</text>
+            <text>&#183; The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.</text>
+            <text>&#183; The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.</text>
         </legendary>
         <legendary>
             <name>Regional Effects</name>
             <text>The region containing a legendary copper dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects:</text>
-            <text>• Magic carvings of the dragon&#39;s smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon&#39;s lair.</text>
-            <text>• Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon&#39;s lair. These creatures speak well of the dragon, but can&#39;t divulge its whereabouts.</text>
-            <text>• Intelligent creatures within 1 mile of the dragon&#39;s lair are prone to fits of giggling. Even serious matters suddenly seem amusing.</text>
+            <text>&#183; Magic carvings of the dragon&#39;s smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon&#39;s lair.</text>
+            <text>&#183; Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon&#39;s lair. These creatures speak well of the dragon, but can&#39;t divulge its whereabouts.</text>
+            <text>&#183; Intelligent creatures within 1 mile of the dragon&#39;s lair are prone to fits of giggling. Even serious matters suddenly seem amusing.</text>
             <text>If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.</text>
         </legendary>
         <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 129</description>
@@ -3648,11 +3648,11 @@
             <name>Spellcasting</name>
             <text>Elliach is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Elliach has the following wizard spells prepared:</text>
             <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
-            <text>• 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
-            <text>• 2nd level (3 slots): misty step, suggestion</text>
-            <text>• 3rd level (3 slots): counterspell, fireball, fly</text>
-            <text>• 4th level (3 slots): greater invisibility, ice storm</text>
-            <text>• 5th level (1 slots): cone of cold</text>
+            <text>&#183; 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
+            <text>&#183; 2nd level (3 slots): misty step, suggestion</text>
+            <text>&#183; 3rd level (3 slots): counterspell, fireball, fly</text>
+            <text>&#183; 4th level (3 slots): greater invisibility, ice storm</text>
+            <text>&#183; 5th level (1 slots): cone of cold</text>
         </trait>
         <slots>4, 3, 3, 3, 1</slots>
         <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
@@ -3697,16 +3697,16 @@
             <text>Feonor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Feonor can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
             <text>At will: disguise self, invisibility</text>
             <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
-            <text>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
-            <text>• 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
-            <text>• 3rd level (3 slots): counterspell, fly, lightning bolt</text>
-            <text>• 4th level (3 slots): banishment, fire shield, stoneskin*</text>
-            <text>• 5th level (3 slots): cone of cold, scrying, wall of force</text>
-            <text>• 6th level (1 slots): globe of invulnerability</text>
-            <text>• 7th level (1 slots): teleport</text>
-            <text>• 8th level (1 slots): mind blank*</text>
-            <text>• 9th level (1 slots): time stop</text>
-            <text>*Feonor casts these spells on itself before combat.</text>
+            <text>&#183; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
+            <text>&#183; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
+            <text>&#183; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
+            <text>&#183; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
+            <text>&#183; 5th level (3 slots): cone of cold, scrying, wall of force</text>
+            <text>&#183; 6th level (1 slots): globe of invulnerability</text>
+            <text>&#183; 7th level (1 slots): teleport</text>
+            <text>&#183; 8th level (1 slots): mind blank&#42;</text>
+            <text>&#183; 9th level (1 slots): time stop</text>
+            <text>&#42;Feonor casts these spells on itself before combat.</text>
         </trait>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
@@ -3907,12 +3907,12 @@
         <trait>
             <name>Shared Spellcasting (Coven Only)</name>
             <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
-            <text>• 1st level (4 slots): identify, ray of sickness</text>
-            <text>• 2nd level (3 slots): hold person, locate object</text>
-            <text>• 3rd level (3 slots): bestow curse, counterspell, lightning bolt</text>
-            <text>• 4th level (3 slots): phantasmal killer, polymorph</text>
-            <text>• 5th level (2 slots): contact other plane, scrying</text>
-            <text>• 6th level (1 slots): eyebite</text>
+            <text>&#183; 1st level (4 slots): identify, ray of sickness</text>
+            <text>&#183; 2nd level (3 slots): hold person, locate object</text>
+            <text>&#183; 3rd level (3 slots): bestow curse, counterspell, lightning bolt</text>
+            <text>&#183; 4th level (3 slots): phantasmal killer, polymorph</text>
+            <text>&#183; 5th level (2 slots): contact other plane, scrying</text>
+            <text>&#183; 6th level (1 slots): eyebite</text>
             <text>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + Maggie&#39;s Intelligence modifier, and the spell attack bonus is 4 + Maggie&#39;s Intelligence modifier.</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1</slots>

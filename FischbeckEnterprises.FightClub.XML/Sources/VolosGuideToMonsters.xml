@@ -839,14 +839,14 @@
             <name>Spellcasting</name>
             <text>The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost</text>
-            <text />            <text>1st level {4 slots): alarm*, mage armor, magic missile, shield*</text>
-            <text />            <text>2nd level (3 slots): arcane lock*, invisibility</text>
-            <text />            <text>3rd level (3 slots): counterspell*, dispel magic*, fireball</text>
-            <text />            <text>4th level (3 slots): banishment*, stoneskin*</text>
+            <text />            <text>1st level {4 slots): alarm&#42;, mage armor, magic missile, shield&#42;</text>
+            <text />            <text>2nd level (3 slots): arcane lock&#42;, invisibility</text>
+            <text />            <text>3rd level (3 slots): counterspell&#42;, dispel magic&#42;, fireball</text>
+            <text />            <text>4th level (3 slots): banishment&#42;, stoneskin&#42;</text>
             <text />            <text>5th level (2 slots): cone of cold, wall of force</text>
-            <text />            <text>6th level (1 slot): flesh to stone, globe of invulnerability*</text>
-            <text />            <text>7th level (1 slot): symbol* teleport</text>
-            <text />            <text>*Abjuration spell of 1st level or higher</text>
+            <text />            <text>6th level (1 slot): flesh to stone, globe of invulnerability&#42;</text>
+            <text />            <text>7th level (1 slot): symbol&#42; teleport</text>
+            <text />            <text>&#42;Abjuration spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Arcane Ward</name>
@@ -1686,8 +1686,8 @@
         <trait>
             <name>Innate Spellcasting</name>
             <text>The hag&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</text>
-            <text />            <text>At will: hold person,* ray of frost</text>
-            <text />            <text>3/day each: cone of cold,* ice storm*, wall of ice*</text>
+            <text />            <text>At will: hold person,&#42; ray of frost</text>
+            <text />            <text>3/day each: cone of cold,&#42; ice storm&#42;, wall of ice&#42;</text>
             <text />            <text>1/day each: control weather</text>
         </trait>
         <trait>
@@ -2666,12 +2666,12 @@
             <name>Spellcasting</name>
             <text>The conjurer is a 9th-level spellcaster. Its spellcasting ability is intelligence (spell save DC 14, +6 to hit with spell attacks). The conjurer has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): acid splash, mage hand, poison spray, prestidigitation</text>
-            <text />            <text>1st level (4 slots): mage armor, magic missile, unseen servant*</text>
-            <text />            <text>2nd level (3 slots): cloud of daggers*, misty step*, web*</text>
-            <text />            <text>3rd level (3 slots): fireball, stinking cloud*</text>
-            <text />            <text>4th level (3 slots): Evard&#39;s black tentacles*, stoneskin</text>
-            <text />            <text>5th level (2 slots): cloudkill*, conjure elemental*</text>
-            <text />            <text>*Conjuration spell of 1st level or higher</text>
+            <text />            <text>1st level (4 slots): mage armor, magic missile, unseen servant&#42;</text>
+            <text />            <text>2nd level (3 slots): cloud of daggers&#42;, misty step&#42;, web&#42;</text>
+            <text />            <text>3rd level (3 slots): fireball, stinking cloud&#42;</text>
+            <text />            <text>4th level (3 slots): Evard&#39;s black tentacles&#42;, stoneskin</text>
+            <text />            <text>5th level (2 slots): cloudkill&#42;, conjure elemental&#42;</text>
+            <text />            <text>&#42;Conjuration spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Benign Transportation (Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher)</name>
@@ -3182,15 +3182,15 @@
             <name>Spellcasting</name>
             <text>The diviner is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): fire bolt, light, mage hand, message, true strike</text>
-            <text />            <text>1st level (4 slots): detect magic*, feather fall, mage armor</text>
-            <text />            <text>2nd level (3 slots): detect thoughts*, locate object*, scorching ray</text>
-            <text />            <text>3rd level (3 slots): clairvoyance*, fly, fireball</text>
-            <text />            <text>4th level (3 slots): arcane eye*, ice storm, stoneskin</text>
-            <text />            <text>5th level (2 slots): Rary&#39;s telepathic bond*, seeming*</text>
-            <text />            <text>6th level (1 slot): mass suggestion, true seeing*</text>
+            <text />            <text>1st level (4 slots): detect magic&#42;, feather fall, mage armor</text>
+            <text />            <text>2nd level (3 slots): detect thoughts&#42;, locate object&#42;, scorching ray</text>
+            <text />            <text>3rd level (3 slots): clairvoyance&#42;, fly, fireball</text>
+            <text />            <text>4th level (3 slots): arcane eye&#42;, ice storm, stoneskin</text>
+            <text />            <text>5th level (2 slots): Rary&#39;s telepathic bond&#42;, seeming&#42;</text>
+            <text />            <text>6th level (1 slot): mass suggestion, true seeing&#42;</text>
             <text />            <text>7th level (1 slot): delayed blast fireball, teleport</text>
             <text />            <text>8th level (1 slot): maze</text>
-            <text />            <text>* Divination spell of 1st level or higher</text>
+            <text />            <text>&#42; Divination spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher)</name>
@@ -3426,12 +3426,12 @@
             <name>Spellcasting</name>
             <text>The enchanter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The enchanter has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): friends, mage hand, mending, message</text>
-            <text />            <text>1st level (4 slots): charm person*, mage armor, magic missile</text>
-            <text />            <text>2nd level (3 slots): hold person*, invisibility, suggestion*</text>
+            <text />            <text>1st level (4 slots): charm person&#42;, mage armor, magic missile</text>
+            <text />            <text>2nd level (3 slots): hold person&#42;, invisibility, suggestion&#42;</text>
             <text />            <text>3rd level (3 slots): fireball, haste, tongues</text>
-            <text />            <text>4th level (3 slots): dominate beast*, stoneskin</text>
-            <text />            <text>5th level (2 slots): hold monster*</text>
-            <text />            <text>*Enchantment spell of 1st level or higher</text>
+            <text />            <text>4th level (3 slots): dominate beast&#42;, stoneskin</text>
+            <text />            <text>5th level (2 slots): hold monster&#42;</text>
+            <text />            <text>&#42;Enchantment spell of 1st level or higher</text>
         </trait>
         <action>
             <name>Quarterstaff</name>
@@ -3474,14 +3474,14 @@
         <trait>
             <name>Spellcasting</name>
             <text>The evoker is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The evoker has the following wizard spells prepared:</text>
-            <text />            <text>Cantrips (at will): fire bolt*, light*, prestidigitation, ray of frost*</text>
-            <text />            <text>1st level (4 slots): burning hands*, mage armor, magic missile*</text>
-            <text />            <text>2nd level (3 slots): mirror image, misty step, shatter*</text>
-            <text />            <text>3rd level (3 slots): counterspell, fireball*, lightning bolt*</text>
-            <text />            <text>4th level (3 slots): ice storm*, stoneskin</text>
-            <text />            <text>5th level (2 slots): Bigby&#39;s hand*, cone of cold*</text>
-            <text />            <text>6th level (1 slot): chain lightning*, wall of ice*</text>
-            <text />            <text>*Evocation spell</text>
+            <text />            <text>Cantrips (at will): fire bolt&#42;, light&#42;, prestidigitation, ray of frost&#42;</text>
+            <text />            <text>1st level (4 slots): burning hands&#42;, mage armor, magic missile&#42;</text>
+            <text />            <text>2nd level (3 slots): mirror image, misty step, shatter&#42;</text>
+            <text />            <text>3rd level (3 slots): counterspell, fireball&#42;, lightning bolt&#42;</text>
+            <text />            <text>4th level (3 slots): ice storm&#42;, stoneskin</text>
+            <text />            <text>5th level (2 slots): Bigby&#39;s hand&#42;, cone of cold&#42;</text>
+            <text />            <text>6th level (1 slot): chain lightning&#42;, wall of ice&#42;</text>
+            <text />            <text>&#42;Evocation spell</text>
         </trait>
         <trait>
             <name>Sculpt Spells</name>
@@ -4871,11 +4871,11 @@
             <name>Spellcasting</name>
             <text>The illusionist is a 7th-level spellcaster. its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): dancing lights, mage hand, minor illusion, poison spray</text>
-            <text />            <text>1st level (4 slots): color spray*, disguise self*, mage armor, magic missile</text>
-            <text />            <text>2nd level (3 slots): invisibility*, mirror image*, phantasmal force</text>
-            <text />            <text>3rd level (3 slots): major image*, phantom steed*</text>
-            <text />            <text>4th level (1 slot): phantasmal killer*</text>
-            <text />            <text>*Illusion spell of 1st level or higher</text>
+            <text />            <text>1st level (4 slots): color spray&#42;, disguise self&#42;, mage armor, magic missile</text>
+            <text />            <text>2nd level (3 slots): invisibility&#42;, mirror image&#42;, phantasmal force</text>
+            <text />            <text>3rd level (3 slots): major image&#42;, phantom steed&#42;</text>
+            <text />            <text>4th level (1 slot): phantasmal killer&#42;</text>
+            <text />            <text>&#42;Illusion spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher)</name>
@@ -5849,13 +5849,13 @@
             <name>Spellcasting</name>
             <text>The necromancer is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The necromancer has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): chill touch, dancing lights, mage hand, mending</text>
-            <text />            <text>1st level (4 slots):false life*, mage armor, ray of sickness*</text>
-            <text />            <text>2nd level (3 slots): blindness/deafness*, ray of enfeeblement*, web</text>
-            <text />            <text>3rd level (3 slots): animate dead*, bestow curse*, vampiric touch*</text>
-            <text />            <text>4th level (3 slots): blight*, dimension door, stoneskin</text>
+            <text />            <text>1st level (4 slots):false life&#42;, mage armor, ray of sickness&#42;</text>
+            <text />            <text>2nd level (3 slots): blindness/deafness&#42;, ray of enfeeblement&#42;, web</text>
+            <text />            <text>3rd level (3 slots): animate dead&#42;, bestow curse&#42;, vampiric touch&#42;</text>
+            <text />            <text>4th level (3 slots): blight&#42;, dimension door, stoneskin</text>
             <text />            <text>5th level (2 slots): Bigby&#39;s hand, cloudkill</text>
-            <text />            <text>6th level (1 slot): circle of death*</text>
-            <text />            <text>*Necromancy spell of 1st level or higher</text>
+            <text />            <text>6th level (1 slot): circle of death&#42;</text>
+            <text />            <text>&#42;Necromancy spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Grim Harvest (1/Turn)</name>
@@ -7529,12 +7529,12 @@
             <name>Spellcasting</name>
             <text>The transmuter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The transmuter has the following wizard spells prepared:</text>
             <text />            <text>Cantrips (at will): light, mending, prestidigitation, ray of frost </text>
-            <text />            <text>1st level (4 slots): chromatic orb, expeditious retreat*, mage armor</text>
-            <text />            <text>2nd level (3 slots): alter self*, hold person, knock* </text>
-            <text />            <text>3rd level (3 slots): blink*, fireball, slow*</text>
-            <text />            <text>4th level (3 slots): polymorph*, stoneskin </text>
-            <text />            <text>5th level (1 slot): telekinesis*</text>
-            <text />            <text>*Transmutation spell of 1st level or higher</text>
+            <text />            <text>1st level (4 slots): chromatic orb, expeditious retreat&#42;, mage armor</text>
+            <text />            <text>2nd level (3 slots): alter self&#42;, hold person, knock&#42; </text>
+            <text />            <text>3rd level (3 slots): blink&#42;, fireball, slow&#42;</text>
+            <text />            <text>4th level (3 slots): polymorph&#42;, stoneskin </text>
+            <text />            <text>5th level (1 slot): telekinesis&#42;</text>
+            <text />            <text>&#42;Transmutation spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Transmuter&#39;s Stone</name>

@@ -38,14 +38,14 @@
             <name>Spellcasting (Healer)</name>
             <text>The spellcaster&#39;s spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following cleric spells prepared:</text>
             <text>Cantrips (at will): guidance, sacred flame</text>
-            <text>• 1st level (2 slots): cure wounds</text>
+            <text>&#183; 1st level (2 slots): cure wounds</text>
         </trait>
         <slots>2</slots>
         <trait>
             <name>Spellcasting (Mage)</name>
             <text>The spellcaster&#39;s spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following wizard spells prepared:</text>
             <text>Cantrips (at will): fire bolt, light</text>
-            <text>• 1st level (2 slots): sleep</text>
+            <text>&#183; 1st level (2 slots): sleep</text>
         </trait>
         <slots>2</slots>
         <spells>guidance, sacred flame, cure wounds, fire bolt, light, sleep</spells>
@@ -129,8 +129,8 @@
         <trait>
             <name>Martial Role</name>
             <text>The warrior has one of the following traits of your choice:</text>
-            <text>• Attacker: The warrior gains a +2 bonus to attack rolls.</text>
-            <text>• Defender: The warrior gains the Protection reaction below.</text>
+            <text>&#183; Attacker: The warrior gains a +2 bonus to attack rolls.</text>
+            <text>&#183; Defender: The warrior gains the Protection reaction below.</text>
         </trait>
         <action>
             <name>Longsword</name>
@@ -389,7 +389,7 @@
             <name>Spellcasting</name>
             <text>The gnome is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:</text>
             <text>Cantrips (at will): mage hand, prestidigitation, ray of frost (see "Actions" below)</text>
-            <text>• 1st level (3 slots): detect magic, mage armor, magic missile (see "Actions" below), shield</text>
+            <text>&#183; 1st level (3 slots): detect magic, mage armor, magic missile (see "Actions" below), shield</text>
         </trait>
         <slots>3</slots>
         <spells>mage hand, prestidigitation, ray of frost, detect magic, mage armor, magic missile, shield</spells>

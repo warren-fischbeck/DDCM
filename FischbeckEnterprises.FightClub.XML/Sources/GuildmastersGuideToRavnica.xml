@@ -108,8 +108,8 @@
       <name>Centaur Names</name>
       <text>
         Centaurs&#39; given names are passed down through family lines. The name bestowed on a new foal is typically the name of the most recently deceased family member of the same gender, keeping alive the memory—and, the centaurs believe, some shard of the spirit—of the departed. Centaurs don&#39;t use family names, but they wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottoes, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.
-        • Male Names: Bonmod, Boruvo, Chodi, Drozan, Kozim, Milosh, Ninos, Oleksi, Orval, Radovas, Radom, Rostis, Svetyos, Tomis, Trijiro, Volim, Vlodim, Yarog
-        • Female Names: Daiva, Dunja, Elnaya, Galisnya, Irinya, Kotyali, Lalya, Litisia, Madya, Mira, Nedja, Nikya, Ostani, Pinya, Rada, Raisya, Stasolya, Tatna, Zhendoya, Zoria
+        &#183; Male Names: Bonmod, Boruvo, Chodi, Drozan, Kozim, Milosh, Ninos, Oleksi, Orval, Radovas, Radom, Rostis, Svetyos, Tomis, Trijiro, Volim, Vlodim, Yarog
+        &#183; Female Names: Daiva, Dunja, Elnaya, Galisnya, Irinya, Kotyali, Lalya, Litisia, Madya, Mira, Nedja, Nikya, Ostani, Pinya, Rada, Raisya, Stasolya, Tatna, Zhendoya, Zoria
       </text>
     </trait>
   </race>
@@ -188,7 +188,7 @@
       <name>Goblin Names</name>
       <text>
         The Goblin language is fond of certain sounds, and goblin names tend to repeat those sounds to form what can sound like nonsense words. A goblin&#39;s name gives no indication of gender.
-        • Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
+        &#183; Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
       </text>
     </trait>
   </race>
@@ -284,8 +284,8 @@
         <text />
         <text>Symbiotic Entity</text>
         <text>   At 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</text>
-        <text>• When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</text>
-        <text>• Your melee weapon attacks deal an extra 1d6 poison damage to any target they hit.</text>
+        <text>&#183; When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</text>
+        <text>&#183; Your melee weapon attacks deal an extra 1d6 poison damage to any target they hit.</text>
         <text>   These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.</text>
         <text />
         <text>Rule Tip: Temporary Hit Points Don&#39;t Stack</text>
@@ -343,35 +343,35 @@
     </text>
   </spell>
   <spell>
-    <name>Blindness/Deafness*</name>
+    <name>Blindness/Deafness&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Gentle Repose*</name>
+    <name>Gentle Repose&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Animate Dead*</name>
+    <name>Animate Dead&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Gaseous Form*</name>
+    <name>Gaseous Form&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Blight*</name>
+    <name>Blight&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Confusion*</name>
+    <name>Confusion&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Cloudkill*</name>
+    <name>Cloudkill&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
   <spell>
-    <name>Contagion*</name>
+    <name>Contagion&#42;</name>
     <classes>Druid (Circle of Spores)</classes>
   </spell>
 
@@ -472,8 +472,8 @@
       <name>Loxodon Names</name>
       <text>
         A loxodon&#39;s name includes overtones of sound, produced in a loxodon&#39;s resonant nasal chambers, that indicate status, family connection, and community role. Since most members of other races can&#39;t hear or distinguish these tones, let alone produce them, loxodons often translate them into titles, such as Hierarch, Revered, Grandmother, Healer, or Saint.
-        • Male Names: Bayul, Berov, Brooj, Chedumov, Dobrun, Droozh, Golomov, Heruj, Ilromov, Kel, Nikoom, Ondros, Radomov, Svetel, Tamuj, Throom, Vasool
-        • Female Names: Ajj, Boja, Dancu, Dooja, Elyuja, Fanoor, Irij, Jasoo, Katrun, Lyooda, Mayja, Radu, Shuja, Soofya, Totoor, Verij, Vesmova, Yoolna, Zarij, Zoorja
+        &#183; Male Names: Bayul, Berov, Brooj, Chedumov, Dobrun, Droozh, Golomov, Heruj, Ilromov, Kel, Nikoom, Ondros, Radomov, Svetel, Tamuj, Throom, Vasool
+        &#183; Female Names: Ajj, Boja, Dancu, Dooja, Elyuja, Fanoor, Irij, Jasoo, Katrun, Lyooda, Mayja, Radu, Shuja, Soofya, Totoor, Verij, Vesmova, Yoolna, Zarij, Zoorja
       </text>
     </trait>
   </race>
@@ -565,8 +565,8 @@
       <name>Minotaur Names</name>
       <text>
         The legends that recount the deeds of ancient minotaur heroes are full of other names as well: those of the retainers, allies, lovers, servants, enemies, and others who played roles, however small, in the lives of the heroes. Almost every minotaur name is drawn from that long list of minor characters of legend, so that those folk are never forgotten.
-        • Male Names: Alovnek, Brogmir, Brozhdar, Dornik, Drakmir, Drazhan, Grozdan, Kalazmir, Klattic, Melislek, Nirikov, Prezhlek, Radolak, Rugilar, Sarovnek, Svarakov, Trovik, Vraslak, Yarvem
-        • Female Names: Akra, Bolsa, Cica, Dakka, Drakisla, Eleska, Enka, Irnaya, Jaska, Kalka, Makla, Noraka, Pesha, Raisha, Sokali, Takyat, Vrokya, Veska, Yelka, Zarka, Zoka
+        &#183; Male Names: Alovnek, Brogmir, Brozhdar, Dornik, Drakmir, Drazhan, Grozdan, Kalazmir, Klattic, Melislek, Nirikov, Prezhlek, Radolak, Rugilar, Sarovnek, Svarakov, Trovik, Vraslak, Yarvem
+        &#183; Female Names: Akra, Bolsa, Cica, Dakka, Drakisla, Eleska, Enka, Irnaya, Jaska, Kalka, Makla, Noraka, Pesha, Raisha, Sokali, Takyat, Vrokya, Veska, Yelka, Zarka, Zoka
       </text>
     </trait>
   </race>
@@ -620,13 +620,13 @@
       <text>
         Your body has been altered to incorporate certain animal characteristics. You choose one animal enhancement now and a second enhancement at 5th level.
         At 1st level, choose one of the following options:
-        • Manta Glide: You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren&#39;t incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
-        • Nimble Climber: You have a climbing speed equal to your walking speed.
-        • Underwater Adaptation: You can breathe air and water, and you have a swimming speed equal to your walking speed.
+        &#183; Manta Glide: You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren&#39;t incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
+        &#183; Nimble Climber: You have a climbing speed equal to your walking speed.
+        &#183; Underwater Adaptation: You can breathe air and water, and you have a swimming speed equal to your walking speed.
         At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn&#39;t take at 1st level, or one of the following options:
-        • Grappling Appendage: You have two special appendages growing alongside your arms. Choose whether they&#39;re both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can&#39;t precisely manipulate anything and can&#39;t wield weapons, magic items, or other specialized equipment.
-        • Carapace: Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you&#39;re not wearing heavy armor.
-        • Acid Spit: As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Consitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+        &#183; Grappling Appendage: You have two special appendages growing alongside your arms. Choose whether they&#39;re both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can&#39;t precisely manipulate anything and can&#39;t wield weapons, magic items, or other specialized equipment.
+        &#183; Carapace: Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you&#39;re not wearing heavy armor.
+        &#183; Acid Spit: As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Consitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
       </text>
     </trait>
     <trait>
@@ -734,8 +734,8 @@
       <name>Vedalken Names</name>
       <text>
         Vedalken are given names at birth, but usually choose new names for themselves as part of their transition into adulthood. They rarely use family names.
-        • Male Names: Aglar, Bellin, Dallid, Firellan, Kavin, Koplony, Lomar, Mathvan, Modar, Nebun, Nhillosh, Nitt, Otrovac, Ovlan, Pelener, Rill, Trivaz, Uldin, Yolov, Zataz
-        • Female Names: Azi, Barvisa, Brazia, Direll, Fainn, Griya, Hallia, Katrille, Kovel, Lilla, Mirela, Morai, Nedress, Ossya, Pierenn, Roya, Sestri, Triel, Uzana, Yaraghiya, Zlovol
+        &#183; Male Names: Aglar, Bellin, Dallid, Firellan, Kavin, Koplony, Lomar, Mathvan, Modar, Nebun, Nhillosh, Nitt, Otrovac, Ovlan, Pelener, Rill, Trivaz, Uldin, Yolov, Zataz
+        &#183; Female Names: Azi, Barvisa, Brazia, Direll, Fainn, Griya, Hallia, Katrille, Kovel, Lilla, Mirela, Morai, Nedress, Ossya, Pierenn, Roya, Sestri, Triel, Uzana, Yaraghiya, Zlovol
       </text>
     </trait>
   </race>
@@ -748,9 +748,9 @@
       <name>Description</name>
       <text>
         The brutes are at the gate, chaos is looming, and the only thing standing in the way of disaster is the foundation of law and order—as embodied in the Azorius Senate. You&#39;re a proud member of the Azorius guild, which both enacts and enforces the laws that make Ravnican society function smoothly and safely.
-        • Skill Proficiencies: Insight, Intimidation
-        • Languages: Two of your choice
-        • Equipment: An Azorius insignia, a scroll containing the text of a law important to you, a Ink (1-ounce bottle), a ink pen, a set of fine clothes, and a belt pouch containing 10 gp (Azorius-minted 1-zino coins)
+        &#183; Skill Proficiencies: Insight, Intimidation
+        &#183; Languages: Two of your choice
+        &#183; Equipment: An Azorius insignia, a scroll containing the text of a law important to you, a Ink (1-ounce bottle), a ink pen, a set of fine clothes, and a belt pouch containing 10 gp (Azorius-minted 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 33
       </text>
     </trait>
@@ -858,10 +858,10 @@
       <name>Description</name>
       <text>
         As a member of the Boros Legion, your life is devoted to the service of angels and consecrated to the work of establishing justice and peace on the streets of Ravnica. You might be a true believer, inspired by the example of the angels, moved by the plight of the downtrodden, and devoted to the cause of justice. Or you could be a cynic in the ranks, perhaps because you reluctantly followed in the footsteps of a Boros parent, succumbed to the persuasion of a charismatic recruiter&#39;s lofty promises, or were drawn in by the prospect of a life of action.
-        • Skill Proficiencies: Athletics, Intimidation
-        • Tool Proficiencies: One type of gaming set
-        • Languages: Choose one of Celestial, Draconic, Goblin, or Minotaur
-        • Equipment: A Boros insignia, a feather from an angel&#39;s wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of common clothes, and a belt pouch containing 2 gp (Boros-minted 1-zino coins)
+        &#183; Skill Proficiencies: Athletics, Intimidation
+        &#183; Tool Proficiencies: One type of gaming set
+        &#183; Languages: Choose one of Celestial, Draconic, Goblin, or Minotaur
+        &#183; Equipment: A Boros insignia, a feather from an angel&#39;s wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of common clothes, and a belt pouch containing 2 gp (Boros-minted 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 40
       </text>
     </trait>
@@ -970,10 +970,10 @@
       <text>
         You&#39;re a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they&#39;re written in locked journals or hidden away in someone&#39;s mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission&#39;s sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
         As part of your covert work for House Dimir, you maintain a false identity as a member of another guild. You can choose your secondary guild or roll to determine it randomly. This secondary guild membership determines a portion of your starting equipment and is also where most of your contacts come from. You infiltrate your secondary guild to learn its secrets, keep tabs on its activities, or perhaps undermine it from within.
-        • Skill Proficiencies: Deception, Stealth
-        • Tool Proficiencies: Disguise kit
-        • Languages: One of your choice
-        • Equipment: A Dimir insignia, three small knives, a set of dark-colored common clothes, and the starting equipment of the background described in this chapter for your secondary guild
+        &#183; Skill Proficiencies: Deception, Stealth
+        &#183; Tool Proficiencies: Disguise kit
+        &#183; Languages: One of your choice
+        &#183; Equipment: A Dimir insignia, three small knives, a set of dark-colored common clothes, and the starting equipment of the background described in this chapter for your secondary guild
         Source: Guildmasters&#39; Guide to Ravnica p. 46
       </text>
     </trait>
@@ -1080,10 +1080,10 @@
       <name>Description</name>
       <text>
         You are a member of a teeming horde—one small part of a sprawling organism. Just as you are part of the swarm, the swarm is part of a larger ecosystem, a never-ending cycle of life, death, rot, and rebirth. You have spent your life in the slow churn of that ecosystem, in the dark places of the city where the messy parts of existence are on display. There is little squeamishness among the Golgari, no fear of death or taboo about the dead, just a fierce affirmation of the cycle.
-        • Skill Proficiencies: Nature, Survival
-        • Tool Proficiencies: Poisoner&#39;s kit
-        • Languages: Choose one of Elvish, Giant, or Kraul
-        • Equipment: A Golgari insignia, a poisoner&#39;s kit, a pet beetle or spider, a set of common clothes, and a belt pouch containing 10 gp worth of mixed coins
+        &#183; Skill Proficiencies: Nature, Survival
+        &#183; Tool Proficiencies: Poisoner&#39;s kit
+        &#183; Languages: Choose one of Elvish, Giant, or Kraul
+        &#183; Equipment: A Golgari insignia, a poisoner&#39;s kit, a pet beetle or spider, a set of common clothes, and a belt pouch containing 10 gp worth of mixed coins
         Source: Guildmasters&#39; Guide to Ravnica p. 53
       </text>
     </trait>
@@ -1193,10 +1193,10 @@
       <name>Description</name>
       <text>
         The entire world of Ravnica is a sprawling metropolis, but you are a native of the wild areas that still exist—the abandoned districts, the rubblebelts, the overgrown parks, and the crumbling ruins. You are part of a savage society that clings desperately to the Old Ways—attuned to nature, full of primal rage, and given short shrift by a world consumed with continuing civilization&#39;s march of progress.
-        • Skill Proficiencies: Animal Handling, Athletics
-        • Tool Proficiencies: Herbalism kit
-        • Languages: Choose one of Draconic, Giant, Goblin, or Sylvan
-        • Equipment: A Gruul insignia, a hunting trap, an herbalism kit, the skull of a boar, a beast-hide cloak, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp (Azorius 1-zino coins)
+        &#183; Skill Proficiencies: Animal Handling, Athletics
+        &#183; Tool Proficiencies: Herbalism kit
+        &#183; Languages: Choose one of Draconic, Giant, Goblin, or Sylvan
+        &#183; Equipment: A Gruul insignia, a hunting trap, an herbalism kit, the skull of a boar, a beast-hide cloak, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 60
       </text>
     </trait>
@@ -1305,10 +1305,10 @@
       <name>Description</name>
       <text>
         Armed with an inventive intellect, a love of magical technology, and an unquenchable energy, you are an enthusiastic participant in the research work of the Izzet League. Though you&#39;re likely to begin your career as a mere attendant, you can aspire to become a skilled mage or alchemist, a laboratory supervisor, or even a flamethrower-wielding scorchbringer tasked with defending Izzet laboratories. The Izzet are obsessive, brilliant, inspired, and an unpredictable force of chaos in Ravnica, and you epitomize all of those qualities.
-        • Skill Proficiencies: Arcana, Investigation
-        • Tool Proficiencies: One type of artisan&#39;s tools
-        • Languages: Choose one of Draconic, Goblin, or Vedalken
-        • Equipment: An Izzet insignia, one set of artisan&#39;s tools, the charred and twisted remains of a failed experiment, a hammer, a block and tackle, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)
+        &#183; Skill Proficiencies: Arcana, Investigation
+        &#183; Tool Proficiencies: One type of artisan&#39;s tools
+        &#183; Languages: Choose one of Draconic, Goblin, or Vedalken
+        &#183; Equipment: An Izzet insignia, one set of artisan&#39;s tools, the charred and twisted remains of a failed experiment, a hammer, a block and tackle, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 66
       </text>
     </trait>
@@ -1419,9 +1419,9 @@
       <text>
         The prospect of immense wealth is the promise of membership in the Orzhov Syndicate. All of the guild&#39;s endeavors channel wealth from Ravnican society into the ranks of the Orzhov—and concentrates the spoils at the top of the hierarchy. As a functionary in that system, your best hope is to claim as much as possible of the money that passes through your hands on its way up, so that you can work your way into a more prominent position.
         Regardless of your past and the wealth of your family, your initial status with the guild is near the bottom, until you have proven your value.
-        • Skill Proficiencies: Intimidation, Religion
-        • Languages: Two of your choice
-        • Equipment: An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of fine clothes, and a belt pouch containing 1 pp (an Orzhov-minted 10-zino coin)
+        &#183; Skill Proficiencies: Intimidation, Religion
+        &#183; Languages: Two of your choice
+        &#183; Equipment: An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of fine clothes, and a belt pouch containing 1 pp (an Orzhov-minted 10-zino coin)
         Source: Guildmasters&#39; Guide to Ravnica p. 72
       </text>
     </trait>
@@ -1502,10 +1502,10 @@
       <text>
         You&#39;re an entertainer at heart, a performer with a flair for the dramatic and a love of the spotlight. You&#39;ve spent years honing your craft, mastering a demanding set of skills so you can perform them with panache and make them look easy. The wild applause, the screams of the crowds, the mayhem and terror spreading into the streets—this is what you live for.
         You&#39;re also a member of a cult devoted to an ancient demon who delights in violence and chaos. It just so happens that Rakdos loves a good show, and your highest aspiration is to please the Defiler, the Lord of Riots, with your own performance.
-        • Skill Proficiencies: Acrobatics, Performance
-        • Tool Proficiencies: One type of musical instrument
-        • Languages: Choose either Abyssal or Giant
-        • Equipment: A Rakdos insignia, a musical instrument (one of your choice), a costume clothes, a hooded lantern made of wrought iron, a 10-foot length of chain with sharply spiked links, a tinderbox, 10 torch, a set of common clothes, a belt pouch containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice
+        &#183; Skill Proficiencies: Acrobatics, Performance
+        &#183; Tool Proficiencies: One type of musical instrument
+        &#183; Languages: Choose either Abyssal or Giant
+        &#183; Equipment: A Rakdos insignia, a musical instrument (one of your choice), a costume clothes, a hooded lantern made of wrought iron, a 10-foot length of chain with sharply spiked links, a tinderbox, 10 torch, a set of common clothes, a belt pouch containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice
         Source: Guildmasters&#39; Guide to Ravnica p. 79
       </text>
     </trait>
@@ -1628,10 +1628,10 @@
       <name>Description</name>
       <text>
         You are a member of a blessed community, built on the ideals of harmony. Here, nature and civilization coexist peacefully, living and growing in accordance with the will of the Worldsoul, Mat&#39;Selesnya. As a member of the Selesnya Conclave, you are surrounded by people and other creatures who share your worldview and your longing for deeper spiritual communion with the world, and you have a fervent desire to share the joy you have experienced with Ravnica. Along with the rest of the conclave, you are committed to resisting the ambitions of the other guilds—with military force if necessary.
-        • Skill Proficiencies: Nature, Persuasion
-        • Tool Proficiencies: One type of artisan&#39;s tools or one musical instrument
-        • Languages: Choose one of Elvish, Loxodon, or Sylvan
-        • Equipment: A Selesnya insignia, a healer&#39;s kit, robes, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)
+        &#183; Skill Proficiencies: Nature, Persuasion
+        &#183; Tool Proficiencies: One type of artisan&#39;s tools or one musical instrument
+        &#183; Languages: Choose one of Elvish, Loxodon, or Sylvan
+        &#183; Equipment: A Selesnya insignia, a healer&#39;s kit, robes, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 86
       </text>
     </trait>
@@ -1740,9 +1740,9 @@
       <name>Description</name>
       <text>
         Imagine a perfect world: one in which nature and civilization exist in harmony, adapted to each other; one in which life is shaped to match its environment and the environment is shaped to match life. That&#39;s the world you have been trying to grow in the laboratories of the Simic Combine. Nature is all about adaptation, evolution, and balance—but for it to keep up with the pace of advancing civilization, nature needs some help from biomancers and terraformers. If, along the way, you happen to create super-soldiers and mutant monsters that can bolster the combine&#39;s defenses against the schemes and ambitions of the other guilds, so much the better.
-        • Skill Proficiencies: Arcana, Medicine
-        • Languages: Two of your choice
-        • Equipment: A Simic insignia, a set of common clothes, a book of research notes, an ink pen, a Ink (1-ounce bottle), a oil (flask) (made from blubber), a acid (vial) (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt pouch containing 10 gp (Azorius 1-zino coins)
+        &#183; Skill Proficiencies: Arcana, Medicine
+        &#183; Languages: Two of your choice
+        &#183; Equipment: A Simic insignia, a set of common clothes, a book of research notes, an ink pen, a Ink (1-ounce bottle), a oil (flask) (made from blubber), a acid (vial) (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt pouch containing 10 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 93
       </text>
     </trait>
@@ -2673,15 +2673,15 @@
       <name>Spellcasting</name>
       <text>Niv-Mizzet is a 20th-level Izzet spellcaster. His spellcasting ability is Intelligence (spell save DC 26, +18 to hit with spell attacks). He has the following wizard spells prepared:</text>
       <text>Cantrips (at will): fire bolt, light, prestidigitation, ray of frost, shocking grasp</text>
-      <text>• 1st level (4 slots): detect magic, magic missile, shield, thunderwave, unseen servant</text>
-      <text>• 2nd level (3 slots): blur, enlarge/reduce, flaming sphere, scorching ray</text>
-      <text>• 3rd level (3 slots): counterspell, fireball, hold person, lightning bolt, slow</text>
-      <text>• 4th level (3 slots): confusion, dimension door, fabricate</text>
-      <text>• 5th level (2 slots): conjure elemental, polymorph, wall of fire, wall of force</text>
-      <text>• 6th level (1 slots): chain lightning, disintegrate, true seeing</text>
-      <text>• 7th level (1 slots): project image, reverse gravity, teleport</text>
-      <text>• 8th level (1 slots): control weather, maze, power word stun</text>
-      <text>• 9th level (1 slots): prismatic wall</text>
+      <text>&#183; 1st level (4 slots): detect magic, magic missile, shield, thunderwave, unseen servant</text>
+      <text>&#183; 2nd level (3 slots): blur, enlarge/reduce, flaming sphere, scorching ray</text>
+      <text>&#183; 3rd level (3 slots): counterspell, fireball, hold person, lightning bolt, slow</text>
+      <text>&#183; 4th level (3 slots): confusion, dimension door, fabricate</text>
+      <text>&#183; 5th level (2 slots): conjure elemental, polymorph, wall of fire, wall of force</text>
+      <text>&#183; 6th level (1 slots): chain lightning, disintegrate, true seeing</text>
+      <text>&#183; 7th level (1 slots): project image, reverse gravity, teleport</text>
+      <text>&#183; 8th level (1 slots): control weather, maze, power word stun</text>
+      <text>&#183; 9th level (1 slots): prismatic wall</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1, 1, 1</slots>
     <spells>fire bolt, light, prestidigitation, ray of frost, shocking grasp, detect magic, magic missile, shield, thunderwave, unseen servant, blur, enlarge/reduce, flaming sphere, scorching ray, counterspell, fireball, hold person, lightning bolt, slow, confusion, dimension door, fabricate, conjure elemental, polymorph, wall of fire, wall of force, chain lightning, disintegrate, true seeing, project image, reverse gravity, teleport, control weather, maze, power word stun, prismatic wall</spells>
@@ -3948,14 +3948,14 @@
       <name>Spellcasting</name>
       <text>The biomancer is a 16th-level Simic spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The biomancer has the following wizard spells prepared:</text>
       <text>Cantrips (at will): acid splash, light, mending, poison spray, shocking grasp</text>
-      <text>• 1st level (4 slots): detect magic, grease, shield</text>
-      <text>• 2nd level (3 slots): alter self, darkvision, enlarge/reduce, hold person</text>
-      <text>• 3rd level (3 slots): counterspell, dispel magic, haste, protection from energy</text>
-      <text>• 4th level (3 slots): confusion, conjure minor elementals, polymorph</text>
-      <text>• 5th level (2 slots): cone of cold, creation, hold monster</text>
-      <text>• 6th level (1 slots): move earth, wall of ice</text>
-      <text>• 7th level (1 slots): prismatic spray</text>
-      <text>• 8th level (1 slots): control weather</text>
+      <text>&#183; 1st level (4 slots): detect magic, grease, shield</text>
+      <text>&#183; 2nd level (3 slots): alter self, darkvision, enlarge/reduce, hold person</text>
+      <text>&#183; 3rd level (3 slots): counterspell, dispel magic, haste, protection from energy</text>
+      <text>&#183; 4th level (3 slots): confusion, conjure minor elementals, polymorph</text>
+      <text>&#183; 5th level (2 slots): cone of cold, creation, hold monster</text>
+      <text>&#183; 6th level (1 slots): move earth, wall of ice</text>
+      <text>&#183; 7th level (1 slots): prismatic spray</text>
+      <text>&#183; 8th level (1 slots): control weather</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1, 1</slots>
     <spells>acid splash, light, mending, poison spray, shocking grasp, detect magic, grease, shield, alter self, darkvision, enlarge/reduce, hold person, counterspell, dispel magic, haste, protection from energy, confusion, conjure minor elementals, polymorph, cone of cold, creation, hold monster, move earth, wall of ice, prismatic spray, control weather</spells>
@@ -4163,12 +4163,12 @@
       <name>Spellcasting</name>
       <text>The druid is a 12th-level Gruul spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It has the following druid spells prepared:</text>
       <text>Cantrips (at will): druidcraft, produce flame, resistance, thorn whip</text>
-      <text>• 1st level (4 slots): cure wounds, faerie fire, thunderwave</text>
-      <text>• 2nd level (3 slots): beast sense, flame blade, pass without trace</text>
-      <text>• 3rd level (3 slots): conjure animals, dispel magic, plant growth</text>
-      <text>• 4th level (3 slots): dominate beast, freedom of movement, wall of fire</text>
-      <text>• 5th level (2 slots): commune with nature, conjure elemental, scrying</text>
-      <text>• 6th level (1 slots): transport via plants, wall of thorns</text>
+      <text>&#183; 1st level (4 slots): cure wounds, faerie fire, thunderwave</text>
+      <text>&#183; 2nd level (3 slots): beast sense, flame blade, pass without trace</text>
+      <text>&#183; 3rd level (3 slots): conjure animals, dispel magic, plant growth</text>
+      <text>&#183; 4th level (3 slots): dominate beast, freedom of movement, wall of fire</text>
+      <text>&#183; 5th level (2 slots): commune with nature, conjure elemental, scrying</text>
+      <text>&#183; 6th level (1 slots): transport via plants, wall of thorns</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1</slots>
     <spells>druidcraft, produce flame, resistance, thorn whip, cure wounds, faerie fire, thunderwave, beast sense, flame blade, pass without trace, conjure animals, dispel magic, plant growth, dominate beast, freedom of movement, wall of fire, commune with nature, conjure elemental, scrying, transport via plants, wall of thorns</spells>
@@ -4220,11 +4220,11 @@
       <name>Spellcasting</name>
       <text>The firefist is a 9th-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:</text>
       <text>Cantrips (at will): fire bolt, light, sacred flame, spare the dying</text>
-      <text>• 1st level (4 slots): guiding bolt, healing word, heroism, shield of faith</text>
-      <text>• 2nd level (3 slots): lesser restoration, scorching ray</text>
-      <text>• 3rd level (3 slots): blinding smite, crusader&#39;s mantle, revivify</text>
-      <text>• 4th level (3 slots): banishment, wall of fire</text>
-      <text>• 5th level (1 slots): flame strike</text>
+      <text>&#183; 1st level (4 slots): guiding bolt, healing word, heroism, shield of faith</text>
+      <text>&#183; 2nd level (3 slots): lesser restoration, scorching ray</text>
+      <text>&#183; 3rd level (3 slots): blinding smite, crusader&#39;s mantle, revivify</text>
+      <text>&#183; 4th level (3 slots): banishment, wall of fire</text>
+      <text>&#183; 5th level (1 slots): flame strike</text>
     </trait>
     <slots>4, 3, 3, 3, 1</slots>
     <spells>fire bolt, light, sacred flame, spare the dying, guiding bolt, healing word, heroism, shield of faith, lesser restoration, scorching ray, blinding smite, crusader&#39;s mantle, revivify, banishment, wall of fire, flame strike</spells>
@@ -4313,8 +4313,8 @@
       <name>Spellcasting</name>
       <text>The medic is a 3rd-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 11). The medic has the following cleric spells prepared:</text>
       <text>Cantrips (at will): mending, resistance, spare the dying</text>
-      <text>• 1st level (4 slots): cure wounds, sanctuary</text>
-      <text>• 2nd level (2 slots): aid, lesser restoration</text>
+      <text>&#183; 1st level (4 slots): cure wounds, sanctuary</text>
+      <text>&#183; 2nd level (2 slots): aid, lesser restoration</text>
     </trait>
     <slots>4, 2</slots>
     <spells>mending, resistance, spare the dying, cure wounds, sanctuary, aid, lesser restoration</spells>
@@ -4464,10 +4464,10 @@
       <name>Spellcasting</name>
       <text>The lawmage is an 8th-level Azorius spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The lawmage has the following wizard spells prepared:</text>
       <text>Cantrips (at will): fire bolt, friends, light, message</text>
-      <text>• 1st level (4 slots): alarm, expeditious retreat, shield</text>
-      <text>• 2nd level (3 slots): arcane lock, detect thoughts, hold person</text>
-      <text>• 3rd level (3 slots): clairvoyance, dispel magic, slow</text>
-      <text>• 4th level (2 slots): locate creature, stoneskin</text>
+      <text>&#183; 1st level (4 slots): alarm, expeditious retreat, shield</text>
+      <text>&#183; 2nd level (3 slots): arcane lock, detect thoughts, hold person</text>
+      <text>&#183; 3rd level (3 slots): clairvoyance, dispel magic, slow</text>
+      <text>&#183; 4th level (2 slots): locate creature, stoneskin</text>
     </trait>
     <slots>4, 3, 3, 2</slots>
     <spells>fire bolt, friends, light, message, alarm, expeditious retreat, shield, arcane lock, detect thoughts, hold person, clairvoyance, dispel magic, slow, locate creature, stoneskin</spells>
@@ -4607,8 +4607,8 @@
       <name>Spellcasting</name>
       <text>The lampooner is a 4th-level Rakdos spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following bard spells:</text>
       <text>Cantrips (at will): dancing lights, minor illusion, vicious mockery</text>
-      <text>• 1st level (4 slots): bane, dissonant whispers, silent image, Tasha&#39;s hideous laughter, thunderwave</text>
-      <text>• 2nd level (3 slots): crown of madness, enthrall, suggestion</text>
+      <text>&#183; 1st level (4 slots): bane, dissonant whispers, silent image, Tasha&#39;s hideous laughter, thunderwave</text>
+      <text>&#183; 2nd level (3 slots): crown of madness, enthrall, suggestion</text>
     </trait>
     <slots>4, 3</slots>
     <spells>dancing lights, minor illusion, vicious mockery, bane, dissonant whispers, silent image, Tasha&#39;s hideous laughter, thunderwave, crown of madness, enthrall, suggestion</spells>
@@ -4792,9 +4792,9 @@
       <name>Spellcasting</name>
       <text>The reckoner is a 5th-level Boros spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The reckoner has the following wizard spells prepared:</text>
       <text>Cantrips (at will): blade ward, light, message, shocking grasp</text>
-      <text>• 1st level (4 slots): guiding bolt, shield, thunderwave, witch bolt</text>
-      <text>• 2nd level (3 slots): blur, levitate</text>
-      <text>• 3rd level (2 slots): lightning bolt</text>
+      <text>&#183; 1st level (4 slots): guiding bolt, shield, thunderwave, witch bolt</text>
+      <text>&#183; 2nd level (3 slots): blur, levitate</text>
+      <text>&#183; 3rd level (2 slots): lightning bolt</text>
     </trait>
     <slots>4, 3, 2</slots>
     <spells>blade ward, light, message, shocking grasp, guiding bolt, shield, thunderwave, witch bolt, blur, levitate, lightning bolt</spells>
@@ -5046,10 +5046,10 @@
       <name>Spellcasting</name>
       <text>The shaman is an 8th-level Golgari spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The shaman has the following druid spells prepared:</text>
       <text>Cantrips (at will): poison spray, shillelagh, thorn whip</text>
-      <text>• 1st level (4 slots): cure wounds, entangle, ray of sickness</text>
-      <text>• 2nd level (3 slots): pass without trace, ray of enfeeblement, spike growth</text>
-      <text>• 3rd level (3 slots): animate dead, dispel magic, plant growth</text>
-      <text>• 4th level (2 slots): blight, giant insect</text>
+      <text>&#183; 1st level (4 slots): cure wounds, entangle, ray of sickness</text>
+      <text>&#183; 2nd level (3 slots): pass without trace, ray of enfeeblement, spike growth</text>
+      <text>&#183; 3rd level (3 slots): animate dead, dispel magic, plant growth</text>
+      <text>&#183; 4th level (2 slots): blight, giant insect</text>
     </trait>
     <slots>4, 3, 3, 2</slots>
     <spells>poison spray, shillelagh, thorn whip, cure wounds, entangle, ray of sickness, pass without trace, ray of enfeeblement, spike growth, animate dead, dispel magic, plant growth, blight, giant insect</spells>
@@ -5249,14 +5249,14 @@
       <name>Spellcasting</name>
       <text>Zegana is a 15th-level Simic spellcaster. Her spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). She has the following wizard spells prepared:</text>
       <text>Cantrips (at will): acid splash, druidcraft, ray of frost, shape water</text>
-      <text>• 1st level (4 slots): color spray, expeditious retreat, fog cloud, shield</text>
-      <text>• 2nd level (3 slots): enlarge/reduce, gust of wind</text>
-      <text>• 3rd level (3 slots): counterspell, fly, slow</text>
-      <text>• 4th level (3 slots): control water, ice storm, polymorph</text>
-      <text>• 5th level (2 slots): conjure elemental, creation</text>
-      <text>• 6th level (1 slots): move earth, wall of ice</text>
-      <text>• 7th level (1 slots): prismatic spray, teleport</text>
-      <text>• 8th level (1 slots): control weather, dominate monster</text>
+      <text>&#183; 1st level (4 slots): color spray, expeditious retreat, fog cloud, shield</text>
+      <text>&#183; 2nd level (3 slots): enlarge/reduce, gust of wind</text>
+      <text>&#183; 3rd level (3 slots): counterspell, fly, slow</text>
+      <text>&#183; 4th level (3 slots): control water, ice storm, polymorph</text>
+      <text>&#183; 5th level (2 slots): conjure elemental, creation</text>
+      <text>&#183; 6th level (1 slots): move earth, wall of ice</text>
+      <text>&#183; 7th level (1 slots): prismatic spray, teleport</text>
+      <text>&#183; 8th level (1 slots): control weather, dominate monster</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1, 1</slots>
     <spells>acid splash, druidcraft, ray of frost, shape water, color spray, expeditious retreat, fog cloud, shield, enlarge/reduce, gust of wind, counterspell, fly, slow, control water, ice storm, polymorph, conjure elemental, creation, move earth, wall of ice, prismatic spray, teleport, control weather, dominate monster</spells>
@@ -5560,14 +5560,14 @@
       <name>Spellcasting</name>
       <text>Isperia is a 15th-level Azorius spellcaster. Her spellcasting ability is Wisdom (spell save DC 23, +14 to hit with spell attacks). Isperia has the following cleric spells prepared:</text>
       <text>Cantrips (at will): guidance, light, resistance, sacred flame, thaumaturgy</text>
-      <text>• 1st level (4 slots): command, detect evil and good, ensnaring strike, sanctuary, shield of faith</text>
-      <text>• 2nd level (3 slots): arcane lock, augury, calm emotions, hold person, silence, zone of truth</text>
-      <text>• 3rd level (3 slots): bestow curse, clairvoyance, counterspell, dispel magic, tongues</text>
-      <text>• 4th level (3 slots): divination, locate creature</text>
-      <text>• 5th level (2 slots): dispel evil and good, scrying</text>
-      <text>• 6th level (1 slots): word of recall</text>
-      <text>• 7th level (1 slots): divine word</text>
-      <text>• 8th level (1 slots): antimagic field</text>
+      <text>&#183; 1st level (4 slots): command, detect evil and good, ensnaring strike, sanctuary, shield of faith</text>
+      <text>&#183; 2nd level (3 slots): arcane lock, augury, calm emotions, hold person, silence, zone of truth</text>
+      <text>&#183; 3rd level (3 slots): bestow curse, clairvoyance, counterspell, dispel magic, tongues</text>
+      <text>&#183; 4th level (3 slots): divination, locate creature</text>
+      <text>&#183; 5th level (2 slots): dispel evil and good, scrying</text>
+      <text>&#183; 6th level (1 slots): word of recall</text>
+      <text>&#183; 7th level (1 slots): divine word</text>
+      <text>&#183; 8th level (1 slots): antimagic field</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1, 1</slots>
     <spells>imprisonment, guidance, light, resistance, sacred flame, thaumaturgy, command, detect evil and good, ensnaring strike, sanctuary, shield of faith, arcane lock, augury, calm emotions, hold person, silence, zone of truth, bestow curse, clairvoyance, counterspell, dispel magic, tongues, divination, locate creature, dispel evil and good, scrying, word of recall, divine word, antimagic field</spells>
@@ -6028,13 +6028,13 @@
       <name>Spellcasting</name>
       <text>The lich is a 14th-level Golgari spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The lich has the following wizard spells prepared:</text>
       <text>Cantrips (at will): acid splash, chill touch, mage hand, poison spray, prestidigitation</text>
-      <text>• 1st level (4 slots): chromatic orb, magic missile, ray of sickness</text>
-      <text>• 2nd level (3 slots): Melf&#39;s acid arrow, ray of enfeeblement, spider climb, web</text>
-      <text>• 3rd level (3 slots): animate dead, bestow curse, fear, vampiric touch</text>
-      <text>• 4th level (3 slots): blight, Evard&#39;s black tentacles</text>
-      <text>• 5th level (2 slots): cloudkill, insect plague</text>
-      <text>• 6th level (1 slots): circle of death, create undead</text>
-      <text>• 7th level (1 slots): finger of death</text>
+      <text>&#183; 1st level (4 slots): chromatic orb, magic missile, ray of sickness</text>
+      <text>&#183; 2nd level (3 slots): Melf&#39;s acid arrow, ray of enfeeblement, spider climb, web</text>
+      <text>&#183; 3rd level (3 slots): animate dead, bestow curse, fear, vampiric touch</text>
+      <text>&#183; 4th level (3 slots): blight, Evard&#39;s black tentacles</text>
+      <text>&#183; 5th level (2 slots): cloudkill, insect plague</text>
+      <text>&#183; 6th level (1 slots): circle of death, create undead</text>
+      <text>&#183; 7th level (1 slots): finger of death</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1</slots>
     <spells>acid splash, chill touch, mage hand, poison spray, prestidigitation, chromatic orb, magic missile, ray of sickness, Melf&#39;s acid arrow, ray of enfeeblement, spider climb, web, animate dead, bestow curse, fear, vampiric touch, blight, Evard&#39;s black tentacles, cloudkill, insect plague, circle of death, create undead, finger of death</spells>
@@ -6222,13 +6222,13 @@
       <name>Spellcasting</name>
       <text>Jarad is a 14th-level Golgari spellcaster. His spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). Jarad has the following wizard spells prepared:</text>
       <text>Cantrips (at will): acid splash, chill touch, mage hand, poison spray, prestidigitation</text>
-      <text>• 1st level (4 slots): entangle, ray of sickness, sleep</text>
-      <text>• 2nd level (3 slots): Melf&#39;s acid arrow, ray of enfeeblement, spider climb, web</text>
-      <text>• 3rd level (3 slots): animate dead, plant growth, vampiric touch</text>
-      <text>• 4th level (3 slots): blight, giant insect, grasping vine</text>
-      <text>• 5th level (2 slots): cloudkill, insect plague</text>
-      <text>• 6th level (1 slots): circle of death, create undead</text>
-      <text>• 7th level (1 slots): finger of death, forcecage</text>
+      <text>&#183; 1st level (4 slots): entangle, ray of sickness, sleep</text>
+      <text>&#183; 2nd level (3 slots): Melf&#39;s acid arrow, ray of enfeeblement, spider climb, web</text>
+      <text>&#183; 3rd level (3 slots): animate dead, plant growth, vampiric touch</text>
+      <text>&#183; 4th level (3 slots): blight, giant insect, grasping vine</text>
+      <text>&#183; 5th level (2 slots): cloudkill, insect plague</text>
+      <text>&#183; 6th level (1 slots): circle of death, create undead</text>
+      <text>&#183; 7th level (1 slots): finger of death, forcecage</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1</slots>
     <spells>acid splash, chill touch, mage hand, poison spray, prestidigitation, entangle, ray of sickness, sleep, Melf&#39;s acid arrow, ray of enfeeblement, spider climb, web, animate dead, plant growth, vampiric touch, blight, giant insect, grasping vine, cloudkill, insect plague, circle of death, create undead, finger of death, forcecage</spells>
@@ -6393,11 +6393,11 @@
     <trait>
       <name>Council of Five</name>
       <text>The ghost has a trait based on who it is, as shown below:</text>
-      <text>• Enezesku: Enfeebling Ray.: Enezesku&#39;s Innate Spellcasting trait includes ray of enfeeblement, which he can cast at will.</text>
-      <text>• Fautomni: Undead Fortitude.: If damage reduces Fautomni to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Fautomni drops to 1 hit point instead.</text>
-      <text>• Karlov: Unnatural Vigor.: When Karlov regains hit points, he has advantage on attack rolls he makes on his next turn.</text>
-      <text>• Vuliev: Teleportation.: Vuliev&#39;s Innate Spellcasting trait includes misty step, which he can cast at will.</text>
-      <text>• Xil Xaxosz: Lingering Spite.: When Xil Xaxosz is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic energy. Each creature within 5 feet of him must make a DC 16 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.</text>
+      <text>&#183; Enezesku: Enfeebling Ray.: Enezesku&#39;s Innate Spellcasting trait includes ray of enfeeblement, which he can cast at will.</text>
+      <text>&#183; Fautomni: Undead Fortitude.: If damage reduces Fautomni to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Fautomni drops to 1 hit point instead.</text>
+      <text>&#183; Karlov: Unnatural Vigor.: When Karlov regains hit points, he has advantage on attack rolls he makes on his next turn.</text>
+      <text>&#183; Vuliev: Teleportation.: Vuliev&#39;s Innate Spellcasting trait includes misty step, which he can cast at will.</text>
+      <text>&#183; Xil Xaxosz: Lingering Spite.: When Xil Xaxosz is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic energy. Each creature within 5 feet of him must make a DC 16 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.</text>
     </trait>
     <trait>
       <name>Ethereal Sight</name>
@@ -6548,20 +6548,20 @@
     <legendary>
       <name>Lair Actions</name>
       <text>On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can&#39;t use an effect again until it finishes a short or long rest:</text>
-      <text>• The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.</text>
-      <text>• The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx&#39;s choice), but never any younger than 1 year old. A greater restoration spell can restore a creature&#39;s age to normal.</text>
-      <text>• The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx&#39;s choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.</text>
-      <text>• The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can&#39;t use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.</text>
+      <text>&#183; The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.</text>
+      <text>&#183; The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx&#39;s choice), but never any younger than 1 year old. A greater restoration spell can restore a creature&#39;s age to normal.</text>
+      <text>&#183; The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx&#39;s choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.</text>
+      <text>&#183; The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can&#39;t use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.</text>
     </legendary>
     <trait>
       <name>Spellcasting</name>
       <text>The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:</text>
       <text>Cantrips (at will): mage hand, minor illusion, prestidigitation</text>
-      <text>• 1st level (4 slots): detect magic, identify, shield</text>
-      <text>• 2nd level (3 slots): darkness, locate object, suggestion</text>
-      <text>• 3rd level (3 slots): dispel magic, remove curse, tongues</text>
-      <text>• 4th level (3 slots): banishment, greater invisibility</text>
-      <text>• 5th level (1 slots): legend lore</text>
+      <text>&#183; 1st level (4 slots): detect magic, identify, shield</text>
+      <text>&#183; 2nd level (3 slots): darkness, locate object, suggestion</text>
+      <text>&#183; 3rd level (3 slots): dispel magic, remove curse, tongues</text>
+      <text>&#183; 4th level (3 slots): banishment, greater invisibility</text>
+      <text>&#183; 5th level (1 slots): legend lore</text>
     </trait>
     <slots>4, 3, 3, 3, 1</slots>
     <spells>mage hand, minor illusion, prestidigitation, detect magic, identify, shield, darkness, locate object, suggestion, dispel magic, remove curse, tongues, banishment, greater invisibility, legend lore</spells>

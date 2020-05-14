@@ -106,10 +106,10 @@
       <text>
         Elves are considered children until they declare themselves adults, some time after the hundredth birthday, and before this period they are called by child names.
         On declaring adulthood, an elf selects an adult name, although those who knew him or her as a youngster might continue to use the child name. Each elf&#39;s adult name is a unique creation, though it might reflect the names of respected individuals or other family members. Little distinction exists between male names and female names; the groupings here reflect only general tendencies. In addition, every elf bears a family name, typically a combination of other Elvish words. Some elves traveling among humans translate their family names into Common, but others retain the Elvish version.
-        • Child Names: Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall
-        • Male Adult Names: Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
-        • Female Adult Names: Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia
-        • Family Names (Common Translations): Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
+        &#183; Child Names: Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall
+        &#183; Male Adult Names: Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
+        &#183; Female Adult Names: Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia
+        &#183; Family Names (Common Translations): Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
       </text>
     </trait>
   </race>
@@ -197,10 +197,10 @@
       <name>Gnome Names</name>
       <text>
         Gnomes love names, and most have half a dozen or so. A gnome&#39;s mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are truly new inventions. When dealing with humans and others who are "Stuffy" about names, a gnome learns to use no more than three names; A personal name, a clan name, and a nickname, choosing the one in each category that&#39;s the most fun to say.
-        • Male Names: Alston, Alvyn, Boddynock, Brocc, Ettrgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle. Orryn, Roondar, Seebo, Warryn, Wrenn, Zook
-        • Female Names: Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
-        • Clan Names: Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningcl, Raulnor, Seheppen, Timbers, Turen
-        • Nicknames: Aleslosh, Aslthearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nina, Oneshoe, Pock, Sparklegem, Scumbleduck
+        &#183; Male Names: Alston, Alvyn, Boddynock, Brocc, Ettrgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle. Orryn, Roondar, Seebo, Warryn, Wrenn, Zook
+        &#183; Female Names: Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
+        &#183; Clan Names: Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningcl, Raulnor, Seheppen, Timbers, Turen
+        &#183; Nicknames: Aleslosh, Aslthearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nina, Oneshoe, Pock, Sparklegem, Scumbleduck
       </text>
     </trait>
     <trait>
@@ -459,8 +459,8 @@
       <name>Half-Orc Names</name>
       <text>
         Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
-        • Male Orc Names: Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
-        • Female Orc Names: Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Vola, Volen, Yevelda
+        &#183; Male Orc Names: Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
+        &#183; Female Orc Names: Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Vola, Volen, Yevelda
       </text>
     </trait>
     <trait>
@@ -610,9 +610,9 @@
       <text>
         A dwarf&#39;s name is granted by a clan elder, in accordance with tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf&#39;s name belongs to the clan, not to the individual.
         A dwarf who misuses or brings shame to a clan name is stripped of the name and forbidden by law to use any dwarven name in its place.
-        • Male Names: Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
-        • Female Names: Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
-        • Clan Names: Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+        &#183; Male Names: Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+        &#183; Female Names: Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+        &#183; Clan Names: Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
       </text>
     </trait>
     <trait>
@@ -642,30 +642,30 @@
         Calishite
         Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes.
         They&#39;re found primarily in southwest Faerun.
-        • Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
+        &#183; Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
         Chondathan
         Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerun, around the Inner Sea.
-        • Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+        &#183; Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
         Damaran
         Found primarily in the northwest of Faerun, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
-        • Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+        &#183; Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
         Illuskan
         Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
-        • Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+        &#183; Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
         Mulan
         Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
-        • Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+        &#183; Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
         Rashemi
         Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
-        • Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+        &#183; Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
         Shou
         The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerun. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
-        • Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+        &#183; Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
         Tethyrian
         Widespread along the entire Sword Coast at the western edge of Faerun, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
         Turami
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
-        • Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+        &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 41
       </text>
     </trait>
@@ -769,30 +769,30 @@
         Calishite
         Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes.
         They&#39;re found primarily in southwest Faerun.
-        • Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
+        &#183; Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
         Chondathan
         Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerun, around the Inner Sea.
-        • Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+        &#183; Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
         Damaran
         Found primarily in the northwest of Faerun, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
-        • Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+        &#183; Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
         Illuskan
         Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
-        • Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+        &#183; Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
         Mulan
         Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
-        • Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+        &#183; Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
         Rashemi
         Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
-        • Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+        &#183; Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
         Shou
         The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerun. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
-        • Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+        &#183; Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
         Tethyrian
         Widespread along the entire Sword Coast at the western edge of Faerun, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
         Turami
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
-        • Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+        &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 42
       </text>
     </trait>
@@ -897,30 +897,30 @@
         Calishite
         Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes.
         They&#39;re found primarily in southwest Faerun.
-        • Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
+        &#183; Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
         Chondathan
         Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerun, around the Inner Sea.
-        • Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+        &#183; Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
         Damaran
         Found primarily in the northwest of Faerun, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
-        • Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+        &#183; Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
         Illuskan
         Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
-        • Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+        &#183; Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
         Mulan
         Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
-        • Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+        &#183; Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
         Rashemi
         Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
-        • Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+        &#183; Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
         Shou
         The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerun. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
-        • Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+        &#183; Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
         Tethyrian
         Widespread along the entire Sword Coast at the western edge of Faerun, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
         Turami
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
-        • Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+        &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 45
       </text>
     </trait>
@@ -1025,30 +1025,30 @@
         Calishite
         Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes.
         They&#39;re found primarily in southwest Faerun.
-        • Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
+        &#183; Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
         Chondathan
         Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerun, around the Inner Sea.
-        • Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+        &#183; Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
         Damaran
         Found primarily in the northwest of Faerun, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
-        • Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+        &#183; Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
         Illuskan
         Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
-        • Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+        &#183; Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
         Mulan
         Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
-        • Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+        &#183; Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
         Rashemi
         Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
-        • Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+        &#183; Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
         Shou
         The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerun. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
-        • Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+        &#183; Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
         Tethyrian
         Widespread along the entire Sword Coast at the western edge of Faerun, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
         Turami
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
-        • Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+        &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 46
       </text>
     </trait>
@@ -1153,30 +1153,30 @@
         Calishite
         Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes.
         They&#39;re found primarily in southwest Faerun.
-        • Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
+        &#183; Calishite Names:: (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, ]asmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, ]assan, Khalid, Mostana, Pashar, Rein
         Chondathan
         Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerun, around the Inner Sea.
-        • Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+        &#183; Chondathan Names:: (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Chessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
         Damaran
         Found primarily in the northwest of Faerun, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
-        • Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
+        &#183; Damaran Names:: (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
         Illuskan
         Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
-        • Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+        &#183; Illuskan Names:: (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
         Mulan
         Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
-        • Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
+        &#183; Mulan Names:: (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
         Rashemi
         Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
-        • Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+        &#183; Rashemi Names:: (Male) Borivik, Faurgar, ]andar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
         Shou
         The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerun. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
-        • Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
+        &#183; Shou Names:: (Male) An, Chen, Chi, Fai, ]iang, ]un, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Lia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
         Tethyrian
         Widespread along the entire Sword Coast at the western edge of Faerun, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
         Turami
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
-        • Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+        &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 48
       </text>
     </trait>
@@ -1387,9 +1387,9 @@
       <name>Halfling Names</name>
       <text>
         A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.
-        • Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
-        • Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
-        • Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
+        &#183; Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
+        &#183; Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
+        &#183; Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
       </text>
     </trait>
   </race>
@@ -1519,9 +1519,9 @@
       <name>Halfling Names</name>
       <text>
         A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.
-        • Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
-        • Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
-        • Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
+        &#183; Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
+        &#183; Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
+        &#183; Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
       </text>
     </trait>
   </race>
@@ -1672,7 +1672,7 @@
       <name>Goblin Names</name>
       <text>
         The Goblin language is fond of certain sounds, and goblin names tend to repeat those sounds to form what can sound like nonsense words. A goblin&#39;s name gives no indication of gender.
-        • Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
+        &#183; Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
       </text>
     </trait>
   </race>
@@ -2365,10 +2365,10 @@
       <name>Constructed Resilience</name>
       <text>
         You were created to have remarkable fortitude, represented by the following benefits:
-        • You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
-        • You don&#39;t need to eat, drink, or breathe.
-        • You are immune to disease.
-        • You don&#39;t need to sleep, and magic can&#39;t put you to sleep.
+        &#183; You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+        &#183; You don&#39;t need to eat, drink, or breathe.
+        &#183; You are immune to disease.
+        &#183; You don&#39;t need to sleep, and magic can&#39;t put you to sleep.
       </text>
     </trait>
     <trait>
@@ -2381,9 +2381,9 @@
       <name>Integrated Protection</name>
       <text>
         Your body has built-in defensive layers, which can be enhanced with armor:
-        • You gain a +1 bonus to Armor Class.
-        • You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
-        • While you live, your armor can&#39;t be removed from your body against your will.
+        &#183; You gain a +1 bonus to Armor Class.
+        &#183; You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
+        &#183; While you live, your armor can&#39;t be removed from your body against your will.
       </text>
     </trait>
     <trait>
@@ -2536,16 +2536,16 @@
         <text>As a 1st-level Artificer, you begin play with 8+your Constitution modifier hit points.</text>
         <text> </text>
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
-        <text>• Armor: light armor, medium armor, shields</text>
-        <text>• Weapons: simple weapons</text>
-        <text>• Tools: Thieves&#39; tools, tinker&#39;s tools, one type of artisan&#39;s tools of your choice</text>
-        <text>• Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Slight of Hand</text>
+        <text>&#183; Armor: light armor, medium armor, shields</text>
+        <text>&#183; Weapons: simple weapons</text>
+        <text>&#183; Tools: Thieves&#39; tools, tinker&#39;s tools, one type of artisan&#39;s tools of your choice</text>
+        <text>&#183; Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Slight of Hand</text>
         <text> </text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
-        <text>• any two simple weapons of your choice</text>
-        <text>• a light crossbow and 20 bolts</text>
-        <text>• your choice of studded leather armor or scale mail</text>
-        <text>• thieve&#39;s tool and a dungeoneer&#39;s pack</text>
+        <text>&#183; any two simple weapons of your choice</text>
+        <text>&#183; a light crossbow and 20 bolts</text>
+        <text>&#183; your choice of studded leather armor or scale mail</text>
+        <text>&#183; thieve&#39;s tool and a dungeoneer&#39;s pack</text>
         <text> </text>
         <text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
         <text> </text>
@@ -2557,10 +2557,10 @@
       <feature optional="YES">
         <name>Multiclass Artificer</name>
         <text>To multiclass as an Artificer, you must meet the following prerequisites:</text>
-        <text>• Intelligence 13</text>
+        <text>&#183; Intelligence 13</text>
         <text> </text>
         <text>You gain the following proficiencies:</text>
-        <text>• light armor, medium armor, sheilds, thieves&#39; tools, tinker&#39;s tools</text>
+        <text>&#183; light armor, medium armor, sheilds, thieves&#39; tools, tinker&#39;s tools</text>
         <text> </text>
         <text>Spell Slots:</text>
         <text>Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.</text>
@@ -2585,10 +2585,10 @@
       <feature>
         <name>Magical Tinkering</name>
         <text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have tinker&#39;s tools or other artisan&#39;s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</text>
-        <text>• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
-        <text>• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</text>
-        <text>• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</text>
-        <text>• A static visual effect appears on one of the object&#39;s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</text>
+        <text>&#183; The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
+        <text>&#183; Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</text>
+        <text>&#183; The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</text>
+        <text>&#183; A static visual effect appears on one of the object&#39;s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</text>
         <text> </text>
         <text>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</text>
         <text> </text>
@@ -2800,8 +2800,8 @@
       <feature optional="YES">
         <name>Battle Ready (Battle Smith)</name>
         <text>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:</text>
-        <text> • You gain proficiency with martial weapons.</text>
-        <text> • When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</text>
+        <text> &#183; You gain proficiency with martial weapons.</text>
+        <text> &#183; When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
@@ -2910,8 +2910,8 @@
         <name>Restorative Reagents (Alchemist)</name>
         <text>Starting at 9th level, you can incorporate restorative reagents into some of your works:</text>
         <text> </text>
-        <text>• Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).</text>
-        <text>• You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist&#39;s supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
+        <text>&#183; Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).</text>
+        <text>&#183; You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist&#39;s supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
@@ -2919,8 +2919,8 @@
         <name>Explosive Cannon (Artillerist)</name>
         <text>Starting at 9th level, every eldritch cannon you create is more destructive:</text>
         <text> </text>
-        <text>• The cannon&#39;s damage rolls all increase by 1d8.</text>
-        <text>• As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.</text>
+        <text>&#183; The cannon&#39;s damage rolls all increase by 1d8.</text>
+        <text>&#183; As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 60</text>
       </feature>
@@ -2928,8 +2928,8 @@
         <name>Arcane Jolt (Battle Smith)</name>
         <text>At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:</text>
         <text> </text>
-        <text>• The target takes an extra 2d6 force damage.</text>
-        <text>• Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.</text>
+        <text>&#183; The target takes an extra 2d6 force damage.</text>
+        <text>&#183; Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.</text>
         <text> </text>
         <text>You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.</text>
         <text> </text>
@@ -2943,8 +2943,8 @@
         <name>Magic Item Adept</name>
         <text>When you reach 10th level, you achieve a profound understanding of how to use and make magic items:</text>
         <text> </text>
-        <text>• You can attune to up to four magic items at once.</text>
-        <text>• If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
+        <text>&#183; You can attune to up to four magic items at once.</text>
+        <text>&#183; If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
@@ -2984,8 +2984,8 @@
         <name>Magic Item Savant</name>
         <text>At 14th level, your skill with magic items deepens more:</text>
         <text> </text>
-        <text>• You can attune to up to five magic items at once.</text>
-        <text>• You ignore all class, race, spell, and level requirements on attuning to or using a magic item.</text>
+        <text>&#183; You can attune to up to five magic items at once.</text>
+        <text>&#183; You ignore all class, race, spell, and level requirements on attuning to or using a magic item.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
@@ -2997,8 +2997,8 @@
         <name>Chemical Mastery (Alchemist)</name>
         <text>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:</text>
         <text> </text>
-        <text>• You gain resistance to acid damage and poison damage, and you are immune to the poisoned condition.</text>
-        <text>• You can cast greater restoration and heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist&#39;s supplies as the spellcasting focus. Once you cast either spell with this feature, you can&#39;t cast that spell with it again until you finish a long rest.</text>
+        <text>&#183; You gain resistance to acid damage and poison damage, and you are immune to the poisoned condition.</text>
+        <text>&#183; You can cast greater restoration and heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist&#39;s supplies as the spellcasting focus. Once you cast either spell with this feature, you can&#39;t cast that spell with it again until you finish a long rest.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
@@ -3006,8 +3006,8 @@
         <name>Fortified Position (Artillerist)</name>
         <text>Starting at 15th level, you&#39;re a master at forming well-defended emplacements using Eldritch Cannon:</text>
         <text> </text>
-        <text>• You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.</text>
-        <text>• You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can&#39;t create a third cannon while you have two.</text>
+        <text>&#183; You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.</text>
+        <text>&#183; You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can&#39;t create a third cannon while you have two.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 60</text>
       </feature>
@@ -3015,9 +3015,9 @@
         <name>Improved Defender (Battle Smith)</name>
         <text>At 15th level, your Arcane Jolt and steel defender become more powerful:</text>
         <text> </text>
-        <text>• The extra damage and the healing of your Arcane Jolt both increase to 4d6.</text>
-        <text>• Your steel defender gains a +2 bonus to Armor Class.</text>
-        <text>• Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier. </text>
+        <text>&#183; The extra damage and the healing of your Arcane Jolt both increase to 4d6.</text>
+        <text>&#183; Your steel defender gains a +2 bonus to Armor Class.</text>
+        <text>&#183; Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier. </text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 61</text>
       </feature>
@@ -3067,8 +3067,8 @@
         <name>Soul of Artifice</name>
         <text>At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:</text>
         <text> </text>
-        <text>• You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
-        <text>• If you&#39;re reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</text>
+        <text>&#183; You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
+        <text>&#183; If you&#39;re reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</text>
         <text> </text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
@@ -3081,9 +3081,9 @@
     <prerequisite>Elf</prerequisite>
     <text>
       You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
-      • Increase your Strength or Dexterity score by 1, to a maximum of 20
-      • While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
-      • A double-bladed scimitar has the finesse property when you wield it.
+      &#183; Increase your Strength or Dexterity score by 1, to a maximum of 20
+      &#183; While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
+      &#183; A double-bladed scimitar has the finesse property when you wield it.
       Source: Eberron: Rising from the Last War p. 22
     </text>
   </feat>
@@ -3092,8 +3092,8 @@
     <prerequisite></prerequisite>
     <text>
       You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
-      • You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
-      • When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
+      &#183; You learn a cantrip of your choice from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
+      &#183; When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage.
       You also develop a random flaw from the Aberrant Dragonmark Flaws table.
       d8 | Flaw
       1 | Your mark is a source of constant physical pain.
@@ -3118,9 +3118,9 @@
       <name>Description</name>
       <text>
         You have sworn fealty to a dragonmarked house. If you have a dragonmark, you&#39;re likely a member of one of the house&#39;s influential families; otherwise you&#39;re an outsider who hopes to make your fortune through the house. Your main task is to serve as the eyes of your house, but you could be called on at any time to act as its hand. Such missions can be perilous but lucrative.
-        • Skill Proficiencies: Investigation, Persuasion
-        • Tool Proficiency: Two proficiencies from the House Tool Proficiencies table
-        • Equipment: A set of fine clothes, house signet ring, identification papers, and a purse containing 20 gp.
+        &#183; Skill Proficiencies: Investigation, Persuasion
+        &#183; Tool Proficiency: Two proficiencies from the House Tool Proficiencies table
+        &#183; Equipment: A set of fine clothes, house signet ring, identification papers, and a purse containing 20 gp.
         Your House | Proficiencies
         Cannith | Alchemist&#39;s supplies and tinker&#39;s tools
         Deneith | One gaming set and vehicles (land)
@@ -3648,16 +3648,16 @@
     <legendary>
       <name>Lair Actions</name>
       <text>While within the Citadel of Lidless Eyes, Belashyrra can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Belashyrra can take a lair action to cause one of the following effects; it can&#39;t use the same effect two rounds in a row:</text>
-      <text>• An eye opens on a solid surface within 60 feet of Belashyrra. One random eye ray of Belashyrra&#39;s shoots from that eye at a target of Belashyrra&#39;s choice that it can see. The eye then closes and disappears.</text>
-      <text>• Belashyrra creates a wave of madness. Each creature it can see within its lair must succeed on a DC 22 Wisdom saving throw or be charmed for 1 minute. While charmed in this way, a creature must use its action at the start of its turn before moving to make a melee attack against another creature of Belashyrra&#39;s choice within reach. If there are no creatures within reach, the charmed creature can act normally for that turn. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-      <text>• Belashyrra taps into the eyesight of creatures in its lair and alters their perception. Each creature of Belashyrra&#39;s choice in the lair must make a DC 22 Wisdom saving throw. On a failure, the affected creature perceives objects and creatures a short distance from their actual locations, imposing disadvantage on the creature&#39;s attack rolls against those targets. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&#39;s saving throw is successful or the effect ends for it, the creature is immune to this lair action for the next 24 hours.</text>
+      <text>&#183; An eye opens on a solid surface within 60 feet of Belashyrra. One random eye ray of Belashyrra&#39;s shoots from that eye at a target of Belashyrra&#39;s choice that it can see. The eye then closes and disappears.</text>
+      <text>&#183; Belashyrra creates a wave of madness. Each creature it can see within its lair must succeed on a DC 22 Wisdom saving throw or be charmed for 1 minute. While charmed in this way, a creature must use its action at the start of its turn before moving to make a melee attack against another creature of Belashyrra&#39;s choice within reach. If there are no creatures within reach, the charmed creature can act normally for that turn. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>&#183; Belashyrra taps into the eyesight of creatures in its lair and alters their perception. Each creature of Belashyrra&#39;s choice in the lair must make a DC 22 Wisdom saving throw. On a failure, the affected creature perceives objects and creatures a short distance from their actual locations, imposing disadvantage on the creature&#39;s attack rolls against those targets. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&#39;s saving throw is successful or the effect ends for it, the creature is immune to this lair action for the next 24 hours.</text>
     </legendary>
     <legendary>
       <name>Regional Effects</name>
       <text>Belashyrra&#39;s lair is known to touch remote areas of the Shadow Marches and caverns below Xen&#39;drik. A region containing a passage to Belashyrra&#39;s lair is warped by its magic, which creates one or more of the following effects:</text>
-      <text>• Creatures within 1 mile of the passage sometimes feel as if they&#39;re being watched.</text>
-      <text>• Beasts that live within 5 miles of the passage undergo magical transmutation, growing eyes or eyestalks that Belashyrra can see through.</text>
-      <text>• A humanoid who spends at least 1 hour within 1 mile of the passage must succeed on a DC 21 Wisdom saving throw or descend into a type of madness (see "Madness of Belashyrra" below). A creature that succeeds on this saving throw can&#39;t be affected by this regional effect again for 24 hours.</text>
+      <text>&#183; Creatures within 1 mile of the passage sometimes feel as if they&#39;re being watched.</text>
+      <text>&#183; Beasts that live within 5 miles of the passage undergo magical transmutation, growing eyes or eyestalks that Belashyrra can see through.</text>
+      <text>&#183; A humanoid who spends at least 1 hour within 1 mile of the passage must succeed on a DC 21 Wisdom saving throw or descend into a type of madness (see "Madness of Belashyrra" below). A creature that succeeds on this saving throw can&#39;t be affected by this regional effect again for 24 hours.</text>
       <text>If Belashyrra dies, these effects fade over the course of 1d10 days.</text>
     </legendary>
     <description>
@@ -3724,8 +3724,8 @@
     <trait>
       <name>Spellcasting</name>
       <text>The knight is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It has the following paladin spells prepared:</text>
-      <text>• 1st level (4 slots): command, compelled duel, hellish rebuke, wrathful smite</text>
-      <text>• 2nd level (3 slots): branding smite, crown of madness, darkness, find steed, magic weapon</text>
+      <text>&#183; 1st level (4 slots): command, compelled duel, hellish rebuke, wrathful smite</text>
+      <text>&#183; 2nd level (3 slots): branding smite, crown of madness, darkness, find steed, magic weapon</text>
     </trait>
     <slots>4, 3</slots>
     <spells>command, compelled duel, hellish rebuke, wrathful smite, branding smite, crown of madness, darkness, find steed, magic weapon</spells>
@@ -4144,16 +4144,16 @@
     <legendary>
       <name>Lair Actions</name>
       <text>While within the Palace of Sinew, Dyrrn can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Dyrrn can take a lair action to cause one of the following effects; it can&#39;t use the same effect two rounds in a row:</text>
-      <text>• Dyrrn uses its Corruption action.</text>
-      <text>• A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be restrained. A creature can escape the tentacles with a successful DC 23 Strength (Athletics) or Dexterity (Acrobatics) check as an action.</text>
-      <text>• Each creature of Dyrrn&#39;s choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom saving throw or take 26 (4d12) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by 1d4 each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest.</text>
+      <text>&#183; Dyrrn uses its Corruption action.</text>
+      <text>&#183; A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be restrained. A creature can escape the tentacles with a successful DC 23 Strength (Athletics) or Dexterity (Acrobatics) check as an action.</text>
+      <text>&#183; Each creature of Dyrrn&#39;s choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom saving throw or take 26 (4d12) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by 1d4 each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest.</text>
     </legendary>
     <legendary>
       <name>Regional Effects</name>
       <text>A region containing a passage to Dyrrn&#39;s lair is warped in one or more of these ways:</text>
-      <text>• Plants and animals raised within 2 mile of the passage have twisted, aberrant forms. Use the Daelkyr Modifications table for inspiration.</text>
-      <text>• Creatures within 1 mile of the passage frequently feel as if something is crawling under their skin.</text>
-      <text>• If a humanoid spends at least 1 hour within 1 mile of the passage, that creature must succeed on a DC 22 Wisdom saving throw or descend into a type of madness (see "Madness of Dyrrn" below). A creature that succeeds on this saving throw can&#39;t be affected by this regional effect again for 24 hours.</text>
+      <text>&#183; Plants and animals raised within 2 mile of the passage have twisted, aberrant forms. Use the Daelkyr Modifications table for inspiration.</text>
+      <text>&#183; Creatures within 1 mile of the passage frequently feel as if something is crawling under their skin.</text>
+      <text>&#183; If a humanoid spends at least 1 hour within 1 mile of the passage, that creature must succeed on a DC 22 Wisdom saving throw or descend into a type of madness (see "Madness of Dyrrn" below). A creature that succeeds on this saving throw can&#39;t be affected by this regional effect again for 24 hours.</text>
       <text>If Dyrrn dies, these effects fade away after 1d10 days.</text>
     </legendary>
     <description>
@@ -4779,15 +4779,15 @@
       <name>Spellcasting</name>
       <text>Illmarrow is a 20th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 23, +15 to hit with spell attacks). Illmarrow has the following wizard spells prepared:</text>
       <text>Cantrips (at will): chill touch (see "Actions" below), fire bolt, mage hand, prestidigitation, ray of frost</text>
-      <text>• 1st level (4 slots): magic missile, shield, sleep</text>
-      <text>• 2nd level (3 slots): blur, detect thoughts, mirror image</text>
-      <text>• 3rd level (3 slots): animate dead, counterspell, fireball, fly, lightning bolt</text>
-      <text>• 4th level (3 slots): blight, confusion, polymorph</text>
-      <text>• 5th level (3 slots): cloudkill, cone of cold, hold monster, scrying</text>
-      <text>• 6th level (2 slots): chain lightning, circle of death, create undead, scrying</text>
-      <text>• 7th level (2 slots): finger of death, forcecage, prismatic spray</text>
-      <text>• 8th level (1 slots): incendiary cloud, maze</text>
-      <text>• 9th level (1 slots): power word kill, time stop</text>
+      <text>&#183; 1st level (4 slots): magic missile, shield, sleep</text>
+      <text>&#183; 2nd level (3 slots): blur, detect thoughts, mirror image</text>
+      <text>&#183; 3rd level (3 slots): animate dead, counterspell, fireball, fly, lightning bolt</text>
+      <text>&#183; 4th level (3 slots): blight, confusion, polymorph</text>
+      <text>&#183; 5th level (3 slots): cloudkill, cone of cold, hold monster, scrying</text>
+      <text>&#183; 6th level (2 slots): chain lightning, circle of death, create undead, scrying</text>
+      <text>&#183; 7th level (2 slots): finger of death, forcecage, prismatic spray</text>
+      <text>&#183; 8th level (1 slots): incendiary cloud, maze</text>
+      <text>&#183; 9th level (1 slots): power word kill, time stop</text>
     </trait>
     <slots>4, 3, 3, 3, 3, 2, 2, 1, 1</slots>
     <spells>chill touch, fire bolt, mage hand, prestidigitation, ray of frost, magic missile, shield, sleep, blur, detect thoughts, mirror image, animate dead, counterspell, fireball, fly, lightning bolt, blight, confusion, polymorph, cloudkill, cone of cold, hold monster, scrying, chain lightning, circle of death, create undead, scrying, finger of death, forcecage, prismatic spray, incendiary cloud, maze, power word kill, time stop</spells>
@@ -5585,11 +5585,11 @@
       <name>Spellcasting</name>
       <text>The Lord of Blades is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the following artificer spells prepared:</text>
       <text>Cantrips (at will): fire bolt (see "Actions" below), mage hand, mending, prestidigitation</text>
-      <text>• 1st level (4 slots): expeditious retreat, sanctuary, thunderwave</text>
-      <text>• 2nd level (3 slots): blur, heat metal, scorching ray, see invisibility</text>
-      <text>• 3rd level (3 slots): dispel magic, fly, haste</text>
-      <text>• 4th level (3 slots): freedom of movement, Mordenkainen&#39;s faithful hound</text>
-      <text>• 5th level (2 slots): animate objects, wall of force</text>
+      <text>&#183; 1st level (4 slots): expeditious retreat, sanctuary, thunderwave</text>
+      <text>&#183; 2nd level (3 slots): blur, heat metal, scorching ray, see invisibility</text>
+      <text>&#183; 3rd level (3 slots): dispel magic, fly, haste</text>
+      <text>&#183; 4th level (3 slots): freedom of movement, Mordenkainen&#39;s faithful hound</text>
+      <text>&#183; 5th level (2 slots): animate objects, wall of force</text>
     </trait>
     <slots>4, 3, 3, 3, 2</slots>
     <spells>fire bolt, mage hand, mending, prestidigitation, expeditious retreat, sanctuary, thunderwave, blur, heat metal, scorching ray, see invisibility, dispel magic, fly, haste, freedom of movement, Mordenkainen&#39;s faithful hound, animate objects, wall of force</spells>
@@ -5732,13 +5732,13 @@
       <name>Spellcasting</name>
       <text>The councilor is a 13th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following cleric spells prepared:</text>
       <text>Cantrips (at will): guidance, mending, sacred flame, spare the dying, thaumaturgy</text>
-      <text>• 1st level (4 slots): bless, command, create or destroy water</text>
-      <text>• 2nd level (3 slots): augury, calm emotions, hold person</text>
-      <text>• 3rd level (3 slots): daylight, dispel magic, spirit guardians</text>
-      <text>• 4th level (3 slots): banishment, divination, guardian of faith</text>
-      <text>• 5th level (2 slots): dispel evil and good, flame strike (see "Actions" below), scrying</text>
-      <text>• 6th level (1 slots): forbiddance, planar ally</text>
-      <text>• 7th level (1 slots): plane shift</text>
+      <text>&#183; 1st level (4 slots): bless, command, create or destroy water</text>
+      <text>&#183; 2nd level (3 slots): augury, calm emotions, hold person</text>
+      <text>&#183; 3rd level (3 slots): daylight, dispel magic, spirit guardians</text>
+      <text>&#183; 4th level (3 slots): banishment, divination, guardian of faith</text>
+      <text>&#183; 5th level (2 slots): dispel evil and good, flame strike (see "Actions" below), scrying</text>
+      <text>&#183; 6th level (1 slots): forbiddance, planar ally</text>
+      <text>&#183; 7th level (1 slots): plane shift</text>
     </trait>
     <slots>4, 3, 3, 3, 2, 1, 1</slots>
     <spells>guidance, mending, sacred flame, spare the dying, thaumaturgy, bless, command, create or destroy water, augury, calm emotions, hold person, daylight, dispel magic, spirit guardians, banishment, divination, guardian of faith, dispel evil and good, flame strike, scrying, forbiddance, planar ally, plane shift</spells>

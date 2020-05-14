@@ -17772,18 +17772,18 @@
       <text>	 </text>
       <text>Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost </text>
       <text>	 </text>
-      <text>1st level (4 slots): detect magic, magic missile, shield, unseen servant*</text>
+      <text>1st level (4 slots): detect magic, magic missile, shield, unseen servant&#42;</text>
       <text>	 </text>
-      <text>2nd level (3 slots): detect thoughts, flaming sphere,* mirror image, scorching ray </text>
+      <text>2nd level (3 slots): detect thoughts, flaming sphere,&#42; mirror image, scorching ray </text>
       <text>	 </text>
       <text>3rd level (3 slots): counterspell, dispel magic, fireball</text>
       <text>	 </text>
-      <text>4th level (3 slots): dimension door,* Evard&#39;s black tentacles*</text>
+      <text>4th level (3 slots): dimension door,&#42; Evard&#39;s black tentacles&#42;</text>
       <text>	 </text>
-      <text>5th level (3 slots): cloudkill,* scrying </text>
+      <text>5th level (3 slots): cloudkill,&#42; scrying </text>
       <text>	 </text>
       <text>6th level (1 slot): circle of death </text>
-      <text>*Conjuration spell of 1st level or higher.</text>
+      <text>&#42;Conjuration spell of 1st level or higher.</text>
     </trait>
     <trait>
       <name>Turn Resistance</name>

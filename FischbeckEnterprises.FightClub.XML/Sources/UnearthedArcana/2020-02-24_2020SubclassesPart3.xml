@@ -22,9 +22,9 @@
         <text />
         <text>You gain the following benefits while wearing the power armor:</text>
         <text>
-          • If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
-          • You can use the power armor as a spellcasting focus for your artificer spells.
-          • The power armor attaches to you and can&#39;t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
+          &#183; If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
+          &#183; You can use the power armor as a spellcasting focus for your artificer spells.
+          &#183; The power armor attaches to you and can&#39;t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
         </text>
         <text />
         <text>The armor continues to be power armor until you doff it, you don another suit of armor, or you die.</text>
@@ -231,12 +231,12 @@
         <name>Ranger Archtype: Fey Wanderer (UA): Beguiling Twist (Fey Wanderer (UA))</name>
         <text>
           You learn how to manipulate mind-altering magic, channeling it from your allies toward others. Whenever a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to succeed on a Wisdom saving throw against your spell save DC or suffer your choice of one of the following effects:
-          • The creature is charmed or frightened by you
+          &#183; The creature is charmed or frightened by you
           (your choice) for 1 minute. The creature can
           repeat the saving throw at the end of each of
           its turns, ending the effect on itself on a
           successful save.
-          • The creature takes 3d10 psychic damage.
+          &#183; The creature takes 3d10 psychic damage.
         </text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
@@ -333,31 +333,31 @@
     <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
   </spell>
   <spell>
-    <name>Magic Missile*</name>
+    <name>Magic Missile&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Shield*</name>
+    <name>Shield&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Mirror Image*</name>
+    <name>Mirror Image&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Shatter*</name>
+    <name>Shatter&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern*</name>
+    <name>Hypnotic Pattern&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt*</name>
+    <name>Lightning Bolt&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Fire Shield*</name>
+    <name>Fire Shield&#42;</name>
     <classes>Artificer (Armorer)</classes>
     <level>4</level>
     <ritual>NO</ritual>
@@ -373,35 +373,35 @@
     <school>EV</school>	
   </spell>
   <spell>
-    <name>Greater Invisibility*</name>
+    <name>Greater Invisibility&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Passwall*</name>
+    <name>Passwall&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Wall of Force*</name>
+    <name>Wall of Force&#42;</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Charm Person*</name>
+    <name>Charm Person&#42;</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Misty Step*</name>
+    <name>Misty Step&#42;</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic*</name>
+    <name>Dispel Magic&#42;</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Banishment*</name>
+    <name>Banishment&#42;</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Mislead*</name>
+    <name>Mislead&#42;</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
 </compendium>

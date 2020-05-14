@@ -714,10 +714,10 @@
         <name>Starting Equipment</name>
         <text>You start with the following equipment, in addition to the equipment granted by your background.</text>
         <text />
-        <text>• (a) a martial weapon or (b) two simple weapons</text>
-        <text>• (a) a light crossbow and 20 bolts or (b) hand crossbow and 20 bolts</text>
-        <text>• (a) studded leather armor or (b) scale mail armor</text>
-        <text>• an explorer&#39;s pack</text>
+        <text>&#183; (a) a martial weapon or (b) two simple weapons</text>
+        <text>&#183; (a) a light crossbow and 20 bolts or (b) hand crossbow and 20 bolts</text>
+        <text>&#183; (a) studded leather armor or (b) scale mail armor</text>
+        <text>&#183; an explorer&#39;s pack</text>
         <text />
         <text>Alternatively, you may start with 4d4 x 10 gp and purchase starting items of your choice.</text>
       </feature>
@@ -738,7 +738,7 @@
       <feature optional="YES">
         <name>Order of the Ghostslayer: Rite of the Dawn</name>
         <text>When you join this order at 3rd level, you learn the esoteric Rite of the Dawn.</text>
-        <text>  • Rite of the Dawn. Your rite damage is radiant type.</text>
+        <text>  &#183; Rite of the Dawn. Your rite damage is radiant type.</text>
         <text>If you hit an Undead creature with your Rite of the Dawn, it suffers additional radiant damage equal to your Wisdom modifier.</text>
         <text>Upon reaching 11th level, any creature you hit with your Rite of the Dawn suffers this additional radiant damage.</text>
       </feature>
@@ -767,10 +767,10 @@
       <feature>
         <name>Order of the Profane Soul: Rite Focus</name>
         <text>Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the PHB) for your spells. Your chosen pact also enhances your rite (outlined below).</text>
-        <text>  • The Archfey. If you deal rite damage to a creature, that creature loses any half or three-quarters cover bonuses, as well as invisibility, until the beginning of your next turn.</text>
-        <text>  • The Fiend. While using the Rite of the Flame, if you roll a 1 on your rite damage die, you may reroll the die. You may reroll only once per attack.</text>
-        <text>  • The Great Old One. Whenever you deal a critical hit to a creature, that creature must make a Wisdom saving throw against your spell save DC. On a failure, the creature is frightened of you until the end of your next turn.</text>
-        <text>  • The Undying. Whenever you reduce a hostile creature to 0 hit points with a weapon attack, and kill it, you regain hit points equal to your crimson rite damage die.</text>
+        <text>  &#183; The Archfey. If you deal rite damage to a creature, that creature loses any half or three-quarters cover bonuses, as well as invisibility, until the beginning of your next turn.</text>
+        <text>  &#183; The Fiend. While using the Rite of the Flame, if you roll a 1 on your rite damage die, you may reroll the die. You may reroll only once per attack.</text>
+        <text>  &#183; The Great Old One. Whenever you deal a critical hit to a creature, that creature must make a Wisdom saving throw against your spell save DC. On a failure, the creature is frightened of you until the end of your next turn.</text>
+        <text>  &#183; The Undying. Whenever you reduce a hostile creature to 0 hit points with a weapon attack, and kill it, you regain hit points equal to your crimson rite damage die.</text>
       </feature>
       <feature>
         <name>Order of the Mutant</name>
@@ -793,21 +793,21 @@
       <feature>
         <name>Order of the Mutant: Mutagen List</name>
         <text>These mutagens are presented in alphabetical order. You can learn a mutagen at the same time you meet its prerequisites.</text>
-        <text>  • Aether. Prerequisite: 11th level. You gain a flying speed of 20 feet. Side effect: you have disadvantage on all Strength and Dexterity ability checks.</text>
-        <text>  • Celerity. Your Dexterity score increases by an amount equal to your mutation score, as does your Dexterity maximum. Side effect: Your Wisdom score decreases by amount equal to your mutation score.</text>
-        <text>  • Conversant. You gain advantage on Intelligence ability checks. Side effect: You have disadvantage on Charisma ability checks.</text>
-        <text>  • Cruelty. Prerequisite: 11th level. You can make a single weapon attack as a bonus action on each of your turns. Side effect: You gain vulnerability to slashing damage.</text>
-        <text>  • Impermeable. You gain resistance to piercing damage. Side effect: You gain vulnerability to slashing damage.</text>
-        <text>  • Mobility. You gain immunity to the grappled and restrained conditions. At 11th level, you also are immune to the paralyzed condition. Side effect: You gain a penalty to initiative equal to 2 times your mutation score.</text>
-        <text>  • Nighteye. You gain darkvision for up to 60 feet. If you already have darkvision, this increases its range by 60 additional feet. Side effect: You gain sunlight sensitivity. (PHB 24)</text>
-        <text>  • Potency. Your Strength score increases by an amount equal to your mutation score, as does your Strength maximum. Side effect: Your Dexterity score decreases by an amount equal to your mutation score.</text>
-        <text>  • Precision. Prerequisite: 11th level. Your weapon attacks score a critical hit on a roll of 19-20. Side effect: All healing you receive is halved.</text>
-        <text>  • Rapidity. Your speed increases by 10 feet. At 15th level, your speed increases by 15 feet instead. Side effect: You have disadvantage on Dexterity ability checks.</text>
-        <text>  • Reconstruction. Prerequisite: 7th level. While conscious and in combat, you regenerate hit points equal to 2 times your mutation score (rounded down) at the start of your turn as long as you are above 0 hit points. Side effect: Your speed decreases by 10 feet.</text>
-        <text>  • Sagacity. Your Wisdom score increases by an amount equal to your mutation score, as does your Wisdom maximum. Side effect: Your armor class is reduced by an amount equal to your mutation score.</text>
-        <text>  • Shielded. You gain resistance to slashing damage. Side effect: You gain vulnerability to bludgeoning damage.</text>
-        <text>  • Unbreakable. You gain resistance to bludgeoning damage. Side effect: You gain vulnerability to piercing damage.</text>
-        <text>  • Wariness. You gain a bonus to initiative equal to 2 times your mutation score. Side effect: You have disadvantage on Wisdom (Perception) checks.</text>
+        <text>  &#183; Aether. Prerequisite: 11th level. You gain a flying speed of 20 feet. Side effect: you have disadvantage on all Strength and Dexterity ability checks.</text>
+        <text>  &#183; Celerity. Your Dexterity score increases by an amount equal to your mutation score, as does your Dexterity maximum. Side effect: Your Wisdom score decreases by amount equal to your mutation score.</text>
+        <text>  &#183; Conversant. You gain advantage on Intelligence ability checks. Side effect: You have disadvantage on Charisma ability checks.</text>
+        <text>  &#183; Cruelty. Prerequisite: 11th level. You can make a single weapon attack as a bonus action on each of your turns. Side effect: You gain vulnerability to slashing damage.</text>
+        <text>  &#183; Impermeable. You gain resistance to piercing damage. Side effect: You gain vulnerability to slashing damage.</text>
+        <text>  &#183; Mobility. You gain immunity to the grappled and restrained conditions. At 11th level, you also are immune to the paralyzed condition. Side effect: You gain a penalty to initiative equal to 2 times your mutation score.</text>
+        <text>  &#183; Nighteye. You gain darkvision for up to 60 feet. If you already have darkvision, this increases its range by 60 additional feet. Side effect: You gain sunlight sensitivity. (PHB 24)</text>
+        <text>  &#183; Potency. Your Strength score increases by an amount equal to your mutation score, as does your Strength maximum. Side effect: Your Dexterity score decreases by an amount equal to your mutation score.</text>
+        <text>  &#183; Precision. Prerequisite: 11th level. Your weapon attacks score a critical hit on a roll of 19-20. Side effect: All healing you receive is halved.</text>
+        <text>  &#183; Rapidity. Your speed increases by 10 feet. At 15th level, your speed increases by 15 feet instead. Side effect: You have disadvantage on Dexterity ability checks.</text>
+        <text>  &#183; Reconstruction. Prerequisite: 7th level. While conscious and in combat, you regenerate hit points equal to 2 times your mutation score (rounded down) at the start of your turn as long as you are above 0 hit points. Side effect: Your speed decreases by 10 feet.</text>
+        <text>  &#183; Sagacity. Your Wisdom score increases by an amount equal to your mutation score, as does your Wisdom maximum. Side effect: Your armor class is reduced by an amount equal to your mutation score.</text>
+        <text>  &#183; Shielded. You gain resistance to slashing damage. Side effect: You gain vulnerability to bludgeoning damage.</text>
+        <text>  &#183; Unbreakable. You gain resistance to bludgeoning damage. Side effect: You gain vulnerability to piercing damage.</text>
+        <text>  &#183; Wariness. You gain a bonus to initiative equal to 2 times your mutation score. Side effect: You have disadvantage on Wisdom (Perception) checks.</text>
       </feature>
       <feature>
         <name>Order of the Lycan</name>
@@ -822,11 +822,11 @@
         <name>Order of the Lycan: Hybrid Transformation</name>
         <text>Upon choosing this archetype at 3rd level, you begin to learn to control the lycanthropic curse that now lives in your blood. As an action, you can transform into your Hybrid form. This form lasts for 1 minute. You can speak, use equipment, and wear armor in this form. You can revert to your normal form earlier by using an action on your turn. You automatically revert to your normal form if you fall unconscious, drop to 0 hit points, or die. The benefits of this form replace the rules for Lycanthropy within the Monster&#39;s Manual.</text>
         <text>You can use this feature twice. You regain expended uses when you finish a short or long rest. While you are transformed, you gain the following features:</text>
-        <text>  • Feral Might. You gain a bonus to melee damage rolls equal to half your proficiency bonus (rounded down). You also have advantage on Strength checks and Strength saving throws.</text>
-        <text>  • Resilient Hide. While you are not wearing heavy armor, you can a +1 bonus to your AC.</text>
-        <text>  • Predatory Strikes. Your unarmed strikes are considered a single weapon in regards to your crimson rite feature. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. When you use the Attack action with an unarmed strike, you can make another unarmed strike as a bonus action. Unarmed strikes deal 1d4 slashing damage.</text>
-        <text>  • Cursed Weakness. You have vulnerability to damage from silvered weapons.</text>
-        <text>  • Bloodlust. At the start of your turn, if you&#39;ve taken any damage since the beginning of your last turn, you must make a Wisdom saving throw to maintain control. The DC equals 10, or 15 if you have no more than half of your hit points left. On a failed save, you must move directly towards the nearest creature to you and use the Attack action against that creature. If there is more than one possible target, the DM chooses the target. Your turn immediately ends, and you regain control.</text>
+        <text>  &#183; Feral Might. You gain a bonus to melee damage rolls equal to half your proficiency bonus (rounded down). You also have advantage on Strength checks and Strength saving throws.</text>
+        <text>  &#183; Resilient Hide. While you are not wearing heavy armor, you can a +1 bonus to your AC.</text>
+        <text>  &#183; Predatory Strikes. Your unarmed strikes are considered a single weapon in regards to your crimson rite feature. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. When you use the Attack action with an unarmed strike, you can make another unarmed strike as a bonus action. Unarmed strikes deal 1d4 slashing damage.</text>
+        <text>  &#183; Cursed Weakness. You have vulnerability to damage from silvered weapons.</text>
+        <text>  &#183; Bloodlust. At the start of your turn, if you&#39;ve taken any damage since the beginning of your last turn, you must make a Wisdom saving throw to maintain control. The DC equals 10, or 15 if you have no more than half of your hit points left. On a failed save, you must move directly towards the nearest creature to you and use the Attack action against that creature. If there is more than one possible target, the DM chooses the target. Your turn immediately ends, and you regain control.</text>
         <text>If you are under an effect that prevents you from concentrating (like the Barbarian&#39;s rage feature), you automatically fail this saving throw.</text>
       </feature>
     </autolevel>
@@ -918,10 +918,10 @@
       <feature>
         <name>Order of the Profane Soul: Revealed Arcana</name>
         <text>At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.</text>
-        <text>  • The Archfey. You can cast blur once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
-        <text>  • The Fiend. You can cast scorching ray once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
-        <text>  • The Great Old One. You can cast detect thoughts once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
-        <text>  • The Undying. You can cast blindness/deafness once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Archfey. You can cast blur once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Fiend. You can cast scorching ray once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Great Old One. You can cast detect thoughts once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Undying. You can cast blindness/deafness once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
       </feature>
       <feature>
         <name>Order of the Mutant: Advanced Mutagen Craft</name>
@@ -1041,10 +1041,10 @@
       <feature>
         <name>Order of the Profane Soul: Unsealed Arcana</name>
         <text>At 15th level, your dark patron grants you the rare use of an additional arcane spell based on your pact.</text>
-        <text>  • The Archfey. You can cast slow once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
-        <text>  • The Fiend. You can cast fireball once using a profane spell slot. You can&#39;t do so again until you finish a long rest.</text>
-        <text>  • The Great Old One. You can cast haste once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
-        <text>  • The Undying. You can cast bestow curse once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Archfey. You can cast slow once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Fiend. You can cast fireball once using a profane spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Great Old One. You can cast haste once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
+        <text>  &#183; The Undying. You can cast bestow curse once using a profane soul spell slot. You can&#39;t do so again until you finish a long rest.</text>
       </feature>
       <feature>
         <name>Order of the Mutant: Robust Physiology</name>
@@ -1505,9 +1505,9 @@
         <text />
         <text>
           Once you complete this customization, you can do one of the following.
-          • Add the finesse property to the customized item if it doesn&#39;t have it.
-          • Remove the heavy condition if the customized item has it.
-          • Add a +1 to damage rolls.
+          &#183; Add the finesse property to the customized item if it doesn&#39;t have it.
+          &#183; Remove the heavy condition if the customized item has it.
+          &#183; Add a +1 to damage rolls.
         </text>
         <text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
@@ -1673,11 +1673,11 @@
     <text>When you hit a creature with a thrown weapon attack, you can expend one superiority die to attempt to stun the target.  You add the superiority die to the attack&#39;s damage roll, and if the target is one size larger than you or smaller, it must make a strength saving throw.  On a failed save it is stunned until the end of your next turn.</text>
     <text />
     <text>Stunned:</text>
-    <text>• A stunned creature is incapacitated, meaning it can&#39;t take actions or reactions, can&#39;t move, and can speak only falteringly.</text>
+    <text>&#183; A stunned creature is incapacitated, meaning it can&#39;t take actions or reactions, can&#39;t move, and can speak only falteringly.</text>
     <text />
-    <text>• The creature automatically fails Strength and Dexterity saving throws.</text>
+    <text>&#183; The creature automatically fails Strength and Dexterity saving throws.</text>
     <text />
-    <text>• Attack rolls against the creature have advantage.</text>
+    <text>&#183; Attack rolls against the creature have advantage.</text>
     <text />
     <text />
     <text>Source: Custom Trick Shot in World of Koreth, OneNote - Warren Fischbeck</text>
@@ -1872,7 +1872,7 @@
     <text>Source: Custom spell in World of Koreth, OneNote - Warren Fischbeck</text>
   </spell>
   <spell>
-    <name>Shield*</name>
+    <name>Shield&#42;</name>
     <level>1</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -1884,10 +1884,10 @@
     <text>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.</text>
     <text />
     <text>Source: Player&#39;s Handbook, p. 275</text>
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
-    <name>Healing Word*</name>
+    <name>Healing Word&#42;</name>
     <classes>Artificer (Alchemist)</classes>
     <level>1</level>
     <ritual>NO</ritual>
@@ -1902,26 +1902,26 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 250</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
-    <name>Ray of Sickness*</name>
+    <name>Ray of Sickness&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Flaming Sphere*</name>
+    <name>Flaming Sphere&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Melf&#39;s Acid Arrow*</name>
+    <name>Melf&#39;s Acid Arrow&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Gaseous Form*</name>
+    <name>Gaseous Form&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word*</name>
+    <name>Mass Healing Word&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
@@ -1929,51 +1929,51 @@
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Death Ward*</name>
+    <name>Death Ward&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Cloudkill*</name>
+    <name>Cloudkill&#42;</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Shield*</name>
+    <name>Shield&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Thunderwave*</name>
+    <name>Thunderwave&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray*</name>
+    <name>Scorching Ray&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Shatter*</name>
+    <name>Shatter&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Fireball*</name>
+    <name>Fireball&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wind Wall*</name>
+    <name>Wind Wall&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Ice Storm*</name>
+    <name>Ice Storm&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire*</name>
+    <name>Wall of Fire&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Cone of Cold*</name>
+    <name>Cone of Cold&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wall of Force*</name>
+    <name>Wall of Force&#42;</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
 

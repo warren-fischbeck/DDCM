@@ -679,9 +679,9 @@
         <text>1st-level monk feature (enhances Martial Arts)</text>
         <text>You can use this feature to define your monk weapons, rather than using the definition in Martial Arts.</text>
         <text>You practice your martial arts with specially chosen weapons, which become monk weapons for you. You can choose a number of weapons to be your monk weapons equal to 5 + your Wisdom modifier (minimum of five weapons). The chosen weapons must each meet the following criteria:</text>
-        <text>• The weapon must be a simple or martial weapon.</text>
-        <text>• You must be proficient with the weapon.</text>
-        <text>• The weapon must lack these properties: heavy, special, or two-handed.</text>
+        <text>&#183; The weapon must be a simple or martial weapon.</text>
+        <text>&#183; You must be proficient with the weapon.</text>
+        <text>&#183; The weapon must lack these properties: heavy, special, or two-handed.</text>
         <text />
         <text>Source: Unearthed Arcana: Class Feature Variants</text>
       </feature>
@@ -1670,10 +1670,10 @@
     <text>Prerequisite: Pact of the Chain feature</text>
     <text />
     <text>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:</text>
-    <text>• The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.</text>
-    <text>• The familiar no longer needs to breathe.</text>
-    <text>• The familiar&#39;s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.</text>
-    <text>• If the familiar forces a creature to make a saving throw, it uses your spell save DC.</text>
+    <text>&#183; The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.</text>
+    <text>&#183; The familiar no longer needs to breathe.</text>
+    <text>&#183; The familiar&#39;s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.</text>
+    <text>&#183; If the familiar forces a creature to make a saving throw, it uses your spell save DC.</text>
     <text />
     <text>Source: Unearthed Arcana: Class Feature Variants</text>
   </spell>

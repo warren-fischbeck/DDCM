@@ -64,12 +64,12 @@
             <name>Spellcasting</name>
             <text>Amble is a 12th-level spellcaster. Their spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). Amble has the following druid spells prepared:</text>
             <text>Cantrips (at will): guidance, mending, shape water, shillelagh</text>
-            <text>• 1st level (4 slots): absorb elements, cure wounds, entangle, speak with animals</text>
-            <text>• 2nd level (3 slots): darkvision, hold person, lesser restoration, moonbeam</text>
-            <text>• 3rd level (3 slots): conjure animals, dispel magic, water breathing</text>
-            <text>• 4th level (3 slots): charm monster, freedom of movement</text>
-            <text>• 5th level (2 slots): greater restoration, mass cure wounds</text>
-            <text>• 6th level (1 slots): conjure fey</text>
+            <text>&#183; 1st level (4 slots): absorb elements, cure wounds, entangle, speak with animals</text>
+            <text>&#183; 2nd level (3 slots): darkvision, hold person, lesser restoration, moonbeam</text>
+            <text>&#183; 3rd level (3 slots): conjure animals, dispel magic, water breathing</text>
+            <text>&#183; 4th level (3 slots): charm monster, freedom of movement</text>
+            <text>&#183; 5th level (2 slots): greater restoration, mass cure wounds</text>
+            <text>&#183; 6th level (1 slots): conjure fey</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1</slots>
         <spells>guidance, mending, shape water, shillelagh, absorb elements, cure wounds, entangle, speak with animals, darkvision, hold person, lesser restoration, moonbeam, conjure animals, dispel magic, water breathing, charm monster, freedom of movement, greater restoration, mass cure wounds, conjure fey</spells>
@@ -158,23 +158,23 @@
             <name>Lair Actions</name>
             <text>Gar can employ lair actions while he&#39;s within the coral mountain.</text>
             <text>On initiative count 20 (losing initiative ties), Gar Shatterkeel takes a lair action to cause one of the following effects; Gar can&#39;t use the same effect two rounds in a row.</text>
-            <text>• Gar may teleport anywhere within the coral mountain, bringing up to five willing creatures with him.</text>
-            <text>• The coral in a 60-foot radius grows rapidly around creatures inside the coral mountain. Each creature must succeed on a DC 18 Strength saving throw or become restrained. Restrained creatures can take an action on their turn to make a DC 18 Strength (Athletics) or Dexterity (Acrobatics) check to free themselves. This effect lasts for 1 minute unless dispelled (it counts as a 6th level spell), and doesn&#39;t require Gar to maintain concentration. Gar Shatterkeel and any creatures he designates are immune to this effect.</text>
-            <text>• Up to five corpses that Gar can see within 60 feet rise up as drowned blade and attack anyone Gar directs them to on his turn.</text>
+            <text>&#183; Gar may teleport anywhere within the coral mountain, bringing up to five willing creatures with him.</text>
+            <text>&#183; The coral in a 60-foot radius grows rapidly around creatures inside the coral mountain. Each creature must succeed on a DC 18 Strength saving throw or become restrained. Restrained creatures can take an action on their turn to make a DC 18 Strength (Athletics) or Dexterity (Acrobatics) check to free themselves. This effect lasts for 1 minute unless dispelled (it counts as a 6th level spell), and doesn&#39;t require Gar to maintain concentration. Gar Shatterkeel and any creatures he designates are immune to this effect.</text>
+            <text>&#183; Up to five corpses that Gar can see within 60 feet rise up as drowned blade and attack anyone Gar directs them to on his turn.</text>
         </legendary>
         <trait>
             <name>Spellcasting</name>
             <text>Gar is a 13th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). He has the following druid spells prepared:</text>
-            <text>Cantrips (at will): frostbite, mending, resistance, shape water, thunderclap*</text>
-            <text>• 1st level (4 slots): create or destroy water, charm person, cure wounds, thunderwave</text>
-            <text>• 2nd level (3 slots): darkvision, hold person, mirror image*, misty step*, pass without trace, protection from poison</text>
-            <text>• 3rd level (3 slots): conjure animals, dispel magic, tidal wave, water breathing*, water walk*</text>
-            <text>• 4th level (3 slots): charm monster, control water*, dominate beast, freedom of movement*, watery sphere</text>
-            <text>• 5th level (2 slots): conjure elemental*, maelstrom, scrying*, tree stride</text>
-            <text>• 6th level (1 slots): heal</text>
-            <text>• 7th level (1 slots): plane shift</text>
-            <text>scrying*, tree stride</text>
-            <text>*Circle spells don&#39;t count against spells prepared.</text>
+            <text>Cantrips (at will): frostbite, mending, resistance, shape water, thunderclap&#42;</text>
+            <text>&#183; 1st level (4 slots): create or destroy water, charm person, cure wounds, thunderwave</text>
+            <text>&#183; 2nd level (3 slots): darkvision, hold person, mirror image&#42;, misty step&#42;, pass without trace, protection from poison</text>
+            <text>&#183; 3rd level (3 slots): conjure animals, dispel magic, tidal wave, water breathing&#42;, water walk&#42;</text>
+            <text>&#183; 4th level (3 slots): charm monster, control water&#42;, dominate beast, freedom of movement&#42;, watery sphere</text>
+            <text>&#183; 5th level (2 slots): conjure elemental&#42;, maelstrom, scrying&#42;, tree stride</text>
+            <text>&#183; 6th level (1 slots): heal</text>
+            <text>&#183; 7th level (1 slots): plane shift</text>
+            <text>scrying&#42;, tree stride</text>
+            <text>&#42;Circle spells don&#39;t count against spells prepared.</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1, 1</slots>
         <spells>frostbite, mending, resistance, shape water, thunderclap, create or destroy water, charm person, cure wounds, thunderwave, darkvision, hold person, mirror image, misty step, pass without trace, protection from poison, conjure animals, dispel magic, tidal wave, water breathing, water walk, charm monster, control water, dominate beast, freedom of movement, watery sphere, conjure elemental, maelstrom, scrying, tree stride, heal, plane shift</spells>
@@ -279,10 +279,10 @@
             <name>Spellcasting</name>
             <text>Shoalar is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:</text>
             <text>Cantrips (at will): acid splash, chill touch, light, prestidigitation, ray of frost</text>
-            <text>• 1st level (4 slots): disguise self, mage armor, shield</text>
-            <text>• 2nd level (3 slots): hold person, misty step</text>
-            <text>• 3rd level (2 slots): lightning bolt, tidal wave</text>
-            <text>• 4th level (1 slots): watery sphere</text>
+            <text>&#183; 1st level (4 slots): disguise self, mage armor, shield</text>
+            <text>&#183; 2nd level (3 slots): hold person, misty step</text>
+            <text>&#183; 3rd level (2 slots): lightning bolt, tidal wave</text>
+            <text>&#183; 4th level (1 slots): watery sphere</text>
         </trait>
         <slots>4, 3, 2, 1</slots>
         <spells>shape water, create or destroy water, acid splash, chill touch, light, prestidigitation, ray of frost, disguise self, mage armor, shield, hold person, misty step, lightning bolt, tidal wave, watery sphere</spells>

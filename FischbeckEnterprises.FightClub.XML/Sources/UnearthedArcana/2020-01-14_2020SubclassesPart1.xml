@@ -34,9 +34,9 @@
         <text>6th-level Path of the Beast feature</text>
         <text>   The feral spirit within you grows in power, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</text>
         <text>   You can also call on the feral spirit to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish a short or long rest:</text>
-        <text>• You gain a swimming speed equal to your walking speed, and you can breathe underwater.</text>
-        <text>• You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
-        <text>• When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check&#39;s total. You can make this special check only once per turn.</text>
+        <text>&#183; You gain a swimming speed equal to your walking speed, and you can breathe underwater.</text>
+        <text>&#183; You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
+        <text>&#183; When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check&#39;s total. You can make this special check only once per turn.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
       </feature>
@@ -46,8 +46,8 @@
         <name>Primal Path: Path of the Beast (UA): Infectious Fury (Path of the Beast (UA))</name>
         <text>10th-level Path of the Beast feature</text>
         <text>   When you hit a creature with your natural weapons while you are raging, the spirit within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):</text>
-        <text>• The target must use its reaction to make a melee attack against another creature of your choice that you can see.</text>
-        <text>• Target takes 2d12 psychic damage. You can use this feature a number of times equal to your Constitution modifier (a minimum of once).</text>
+        <text>&#183; The target must use its reaction to make a melee attack against another creature of your choice that you can see.</text>
+        <text>&#183; Target takes 2d12 psychic damage. You can use this feature a number of times equal to your Constitution modifier (a minimum of once).</text>
         <text>   You regain all expended uses when you finish a long rest.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
@@ -235,9 +235,9 @@
         <name>Sacred Oath: Oath of the Watchers (UA): Mortal Bulwark (Oath of the Watchers (UA))</name>
         <text>20th-level Oath of the Watchers feature</text>
         <text>   You manifest a spark of your deity&#39;s power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:</text>
-        <text>• You gain truesight in a 120-foot radius.</text>
-        <text>• You have advantage on attack rolls against elementals, fey, fiends, and aberrations.</text>
-        <text>• When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it&#39;s currently not there. On a successful save, the creature can&#39;t be banished by this feature for 24 hours.</text>
+        <text>&#183; You gain truesight in a 120-foot radius.</text>
+        <text>&#183; You have advantage on attack rolls against elementals, fey, fiends, and aberrations.</text>
+        <text>&#183; When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it&#39;s currently not there. On a successful save, the creature can&#39;t be banished by this feature for 24 hours.</text>
         <text>   Once you use this bonus action, you can&#39;t use it again until you finish a long rest.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>
@@ -288,8 +288,8 @@
         <text>If you lose your vessel, you can perform a 1 hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous vessel. The vessel vanishes in a flare of elemental power when you die.</text>
         <text>   As an action while you are holding the vessel, you target a willing creature you can see within 100 feet of you and create a tether of wispy elemental material that links the target to you. The tether lasts for 1 hour, until you use this feature to create another tether, until the bound target is reduced to 0 hit points, or until the target ends its turn more than 100 feet from you.</text>
         <text>   While you are tethered to a creature, you gain the following benefits:</text>
-        <text>• You gain a bonus to your Wisdom (Perception) checks equal to your Charisma modifier (minimum of +1).</text>
-        <text>• When you can cast a spell, you can deliver the spell from your space or the bound creature&#39;s space.</text>
+        <text>&#183; You gain a bonus to your Wisdom (Perception) checks equal to your Charisma modifier (minimum of +1).</text>
+        <text>&#183; When you can cast a spell, you can deliver the spell from your space or the bound creature&#39;s space.</text>
         <text>   You can create the tether a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
         <text />
         <text>Collector&#39;s Vessel and Pact Boons</text>
@@ -333,9 +333,9 @@
         <name>Otherworldly Patron: The Noble Genie (UA): Collector&#39;s Call (The Noble Genie (UA))</name>
         <text>14th-level Noble Genie feature</text>
         <text>   In exchange for extending your patron&#39;s influence over the multiverse, you can call on more of their power. As an action, you can implore your patron for aid by making a Charisma (Persuasion) check against your warlock spell save DC. If the check succeeds, you can choose one of the following effects:</text>
-        <text>• A creature you can see within 60 feet of you regains 8d6 hit points and ends one disease or condition afflicting it: blinded, charmed, deafened, frightened, paralyzed, or poisoned.</text>
-        <text>• A creature you can see within 60 feet of you has disadvantage on attack rolls and saving throws until the start of your next turn.</text>
-        <text>• You cast the legend lore spell without material components.</text>
+        <text>&#183; A creature you can see within 60 feet of you regains 8d6 hit points and ends one disease or condition afflicting it: blinded, charmed, deafened, frightened, paralyzed, or poisoned.</text>
+        <text>&#183; A creature you can see within 60 feet of you has disadvantage on attack rolls and saving throws until the start of your next turn.</text>
+        <text>&#183; You cast the legend lore spell without material components.</text>
         <text>   Whether the check succeeds or fails, you can&#39;t use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 500 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron&#39;s realm, provided you have the vessel of your Collector&#39;s Vessel in hand.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt1</text>

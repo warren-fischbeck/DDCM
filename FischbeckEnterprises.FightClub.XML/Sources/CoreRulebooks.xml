@@ -15110,29 +15110,29 @@
     <text>Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.</text>
     <text />
     <text>Playing Card &#8212; Card:</text>
-    <text>Ace of diamonds &#8212; Vizier*</text>
+    <text>Ace of diamonds &#8212; Vizier&#42;</text>
     <text>King of diamonds &#8212; Sun</text>
     <text>Queen of diamonds &#8212; Moon</text>
     <text>Jack of diamonds &#8212; Star</text>
-    <text>Two of diamonds &#8212; Comet*</text>
-    <text>Ace of hearts &#8212; The Fates*</text>
+    <text>Two of diamonds &#8212; Comet&#42;</text>
+    <text>Ace of hearts &#8212; The Fates&#42;</text>
     <text>King of hearts &#8212; Throne</text>
     <text>Queen of hearts &#8212; Key</text>
     <text>Jack of hearts &#8212; Knight</text>
-    <text>Two of hearts &#8212; Gem*</text>
-    <text>Ace of clubs &#8212; Talons*</text>
+    <text>Two of hearts &#8212; Gem&#42;</text>
+    <text>Ace of clubs &#8212; Talons&#42;</text>
     <text>King of clubs &#8212; The Void</text>
     <text>Queen of clubs &#8212; Flames</text>
     <text>Jack of clubs &#8212; Skull</text>
-    <text>Two of clubs &#8212; Idiot*</text>
-    <text>Ace of spades &#8212; Donjon*</text>
+    <text>Two of clubs &#8212; Idiot&#42;</text>
+    <text>Ace of spades &#8212; Donjon&#42;</text>
     <text>King of spades &#8212; Ruin</text>
     <text>Queen of spades &#8212; Euryale</text>
     <text>Jack of spades &#8212; Rogue</text>
-    <text>Two of spades &#8212; Balance*</text>
-    <text>Joker (with TM) &#8212; Fool*</text>
+    <text>Two of spades &#8212; Balance&#42;</text>
+    <text>Joker (with TM) &#8212; Fool&#42;</text>
     <text>Joker (without TM) &#8212; Jester</text>
-    <text>* Found only in a deck with twenty-two cards</text>
+    <text>&#42; Found only in a deck with twenty-two cards</text>
     <text />
     <text>Balance: Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.</text>
     <text>Comet: If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect.</text>
@@ -29058,7 +29058,7 @@
     <text>Source: Player&#39;s Handbook, p. 211</text>
   </spell>
   <spell>
-    <name>Aid*</name>
+    <name>Aid&#42;</name>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -29073,7 +29073,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 211</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Alarm</name>
@@ -29092,7 +29092,7 @@
     <text>Source: Player&#39;s Handbook, p. 211</text>
   </spell>
   <spell>
-    <name>Alarm*</name>
+    <name>Alarm&#42;</name>
     <level>1</level>
     <school>A</school>
     <ritual>YES</ritual>
@@ -29164,7 +29164,7 @@
     <text>Source: Player&#39;s Handbook, p. 212</text>
   </spell>
   <spell>
-    <name>Animal Friendship*</name>
+    <name>Animal Friendship&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -29184,7 +29184,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 212</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Animal Messenger</name>
@@ -29257,7 +29257,7 @@
     <text>Source: Player&#39;s Handbook, p. 212</text>
   </spell>
   <spell>
-    <name>Animate Dead*</name>
+    <name>Animate Dead&#42;</name>
     <level>3</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -29274,7 +29274,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 212</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Animate Objects</name>
@@ -29302,7 +29302,7 @@
     <text>Source: Player&#39;s Handbook, p. 213</text>
   </spell>
   <spell>
-    <name>Animate Objects*</name>
+    <name>Animate Objects&#42;</name>
     <level>5</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -29326,7 +29326,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 213</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Antilife Shell</name>
@@ -29345,7 +29345,7 @@
     <text>Source: Player&#39;s Handbook, p. 213</text>
   </spell>
   <spell>
-    <name>Antilife Shell*</name>
+    <name>Antilife Shell&#42;</name>
     <level>5</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -29360,7 +29360,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 213</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Antimagic Field</name>
@@ -29424,7 +29424,7 @@
     <text>Source: Player&#39;s Handbook, p. 214</text>
   </spell>
   <spell>
-    <name>Arcane Eye*</name>
+    <name>Arcane Eye&#42;</name>
     <level>4</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -29439,7 +29439,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 214</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Arcane Gate</name>
@@ -29489,7 +29489,7 @@
     <text>Source: Player&#39;s Handbook, p. 215</text>
   </spell>
   <spell>
-    <name>Armor of Agathys*</name>
+    <name>Armor of Agathys&#42;</name>
     <level>1</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -29504,7 +29504,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 215</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Arms of Hadar</name>
@@ -29574,7 +29574,7 @@
     <text>Source: Player&#39;s Handbook, p. 215</text>
   </spell>
   <spell>
-    <name>Augury*</name>
+    <name>Augury&#42;</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -29593,7 +29593,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 215</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Augury (Ritual Only)</name>
@@ -29632,7 +29632,7 @@
     <text>Source: Player&#39;s Handbook, p. 216</text>
   </spell>
   <spell>
-    <name>Aura of Life*</name>
+    <name>Aura of Life&#42;</name>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -29645,7 +29645,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 216</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Aura of Purity</name>
@@ -29677,7 +29677,7 @@
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Aura of Vitality*</name>
+    <name>Aura of Vitality&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -29690,7 +29690,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 216</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d6</roll>
   </spell>
   <spell>
@@ -29730,7 +29730,7 @@
     <text>Source: Player&#39;s Handbook, p. 216</text>
   </spell>
   <spell>
-    <name>Bane*</name>
+    <name>Bane&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -29745,7 +29745,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 216</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Banishing Smite</name>
@@ -29787,7 +29787,7 @@
     <text>Source: Player&#39;s Handbook, p. 217</text>
   </spell>
   <spell>
-    <name>Banishment*</name>
+    <name>Banishment&#42;</name>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -29807,7 +29807,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 217</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Barkskin</name>
@@ -29824,7 +29824,7 @@
     <text>Source: Player&#39;s Handbook, p. 217</text>
   </spell>
   <spell>
-    <name>Barkskin*</name>
+    <name>Barkskin&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -29837,7 +29837,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 217</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Beacon of Hope</name>
@@ -29854,7 +29854,7 @@
     <text>Source: Player&#39;s Handbook, p. 217</text>
   </spell>
   <spell>
-    <name>Beacon of Hope*</name>
+    <name>Beacon of Hope&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -29867,7 +29867,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 217</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Beast Sense</name>
@@ -29921,7 +29921,7 @@
     <text>Source: Player&#39;s Handbook, p. 218</text>
   </spell>
   <spell>
-    <name>Bestow Curse*</name>
+    <name>Bestow Curse&#42;</name>
     <level>3</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -29941,7 +29941,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 218</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Bigby&#39;s Hand</name>
@@ -30014,7 +30014,7 @@
     <text>Source: Player&#39;s Handbook, p. 219</text>
   </spell>
   <spell>
-    <name>Bless*</name>
+    <name>Bless&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -30029,7 +30029,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 219</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Blight</name>
@@ -30051,7 +30051,7 @@
     <roll>8d8</roll>
   </spell>
   <spell>
-    <name>Blight*</name>
+    <name>Blight&#42;</name>
     <level>4</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -30068,7 +30068,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 219</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>8d8</roll>
   </spell>
   <spell>
@@ -30117,7 +30117,7 @@
     <text>Source: Player&#39;s Handbook, p. 219</text>
   </spell>
   <spell>
-    <name>Blindness/Deafness*</name>
+    <name>Blindness/Deafness&#42;</name>
     <level>2</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -30140,7 +30140,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 219</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Blink</name>
@@ -30158,7 +30158,7 @@
     <text>Source: Player&#39;s Handbook, p. 219</text>
   </spell>
   <spell>
-    <name>Blink*</name>
+    <name>Blink&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -30172,7 +30172,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 219</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Blur</name>
@@ -30189,7 +30189,7 @@
     <text>Source: Player&#39;s Handbook, p. 219</text>
   </spell>
   <spell>
-    <name>Blur*</name>
+    <name>Blur&#42;</name>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -30202,7 +30202,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 219</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Branding Smite</name>
@@ -30259,7 +30259,7 @@
     <roll>3d6</roll>
   </spell>
   <spell>
-    <name>Burning Hands*</name>
+    <name>Burning Hands&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -30275,7 +30275,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 220</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d6</roll>
   </spell>
   <spell>
@@ -30298,7 +30298,7 @@
     <roll>3d10</roll>
   </spell>
   <spell>
-    <name>Call Lightning*</name>
+    <name>Call Lightning&#42;</name>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -30315,7 +30315,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 220</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d10</roll>
   </spell>
   <spell>
@@ -30335,7 +30335,7 @@
     <text>Source: Player&#39;s Handbook, p. 221</text>
   </spell>
   <spell>
-    <name>Calm Emotions*</name>
+    <name>Calm Emotions&#42;</name>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -30350,7 +30350,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 221</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Chain Lightning</name>
@@ -30392,7 +30392,7 @@
     <text>Source: Player&#39;s Handbook, p. 221</text>
   </spell>
   <spell>
-    <name>Charm Person*</name>
+    <name>Charm Person&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -30412,7 +30412,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 221</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Chill Touch</name>
@@ -30480,7 +30480,7 @@
     <text>Source: Player&#39;s Handbook, p. 222</text>
   </spell>
   <spell>
-    <name>Circle of Power*</name>
+    <name>Circle of Power&#42;</name>
     <level>5</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -30493,7 +30493,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 222</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Clairvoyance</name>
@@ -30592,7 +30592,7 @@
     <roll>5d8</roll>
   </spell>
   <spell>
-    <name>Cloudkill*</name>
+    <name>Cloudkill&#42;</name>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -30609,7 +30609,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 222</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>5d8</roll>
   </spell>
   <spell>
@@ -30665,7 +30665,7 @@
     <text>Source: Player&#39;s Handbook, p. 223</text>
   </spell>
   <spell>
-    <name>Command*</name>
+    <name>Command&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -30693,7 +30693,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 223</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Commander&#39;s Strike</name>
@@ -30725,7 +30725,7 @@
     <text>Source: Player&#39;s Handbook, p. 223</text>
   </spell>
   <spell>
-    <name>Commune*</name>
+    <name>Commune&#42;</name>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -30740,7 +30740,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 223</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Commune (Ritual Only)</name>
@@ -30782,7 +30782,7 @@
     <text>Source: Player&#39;s Handbook, p. 224</text>
   </spell>
   <spell>
-    <name>Commune with Nature*</name>
+    <name>Commune with Nature&#42;</name>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -30802,7 +30802,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 224</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Commune with Nature (Ritual Only)</name>
@@ -30843,7 +30843,7 @@
     <text>Source: Player&#39;s Handbook, p. 224</text>
   </spell>
   <spell>
-    <name>Compelled Duel*</name>
+    <name>Compelled Duel&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -30857,7 +30857,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 224</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Comprehend Languages</name>
@@ -30907,7 +30907,7 @@
     <text>Source: Player&#39;s Handbook, p. 224</text>
   </spell>
   <spell>
-    <name>Compulsion*</name>
+    <name>Compulsion&#42;</name>
     <level>4</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -30921,7 +30921,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 224</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Cone of Cold</name>
@@ -30942,7 +30942,7 @@
     <roll>8d8</roll>
   </spell>
   <spell>
-    <name>Cone of Cold*</name>
+    <name>Cone of Cold&#42;</name>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -30958,7 +30958,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 224</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>8d8</roll>
   </spell>
   <spell>
@@ -30984,7 +30984,7 @@
     <text>Source: Player&#39;s Handbook, p. 224</text>
   </spell>
   <spell>
-    <name>Confusion*</name>
+    <name>Confusion&#42;</name>
     <level>4</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -31005,7 +31005,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 224</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Conjure Animals</name>
@@ -31080,7 +31080,7 @@
     <text>Source: Player&#39;s Handbook, p. 225</text>
   </spell>
   <spell>
-    <name>Conjure Elemental*</name>
+    <name>Conjure Elemental&#42;</name>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -31097,7 +31097,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 225</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Conjure Fey</name>
@@ -31242,7 +31242,7 @@
     <text>Source: Player&#39;s Handbook, p. 227</text>
   </spell>
   <spell>
-    <name>Contagion*</name>
+    <name>Contagion&#42;</name>
     <level>5</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -31275,7 +31275,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 227</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Contingency</name>
@@ -31326,7 +31326,7 @@
     <text>Source: Player&#39;s Handbook, p. 227</text>
   </spell>
   <spell>
-    <name>Control Water*</name>
+    <name>Control Water&#42;</name>
     <level>4</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -31343,7 +31343,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 227</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Control Weather</name>
@@ -31418,7 +31418,7 @@
     <text>Source: Player&#39;s Handbook, p. 228</text>
   </spell>
   <spell>
-    <name>Counterspell*</name>
+    <name>Counterspell&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -31433,7 +31433,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 228</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Create Food and Water</name>
@@ -31450,7 +31450,7 @@
     <text>Source: Player&#39;s Handbook, p. 229</text>
   </spell>
   <spell>
-    <name>Create Food and Water*</name>
+    <name>Create Food and Water&#42;</name>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -31463,7 +31463,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 229</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Create or Destroy Water</name>
@@ -31520,7 +31520,7 @@
     <text>Source: Player&#39;s Handbook, p. 229</text>
   </spell>
   <spell>
-    <name>Creation*</name>
+    <name>Creation&#42;</name>
     <level>5</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -31537,7 +31537,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 229</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Crown of Madness</name>
@@ -31561,7 +31561,7 @@
     <text>Source: Player&#39;s Handbook, p. 229</text>
   </spell>
   <spell>
-    <name>Crown of Madness*</name>
+    <name>Crown of Madness&#42;</name>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -31581,7 +31581,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 229</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Crusader&#39;s Mantle</name>
@@ -31599,7 +31599,7 @@
     <roll>1d4</roll>
   </spell>
   <spell>
-    <name>Crusader&#39;s Mantle*</name>
+    <name>Crusader&#39;s Mantle&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -31612,7 +31612,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 230</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d4</roll>
   </spell>
   <spell>
@@ -31633,7 +31633,7 @@
     <roll>1d8+SPELL</roll>
   </spell>
   <spell>
-    <name>Cure Wounds*</name>
+    <name>Cure Wounds&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -31648,7 +31648,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 230</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d8+SPELL</roll>
   </spell>
   <spell>
@@ -31683,7 +31683,7 @@
     <text>Source: Player&#39;s Handbook, p. 230</text>
   </spell>
   <spell>
-    <name>Darkness*</name>
+    <name>Darkness&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -31698,7 +31698,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 230</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Darkvision</name>
@@ -31731,7 +31731,7 @@
     <text>Source: Player&#39;s Handbook, p. 230</text>
   </spell>
   <spell>
-    <name>Daylight*</name>
+    <name>Daylight&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -31746,7 +31746,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 230</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Death Ward</name>
@@ -31763,7 +31763,7 @@
     <text>Source: Player&#39;s Handbook, p. 230</text>
   </spell>
   <spell>
-    <name>Death Ward*</name>
+    <name>Death Ward&#42;</name>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -31776,7 +31776,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 230</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Delayed Blast Fireball</name>
@@ -31836,7 +31836,7 @@
     <roll>5d6+5d6</roll>
   </spell>
   <spell>
-    <name>Destructive Wave*</name>
+    <name>Destructive Wave&#42;</name>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -31856,7 +31856,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 231</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>5d6+5d6</roll>
   </spell>
   <spell>
@@ -31889,7 +31889,7 @@
     <text>Source: Player&#39;s Handbook, p. 231</text>
   </spell>
   <spell>
-    <name>Detect Magic*</name>
+    <name>Detect Magic&#42;</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -31903,7 +31903,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 231</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Detect Magic (Ritual Only)</name>
@@ -31989,7 +31989,7 @@
     <text>Source: Player&#39;s Handbook, p. 233</text>
   </spell>
   <spell>
-    <name>Dimension Door*</name>
+    <name>Dimension Door&#42;</name>
     <level>4</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -32004,7 +32004,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 233</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Disarming Attack</name>
@@ -32036,7 +32036,7 @@
     <text>Source: Player&#39;s Handbook, p. 233</text>
   </spell>
   <spell>
-    <name>Disguise Self*</name>
+    <name>Disguise Self&#42;</name>
     <level>1</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -32051,7 +32051,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 233</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Disintegrate</name>
@@ -32106,7 +32106,7 @@
     <text>Source: Player&#39;s Handbook, p. 234</text>
   </spell>
   <spell>
-    <name>Dispel Magic*</name>
+    <name>Dispel Magic&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -32121,7 +32121,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 234</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Dissonant Whispers</name>
@@ -32170,7 +32170,7 @@
     <text>Source: Player&#39;s Handbook, p. 234</text>
   </spell>
   <spell>
-    <name>Divination*</name>
+    <name>Divination&#42;</name>
     <level>4</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -32185,7 +32185,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 234</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Divination (Ritual Only)</name>
@@ -32221,7 +32221,7 @@
     <roll>1d4</roll>
   </spell>
   <spell>
-    <name>Divine Favor*</name>
+    <name>Divine Favor&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -32234,7 +32234,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 234</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d4</roll>
   </spell>
   <spell>
@@ -32296,7 +32296,7 @@
     <text>Source: Player&#39;s Handbook, p. 234</text>
   </spell>
   <spell>
-    <name>Dominate Beast*</name>
+    <name>Dominate Beast&#42;</name>
     <level>4</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -32319,7 +32319,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 234</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Dominate Monster</name>
@@ -32370,7 +32370,7 @@
     <text>Source: Player&#39;s Handbook, p. 235</text>
   </spell>
   <spell>
-    <name>Dominate Person*</name>
+    <name>Dominate Person&#42;</name>
     <level>5</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -32393,7 +32393,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 235</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Drawmij&#39;s Instant Summon</name>
@@ -32449,7 +32449,7 @@
     <text>Source: Player&#39;s Handbook, p. 236</text>
   </spell>
   <spell>
-    <name>Dream*</name>
+    <name>Dream&#42;</name>
     <level>5</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -32465,7 +32465,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 236</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Druidcraft</name>
@@ -32565,7 +32565,7 @@
     <roll>1d4</roll>
   </spell>
   <spell>
-    <name>Elemental Weapon*</name>
+    <name>Elemental Weapon&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -32580,7 +32580,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 237</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d4</roll>
   </spell>
   <spell>
@@ -32606,7 +32606,7 @@
     <text>Source: Player&#39;s Handbook, p. 237</text>
   </spell>
   <spell>
-    <name>Enhance Ability*</name>
+    <name>Enhance Ability&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -32627,7 +32627,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 237</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Enlarge/Reduce</name>
@@ -32672,7 +32672,7 @@
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Ensnaring Strike*</name>
+    <name>Ensnaring Strike&#42;</name>
     <level>1</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -32695,7 +32695,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 237</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d6</roll>
   </spell>
   <spell>
@@ -32824,7 +32824,7 @@
     <text>Source: Player&#39;s Handbook, p. 238</text>
   </spell>
   <spell>
-    <name>Expeditious Retreat*</name>
+    <name>Expeditious Retreat&#42;</name>
     <level>1</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -32837,7 +32837,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 238</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Eyebite</name>
@@ -32889,7 +32889,7 @@
     <text>Source: Player&#39;s Handbook, p. 239</text>
   </spell>
   <spell>
-    <name>Fabricate*</name>
+    <name>Fabricate&#42;</name>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -32904,7 +32904,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 239</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Faerie Fire</name>
@@ -32922,7 +32922,7 @@
     <text>Source: Player&#39;s Handbook, p. 239</text>
   </spell>
   <spell>
-    <name>Faerie Fire*</name>
+    <name>Faerie Fire&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -32936,7 +32936,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 239</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>False Life</name>
@@ -32956,7 +32956,7 @@
     <roll>1d4+4</roll>
   </spell>
   <spell>
-    <name>False Life*</name>
+    <name>False Life&#42;</name>
     <level>1</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -32971,7 +32971,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 239</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d4+4</roll>
   </spell>
   <spell>
@@ -33009,7 +33009,7 @@
     <text>Source: Player&#39;s Handbook, p. 239</text>
   </spell>
   <spell>
-    <name>Fear*</name>
+    <name>Fear&#42;</name>
     <level>3</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -33028,7 +33028,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 239</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Feather Fall</name>
@@ -33212,7 +33212,7 @@
     <text>Source: Player&#39;s Handbook, p. 241</text>
   </spell>
   <spell>
-    <name>Find Traps*</name>
+    <name>Find Traps&#42;</name>
     <level>2</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -33226,7 +33226,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 241</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Finger of Death</name>
@@ -33312,7 +33312,7 @@
     <roll>8d6</roll>
   </spell>
   <spell>
-    <name>Fireball*</name>
+    <name>Fireball&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -33328,7 +33328,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 241</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>8d6</roll>
   </spell>
   <spell>
@@ -33410,7 +33410,7 @@
     <roll>4d6+4d6</roll>
   </spell>
   <spell>
-    <name>Flame Strike*</name>
+    <name>Flame Strike&#42;</name>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -33425,7 +33425,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 242</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>4d6+4d6</roll>
   </spell>
   <spell>
@@ -33469,7 +33469,7 @@
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Flaming Sphere*</name>
+    <name>Flaming Sphere&#42;</name>
     <level>2</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -33486,7 +33486,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 242</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d6</roll>
   </spell>
   <spell>
@@ -33559,7 +33559,7 @@
     <text>Source: Player&#39;s Handbook, p. 243</text>
   </spell>
   <spell>
-    <name>Fog Cloud*</name>
+    <name>Fog Cloud&#42;</name>
     <level>1</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -33574,7 +33574,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 243</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Forbiddance</name>
@@ -33664,7 +33664,7 @@
     <text>Source: Player&#39;s Handbook, p. 244</text>
   </spell>
   <spell>
-    <name>Freedom of Movement*</name>
+    <name>Freedom of Movement&#42;</name>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -33678,7 +33678,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 244</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Friends</name>
@@ -33711,7 +33711,7 @@
     <text>Source: Player&#39;s Handbook, p. 244</text>
   </spell>
   <spell>
-    <name>Gaseous Form*</name>
+    <name>Gaseous Form&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -33726,7 +33726,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 244</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Gate</name>
@@ -33769,7 +33769,7 @@
     <text>Source: Player&#39;s Handbook, p. 244</text>
   </spell>
   <spell>
-    <name>Geas*</name>
+    <name>Geas&#42;</name>
     <level>5</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -33791,7 +33791,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 244</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Gentle Repose</name>
@@ -33809,7 +33809,7 @@
     <text>Source: Player&#39;s Handbook, p. 245</text>
   </spell>
   <spell>
-    <name>Gentle Repose*</name>
+    <name>Gentle Repose&#42;</name>
     <level>2</level>
     <school>N</school>
     <ritual>YES</ritual>
@@ -33823,7 +33823,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 245</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Gentle Repose (Ritual Only)</name>
@@ -33914,7 +33914,7 @@
     <roll>5d8</roll>
   </spell>
   <spell>
-    <name>Glyph of Warding*</name>
+    <name>Glyph of Warding&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -33935,7 +33935,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 245</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>5d8</roll>
   </spell>
   <spell>
@@ -34003,7 +34003,7 @@
     <text>Source: Player&#39;s Handbook, p. 246</text>
   </spell>
   <spell>
-    <name>Grasping Vine*</name>
+    <name>Grasping Vine&#42;</name>
     <level>4</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -34017,7 +34017,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 246</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Grease</name>
@@ -34061,7 +34061,7 @@
     <text>Source: Player&#39;s Handbook, p. 246</text>
   </spell>
   <spell>
-    <name>Greater Invisibility*</name>
+    <name>Greater Invisibility&#42;</name>
     <level>4</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -34079,7 +34079,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 246</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Greater Restoration</name>
@@ -34116,7 +34116,7 @@
     <text>Source: Player&#39;s Handbook, p. 246</text>
   </spell>
   <spell>
-    <name>Guardian of Faith*</name>
+    <name>Guardian of Faith&#42;</name>
     <level>4</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -34130,7 +34130,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 246</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Guards and Wards</name>
@@ -34208,7 +34208,7 @@
     <text>Source: Player&#39;s Handbook, p. 248</text>
   </spell>
   <spell>
-    <name>Gust of Wind*</name>
+    <name>Gust of Wind&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -34224,7 +34224,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 248</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Hail of Thorns</name>
@@ -34285,7 +34285,7 @@
     <text>Source: Player&#39;s Handbook, p. 249</text>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain*</name>
+    <name>Hallucinatory Terrain&#42;</name>
     <level>4</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -34299,7 +34299,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 249</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Harm</name>
@@ -34332,7 +34332,7 @@
     <text>Source: Player&#39;s Handbook, p. 250</text>
   </spell>
   <spell>
-    <name>Haste*</name>
+    <name>Haste&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -34346,7 +34346,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 250</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Heal</name>
@@ -34400,7 +34400,7 @@
     <roll>2d8</roll>
   </spell>
   <spell>
-    <name>Heat Metal*</name>
+    <name>Heat Metal&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -34416,7 +34416,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 250</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d8</roll>
   </spell>
   <spell>
@@ -34437,7 +34437,7 @@
     <roll>2d10</roll>
   </spell>
   <spell>
-    <name>Hellish Rebuke*</name>
+    <name>Hellish Rebuke&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -34452,7 +34452,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 250</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d10</roll>
   </spell>
   <spell>
@@ -34488,7 +34488,7 @@
     <text>Source: Player&#39;s Handbook, p. 250</text>
   </spell>
   <spell>
-    <name>Heroism*</name>
+    <name>Heroism&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -34503,7 +34503,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 250</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Hex</name>
@@ -34550,7 +34550,7 @@
     <text>Source: Player&#39;s Handbook, p. 251</text>
   </spell>
   <spell>
-    <name>Hold Monster*</name>
+    <name>Hold Monster&#42;</name>
     <level>5</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -34574,7 +34574,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 251</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Hold Person</name>
@@ -34602,7 +34602,7 @@
     <text>Source: Player&#39;s Handbook, p. 251</text>
   </spell>
   <spell>
-    <name>Hold Person*</name>
+    <name>Hold Person&#42;</name>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -34626,7 +34626,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 251</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Holy Aura</name>
@@ -34686,7 +34686,7 @@
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Hunter&#39;s Mark*</name>
+    <name>Hunter&#39;s Mark&#42;</name>
     <level>1</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -34701,7 +34701,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 251</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d6</roll>
   </spell>
   <spell>
@@ -34728,7 +34728,7 @@
     <text>Source: Player&#39;s Handbook, p. 252</text>
   </spell>
   <spell>
-    <name>Hypnotic Pattern*</name>
+    <name>Hypnotic Pattern&#42;</name>
     <level>3</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -34750,7 +34750,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 252</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Ice Storm</name>
@@ -34771,7 +34771,7 @@
     <roll>2d8+4d6</roll>
   </spell>
   <spell>
-    <name>Ice Storm*</name>
+    <name>Ice Storm&#42;</name>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -34787,7 +34787,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 252</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d8+4d6</roll>
   </spell>
   <spell>
@@ -34806,7 +34806,7 @@
     <text>Source: Player&#39;s Handbook, p. 252</text>
   </spell>
   <spell>
-    <name>Identify*</name>
+    <name>Identify&#42;</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -34820,7 +34820,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 252</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Identify (Ritual Only)</name>
@@ -34945,7 +34945,7 @@
     <roll>3d10</roll>
   </spell>
   <spell>
-    <name>Inflict Wounds*</name>
+    <name>Inflict Wounds&#42;</name>
     <level>1</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -34960,7 +34960,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 253</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d10</roll>
   </spell>
   <spell>
@@ -34982,7 +34982,7 @@
     <roll>4d10</roll>
   </spell>
   <spell>
-    <name>Insect Plague*</name>
+    <name>Insect Plague&#42;</name>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -34998,7 +34998,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 254</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>4d10</roll>
   </spell>
   <spell>
@@ -35023,7 +35023,7 @@
     <text>Source: Player&#39;s Handbook, p. 254</text>
   </spell>
   <spell>
-    <name>Invisibility*</name>
+    <name>Invisibility&#42;</name>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -35043,7 +35043,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 254</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Jump</name>
@@ -35092,7 +35092,7 @@
     <text>Source: Player&#39;s Handbook, p. 254</text>
   </spell>
   <spell>
-    <name>Legend Lore*</name>
+    <name>Legend Lore&#42;</name>
     <level>5</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -35106,7 +35106,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 254</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Leomund&#39;s Secret Chest</name>
@@ -35125,7 +35125,7 @@
     <text>Source: Player&#39;s Handbook, p. 254</text>
   </spell>
   <spell>
-    <name>Leomund&#39;s Secret Chest*</name>
+    <name>Leomund&#39;s Secret Chest&#42;</name>
     <level>4</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -35140,7 +35140,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 254</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Leomund&#39;s Tiny Hut</name>
@@ -35191,7 +35191,7 @@
     <text>Source: Player&#39;s Handbook, p. 255</text>
   </spell>
   <spell>
-    <name>Lesser Restoration*</name>
+    <name>Lesser Restoration&#42;</name>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -35204,7 +35204,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 255</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Levitate</name>
@@ -35275,7 +35275,7 @@
     <roll>8d6</roll>
   </spell>
   <spell>
-    <name>Lightning Bolt*</name>
+    <name>Lightning Bolt&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -35291,7 +35291,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 255</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>8d6</roll>
   </spell>
   <spell>
@@ -35309,7 +35309,7 @@
     <text>Source: Player&#39;s Handbook, p. 256</text>
   </spell>
   <spell>
-    <name>Locate Animals or Plants*</name>
+    <name>Locate Animals or Plants&#42;</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -35322,7 +35322,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 256</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Locate Animals or Plants (Ritual Only)</name>
@@ -35357,7 +35357,7 @@
     <text>Source: Player&#39;s Handbook, p. 256</text>
   </spell>
   <spell>
-    <name>Locate Creature*</name>
+    <name>Locate Creature&#42;</name>
     <level>4</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -35372,7 +35372,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 256</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Locate Object</name>
@@ -35471,7 +35471,7 @@
     <text>Source: Player&#39;s Handbook, p. 256</text>
   </spell>
   <spell>
-    <name>Magic Circle*</name>
+    <name>Magic Circle&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -35491,7 +35491,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 256</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Magic Jar</name>
@@ -35531,7 +35531,7 @@
     <roll>(1d4+1)+(1d4+1)+(1d4+1)</roll>
   </spell>
   <spell>
-    <name>Magic Missile*</name>
+    <name>Magic Missile&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -35546,7 +35546,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 257</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>(1d4+1)+(1d4+1)+(1d4+1)</roll>
   </spell>
   <spell>
@@ -35600,7 +35600,7 @@
     <text>Source: Player&#39;s Handbook, p. 257</text>
   </spell>
   <spell>
-    <name>Magic Weapon*</name>
+    <name>Magic Weapon&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -35615,7 +35615,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 257</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Major Image</name>
@@ -35666,7 +35666,7 @@
     <roll>3d8+SPELL</roll>
   </spell>
   <spell>
-    <name>Mass Cure Wounds*</name>
+    <name>Mass Cure Wounds&#42;</name>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -35681,7 +35681,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 258</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d8+SPELL</roll>
   </spell>
   <spell>
@@ -35716,7 +35716,7 @@
     <roll>1d4+SPELL</roll>
   </spell>
   <spell>
-    <name>Mass Healing Word*</name>
+    <name>Mass Healing Word&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -35731,7 +35731,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 258</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d4+SPELL</roll>
   </spell>
   <spell>
@@ -35793,7 +35793,7 @@
     <text>Source: Player&#39;s Handbook, p. 259</text>
   </spell>
   <spell>
-    <name>Meld into Stone*</name>
+    <name>Meld into Stone&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -35815,7 +35815,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 259</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Meld into Stone (Ritual Only)</name>
@@ -35861,7 +35861,7 @@
     <roll>2d4</roll>
   </spell>
   <spell>
-    <name>Melf&#39;s Acid Arrow*</name>
+    <name>Melf&#39;s Acid Arrow&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -35876,7 +35876,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 259</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>4d4</roll>
     <roll>2d4</roll>
   </spell>
@@ -36011,7 +36011,7 @@
     <text>Source: Player&#39;s Handbook, p. 260</text>
   </spell>
   <spell>
-    <name>Mirror Image*</name>
+    <name>Mirror Image&#42;</name>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -36028,7 +36028,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 260</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Mislead</name>
@@ -36059,7 +36059,7 @@
     <text>Source: Player&#39;s Handbook, p. 260</text>
   </spell>
   <spell>
-    <name>Mislead*</name>
+    <name>Mislead&#42;</name>
     <level>5</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -36120,7 +36120,7 @@
     <text>Source: Player&#39;s Handbook, p. 260</text>
   </spell>
   <spell>
-    <name>Misty Step*</name>
+    <name>Misty Step&#42;</name>
     <level>2</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -36133,7 +36133,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 260</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Modify Memory</name>
@@ -36164,7 +36164,7 @@
     <text>Source: Player&#39;s Handbook, p. 261</text>
   </spell>
   <spell>
-    <name>Modify Memory*</name>
+    <name>Modify Memory&#42;</name>
     <level>5</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -36191,7 +36191,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 261</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Moonbeam</name>
@@ -36214,7 +36214,7 @@
     <roll>2d10</roll>
   </spell>
   <spell>
-    <name>Moonbeam*</name>
+    <name>Moonbeam&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -36232,7 +36232,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 261</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d10</roll>
   </spell>
   <spell>
@@ -36347,7 +36347,7 @@
     <text>Source: Player&#39;s Handbook, p. 263</text>
   </spell>
   <spell>
-    <name>Nondetection*</name>
+    <name>Nondetection&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -36360,7 +36360,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 263</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Nystul&#39;s Magic Aura</name>
@@ -36380,7 +36380,7 @@
     <text>Source: Player&#39;s Handbook, p. 263</text>
   </spell>
   <spell>
-    <name>Nystul&#39;s Magic Aura*</name>
+    <name>Nystul&#39;s Magic Aura&#42;</name>
     <level>2</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -36396,7 +36396,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 263</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Otiluke&#39;s Freezing Sphere</name>
@@ -36435,7 +36435,7 @@
     <roll>10d6</roll>
   </spell>
   <spell>
-    <name>Otiluke&#39;s Resilient Sphere*</name>
+    <name>Otiluke&#39;s Resilient Sphere&#42;</name>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -36451,7 +36451,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 264</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>10d6</roll>
   </spell>
   <spell>
@@ -36497,7 +36497,7 @@
     <text>Source: Player&#39;s Handbook, p. 264</text>
   </spell>
   <spell>
-    <name>Pass Without Trace*</name>
+    <name>Pass Without Trace&#42;</name>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -36510,7 +36510,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 264</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Passwall</name>
@@ -36528,7 +36528,7 @@
     <text>Source: Player&#39;s Handbook, p. 264</text>
   </spell>
   <spell>
-    <name>Passwall*</name>
+    <name>Passwall&#42;</name>
     <level>5</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -36542,7 +36542,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 264</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Phantasmal Force</name>
@@ -36654,7 +36654,7 @@
     <text>Source: Player&#39;s Handbook, p. 265</text>
   </spell>
   <spell>
-    <name>Planar Binding*</name>
+    <name>Planar Binding&#42;</name>
     <level>5</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -36670,7 +36670,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 265</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Plane Shift</name>
@@ -36706,7 +36706,7 @@
     <text>Source: Player&#39;s Handbook, p. 266</text>
   </spell>
   <spell>
-    <name>Plant Growth*</name>
+    <name>Plant Growth&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -36722,7 +36722,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 266</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Poison Spray</name>
@@ -36760,7 +36760,7 @@
     <text>Source: Player&#39;s Handbook, p. 266</text>
   </spell>
   <spell>
-    <name>Polymorph*</name>
+    <name>Polymorph&#42;</name>
     <level>4</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -36778,7 +36778,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 266</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Power Word Heal</name>
@@ -37062,7 +37062,7 @@
     <text>Source: Player&#39;s Handbook, p. 270</text>
   </spell>
   <spell>
-    <name>Protection from Energy*</name>
+    <name>Protection from Energy&#42;</name>
     <level>3</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -37075,7 +37075,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 270</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Protection from Evil and Good</name>
@@ -37093,7 +37093,7 @@
     <text>Source: Player&#39;s Handbook, p. 270</text>
   </spell>
   <spell>
-    <name>Protection from Evil and Good*</name>
+    <name>Protection from Evil and Good&#42;</name>
     <level>1</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -37107,7 +37107,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 270</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Protection from Poison</name>
@@ -37125,7 +37125,7 @@
     <text>Source: Player&#39;s Handbook, p. 270</text>
   </spell>
   <spell>
-    <name>Protection from Poison*</name>
+    <name>Protection from Poison&#42;</name>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -37139,7 +37139,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 270</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Purify Food and Drink</name>
@@ -37202,7 +37202,7 @@
     <text>Source: Player&#39;s Handbook, p. 270</text>
   </spell>
   <spell>
-    <name>Raise Dead*</name>
+    <name>Raise Dead&#42;</name>
     <level>5</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -37218,7 +37218,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 270</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Rally</name>
@@ -37281,7 +37281,7 @@
     <text>Source: Player&#39;s Handbook, p. 271</text>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement*</name>
+    <name>Ray of Enfeeblement&#42;</name>
     <level>2</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -37295,7 +37295,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 271</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Ray of Frost</name>
@@ -37334,7 +37334,7 @@
     <roll>2d8</roll>
   </spell>
   <spell>
-    <name>Ray of Sickness*</name>
+    <name>Ray of Sickness&#42;</name>
     <level>1</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -37352,7 +37352,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 271</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d8</roll>
   </spell>
   <spell>
@@ -37480,7 +37480,7 @@
     <text>Source: Player&#39;s Handbook, p. 272</text>
   </spell>
   <spell>
-    <name>Revivify*</name>
+    <name>Revivify&#42;</name>
     <level>3</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -37493,7 +37493,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 272</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Ride the Wind</name>
@@ -37565,7 +37565,7 @@
     <text>Source: Player&#39;s Handbook, p. 272</text>
   </spell>
   <spell>
-    <name>Rope Trick*</name>
+    <name>Rope Trick&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -37581,7 +37581,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 272</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Rush of the Gale Spirits</name>
@@ -37634,7 +37634,7 @@
     <text>Source: Player&#39;s Handbook, p. 272</text>
   </spell>
   <spell>
-    <name>Sanctuary*</name>
+    <name>Sanctuary&#42;</name>
     <level>1</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -37648,7 +37648,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 272</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Scorching Ray</name>
@@ -37669,7 +37669,7 @@
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Scorching Ray*</name>
+    <name>Scorching Ray&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -37685,7 +37685,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 273</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d6</roll>
   </spell>
   <spell>
@@ -37717,7 +37717,7 @@
     <text>Source: Player&#39;s Handbook, p. 273</text>
   </spell>
   <spell>
-    <name>Scrying*</name>
+    <name>Scrying&#42;</name>
     <level>5</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -37744,7 +37744,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 273</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Searing Smite</name>
@@ -37764,7 +37764,7 @@
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Searing Smite*</name>
+    <name>Searing Smite&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -37779,7 +37779,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 274</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
 
     <roll>1d6</roll>
   </spell>
@@ -37815,7 +37815,7 @@
     <text>Source: Player&#39;s Handbook, p. 274</text>
   </spell>
   <spell>
-    <name>Seeming*</name>
+    <name>Seeming&#42;</name>
     <level>5</level>
     <school>I</school>
     <ritual>NO</ritual>
@@ -37831,7 +37831,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 274</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Sending</name>
@@ -37920,7 +37920,7 @@
     <roll>3d8</roll>
   </spell>
   <spell>
-    <name>Shatter*</name>
+    <name>Shatter&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -37936,7 +37936,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 275</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d8</roll>
   </spell>
   <spell>
@@ -37968,7 +37968,7 @@
     <text>Source: Player&#39;s Handbook, p. 275</text>
   </spell>
   <spell>
-    <name>Shield of Faith*</name>
+    <name>Shield of Faith&#42;</name>
     <level>1</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -37981,7 +37981,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 275</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Shillelagh</name>
@@ -38033,7 +38033,7 @@
     <text>Source: Player&#39;s Handbook, p. 275</text>
   </spell>
   <spell>
-    <name>Silence*</name>
+    <name>Silence&#42;</name>
     <level>2</level>
     <school>I</school>
     <ritual>YES</ritual>
@@ -38049,7 +38049,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 275</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Silence (Ritual Only)</name>
@@ -38134,7 +38134,7 @@
     <roll>5d8</roll>
   </spell>
   <spell>
-    <name>Sleep*</name>
+    <name>Sleep&#42;</name>
     <level>1</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -38162,7 +38162,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 276</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>5d8</roll>
   </spell>
   <spell>
@@ -38189,7 +38189,7 @@
     <text>Source: Player&#39;s Handbook, p. 276</text>
   </spell>
   <spell>
-    <name>Sleet Storm*</name>
+    <name>Sleet Storm&#42;</name>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -38211,7 +38211,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 276</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Slow</name>
@@ -38231,7 +38231,7 @@
     <text>Source: Player&#39;s Handbook, p. 277</text>
   </spell>
   <spell>
-    <name>Slow*</name>
+    <name>Slow&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -38247,7 +38247,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 277</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Spare the Dying</name>
@@ -38278,7 +38278,7 @@
     <text>Source: Player&#39;s Handbook, p. 277</text>
   </spell>
   <spell>
-    <name>Speak with Animals*</name>
+    <name>Speak with Animals&#42;</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -38291,7 +38291,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 277</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Speak with Animals (Ritual Only)</name>
@@ -38325,7 +38325,7 @@
     <text>Source: Player&#39;s Handbook, p. 277</text>
   </spell>
   <spell>
-    <name>Speak with Dead*</name>
+    <name>Speak with Dead&#42;</name>
     <level>3</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -38339,7 +38339,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 277</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Speak with Plants</name>
@@ -38374,7 +38374,7 @@
     <text>Source: Player&#39;s Handbook, p. 277</text>
   </spell>
   <spell>
-    <name>Spider Climb*</name>
+    <name>Spider Climb&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -38387,7 +38387,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 277</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Spike Growth</name>
@@ -38405,7 +38405,7 @@
     <text>Source: Player&#39;s Handbook, p. 277</text>
   </spell>
   <spell>
-    <name>Spike Growth*</name>
+    <name>Spike Growth&#42;</name>
     <level>2</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -38419,7 +38419,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 277</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Spirit Guardians</name>
@@ -38440,7 +38440,7 @@
     <roll>3d8</roll>
   </spell>
   <spell>
-    <name>Spirit Guardians*</name>
+    <name>Spirit Guardians&#42;</name>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -38456,7 +38456,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 278</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d8</roll>
   </spell>
   <spell>
@@ -38480,7 +38480,7 @@
     <roll>1d8+SPELL</roll>
   </spell>
   <spell>
-    <name>Spiritual Weapon*</name>
+    <name>Spiritual Weapon&#42;</name>
     <level>2</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -38497,7 +38497,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 278</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>1d20+SPELL+PROF</roll>
     <roll>1d8+SPELL</roll>
   </spell>
@@ -38533,7 +38533,7 @@
     <text>Source: Player&#39;s Handbook, p. 278</text>
   </spell>
   <spell>
-    <name>Stinking Cloud*</name>
+    <name>Stinking Cloud&#42;</name>
     <level>3</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -38548,7 +38548,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 278</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Stone Shape</name>
@@ -38565,7 +38565,7 @@
     <text>Source: Player&#39;s Handbook, p. 278</text>
   </spell>
   <spell>
-    <name>Stone Shape*</name>
+    <name>Stone Shape&#42;</name>
     <level>4</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -38578,7 +38578,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 278</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Stoneskin</name>
@@ -38595,7 +38595,7 @@
     <text>Source: Player&#39;s Handbook, p. 278</text>
   </spell>
   <spell>
-    <name>Stoneskin*</name>
+    <name>Stoneskin&#42;</name>
     <level>4</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -38608,7 +38608,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 278</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Storm of Vengeance</name>
@@ -38653,7 +38653,7 @@
     <text>Source: Player&#39;s Handbook, p. 279</text>
   </spell>
   <spell>
-    <name>Suggestion*</name>
+    <name>Suggestion&#42;</name>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -38669,7 +38669,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 279</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Sunbeam</name>
@@ -38919,7 +38919,7 @@
     <text>Source: Player&#39;s Handbook, p. 282</text>
   </spell>
   <spell>
-    <name>Teleportation Circle*</name>
+    <name>Teleportation Circle&#42;</name>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -38934,7 +38934,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 282</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Tenser&#39;s Floating Disk</name>
@@ -39008,7 +39008,7 @@
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Thunderous Smite*</name>
+    <name>Thunderous Smite&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -39071,7 +39071,7 @@
     <roll>2d8</roll>
   </spell>
   <spell>
-    <name>Thunderwave*</name>
+    <name>Thunderwave&#42;</name>
     <level>1</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -39088,7 +39088,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 282</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>2d8</roll>
   </spell>
   <spell>
@@ -39151,7 +39151,7 @@
     <text>Source: Player&#39;s Handbook, p. 283</text>
   </spell>
   <spell>
-    <name>Tree Stride*</name>
+    <name>Tree Stride&#42;</name>
     <level>5</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -39165,7 +39165,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 283</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Trip Attack</name>
@@ -39329,7 +39329,7 @@
     <roll>3d6</roll>
   </spell>
   <spell>
-    <name>Vampiric Touch*</name>
+    <name>Vampiric Touch&#42;</name>
     <level>3</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -39344,7 +39344,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 285</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d6</roll>
   </spell>
   <spell>
@@ -39383,7 +39383,7 @@
     <roll>5d8</roll>
   </spell>
   <spell>
-    <name>Wall of Fire*</name>
+    <name>Wall of Fire&#42;</name>
     <level>4</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -39400,7 +39400,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 285</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>5d8</roll>
   </spell>
   <spell>
@@ -39419,7 +39419,7 @@
     <text>Source: Player&#39;s Handbook, p. 285</text>
   </spell>
   <spell>
-    <name>Wall of Force*</name>
+    <name>Wall of Force&#42;</name>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -39433,7 +39433,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 285</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Wall of Ice</name>
@@ -39475,7 +39475,7 @@
     <text>Source: Player&#39;s Handbook, p. 287</text>
   </spell>
   <spell>
-    <name>Wall of Stone*</name>
+    <name>Wall of Stone&#42;</name>
     <level>5</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -39493,7 +39493,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 287</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Wall of Thorns</name>
@@ -39530,7 +39530,7 @@
     <text>Source: Player&#39;s Handbook, p. 287</text>
   </spell>
   <spell>
-    <name>Warding Bond*</name>
+    <name>Warding Bond&#42;</name>
     <level>2</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -39544,7 +39544,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 287</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Water Breathing</name>
@@ -39561,7 +39561,7 @@
     <text>Source: Player&#39;s Handbook, p. 287</text>
   </spell>
   <spell>
-    <name>Water Breathing*</name>
+    <name>Water Breathing&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -39574,7 +39574,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 287</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Water Breathing (Ritual Only)</name>
@@ -39608,7 +39608,7 @@
     <text>Source: Player&#39;s Handbook, p. 287</text>
   </spell>
   <spell>
-    <name>Water Walk*</name>
+    <name>Water Walk&#42;</name>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -39622,7 +39622,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 287</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Water Walk (Ritual Only)</name>
@@ -39710,7 +39710,7 @@
     <text>Source: Player&#39;s Handbook, p. 287</text>
   </spell>
   <spell>
-    <name>Web*</name>
+    <name>Web&#42;</name>
     <level>2</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -39734,7 +39734,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 287</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Weird</name>
@@ -39792,7 +39792,7 @@
     <roll>3d8</roll>
   </spell>
   <spell>
-    <name>Wind Wall*</name>
+    <name>Wind Wall&#42;</name>
     <level>3</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -39807,7 +39807,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 288</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
     <roll>3d8</roll>
   </spell>
   <spell>
@@ -39900,7 +39900,7 @@
     <text>Source: Player&#39;s Handbook, p. 289</text>
   </spell>
   <spell>
-    <name>Zone of Truth*</name>
+    <name>Zone of Truth&#42;</name>
     <level>2</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -39914,7 +39914,7 @@
     <text />
     <text>Source: Player&#39;s Handbook, p. 289</text>
     <text />
-    <text>* Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
+    <text>&#42; Oath, Domain, or Archtype spell (always prepared or doesn&#39;t count toward the number of spells known)</text>
   </spell>
   <spell>
     <name>Invocation: Agonizing Blast</name>
@@ -43210,13 +43210,13 @@
       <text />
       <text>&#8226; Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
       <text />
-      <text>&#8226; 1st level (4 slots): detect magic, identify, mage armor*, magic missile</text>
+      <text>&#8226; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
       <text />
       <text>&#8226; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
       <text />
       <text>&#8226; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
       <text />
-      <text>&#8226; 4th level (3 slots): banishment, fire shield, stoneskin*</text>
+      <text>&#8226; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
       <text />
       <text>&#8226; 5th level (3 slots): cone of cold, scrying, wall of force</text>
       <text />
@@ -43224,10 +43224,10 @@
       <text />
       <text>&#8226; 7th level (1 slot): teleport</text>
       <text />
-      <text>&#8226; 8th level (1 slot): mind blank*</text>
+      <text>&#8226; 8th level (1 slot): mind blank&#42;</text>
       <text />
       <text>&#8226; 9th level (1 slot): time stop</text>
-      <text>* The archmage casts these spells on itself before combat.</text>
+      <text>&#42; The archmage casts these spells on itself before combat.</text>
     </trait>
     <action>
       <name>Dagger</name>

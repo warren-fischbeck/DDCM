@@ -35,8 +35,8 @@
         <text>6th-level College of Eloquence feature</text>
         <text>   You can spin words laced with magic into a knot of reasoning that can be encouraging or impossible to follow.</text>
         <text>   As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, choose a creature you can see within 60 of you that can hear you, then roll your Bardic Inspiration die and choose one of the following:</text>
-        <text>• The creature takes psychic damage equal to the number you roll on the Bardic Inspiration die, and the creature must succeed on an Intelligence saving throw against your spell save DC or have disadvantage on the next saving throw it makes before the end of your next turn.</text>
-        <text>• The creature regains hit points equal to the number you roll on the Bardic Inspiration die, and the creature has advantage on the next saving throw it makes before the end of your next turn.</text>
+        <text>&#183; The creature takes psychic damage equal to the number you roll on the Bardic Inspiration die, and the creature must succeed on an Intelligence saving throw against your spell save DC or have disadvantage on the next saving throw it makes before the end of your next turn.</text>
+        <text>&#183; The creature regains hit points equal to the number you roll on the Bardic Inspiration die, and the creature has advantage on the next saving throw it makes before the end of your next turn.</text>
         <text />
         <text>Source: Unearthed Arcana: Bard And Paladin</text>
       </feature>
@@ -121,8 +121,8 @@
         <name>Sacred Oath: Oath of Heroism (UA): Mighty Deed (Oath of Heroism (UA))</name>
         <text>7th-level Oath of Heroism feature</text>
         <text>   Your actions on the battlefield can supernaturally bolster your allies and demoralize your enemies. Whenever you score a critical hit or reduce a creature to 0 hit points, you can choose one or more creatures that you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). All the chosen creatures are affected by one of the following effects of your choice:</text>
-        <text>• The creature gains temporary hit points equal to 1d6 + your Charisma modifier (minimum of 1 temporary hit point).</text>
-        <text>• The creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the start of your next turn.</text>
+        <text>&#183; The creature gains temporary hit points equal to 1d6 + your Charisma modifier (minimum of 1 temporary hit point).</text>
+        <text>&#183; The creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the start of your next turn.</text>
         <text>   Once you use this feature, you can&#39;t use it again until the start of your next turn.</text>
         <text />
         <text>Source: Unearthed Arcana: Bard And Paladin</text>
@@ -142,9 +142,9 @@
         <name>Sacred Oath: Oath of Heroism (UA): Living Myth (Oath of Heroism (UA))</name>
         <text>20th-level Oath of Heroism feature</text>
         <text>   You can now empower yourself with the legends—whether true or exaggerated—told of your great deeds. As a bonus action, you gain the following benefits for 10 minutes:</text>
-        <text>• You are blessed with otherworldly comeliness, gaining advantage on all Charisma checks.</text>
-        <text>• Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</text>
-        <text>• If you fail a saving throw, you can use your reaction to succeed instead.</text>
+        <text>&#183; You are blessed with otherworldly comeliness, gaining advantage on all Charisma checks.</text>
+        <text>&#183; Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</text>
+        <text>&#183; If you fail a saving throw, you can use your reaction to succeed instead.</text>
         <text>   Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
         <text />
         <text>Source: Unearthed Arcana: Bard And Paladin</text>
