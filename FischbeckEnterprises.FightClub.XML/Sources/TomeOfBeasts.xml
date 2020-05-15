@@ -4519,7 +4519,7 @@
   <monster>
     <name>Ia&#39;affrat</name>
     <size>L</size>
-    <type>elementals</type>
+    <type>elemental</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>170 (20d10+60)</hp>
@@ -18621,7 +18621,7 @@
   <monster>
     <name>Fire Dancer Swarm</name>
     <size>M</size>
-    <type>elementals</type>
+    <type>elemental</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>90 (12d8+36)</hp>
