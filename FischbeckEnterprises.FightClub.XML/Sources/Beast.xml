@@ -43429,7 +43429,7 @@
   <monster>
     <name>Swarm of Bats</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12</ac>
     <hp>22 (5d8)</hp>
@@ -43484,7 +43484,7 @@
   <monster>
     <name>Swarm of Beetles</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -43531,7 +43531,7 @@
   <monster>
     <name>Swarm of Centipedes</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -43579,7 +43579,7 @@
   <monster>
     <name>Swarm of Cranium Rats</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>lawful evil</alignment>
     <ac>12</ac>
     <hp>36 (8d8)</hp>
@@ -43640,7 +43640,7 @@
   <monster>
     <name>Swarm of Insects</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -43687,7 +43687,7 @@
   <monster>
     <name>Swarm of Poisonous Snakes</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14</ac>
     <hp>36 (8d8)</hp>
@@ -43734,7 +43734,7 @@
   <monster>
     <name>Swarm of Quippers</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>28 (8d8-8)</hp>
@@ -43789,7 +43789,7 @@
   <monster>
     <name>Swarm of Rats</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>10</ac>
     <hp>24 (7d8-7)</hp>
@@ -43840,7 +43840,7 @@
   <monster>
     <name>Swarm of Ravens</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12</ac>
     <hp>24 (7d8-7)</hp>
@@ -43888,7 +43888,7 @@
   <monster>
     <name>Swarm of Rot Grubs</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>8</ac>
     <hp>22 (5d8)</hp>
@@ -43934,7 +43934,7 @@
   <monster>
     <name>Swarm of Spiders</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -43993,7 +43993,7 @@
   <monster>
     <name>Swarm of Wasps</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -44487,7 +44487,7 @@
   <monster>
     <name>The Pudding King</name>
     <size>S</size>
-    <type>humanoid (gnome, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>49 (9d6+18)</hp>

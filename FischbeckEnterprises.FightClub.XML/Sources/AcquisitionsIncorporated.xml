@@ -700,7 +700,7 @@
   <monster>
     <name>Splugoth the Returned</name>
     <size>S</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>Neutral Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>27 (6d6+6)</hp>
@@ -902,7 +902,7 @@
   <monster>
     <name>Donaar Blit&#39;zen</name>
     <size>M</size>
-    <type>humanoid (dragonborn)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Good</alignment>
     <ac>18 (plate armor)</ac>
     <hp>45 (7d8+14)</hp>
@@ -966,7 +966,7 @@
   <monster>
     <name>Brahma Lutier</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Neutral</alignment>
     <ac>12</ac>
     <hp>33 (6d8+6)</hp>
@@ -1021,7 +1021,7 @@
   <monster>
     <name>K&#39;thriss Drow&#39;b</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>44 (8d8+8)</hp>
@@ -1088,7 +1088,7 @@
   <monster>
     <name>Mo&#770;rg&#230;n</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>66 (12d8+12)</hp>
@@ -1152,7 +1152,7 @@
   <monster>
     <name>Oak Truestrike</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good Neutral Evil</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>32 (5d8+10)</hp>
@@ -1209,7 +1209,7 @@
   <monster>
     <name>Walnut Dankgrass</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>14 (leather armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -1281,7 +1281,7 @@
   <monster>
     <name>Auspicia Dran</name>
     <size>M</size>
-    <type>humanoid (half-elf)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>52 (8d8+16)</hp>
@@ -1333,7 +1333,7 @@
   <monster>
     <name>Omin Dran</name>
     <size>M</size>
-    <type>humanoid (half-elf)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>18 (plate armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -1398,7 +1398,7 @@
   <monster>
     <name>Rosie Beestinger</name>
     <size>S</size>
-    <type>humanoid (halfling)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Good</alignment>
     <ac>15 (Unarmored Defense)</ac>
     <hp>45 (10d6+10)</hp>
@@ -1471,7 +1471,7 @@
   <monster>
     <name>Flabbergast</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>40 (9d8)</hp>
@@ -1521,7 +1521,7 @@
   <monster>
     <name>Jim Darkmagic</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>40 (9d8)</hp>
@@ -1579,7 +1579,7 @@
   <monster>
     <name>Pendragon Beestinger</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>Neutral Evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>27 (5d8+5)</hp>
@@ -1628,7 +1628,7 @@
   <monster>
     <name>Phoenix Anvil</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>18 (chain mail)</ac>
     <hp>27 (5d8+5)</hp>
@@ -1681,7 +1681,7 @@
   <monster>
     <name>Viari</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Good</alignment>
     <ac>18 (studded leather armor +1), 19 (studded leather armor +1)</ac>
     <hp>65 (10d8+20)</hp>
@@ -1797,7 +1797,7 @@
   <monster>
     <name>Prophetess Dran</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Lawful Good</alignment>
     <ac>14 (breastplate)</ac>
     <hp>27 (5d8+5)</hp>

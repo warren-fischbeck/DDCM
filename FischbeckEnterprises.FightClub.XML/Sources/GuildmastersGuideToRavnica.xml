@@ -2423,7 +2423,7 @@
   <monster>
     <name>Aurelia</name>
     <size>M</size>
-    <type>Celestial</type>
+    <type>celestial</type>
     <alignment>Lawful Good</alignment>
     <ac>22 (natural armor)</ac>
     <hp>287 (25d8+175)</hp>
@@ -3065,7 +3065,7 @@
   <monster>
     <name>Cackler</name>
     <size>S</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>10 (3d6)</hp>
@@ -3124,7 +3124,7 @@
   <monster>
     <name>Master of Cruelties</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
     <ac>18 (plate armor)</ac>
     <hp>127 (15d10+45)</hp>
@@ -3191,7 +3191,7 @@
   <monster>
     <name>Rakdos</name>
     <size>H</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>300 (24d12+144)</hp>
@@ -3277,7 +3277,7 @@
   <monster>
     <name>Sire of Insanity</name>
     <size>H</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>157 (15d12+60)</hp>
@@ -3676,7 +3676,7 @@
   <monster>
     <name>Hybrid Brute</name>
     <size>M</size>
-    <type>humanoid (Simic hybrid)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>18 (natural armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -3720,7 +3720,7 @@
   <monster>
     <name>Hybrid Flier</name>
     <size>M</size>
-    <type>humanoid (Simic hybrid)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>13</ac>
     <hp>39 (6d8+12)</hp>
@@ -3765,7 +3765,7 @@
   <monster>
     <name>Hybrid Poisoner</name>
     <size>M</size>
-    <type>humanoid (Simic hybrid)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>14</ac>
     <hp>26 (4d8+8)</hp>
@@ -3809,7 +3809,7 @@
   <monster>
     <name>Hybrid Shocker</name>
     <size>M</size>
-    <type>humanoid (Simic hybrid)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>12</ac>
     <hp>39 (6d8+12)</hp>
@@ -3862,7 +3862,7 @@
   <monster>
     <name>Hybrid Spy</name>
     <size>M</size>
-    <type>humanoid (Simic hybrid)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>13</ac>
     <hp>22 (4d8+4)</hp>
@@ -3910,7 +3910,7 @@
   <monster>
     <name>Biomancer</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>17 (splint armor)</ac>
     <hp>110 (17d8+34)</hp>
@@ -3968,7 +3968,7 @@
   <monster>
     <name>Blood Witch</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>78 (12d8+24)</hp>
@@ -4029,7 +4029,7 @@
   <monster>
     <name>Cosmotronic Blastseeker</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>37 (5d8+15)</hp>
@@ -4079,7 +4079,7 @@
   <monster>
     <name>Counterflux Blastseeker</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>39 (6d8+12)</hp>
@@ -4125,7 +4125,7 @@
   <monster>
     <name>Druid of the Old Ways</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>14 (hide armor)</ac>
     <hp>90 (12d8+36)</hp>
@@ -4182,7 +4182,7 @@
   <monster>
     <name>Firefist</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Good</alignment>
     <ac>18 (plate armor)</ac>
     <hp>117 (18d8+36)</hp>
@@ -4237,7 +4237,7 @@
   <monster>
     <name>Flux Blastseeker</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>55 (10d8+10)</hp>
@@ -4283,7 +4283,7 @@
   <monster>
     <name>Frontline Medic</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Good</alignment>
     <ac>20 (plate armor)</ac>
     <hp>19 (3d8+6)</hp>
@@ -4327,7 +4327,7 @@
   <monster>
     <name>Galvanic Blastseeker</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>13</ac>
     <hp>52 (8d8+16)</hp>
@@ -4381,7 +4381,7 @@
   <monster>
     <name>Horncaller</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Good</alignment>
     <ac>13 (hide armor)</ac>
     <hp>39 (6d8+12)</hp>
@@ -4434,7 +4434,7 @@
   <monster>
     <name>Lawmage</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>15 (breastplate)</ac>
     <hp>84 (13d8+26)</hp>
@@ -4480,7 +4480,7 @@
   <monster>
     <name>Mind Mage</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>49 (11d8)</hp>
@@ -4527,7 +4527,7 @@
   <monster>
     <name>Precognitive Mage</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>11 (14 with mage armor)</ac>
     <hp>63 (14d8)</hp>
@@ -4577,7 +4577,7 @@
   <monster>
     <name>Rakdos Lampooner</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
     <ac>12 (leather armor)</ac>
     <hp>27 (5d8+5)</hp>
@@ -4621,7 +4621,7 @@
   <monster>
     <name>Rakdos Performer, Blade Juggler</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
     <ac>13</ac>
     <hp>22 (4d8+4)</hp>
@@ -4664,7 +4664,7 @@
   <monster>
     <name>Rakdos Performer, Fire Eater</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
     <ac>13</ac>
     <hp>22 (4d8+4)</hp>
@@ -4711,7 +4711,7 @@
   <monster>
     <name>Rakdos Performer, High-Wire Acrobat</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
     <ac>13</ac>
     <hp>22 (4d8+4)</hp>
@@ -4754,7 +4754,7 @@
   <monster>
     <name>Reckoner</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>18 (plate armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -4807,7 +4807,7 @@
   <monster>
     <name>Rubblebelt Stalker</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>14 (piecemeal armor)</ac>
     <hp>11 (2d8+2)</hp>
@@ -4862,7 +4862,7 @@
   <monster>
     <name>Scorchbringer Guard</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>16 (breastplate)</ac>
     <hp>11 (2d8+2)</hp>
@@ -4905,7 +4905,7 @@
   <monster>
     <name>Soldier</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>18 (chain mail)</ac>
     <hp>16 (3d8+3)</hp>
@@ -4948,7 +4948,7 @@
   <monster>
     <name>Thought Spy</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>13 (leather armor)</ac>
     <hp>27 (6d8)</hp>
@@ -5003,7 +5003,7 @@
   <monster>
     <name>Golgari Shaman</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>14 (hide armor)</ac>
     <hp>88 (16d8+16)</hp>
@@ -5065,7 +5065,7 @@
   <monster>
     <name>Kraul Death Priest</name>
     <size>M</size>
-    <type>humanoid (kraul)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -5131,7 +5131,7 @@
   <monster>
     <name>Kraul Warrior</name>
     <size>M</size>
-    <type>humanoid (kraul)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>27 (5d8+5)</hp>
@@ -5184,7 +5184,7 @@
   <monster>
     <name>Zegana</name>
     <size>M</size>
-    <type>humanoid (merfolk)</type>
+    <type>humanoid</type>
     <alignment>Lawful Neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>130 (20d8+40)</hp>
@@ -5865,7 +5865,7 @@
   <monster>
     <name>Anarch</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
     <ac>13 (hide armor)</ac>
     <hp>11 (2d8+2)</hp>
@@ -6456,7 +6456,7 @@
   <monster>
     <name>Simic Merfolk</name>
     <size>M</size>
-    <type>humanoid (merfolk)</type>
+    <type>humanoid</type>
     <alignment>Neutral</alignment>
     <ac>11</ac>
     <hp>11 (2d8+2)</hp>

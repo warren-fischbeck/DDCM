@@ -152,7 +152,7 @@
     <monster>
         <name>Anchorite of Talos</name>
         <size>M</size>
-        <type>humanoid (half-orc, shapechanger)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>13 (hide armor)</ac>
         <hp>58 (9d8+18)</hp>
@@ -201,7 +201,7 @@
     <monster>
         <name>Don-Jon Raskin</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral</alignment>
         <ac>10</ac>
         <hp>44 (8d8+8)</hp>
@@ -251,7 +251,7 @@
     <monster>
         <name>Falcon the Hunter</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral Good</alignment>
         <ac>14 (studded leather armor)</ac>
         <hp>112 (15d8+45)</hp>
@@ -351,7 +351,7 @@
     <monster>
         <name>Rock Gnome Recluse</name>
         <size>S</size>
-        <type>humanoid (gnome)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>10 (13 with mage armor)</ac>
         <hp>7 (2d6)</hp>

@@ -317,7 +317,7 @@ Function Create-XMLFile
                             $required = $false
                             $logMSG | Create-LogEntry -sLogMsg "Located monster $($monsterInXML.Name)" -sLogType FAILURE
                             if(($sourceItem[$i].size) -ne $null) { if($monsterInXML.size -ne $sourceItem[$i].size) { $monsterInXML.size = $sourceItem[$i].size; $logMSG | Create-LogEntry -sLogMsg "     [$($monsterInXML.Name)] changed size to $($sourceItem[$i].size)" -sLogType WARNING } }
-                            if(($sourceItem[$i].type) -ne $null) { if($monsterInXML.type -ne $sourceItem[$i].type) { $monsterInXML.type = $sourceItem[$i].type; $logMSG | Create-LogEntry -sLogMsg "     [$($monsterInXML.Name)] changed type to $($sourceItem[$i].type)" -sLogType WARNING } }
+                            if(($sourceItem[$i].type) -ne $null) { if($monsterInXML.type -ne $sourceItem[$i].type) { $monsterInXML.type = $sourceItem[$i].type.ToLower(); $logMSG | Create-LogEntry -sLogMsg "     [$($monsterInXML.Name)] changed type to $($sourceItem[$i].type)" -sLogType WARNING } }
                             if(($sourceItem[$i].alignment) -ne $null) { if($monsterInXML.alignment -ne $sourceItem[$i].alignment) { $monsterInXML.alignment = $sourceItem[$i].alignment; $logMSG | Create-LogEntry -sLogMsg "     [$($monsterInXML.Name)] changed alignment to $($sourceItem[$i].alignment)" -sLogType WARNING } }
                             if(($sourceItem[$i].ac) -ne $null) { if($monsterInXML.ac -ne $sourceItem[$i].ac) { $monsterInXML.ac = $sourceItem[$i].ac; $logMSG | Create-LogEntry -sLogMsg "     [$($monsterInXML.Name)] changed ac to $($sourceItem[$i].ac)" -sLogType WARNING } }
                             if(($sourceItem[$i].hp) -ne $null) { if($monsterInXML.hp -ne $sourceItem[$i].hp) { $monsterInXML.hp = $sourceItem[$i].hp; $logMSG | Create-LogEntry -sLogMsg "     [$($monsterInXML.Name)] changed hp to $($sourceItem[$i].hp)" -sLogType WARNING } }
@@ -355,7 +355,7 @@ Function Create-XMLFile
                         $newMonster = $xmlFile.compendium.AppendChild($newMonsterElement)
                         $item = $xmlFile.CreateElement("name"); $item.InnerXml = $sourceItem[$i].name; $newMonster.AppendChild($item) | Out-Null 
                         $item = $xmlFile.CreateElement("size"); $item.InnerXml = $sourceItem[$i].size; $newMonster.AppendChild($item) | Out-Null 
-                        $item = $xmlFile.CreateElement("type"); $item.InnerXml = $sourceItem[$i].type; $newMonster.AppendChild($item) | Out-Null 
+                        $item = $xmlFile.CreateElement("type"); $item.InnerXml = $sourceItem[$i].type.ToLower(); $newMonster.AppendChild($item) | Out-Null 
                         $item = $xmlFile.CreateElement("alignment"); $item.InnerXml = $sourceItem[$i].alignment; $newMonster.AppendChild($item) | Out-Null 
                         $item = $xmlFile.CreateElement("ac"); $item.InnerXml = $sourceItem[$i].ac; $newMonster.AppendChild($item) | Out-Null 
                         $item = $xmlFile.CreateElement("hp"); $item.InnerXml = $sourceItem[$i].hp; $newMonster.AppendChild($item) | Out-Null 

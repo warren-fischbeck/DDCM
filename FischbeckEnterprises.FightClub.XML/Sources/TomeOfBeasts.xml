@@ -1349,7 +1349,7 @@
   <monster>
     <name>Bearfolk</name>
     <size>M</size>
-    <type>humanoid (bearfolk)</type>
+    <type>humanoid</type>
     <alignment>chaotic good</alignment>
     <ac>14 (hide armor)</ac>
     <hp>45 (6d8+18)</hp>
@@ -1720,7 +1720,7 @@
   <monster>
     <name>Bone Swarm</name>
     <size>L</size>
-    <type>swarm of Tiny undead</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>198 (36d10)</hp>
@@ -2094,7 +2094,7 @@
   <monster>
     <name>Burrowling</name>
     <size>S</size>
-    <type>humanoid (burrowling)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>13</ac>
     <hp>27 (6d6+6)</hp>
@@ -2535,7 +2535,7 @@
   <monster>
     <name>Clockwork Abomination</name>
     <size>L</size>
-    <type>Construct</type>
+    <type>construct</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>76 (8d10+32)</hp>
@@ -2629,7 +2629,7 @@
   <monster>
     <name>Clockwork Beetle Swarm</name>
     <size>L</size>
-    <type>Large swarm of Tiny constructs</type>
+    <type>constructs</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>52 (8d10+8)</hp>
@@ -2955,7 +2955,7 @@
   <monster>
     <name>Cobbleswarm</name>
     <size>M</size>
-    <type>swarm of Tiny monstrosities</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>36 (8d8)</hp>
@@ -3098,7 +3098,7 @@
   <monster>
     <name>Death Butterfly Swarm</name>
     <size>L</size>
-    <type>swarm of tiny beasts</type>
+    <type>beast</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>60 (11d10)</hp>
@@ -3140,7 +3140,7 @@
   <monster>
     <name>Greater Death Butterfly Swarm</name>
     <size>H</size>
-    <type>swarm of tiny beasts</type>
+    <type>beast</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>84 (13d12)</hp>
@@ -3394,7 +3394,7 @@
   <monster>
     <name>Apau Perape</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
@@ -3452,7 +3452,7 @@
   <monster>
     <name>Berstuc</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
@@ -3505,7 +3505,7 @@
   <monster>
     <name>Kishi Demon</name>
     <size>M</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor, shield)</ac>
     <hp>119 (14d8+56)</hp>
@@ -3566,7 +3566,7 @@
   <monster>
     <name>Malakbel</name>
     <size>M</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>102 (12d8+48)</hp>
@@ -3619,7 +3619,7 @@
   <monster>
     <name>Psoglav Demon</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>115 (11d10+55)</hp>
@@ -3669,7 +3669,7 @@
   <monster>
     <name>Rubezahl</name>
     <size>M</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>110 (17d8+34)</hp>
@@ -3730,7 +3730,7 @@
   <monster>
     <name>Akyishigal, Demon Lord Of Cockroaches</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>138 (12d10+72)</hp>
@@ -3798,7 +3798,7 @@
   <monster>
     <name>Spawn Of Akyishigal</name>
     <size>M</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>119 (14d8+56)</hp>
@@ -3842,7 +3842,7 @@
   <monster>
     <name>Alquam, Demon Lord Of Night</name>
     <size>H</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>350 (28d12+168)</hp>
@@ -3943,7 +3943,7 @@
   <monster>
     <name>Camazotz, Demon Lord Of Bats And Fire</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>537 (43d10+301)</hp>
@@ -4067,7 +4067,7 @@
   <monster>
     <name>Mechuiti, Demon Lord Of Apes</name>
     <size>G</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>370 (20d20+160)</hp>
@@ -4180,7 +4180,7 @@
   <monster>
     <name>Qorgeth, Demon Lord Of The Devouring Worm</name>
     <size>G</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>21 (natural armor)</ac>
     <hp>370 (20d20+160)</hp>
@@ -4320,7 +4320,7 @@
   <monster>
     <name>Derro Shadow Antipaladin</name>
     <size>S</size>
-    <type>humanoid (derro)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (breastplate and shield)</ac>
     <hp>82 (11d6+44)</hp>
@@ -4385,7 +4385,7 @@
   <monster>
     <name>Arbeyach</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>275 (22d10+154)</hp>
@@ -4474,7 +4474,7 @@
   <monster>
     <name>Spawn Of Arbeyach</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>78 (12d8+24)</hp>
@@ -4584,7 +4584,7 @@
   <monster>
     <name>Mammon</name>
     <size>H</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>378 (28d12+196)</hp>
@@ -4676,7 +4676,7 @@
   <monster>
     <name>Totivillus, Scribe Of Hell</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>299 (26d8+182)</hp>
@@ -4768,7 +4768,7 @@
   <monster>
     <name>Automata Devil</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>168 (16d10+80)</hp>
@@ -4833,7 +4833,7 @@
   <monster>
     <name>Chort Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>187 (15d8+120)</hp>
@@ -4890,7 +4890,7 @@
   <monster>
     <name>Crystalline Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>102 (12d8+48)</hp>
@@ -4954,7 +4954,7 @@
   <monster>
     <name>Gilded Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>16 (coin mail)</ac>
     <hp>112 (15d8+45)</hp>
@@ -5035,7 +5035,7 @@
   <monster>
     <name>Ink Devil</name>
     <size>S</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>14</ac>
     <hp>54 (12d6+12)</hp>
@@ -5095,7 +5095,7 @@
   <monster>
     <name>Koralk (Harvester Devil)</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>136 (16d10+48)</hp>
@@ -5149,7 +5149,7 @@
   <monster>
     <name>Lunar Devil</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>94 (9d10+45)</hp>
@@ -5224,7 +5224,7 @@
   <monster>
     <name>Orobas Devil</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>261 (14d10+126)</hp>
@@ -5294,7 +5294,7 @@
   <monster>
     <name>Salt Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>93 (11d8+44)</hp>
@@ -8581,7 +8581,7 @@
   <monster>
     <name>Shadow Fey</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>31 (7d8)</hp>
@@ -8628,7 +8628,7 @@
   <monster>
     <name>Shadow Fey Duelist</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>17 (studded leather)</ac>
     <hp>117 (18d8+36)</hp>
@@ -8684,7 +8684,7 @@
   <monster>
     <name>Shadow Fey Enchantress</name>
     <size>M</size>
-    <type>humanoid (shadow fey)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>16 (breastplate)</ac>
     <hp>123 (19d8+38)</hp>
@@ -8749,7 +8749,7 @@
   <monster>
     <name>Shadow Fey Forest Hunter</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>104 (19d8+19)</hp>
@@ -8805,7 +8805,7 @@
   <monster>
     <name>Shadow Fey Guardian</name>
     <size>L</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>110 (13d10+39)</hp>
@@ -8966,7 +8966,7 @@
   <monster>
     <name>Eonic Drifter</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -9003,7 +9003,7 @@
   <monster>
     <name>Erina Scrounger</name>
     <size>S</size>
-    <type>humanoid (erina)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>12 (leather armor)</ac>
     <hp>22 (4d6+8)</hp>
@@ -9045,7 +9045,7 @@
   <monster>
     <name>Erina Defender</name>
     <size>S</size>
-    <type>humanoid (erina)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>44 (8d6+16)</hp>
@@ -10523,7 +10523,7 @@
   <monster>
     <name>Gearforged Templar</name>
     <size>M</size>
-    <type>humanoid (gearforged)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>18 (plate armor)</ac>
     <hp>71 (11d8+22)</hp>
@@ -11121,7 +11121,7 @@
   <monster>
     <name>Hraesvelgr The Corpse Swallower</name>
     <size>H</size>
-    <type>giant (shapechanger</type>
+    <type>giant</type>
     <alignment>titan), neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>241 (21d12+105)</hp>
@@ -11425,7 +11425,7 @@
   <monster>
     <name>Gnoll Havoc Runner</name>
     <size>M</size>
-    <type>humanoid (gnoll)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>58 (9d8+18)</hp>
@@ -11512,7 +11512,7 @@
   <monster>
     <name>Dust Goblin</name>
     <size>S</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>14 (leather armor)</ac>
     <hp>5 (1d6+2)</hp>
@@ -13068,7 +13068,7 @@
   <monster>
     <name>Kobold Alchemist</name>
     <size>S</size>
-    <type>humanoid (kobold)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>15 (studded leather)</ac>
     <hp>44 (8d6+16)</hp>
@@ -13125,7 +13125,7 @@
   <monster>
     <name>Kobold Chieftain</name>
     <size>S</size>
-    <type>humanoid (kobold)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>17 (studded leather and shield)</ac>
     <hp>82 (15d6+30)</hp>
@@ -13539,7 +13539,7 @@
   <monster>
     <name>Lemurfolk</name>
     <size>S</size>
-    <type>humanoid (lemurfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>13</ac>
     <hp>14 (4d6)</hp>
@@ -13577,7 +13577,7 @@
   <monster>
     <name>Lemurfolk Greyfur</name>
     <size>S</size>
-    <type>humanoid (lemurfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>67 (15d6+15)</hp>
@@ -14225,7 +14225,7 @@
   <monster>
     <name>Mamura</name>
     <size>S</size>
-    <type>Aberration</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (13d6+52)</hp>
@@ -14460,7 +14460,7 @@
   <monster>
     <name>Map Mimic</name>
     <size>T</size>
-    <type>Aberration</type>
+    <type>aberration</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>32 (5d8+10)</hp>
@@ -15076,7 +15076,7 @@
   <monster>
     <name>Naina</name>
     <size>L</size>
-    <type>Dragon</type>
+    <type>dragon</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>231 (22d10+110)</hp>
@@ -15252,7 +15252,7 @@
   <monster>
     <name>Nkosi</name>
     <size>M</size>
-    <type>humanoid (shapechanger</type>
+    <type>humanoid</type>
     <alignment>nkosi), lawful neutral</alignment>
     <ac>15 (studded leather)</ac>
     <hp>11 (2d8+2)</hp>
@@ -15299,7 +15299,7 @@
   <monster>
     <name>Nkosi Pridelord</name>
     <size>M</size>
-    <type>humanoid (shapechanger</type>
+    <type>humanoid</type>
     <alignment>nkosi), lawful neutral</alignment>
     <ac>16 (studded leather)</ac>
     <hp>93 (17d8+17)</hp>
@@ -15394,7 +15394,7 @@
   <monster>
     <name>Noctiny</name>
     <size>M</size>
-    <type>humanoid (noctiny)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>13 (studded leather armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -15438,7 +15438,7 @@
   <monster>
     <name>Oculo Swarm</name>
     <size>L</size>
-    <type>swarm of Tiny aberrations</type>
+    <type>aberrations</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>110 (13d10+39)</hp>
@@ -15805,7 +15805,7 @@
   <monster>
     <name>Ramag</name>
     <size>M</size>
-    <type>humanoid (ramag)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>27 (6d8)</hp>
@@ -15933,7 +15933,7 @@
   <monster>
     <name>Ratfolk</name>
     <size>S</size>
-    <type>humanoid (ratfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>7 (2d6)</hp>
@@ -15971,7 +15971,7 @@
   <monster>
     <name>Ratfolk Rogue</name>
     <size>S</size>
-    <type>humanoid (ratfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>18 (4d6+4)</hp>
@@ -16077,7 +16077,7 @@
   <monster>
     <name>Ravenfolk Scout</name>
     <size>M</size>
-    <type>humanoid (kenku)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>21 (6d8-6)</hp>
@@ -16124,7 +16124,7 @@
   <monster>
     <name>Ravenfolk Warrior</name>
     <size>M</size>
-    <type>humanoid (kenku)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>78 (12d8+24)</hp>
@@ -16184,7 +16184,7 @@
   <monster>
     <name>Ravenfolk Doom Croaker</name>
     <size>M</size>
-    <type>humanoid (kenku)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>88 (16d8+16)</hp>
@@ -16464,7 +16464,7 @@
   <monster>
     <name>Roachling Skirmisher</name>
     <size>S</size>
-    <type>humanoid (roachling)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>7 (2d6)</hp>
@@ -16503,7 +16503,7 @@
   <monster>
     <name>Roachling Lord</name>
     <size>S</size>
-    <type>humanoid (roachling)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>63 (14d6+14)</hp>
@@ -18537,7 +18537,7 @@
   <monster>
     <name>Subek</name>
     <size>L</size>
-    <type>humanoid (subek)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>76 (8d10+32)</hp>
@@ -18664,7 +18664,7 @@
   <monster>
     <name>Manabane Scarab Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -18707,7 +18707,7 @@
   <monster>
     <name>Prismatic Beetle Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>38 (7d8+7)</hp>
@@ -18742,7 +18742,7 @@
   <monster>
     <name>Sluagh Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny fey</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>54 (12d8)</hp>
@@ -18786,7 +18786,7 @@
   <monster>
     <name>Wolf Spirit Swarm</name>
     <size>L</size>
-    <type>swarm of Medium undead</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (15d10+15)</hp>
@@ -18937,7 +18937,7 @@
   <monster>
     <name>Ancient Titan</name>
     <size>G</size>
-    <type>Celestial</type>
+    <type>celestial</type>
     <alignment>neutral good</alignment>
     <ac>15 (breastplate)</ac>
     <hp>198 (12d20+72)</hp>
@@ -19292,7 +19292,7 @@
   <monster>
     <name>Tosculi Elite Bow Raider</name>
     <size>M</size>
-    <type>humanoid (tosculi)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (13d8+39)</hp>
@@ -20442,7 +20442,7 @@
   <monster>
     <name>Wharfling Swarm</name>
     <size>L</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>63 (14d10-14)</hp>
@@ -20741,7 +20741,7 @@
   <monster>
     <name>Zaratan</name>
     <size>G</size>
-    <type>monstrosity (titan)</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>25 (natural armor)</ac>
     <hp>507 (26d20+234)</hp>
@@ -20986,7 +20986,7 @@
   <monster>
     <name>Bandit Lord</name>
     <size>M</size>
-    <type>humanoid (Any Race)</type>
+    <type>humanoid</type>
     <alignment>any non-lawful</alignment>
     <ac>16 (breastplate)</ac>
     <hp>91 (14d8+28)</hp>
@@ -21037,7 +21037,7 @@
   <monster>
     <name>Black Knight Commander</name>
     <size>M</size>
-    <type>humanoid (Any Race)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>18 (plate)</ac>
     <hp>78 (12d8+24)</hp>
@@ -21090,7 +21090,7 @@
   <monster>
     <name>City Watch Captian</name>
     <size>M</size>
-    <type>humanoid (Any Race)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>17 (scale mail)</ac>
     <hp>91 (14d8+28)</hp>
@@ -21141,7 +21141,7 @@
   <monster>
     <name>Devilbound Gnomish Prince</name>
     <size>S</size>
-    <type>humanoid (gnome)</type>
+    <type>humanoid</type>
     <alignment>any evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>104 (19d6+38)</hp>
@@ -21197,7 +21197,7 @@
   <monster>
     <name>Dwarven Ringmage</name>
     <size>M</size>
-    <type>humanoid (dwarf)</type>
+    <type>humanoid</type>
     <alignment>any</alignment>
     <ac>16 (breastplate)</ac>
     <hp>82 (15d8+15)</hp>
@@ -21250,7 +21250,7 @@
   <monster>
     <name>Elvish Veteran Archer</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>chaotic good or chaotic neutral</alignment>
     <ac>15 (studded leather)</ac>
     <hp>77 (14d8+14)</hp>
@@ -21421,7 +21421,7 @@
   <monster>
     <name>Scorpion Cultist</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>19 (3d8+6)</hp>
@@ -21461,7 +21461,7 @@
   <monster>
     <name>Wolf Reaver Dwarf</name>
     <size>M</size>
-    <type>humanoid (dwarf)</type>
+    <type>humanoid</type>
     <alignment>any chaotic</alignment>
     <ac>16 (chain shirt, shield)</ac>
     <hp>76 (9d8+36)</hp>
@@ -21517,7 +21517,7 @@
   <monster>
     <name>Emerald Order Cult Leader</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral or evil</alignment>
     <ac>14 (breastplate)</ac>
     <hp>117 (18d8+36)</hp>

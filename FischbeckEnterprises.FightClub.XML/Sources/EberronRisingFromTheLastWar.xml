@@ -3678,7 +3678,7 @@
   <monster>
     <name>Bone Knight</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any Non-Good Alignment</alignment>
     <ac>20 (bonecraft armour)</ac>
     <hp>84 (13d8+26)</hp>
@@ -3743,7 +3743,7 @@
   <monster>
     <name>Changeling</name>
     <size>M</size>
-    <type>humanoid (changeling, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>13 (leather armor)</ac>
     <hp>22 (4d8+4)</hp>
@@ -3844,7 +3844,7 @@
   <monster>
     <name>Corrin Delmaco</name>
     <size>S</size>
-    <type>humanoid (halfling)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>12</ac>
     <hp>21 (6d6)</hp>
@@ -4347,7 +4347,7 @@
   <monster>
     <name>Sergeant</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>16 (chain shirt)</ac>
     <hp>11 (2d8+2)</hp>
@@ -4444,7 +4444,7 @@
   <monster>
     <name>Inspired</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>40 (9d8)</hp>
@@ -4599,7 +4599,7 @@
   <monster>
     <name>Kalashtar</name>
     <size>M</size>
-    <type>humanoid (kalashtar)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>12</ac>
     <hp>16 (3d8+3)</hp>
@@ -5006,7 +5006,7 @@
   <monster>
     <name>Magewright</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>11</ac>
     <hp>9 (2d8)</hp>
@@ -5294,7 +5294,7 @@
   <monster>
     <name>Shifter</name>
     <size>M</size>
-    <type>humanoid (shifter)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>14 (leather armor)</ac>
     <hp>19 (3d8+6)</hp>
@@ -5437,7 +5437,7 @@
   <monster>
     <name>Tarkanan Assassin</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any Non-Good Alignment</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>45 (7d8+14)</hp>
@@ -5506,7 +5506,7 @@
   <monster>
     <name>The Lord of Blades</name>
     <size>M</size>
-    <type>humanoid (warforged)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>195 (23d8+92)</hp>
@@ -6074,7 +6074,7 @@
   <monster>
     <name>Warforged Soldier</name>
     <size>M</size>
-    <type>humanoid (warforged)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>16 (natural armor)</ac>
     <hp>30 (4d8+12)</hp>

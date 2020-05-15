@@ -40394,7 +40394,7 @@
   <monster>
     <name>Aarakocra</name>
     <size>M</size>
-    <type>humanoid (aarakocra)</type>
+    <type>humanoid</type>
     <alignment>neutral good</alignment>
     <ac>12</ac>
     <hp>13 (3d8)</hp>
@@ -40600,7 +40600,7 @@
   <monster>
     <name>Acolyte</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>10</ac>
     <hp>9 (2d8)</hp>
@@ -43092,7 +43092,7 @@
   <monster>
     <name>Arcanaloth</name>
     <size>M</size>
-    <type>fiend (yugoloth)</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>104 (16d8+32)</hp>
@@ -43175,7 +43175,7 @@
   <monster>
     <name>Archmage</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>99 (18d8+18)</hp>
@@ -43241,7 +43241,7 @@
   <monster>
     <name>Assassin</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any non-good alignment</alignment>
     <ac>15 (studded leather)</ac>
     <hp>78 (12d8+24)</hp>
@@ -43600,7 +43600,7 @@
   <monster>
     <name>Balor</name>
     <size>H</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>262 (21d12+126)</hp>
@@ -43674,7 +43674,7 @@
   <monster>
     <name>Bandit</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any non-lawful alignment</alignment>
     <ac>12 (leather armor)</ac>
     <hp>11 (2d8+2)</hp>
@@ -43716,7 +43716,7 @@
   <monster>
     <name>Bandit Captain</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any non-lawful alignment</alignment>
     <ac>15 (studded leather)</ac>
     <hp>65 (10d8+20)</hp>
@@ -43824,7 +43824,7 @@
   <monster>
     <name>Barbed Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>110 (13d8+52)</hp>
@@ -43888,7 +43888,7 @@
   <monster>
     <name>Barlgura</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>68 (8d10+24)</hp>
@@ -44063,7 +44063,7 @@
   <monster>
     <name>Bearded Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -44393,7 +44393,7 @@
   <monster>
     <name>Berserker</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any chaotic alignment</alignment>
     <ac>13 (hide armor)</ac>
     <hp>67 (9d8+27)</hp>
@@ -44832,7 +44832,7 @@
   <monster>
     <name>Bone Devil</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>142 (15d10+60)</hp>
@@ -44906,7 +44906,7 @@
   <monster>
     <name>Bone Devil Polearm</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>142 (15d10+60)</hp>
@@ -45190,7 +45190,7 @@
   <monster>
     <name>Bugbear</name>
     <size>M</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (hide armor, shield)</ac>
     <hp>27 (5d8+5)</hp>
@@ -45242,7 +45242,7 @@
   <monster>
     <name>Bugbear Chief</name>
     <size>M</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (chain shirt, shield)</ac>
     <hp>65 (10d8+20)</hp>
@@ -45354,7 +45354,7 @@
   <monster>
     <name>Bullywug</name>
     <size>M</size>
-    <type>humanoid (bullywug)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>15 (hide armor, shield)</ac>
     <hp>11 (2d8+2)</hp>
@@ -45733,7 +45733,7 @@
   <monster>
     <name>Chain Devil</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>85 (10d8+40)</hp>
@@ -45810,7 +45810,7 @@
   <monster>
     <name>Chasme</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>84 (13d10+13)</hp>
@@ -46274,7 +46274,7 @@
   <monster>
     <name>Commoner</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>10</ac>
     <hp>4 (1d8)</hp>
@@ -46641,7 +46641,7 @@
   <monster>
     <name>Cult Fanatic</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any non-good alignment</alignment>
     <ac>13 (leather armor)</ac>
     <hp>22 (6d8+6)</hp>
@@ -46696,7 +46696,7 @@
   <monster>
     <name>Cultist</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any non-good alignment</alignment>
     <ac>12 (leather armor)</ac>
     <hp>9 (2d8)</hp>
@@ -47045,7 +47045,7 @@
   <monster>
     <name>Death Slaad</name>
     <size>M</size>
-    <type>Aberration</type>
+    <type>aberration</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>170 (20d8+80)</hp>
@@ -47243,7 +47243,7 @@
   <monster>
     <name>Deep Gnome (Svirfneblin)</name>
     <size>S</size>
-    <type>humanoid (gnome)</type>
+    <type>humanoid</type>
     <alignment>neutral good</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>16 (3d6+6)</hp>
@@ -47823,7 +47823,7 @@
   <monster>
     <name>Dretch</name>
     <size>S</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>11 (natural armor)</ac>
     <hp>18 (4d6+4)</hp>
@@ -48018,7 +48018,7 @@
   <monster>
     <name>Drow</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>13 (3d8)</hp>
@@ -48088,7 +48088,7 @@
   <monster>
     <name>Drow Elite Warrior</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>18 (studded leather, shield)</ac>
     <hp>71 (11d8+22)</hp>
@@ -48166,7 +48166,7 @@
   <monster>
     <name>Drow Mage</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>45 (10d8)</hp>
@@ -48238,7 +48238,7 @@
   <monster>
     <name>Drow Priestess of Lolth</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>15 (scale mail)</ac>
     <hp>71 (13d8+13)</hp>
@@ -48313,7 +48313,7 @@
   <monster>
     <name>Druid</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>11 (16 with barkskin)</ac>
     <hp>27 (5d8+5)</hp>
@@ -48429,7 +48429,7 @@
   <monster>
     <name>Duergar</name>
     <size>M</size>
-    <type>humanoid (dwarf)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>16 (scale mail, shield)</ac>
     <hp>26 (4d8+4)</hp>
@@ -48876,7 +48876,7 @@
   <monster>
     <name>Empyrean</name>
     <size>H</size>
-    <type>Celestial</type>
+    <type>celestial</type>
     <alignment>chaotic good (75%) or neutral evil (25%)</alignment>
     <ac>22 (natural armor)</ac>
     <hp>313 (19d12+190)</hp>
@@ -48966,7 +48966,7 @@
   <monster>
     <name>Erinyes</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>18 (plate)</ac>
     <hp>153 (18d8+72)</hp>
@@ -52335,7 +52335,7 @@
   <monster>
     <name>Githyanki Knight</name>
     <size>M</size>
-    <type>humanoid (gith)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>18 (plate)</ac>
     <hp>91 (14d8+28)</hp>
@@ -52384,7 +52384,7 @@
   <monster>
     <name>Githyanki Warrior</name>
     <size>M</size>
-    <type>humanoid (gith)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>17 (half plate)</ac>
     <hp>49 (9d8+9)</hp>
@@ -52432,7 +52432,7 @@
   <monster>
     <name>Githzerai Monk</name>
     <size>M</size>
-    <type>humanoid (gith)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>14</ac>
     <hp>38 (7d8+7)</hp>
@@ -52484,7 +52484,7 @@
   <monster>
     <name>Githzerai Zerth</name>
     <size>M</size>
-    <type>humanoid (gith)</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>17</ac>
     <hp>84 (13d8+26)</hp>
@@ -52536,7 +52536,7 @@
   <monster>
     <name>Glabrezu</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
@@ -52605,7 +52605,7 @@
   <monster>
     <name>Gladiator</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>16 (studded leather, shield)</ac>
     <hp>112 (15d8+45)</hp>
@@ -52671,7 +52671,7 @@
   <monster>
     <name>Gnoll</name>
     <size>M</size>
-    <type>humanoid (gnoll)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (hide armor, shield)</ac>
     <hp>22 (5d8)</hp>
@@ -52722,7 +52722,7 @@
   <monster>
     <name>Gnoll Fang of Yeenoghu</name>
     <size>M</size>
-    <type>humanoid (gnoll)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (hide armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -52772,7 +52772,7 @@
   <monster>
     <name>Gnoll Pack Lord</name>
     <size>M</size>
-    <type>humanoid (gnoll)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>49 (9d8+9)</hp>
@@ -52884,7 +52884,7 @@
   <monster>
     <name>Goblin</name>
     <size>S</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>15 (leather armor, shield)</ac>
     <hp>7 (2d6)</hp>
@@ -52930,7 +52930,7 @@
   <monster>
     <name>Goblin Boss</name>
     <size>S</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>17 (chain shirt, shield)</ac>
     <hp>21 (6d6)</hp>
@@ -53109,7 +53109,7 @@
   <monster>
     <name>Goristro</name>
     <size>H</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>310 (23d12+161)</hp>
@@ -53295,7 +53295,7 @@
   <monster>
     <name>Gray Slaad</name>
     <size>M</size>
-    <type>Aberration</type>
+    <type>aberration</type>
     <alignment>chaotic neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>127 (17d8+51)</hp>
@@ -53564,7 +53564,7 @@
   <monster>
     <name>Green Slaad</name>
     <size>L</size>
-    <type>Aberration</type>
+    <type>aberration</type>
     <alignment>chaotic neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>127 (15d10+45)</hp>
@@ -53875,7 +53875,7 @@
   <monster>
     <name>Grimlock</name>
     <size>M</size>
-    <type>humanoid (grimlock)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>11</ac>
     <hp>11 (2d8+2)</hp>
@@ -53924,7 +53924,7 @@
   <monster>
     <name>Guard</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>16 (chain shirt, shield)</ac>
     <hp>11 (2d8+2)</hp>
@@ -54150,7 +54150,7 @@
   <monster>
     <name>Half-Red Dragon Veteran</name>
     <size>M</size>
-    <type>humanoid (human)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>18 (plate)</ac>
     <hp>65 (10d8+20)</hp>
@@ -54409,7 +54409,7 @@
   <monster>
     <name>Hezrou</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>136 (13d10+65)</hp>
@@ -54575,7 +54575,7 @@
   <monster>
     <name>Hobgoblin</name>
     <size>M</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>18 (chain mail, shield)</ac>
     <hp>11 (2d8+2)</hp>
@@ -54622,7 +54622,7 @@
   <monster>
     <name>Hobgoblin Captain</name>
     <size>M</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>17 (half plate)</ac>
     <hp>39 (6d8+12)</hp>
@@ -54677,7 +54677,7 @@
   <monster>
     <name>Hobgoblin Warlord</name>
     <size>M</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>20 (plate, shield)</ac>
     <hp>97 (13d8+39)</hp>
@@ -54853,7 +54853,7 @@
   <monster>
     <name>Horned Devil</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>148 (17d10+55)</hp>
@@ -55057,7 +55057,7 @@
   <monster>
     <name>Ice Devil</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>180 (19d10+76)</hp>
@@ -55122,7 +55122,7 @@
   <monster>
     <name>Ice Devil Spear</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>180 (19d10+76)</hp>
@@ -55250,7 +55250,7 @@
   <monster>
     <name>Imp</name>
     <size>T</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>13</ac>
     <hp>10 (3d4+3)</hp>
@@ -55609,7 +55609,7 @@
   <monster>
     <name>Kenku</name>
     <size>M</size>
-    <type>humanoid (kenku)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>13 (3d8)</hp>
@@ -55708,7 +55708,7 @@
   <monster>
     <name>Knight</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>18 (plate)</ac>
     <hp>52 (8d8+16)</hp>
@@ -55766,7 +55766,7 @@
   <monster>
     <name>Kobold</name>
     <size>S</size>
-    <type>humanoid (kobold)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>12</ac>
     <hp>5 (2d6-2)</hp>
@@ -55816,7 +55816,7 @@
   <monster>
     <name>Kraken</name>
     <size>G</size>
-    <type>monstrosity (titan)</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>472 (27d20+189)</hp>
@@ -55939,7 +55939,7 @@
   <monster>
     <name>Kuo-Toa</name>
     <size>M</size>
-    <type>humanoid (kuo-toa)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor, shield)</ac>
     <hp>18 (4d8)</hp>
@@ -56021,7 +56021,7 @@
   <monster>
     <name>Kuo-Toa Archpriest</name>
     <size>M</size>
-    <type>humanoid (kuo-toa)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>97 (13d8+39)</hp>
@@ -56099,7 +56099,7 @@
   <monster>
     <name>Kuo-Toa Monitor</name>
     <size>M</size>
-    <type>humanoid (kuo-toa)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor, unarmored defense)</ac>
     <hp>65 (10d8+20)</hp>
@@ -56165,7 +56165,7 @@
   <monster>
     <name>Kuo-Toa Whip</name>
     <size>M</size>
-    <type>humanoid (kuo-toa)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>11 (natural armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -56297,7 +56297,7 @@
   <monster>
     <name>Lemure</name>
     <size>M</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>7</ac>
     <hp>13 (3d8)</hp>
@@ -56548,7 +56548,7 @@
   <monster>
     <name>Lizard King/Queen</name>
     <size>M</size>
-    <type>humanoid (lizardfolk)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>78 (12d8+24)</hp>
@@ -56608,7 +56608,7 @@
   <monster>
     <name>Lizardfolk</name>
     <size>M</size>
-    <type>humanoid (lizardfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>15 (natural armor, shield)</ac>
     <hp>22 (4d8+4)</hp>
@@ -56668,7 +56668,7 @@
   <monster>
     <name>Lizardfolk Shaman</name>
     <size>M</size>
-    <type>humanoid (lizardfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>27 (5d8+5)</hp>
@@ -56749,7 +56749,7 @@
   <monster>
     <name>Mage</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>40 (9d8)</hp>
@@ -56959,7 +56959,7 @@
   <monster>
     <name>Manes</name>
     <size>S</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>9 (natural armor)</ac>
     <hp>9 (2d6+2)</hp>
@@ -57131,7 +57131,7 @@
   <monster>
     <name>Marilith</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>189 (18d10+90)</hp>
@@ -57343,7 +57343,7 @@
   <monster>
     <name>Merfolk</name>
     <size>M</size>
-    <type>humanoid (merfolk)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>11</ac>
     <hp>11 (2d8+2)</hp>
@@ -57439,7 +57439,7 @@
   <monster>
     <name>Mezzoloth</name>
     <size>M</size>
-    <type>fiend (yugoloth)</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -58396,7 +58396,7 @@
   <monster>
     <name>Nalfeshnee</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>184 (16d10+96)</hp>
@@ -58698,7 +58698,7 @@
   <monster>
     <name>Noble</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>15 (breastplate)</ac>
     <hp>9 (2d8)</hp>
@@ -58793,7 +58793,7 @@
   <monster>
     <name>Nycaloth</name>
     <size>L</size>
-    <type>fiend (yugoloth)</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>123 (13d10+52)</hp>
@@ -59121,7 +59121,7 @@
   <monster>
     <name>Orc</name>
     <size>M</size>
-    <type>humanoid (orc)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>13 (hide armor)</ac>
     <hp>15 (2d8+6)</hp>
@@ -59167,7 +59167,7 @@
   <monster>
     <name>Orc Eye of Gruumsh</name>
     <size>M</size>
-    <type>humanoid (orc)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (ring mail, shield)</ac>
     <hp>45 (6d8+18)</hp>
@@ -59223,7 +59223,7 @@
   <monster>
     <name>Orc War Chief</name>
     <size>M</size>
-    <type>humanoid (orc)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (chain mail)</ac>
     <hp>93 (11d8+44)</hp>
@@ -59282,7 +59282,7 @@
   <monster>
     <name>Orog</name>
     <size>M</size>
-    <type>humanoid (orc)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (plate)</ac>
     <hp>42 (5d8+20)</hp>
@@ -59828,7 +59828,7 @@
   <monster>
     <name>Pit Fiend</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>300 (24d10+168)</hp>
@@ -60262,7 +60262,7 @@
   <monster>
     <name>Priest</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>13 (chain shirt)</ac>
     <hp>27 (5d8+5)</hp>
@@ -60554,7 +60554,7 @@
   <monster>
     <name>Quaggoth</name>
     <size>M</size>
-    <type>humanoid (quaggoth)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>45 (6d8+18)</hp>
@@ -60641,7 +60641,7 @@
   <monster>
     <name>Quaggoth Thonot</name>
     <size>M</size>
-    <type>humanoid (quaggoth)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>45 (6d8+18)</hp>
@@ -60694,7 +60694,7 @@
   <monster>
     <name>Quasit</name>
     <size>T</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>7 (3d4)</hp>
@@ -61669,7 +61669,7 @@
   <monster>
     <name>Sahuagin</name>
     <size>M</size>
-    <type>humanoid (sahuagin)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (4d8+4)</hp>
@@ -61733,7 +61733,7 @@
   <monster>
     <name>Sahuagin Baron</name>
     <size>M</size>
-    <type>humanoid (sahuagin)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>16 (breastplate)</ac>
     <hp>76 (9d10+27)</hp>
@@ -61797,7 +61797,7 @@
   <monster>
     <name>Sahuagin Priestess</name>
     <size>M</size>
-    <type>humanoid (sahuagin)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>33 (6d8+6)</hp>
@@ -62121,7 +62121,7 @@
   <monster>
     <name>Scout</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>13 (leather armor)</ac>
     <hp>16 (3d8+3)</hp>
@@ -62393,7 +62393,7 @@
   <monster>
     <name>Shadow Demon</name>
     <size>M</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>66 (12d8+12)</hp>
@@ -63058,7 +63058,7 @@
   <monster>
     <name>Spined Devil</name>
     <size>S</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>22 (5d6+5)</hp>
@@ -63233,7 +63233,7 @@
   <monster>
     <name>Spy</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>12</ac>
     <hp>27 (6d8)</hp>
@@ -63644,7 +63644,7 @@
   <monster>
     <name>Swarm of Bats</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12</ac>
     <hp>22 (5d8)</hp>
@@ -63694,7 +63694,7 @@
   <monster>
     <name>Swarm of Beetles</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -63736,7 +63736,7 @@
   <monster>
     <name>Swarm of Centipedes</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -63791,7 +63791,7 @@
   <monster>
     <name>Swarm of Insects</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -63833,7 +63833,7 @@
   <monster>
     <name>Swarm of Poisonous Snakes</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14</ac>
     <hp>36 (8d8)</hp>
@@ -63875,7 +63875,7 @@
   <monster>
     <name>Swarm of Quippers</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>28 (8d8-8)</hp>
@@ -63925,7 +63925,7 @@
   <monster>
     <name>Swarm of Rats</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>10</ac>
     <hp>24 (7d8-7)</hp>
@@ -63971,7 +63971,7 @@
   <monster>
     <name>Swarm of Ravens</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12</ac>
     <hp>24 (7d8-7)</hp>
@@ -64013,7 +64013,7 @@
   <monster>
     <name>Swarm of Spiders</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -64067,7 +64067,7 @@
   <monster>
     <name>Swarm of Wasps</name>
     <size>M</size>
-    <type>swarm of Tiny beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -64109,7 +64109,7 @@
   <monster>
     <name>Tarrasque</name>
     <size>G</size>
-    <type>monstrosity (titan)</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>25 (natural armor)</ac>
     <hp>676 (33d20+330)</hp>
@@ -64251,7 +64251,7 @@
   <monster>
     <name>Thri-kreen</name>
     <size>M</size>
-    <type>humanoid (thri-kreen)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>33 (6d8+6)</hp>
@@ -64331,7 +64331,7 @@
   <monster>
     <name>Thri-kreen (Psionic)</name>
     <size>M</size>
-    <type>humanoid (thri-kreen)</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>33 (6d8+6)</hp>
@@ -64419,7 +64419,7 @@
   <monster>
     <name>Thug</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any non-good alignment</alignment>
     <ac>11 (leather armor)</ac>
     <hp>32 (5d8+10)</hp>
@@ -64585,7 +64585,7 @@
   <monster>
     <name>Tribal Warrior</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>12 (hide armor)</ac>
     <hp>11 (2d8+2)</hp>
@@ -64734,7 +64734,7 @@
   <monster>
     <name>Troglodyte</name>
     <size>M</size>
-    <type>humanoid (troglodyte)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>11 (natural armor)</ac>
     <hp>13 (2d8+4)</hp>
@@ -64975,7 +64975,7 @@
   <monster>
     <name>Ultroloth</name>
     <size>M</size>
-    <type>fiend (yugoloth)</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>153 (18d8+72)</hp>
@@ -65638,7 +65638,7 @@
   <monster>
     <name>Veteran</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>any alignment</alignment>
     <ac>17 (splint)</ac>
     <hp>58 (9d8+18)</hp>
@@ -65802,7 +65802,7 @@
   <monster>
     <name>Vrock</name>
     <size>L</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>104 (11d10+44)</hp>
@@ -66180,7 +66180,7 @@
   <monster>
     <name>Werebear</name>
     <size>M</size>
-    <type>humanoid (human, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>neutral good</alignment>
     <ac>10 (in humanoid form, 11 in bear and hybrid forms )</ac>
     <hp>135 (18d8+54)</hp>
@@ -66239,7 +66239,7 @@
   <monster>
     <name>Wereboar</name>
     <size>M</size>
-    <type>humanoid (human, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>10 (in humanoid form, 11 in boar and hybrid forms )</ac>
     <hp>78 (12d8+24)</hp>
@@ -66305,7 +66305,7 @@
   <monster>
     <name>Wererat</name>
     <size>M</size>
-    <type>humanoid (human, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>12</ac>
     <hp>33 (6d8+6)</hp>
@@ -66364,7 +66364,7 @@
   <monster>
     <name>Weretiger</name>
     <size>M</size>
-    <type>humanoid (human, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>12</ac>
     <hp>120 (16d8+48)</hp>
@@ -66439,7 +66439,7 @@
   <monster>
     <name>Werewolf</name>
     <size>M</size>
-    <type>humanoid (human, shapechanger)</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>11 (in humanoid form, 12 in wolf or hybrid form)</ac>
     <hp>58 (9d8+18)</hp>
@@ -66659,7 +66659,7 @@
   <monster>
     <name>Winged Kobold</name>
     <size>S</size>
-    <type>humanoid (kobold)</type>
+    <type>humanoid</type>
     <alignment>lawful evil</alignment>
     <ac>13</ac>
     <hp>7 (3d6-3)</hp>
@@ -67095,7 +67095,7 @@
   <monster>
     <name>Yochlol</name>
     <size>M</size>
-    <type>fiend (demon)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>136 (16d8+64)</hp>
@@ -67841,7 +67841,7 @@
   <monster>
     <name>Yuan-ti Abomination</name>
     <size>L</size>
-    <type>monstrosity (shapechanger, yuan-ti)</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>127 (15d10+45)</hp>
@@ -67936,7 +67936,7 @@
   <monster>
     <name>Yuan-ti Malison Type 1</name>
     <size>M</size>
-    <type>monstrosity (shapechanger, yuan-ti)</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>12</ac>
     <hp>66 (12d8+12)</hp>
@@ -68030,7 +68030,7 @@
   <monster>
     <name>Yuan-ti Malison Type 2</name>
     <size>M</size>
-    <type>monstrosity (shapechanger, yuan-ti)</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>12</ac>
     <hp>66 (12d8+12)</hp>
@@ -68114,7 +68114,7 @@
   <monster>
     <name>Yuan-ti Malison Type 3</name>
     <size>M</size>
-    <type>monstrosity (shapechanger, yuan-ti)</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>12</ac>
     <hp>66 (12d8+12)</hp>
@@ -68227,7 +68227,7 @@
   <monster>
     <name>Yuan-ti Pureblood</name>
     <size>M</size>
-    <type>humanoid (yuan-ti)</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>11</ac>
     <hp>40 (9d8)</hp>

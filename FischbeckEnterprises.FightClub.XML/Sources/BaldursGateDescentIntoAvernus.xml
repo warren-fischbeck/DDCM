@@ -1286,7 +1286,7 @@
     <monster>
         <name>Abyssal Chicken</name>
         <size>T</size>
-        <type>fiend (demon)</type>
+        <type>fiend</type>
         <alignment>Chaotic Evil</alignment>
         <ac>13 (natural armor)</ac>
         <hp>10 (3d4+3)</hp>
@@ -1333,7 +1333,7 @@
     <monster>
         <name>Amrik Vanthampur</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (leather armor, charisma modifier)</ac>
         <hp>66 (12d8+12)</hp>
@@ -1378,7 +1378,7 @@
     <monster>
         <name>Archduke Zariel of Avernus</name>
         <size>L</size>
-        <type>fiend (devil)</type>
+        <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>21 (natural armor)</ac>
         <hp>580 (40d10+360)</hp>
@@ -1479,7 +1479,7 @@
     <monster>
         <name>Arkhan the Cruel</name>
         <size>M</size>
-        <type>humanoid (dragonborn)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>23 (obsidian flint dragon plate, shield)</ac>
         <hp>221 (26d8+104)</hp>
@@ -1542,7 +1542,7 @@
     <monster>
         <name>Black Gauntlet of Bane</name>
         <size>M</size>
-        <type>humanoid (lawful evil)</type>
+        <type>humanoid</type>
         <speed>30 ft.</speed>
         <ac>16 (chain mail)</ac>
         <cr>6</cr>
@@ -1641,7 +1641,7 @@
     <monster>
         <name>Death&#39;s Head of Bhaal</name>
         <size>M</size>
-        <type>humanoid (human, chaotic evil)</type>
+        <type>humanoid</type>
         <speed>50 ft,</speed>
         <ac>15</ac>
         <cr>5</cr>
@@ -1763,7 +1763,7 @@
     <monster>
         <name>Fiendish Flesh Golem</name>
         <size>L</size>
-        <type>Construct</type>
+        <type>construct</type>
         <speed>30 ft., fly 30 ft. (Hover)</speed>
         <ac>12 (natural armor)</ac>
         <cr>8</cr>
@@ -1813,7 +1813,7 @@
     <monster>
         <name>Fist of Bane</name>
         <size>M</size>
-        <type>humanoid (lawful evil)</type>
+        <type>humanoid</type>
         <speed>30 ft.</speed>
         <ac>18 (chain mail, shield)</ac>
         <cr>1/2</cr>
@@ -1885,7 +1885,7 @@
     <monster>
         <name>Hellwasp</name>
         <size>L</size>
-        <type>fiend (lawful evil)</type>
+        <type>fiend</type>
         <speed>10 ft., fly 60 ft. (Hover)</speed>
         <ac>19 (natural armor)</ac>
         <cr>5</cr>
@@ -1986,7 +1986,7 @@
     <monster>
         <name>Iron Consul</name>
         <size>M</size>
-        <type>humanoid (lawful evil)</type>
+        <type>humanoid</type>
         <speed>30 ft.</speed>
         <ac>16 (chain mail)</ac>
         <cr>2</cr>
@@ -2024,7 +2024,7 @@
     <monster>
         <name>Master of Souls</name>
         <size>M</size>
-        <type>humanoid (neutral evil)</type>
+        <type>humanoid</type>
         <speed>30 ft.</speed>
         <ac>12</ac>
         <cr>4</cr>
@@ -2082,7 +2082,7 @@
     <monster>
         <name>Necromite of Myrkul</name>
         <size>M</size>
-        <type>humanoid (neutral evil)</type>
+        <type>humanoid</type>
         <speed>30 ft.</speed>
         <ac>11</ac>
         <cr>1/2</cr>
@@ -2151,7 +2151,7 @@
     <monster>
         <name>Night Blade</name>
         <size>M</size>
-        <type>humanoid (chaotic evil)</type>
+        <type>humanoid</type>
         <speed>40 ft.</speed>
         <ac>12</ac>
         <cr>1/4</cr>
@@ -2177,7 +2177,7 @@
     <monster>
         <name>Reaper of Bhaal</name>
         <size>M</size>
-        <type>humanoid (human, chaotic evil)</type>
+        <type>humanoid</type>
         <speed>40 ft.</speed>
         <ac>12</ac>
         <cr>2</cr>
@@ -2256,7 +2256,7 @@
     <monster>
         <name>Skull Lasher of Myrkul</name>
         <size>M</size>
-        <type>humanoid (neutral evil)</type>
+        <type>humanoid</type>
         <speed>30 ft.</speed>
         <ac>12</ac>
         <cr>1</cr>
@@ -2300,7 +2300,7 @@
     <monster>
         <name>Smiler the Defiler</name>
         <size>M</size>
-        <type>Humanoid (elf)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Evil</alignment>
         <ac>18 (leather armor +2)</ac>
         <hp>165 (22d8+66)</hp>
@@ -2361,7 +2361,7 @@
     <monster>
         <name>Sylvira Savikas</name>
         <size>M</size>
-        <type>humanoid (tiefling)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>12 (15 with mage armor)</ac>
         <hp>99 (18d8+18)</hp>
@@ -2421,7 +2421,7 @@
     <monster>
         <name>Thavius Kreeg</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>10</ac>
         <hp>40 (9d8)</hp>
@@ -2457,7 +2457,7 @@
     <monster>
         <name>Thurstwell Vanthampur</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>9</ac>
         <hp>5 (2d8-4)</hp>
@@ -2606,7 +2606,7 @@
     <monster>
         <name>Traxigor</name>
         <size>T</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>12 (15 with mage armor)</ac>
         <hp>99 (18d8+18)</hp>
@@ -2707,7 +2707,7 @@
     <monster>
         <name>Ulder Ravengard</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral</alignment>
         <ac>20 (plate armor, shield)</ac>
         <hp>112 (15d8+45)</hp>
@@ -2756,7 +2756,7 @@
     <monster>
         <name>Rilsa Rael</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral</alignment>
         <ac>15 (leather armor)</ac>
         <hp>52 (8d8+16)</hp>
@@ -2810,7 +2810,7 @@
     <monster>
         <name>Nine-Fingers Keene</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral</alignment>
         <ac>15 (leather armor)</ac>
         <hp>84 (13d8+26)</hp>
@@ -2860,7 +2860,7 @@
     <monster>
         <name>Mortlock Vanthampur</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>12</ac>
         <hp>90 (12d8+36)</hp>
@@ -2968,7 +2968,7 @@
     <monster>
         <name>Krull</name>
         <size>M</size>
-        <type>humanoid (tortle)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>17 (natural armor)</ac>
         <hp>117 (18d8+36)</hp>
@@ -3031,7 +3031,7 @@
     <monster>
         <name>Kostchtchie</name>
         <size>L</size>
-        <type>fiend (demon)</type>
+        <type>fiend</type>
         <alignment>Chaotic Evil</alignment>
         <ac>16 (natural armor)</ac>
         <hp>243 (18d10+144)</hp>
@@ -3150,7 +3150,7 @@
     <monster>
         <name>Duke Thalamra Vanthampur</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>10</ac>
         <hp>78 (12d8+24)</hp>
@@ -3250,7 +3250,7 @@
     <monster>
         <name>Bel</name>
         <size>L</size>
-        <type>fiend (devil)</type>
+        <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>19 (natural armor)</ac>
         <hp>364 (27d10+216)</hp>
@@ -3332,7 +3332,7 @@
     <monster>
         <name>Bitter Breath</name>
         <size>L</size>
-        <type>fiend (devil)</type>
+        <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>18 (natural armor)</ac>
         <hp>178 (17d10+85)</hp>
@@ -3480,7 +3480,7 @@
     <monster>
         <name>Chukka</name>
         <size>M</size>
-        <type>humanoid (kenku)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>13</ac>
         <hp>13 (3d8)</hp>
@@ -3525,7 +3525,7 @@
     <monster>
         <name>Clonk</name>
         <size>M</size>
-        <type>humanoid (kenku)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>13</ac>
         <hp>13 (3d8)</hp>
@@ -3618,7 +3618,7 @@
     <monster>
         <name>Elliach</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>12 (15 with mage armor)</ac>
         <hp>40 (9d8)</hp>
@@ -3662,7 +3662,7 @@
     <monster>
         <name>Feonor</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>12 (15 with mage armor)</ac>
         <hp>99 (18d8+18)</hp>
@@ -3716,7 +3716,7 @@
     <monster>
         <name>Harkina Hunt</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>10</ac>
         <hp>4 (1d8)</hp>
@@ -3963,7 +3963,7 @@
     <monster>
         <name>Princeps Kovik</name>
         <size>M</size>
-        <type>fiend (devil)</type>
+        <type>fiend</type>
         <alignment>Lawful Evil</alignment>
         <ac>16 (natural armor)</ac>
         <hp>85 (10d8+40)</hp>
@@ -4016,7 +4016,7 @@
     <monster>
         <name>Raggadragga</name>
         <size>M</size>
-        <type>humanoid (human, shapechanger)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>10 (in humanoid form, 11 (natural armor) in boar or hybrid form)</ac>
         <hp>120 (12d8+24)</hp>
@@ -4073,7 +4073,7 @@
     <monster>
         <name>Skeletal Rats</name>
         <size>M</size>
-        <type>swarm of Medium beasts</type>
+        <type>beast</type>
         <alignment>Unaligned</alignment>
         <ac>10</ac>
         <hp>24 (7d8-7)</hp>

@@ -59,7 +59,7 @@
     <monster>
         <name>Blindheim</name>
         <size>M</size>
-        <type>humanoid (blindheim)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Neutral</alignment>
         <ac>14 (natural armor)</ac>
         <hp>26 (4d8+8)</hp>
@@ -160,7 +160,7 @@
     <monster>
         <name>Dire Corby</name>
         <size>M</size>
-        <type>humanoid (dire corby)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>13 (natural armor)</ac>
         <hp>16 (3d8+3)</hp>
@@ -410,7 +410,7 @@
     <monster>
         <name>Jermlaine</name>
         <size>T</size>
-        <type>humanoid (jermlaine)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>11</ac>
         <hp>3 (1d4+1)</hp>
@@ -734,7 +734,7 @@
     <monster>
         <name>Norker</name>
         <size>S</size>
-        <type>humanoid (goblinoid)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Evil</alignment>
         <ac>17 (natural armor)</ac>
         <hp>16 (3d8+3)</hp>
@@ -786,7 +786,7 @@
     <monster>
         <name>Norker War Leader</name>
         <size>S</size>
-        <type>humanoid (goblinoid)</type>
+        <type>humanoid</type>
         <alignment>Chaotic Evil</alignment>
         <ac>17 (natural armor)</ac>
         <hp>39 (6d8+12)</hp>

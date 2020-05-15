@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
     <!-- Monsters -->
     <monster>
-        <name>"The Demogorgon"</name>
+        <name>"The Demogorgon" (Ettin)</name>
         <size>L</size>
         <type>giant</type>
         <alignment>Chaotic Neutral</alignment>
@@ -78,7 +78,7 @@
     <monster>
         <name>Barbatos</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>15 (studded leather armor)</ac>
         <hp>78 (12d8+24)</hp>
@@ -140,7 +140,7 @@
     <monster>
         <name>Lynx Creatlach</name>
         <size>M</size>
-        <type>undead (tiefling)</type>
+        <type>undead</type>
         <alignment>Lawful Evil</alignment>
         <ac>13 (leather armor)</ac>
         <hp>136 (16d8+64)</hp>
@@ -206,7 +206,7 @@
     <monster>
         <name>Moghadam</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>14 (breastplate)</ac>
         <hp>104 (19d8+19)</hp>
@@ -274,7 +274,7 @@
     <monster>
         <name>Sir Ursas</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>20 (plate armor)</ac>
         <hp>112 (15d8+45)</hp>
@@ -338,7 +338,7 @@
     <monster>
         <name>Thessalar</name>
         <size>M</size>
-        <type>humanoid (human)</type>
+        <type>humanoid</type>
         <alignment>Neutral Evil</alignment>
         <ac>14 (breastplate)</ac>
         <hp>104 (7d10+14)</hp>
@@ -437,7 +437,7 @@
     <monster>
         <name>Thessalkraken</name>
         <size>G</size>
-        <type>monstrosity (titan)</type>
+        <type>monstrosity</type>
         <alignment>Chaotic Evil</alignment>
         <ac>16 (natural armor)</ac>
         <hp>207 (18d12+90)</hp>
@@ -673,7 +673,7 @@
     <monster>
         <name>Andras</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any Non-Good Alignment</alignment>
         <ac>15 (studded leather armor)</ac>
         <hp>78 (12d8+24)</hp>
@@ -773,7 +773,7 @@
     <monster>
         <name>Dwarven Worker</name>
         <size>M</size>
-        <type>humanoid (dwarf)</type>
+        <type>humanoid</type>
         <alignment>Any Non-Good Alignment</alignment>
         <ac>12 (leather armor)</ac>
         <hp>9 (2d8)</hp>
@@ -914,7 +914,7 @@
     <monster>
         <name>Seodra</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>15 (breastplate)</ac>
         <hp>9 (2d8)</hp>
@@ -1129,7 +1129,7 @@
     <monster>
         <name>Stolos</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any alignment</alignment>
         <ac>12 (15 with mage armor)</ac>
         <hp>91 (14d8+28)</hp>
@@ -1179,7 +1179,7 @@
     <monster>
         <name>Tarnhem</name>
         <size>H</size>
-        <type>fiend (demon)</type>
+        <type>fiend</type>
         <alignment>Chaotic Evil</alignment>
         <ac>19 (natural armor)</ac>
         <hp>262 (21d12+126)</hp>
@@ -1281,7 +1281,7 @@
     <monster>
         <name>Tiefling Muralist</name>
         <size>M</size>
-        <type>humanoid (tiefling)</type>
+        <type>humanoid</type>
         <alignment>Any Non-Good Alignment</alignment>
         <ac>12 (leather armor)</ac>
         <hp>9 (2d8)</hp>

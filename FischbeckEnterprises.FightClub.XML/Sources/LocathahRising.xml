@@ -4,7 +4,7 @@
     <monster>
         <name>Amble</name>
         <size>M</size>
-        <type>humanoid (tortle)</type>
+        <type>humanoid</type>
         <alignment>Lawful Good</alignment>
         <ac>18 (natural armor)</ac>
         <hp>90 (12d8+36)</hp>
@@ -184,7 +184,7 @@
     <monster>
         <name>Young Kraken</name>
         <size>H</size>
-        <type>monstrosity (titan)</type>
+        <type>monstrosity</type>
         <alignment>Chaotic Evil</alignment>
         <ac>16 (natural armor)</ac>
         <hp>207 (18d12+90)</hp>
@@ -239,7 +239,7 @@
     <monster>
         <name>Shoalar Quanderil–Locathah Rising</name>
         <size>M</size>
-        <type>humanoid (water genasi)</type>
+        <type>humanoid</type>
         <alignment>Lawful Evil</alignment>
         <ac>11 (14 with mage armor)</ac>
         <hp>75 (10d8+30)</hp>
@@ -292,7 +292,7 @@
     <monster>
         <name>Whymsee</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any Evil Alignment</alignment>
         <ac>10</ac>
         <hp>75 (10d8+30)</hp>
@@ -340,7 +340,7 @@
     <monster>
         <name>Fhenimore</name>
         <size>M</size>
-        <type>humanoid (any race)</type>
+        <type>humanoid</type>
         <alignment>Any Evil Alignment</alignment>
         <ac>10</ac>
         <hp>75 (10d8+30)</hp>

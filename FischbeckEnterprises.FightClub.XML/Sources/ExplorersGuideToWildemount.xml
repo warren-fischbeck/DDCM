@@ -4152,7 +4152,7 @@
   <monster>
     <name>Blood Hunter</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>16 (half plate armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -4211,7 +4211,7 @@
   <monster>
     <name>Bol&#39;bara</name>
     <size>S</size>
-    <type>humanoid (goblinoid)</type>
+    <type>humanoid</type>
     <alignment>Chaotic Good</alignment>
     <ac>13 (leather armor, 15 with mage armor)</ac>
     <hp>40 (9d6+9)</hp>
@@ -4958,7 +4958,7 @@
   <monster>
     <name>Hulil Lutan</name>
     <size>M</size>
-    <type>humanoid (dwarf)</type>
+    <type>humanoid</type>
     <alignment>Any Non-Good Alignment</alignment>
     <ac>13 (leather armor)</ac>
     <hp>33 (6d8+6)</hp>
@@ -5063,7 +5063,7 @@
   <monster>
     <name>Ishel</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Neutral Evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>24 (3d8)</hp>
@@ -5230,7 +5230,7 @@
   <monster>
     <name>Kobold Underling</name>
     <size>S</size>
-    <type>humanoid (kobold)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>13</ac>
     <hp>7 (3d6-3)</hp>
@@ -5410,7 +5410,7 @@
   <monster>
     <name>Nergaliid</name>
     <size>L</size>
-    <type>fiend (devil)</type>
+    <type>fiend</type>
     <alignment>Lawful Evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>42 (4d10+20)</hp>
@@ -5633,7 +5633,7 @@
   <monster>
     <name>Parson Pellinost</name>
     <size>M</size>
-    <type>humanoid (any race)</type>
+    <type>humanoid</type>
     <alignment>Any alignment</alignment>
     <ac>13 (chain shirt)</ac>
     <hp>27 (5d8+5)</hp>
@@ -5679,7 +5679,7 @@
   <monster>
     <name>Raegrin Mau</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Any Non-Good Alignment</alignment>
     <ac>12 (leather armor)</ac>
     <hp>9 (2d8)</hp>
@@ -5723,7 +5723,7 @@
   <monster>
     <name>Sahuagin Warlock of Uk&#39;otoa</name>
     <size>M</size>
-    <type>humanoid (sahuagin)</type>
+    <type>humanoid</type>
     <alignment>Neutral Evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>22 (5d8)</hp>
@@ -6022,7 +6022,7 @@
   <monster>
     <name>Skr&#39;a S&#39;orsk</name>
     <size>M</size>
-    <type>humanoid (lizardfolk)</type>
+    <type>humanoid</type>
     <alignment>Neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>27 (5d8+5)</hp>
@@ -6081,7 +6081,7 @@
   <monster>
     <name>Swarm of Undead Snakes</name>
     <size>M</size>
-    <type>swarm of Medium beasts</type>
+    <type>beast</type>
     <alignment>Unaligned</alignment>
     <ac>14</ac>
     <hp>36 (8d8)</hp>
@@ -6166,7 +6166,7 @@
   <monster>
     <name>Three Earrings</name>
     <size>M</size>
-    <type>humanoid (tabaxi)</type>
+    <type>humanoid</type>
     <alignment>Any Non-Lawful Alignment</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -6314,7 +6314,7 @@
   <monster>
     <name>Yinra Emberwind</name>
     <size>M</size>
-    <type>humanoid (elf)</type>
+    <type>humanoid</type>
     <alignment>Neutral Good</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>16 (3d8+3)</hp>
