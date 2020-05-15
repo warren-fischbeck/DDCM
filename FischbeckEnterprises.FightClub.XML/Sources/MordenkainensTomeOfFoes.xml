@@ -1239,7 +1239,7 @@
   <monster>
     <name>Autumn Eladrin</name>
     <size>M</size>
-    <type>fey (elf)</type>
+    <type>Humanoid (elf)</type>
     <alignment>chaotic neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>127 (17d8+51)</hp>
@@ -1328,7 +1328,7 @@
     <skill>Intimidation +17, Perception +14</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -1725,7 +1725,7 @@
     <skill>Perception +6, Stealth +7</skill>
     <resist></resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>16</passive>
@@ -2425,7 +2425,7 @@
     <skill>Insight +11, Perception +19</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>29</passive>
@@ -4368,7 +4368,7 @@
     <skill>Deception +15, Perception +14, Stealth +8</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -5178,7 +5178,7 @@
     <skill>Deception +15, Insight +12, Perception +12, Persuasion +15</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -5664,7 +5664,7 @@
     <skill>Stealth +7</skill>
     <resist></resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
@@ -5774,7 +5774,7 @@
     <skill>Perception +12</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -6022,7 +6022,7 @@
   <monster>
     <name>Marut</name>
     <size>L</size>
-    <type>construct (inevitable)</type>
+    <type>Construct</type>
     <alignment>lawful neutral</alignment>
     <ac>22 (natural armor)</ac>
     <hp>432 (32d10+256)</hp>
@@ -6900,7 +6900,7 @@
     <skill></skill>
     <resist></resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
@@ -7356,7 +7356,7 @@
     <skill>Arcana +12, Perception +12</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>necrotic; poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>necrotic; poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -8456,7 +8456,7 @@
   <monster>
     <name>Spring Eladrin</name>
     <size>M</size>
-    <type>fey (elf)</type>
+    <type>Humanoid (elf)</type>
     <alignment>chaotic neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>127 (17d8+51)</hp>
@@ -9107,7 +9107,7 @@
     <skill></skill>
     <resist></resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks that aren&#39;t adamantine</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
@@ -9202,7 +9202,7 @@
   <monster>
     <name>Summer Eladrin</name>
     <size>M</size>
-    <type>fey (elf)</type>
+    <type>Humanoid (elf)</type>
     <alignment>chaotic neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>127 (17d8+51)</hp>
@@ -10204,7 +10204,7 @@
   <monster>
     <name>Winter Eladrin</name>
     <size>M</size>
-    <type>fey (elf)</type>
+    <type>Humanoid (elf)</type>
     <alignment>chaotic neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>127 (17d8+51)</hp>
@@ -10371,7 +10371,7 @@
     <skill>Intimidation +9, Perception +14</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -10763,7 +10763,7 @@
     <skill>Perception +11</skill>
     <resist>cold, fire, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>21</passive>

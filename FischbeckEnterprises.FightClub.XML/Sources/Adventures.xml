@@ -4966,7 +4966,7 @@
     <skill>Arcana +22, History +22, Insight +12, Perception +12, Religion +15</skill>
     <resist>cold, lightning</resist>
     <vulnerable></vulnerable>
-    <immune>necrotic, poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>necrotic, poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -5676,7 +5676,7 @@
     <skill></skill>
     <resist></resist>
     <vulnerable>radiant</vulnerable>
-    <immune>cold, necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks</immune>
+    <immune>cold, necrotic, poison, bludgeoning, piercing, and slashing from nonmagical attacks</immune>
     <conditionImmune>exhaustion, frightened, paralyzed, poisoned, prone</conditionImmune>
     <senses>darkvision 120 ft., truesight 120 ft.</senses>
     <passive>14</passive>
@@ -15862,7 +15862,7 @@
   <monster>
     <name>Sahuagin Hatchling Swarm</name>
     <size>T</size>
-    <type>beast (sahuagin)</type>
+    <type>Beast</type>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>52 (8d10+8)</hp>
@@ -16243,7 +16243,7 @@
     <cha>20</cha>
     <save>Dex +5, Wis +5</save>
     <skill>Arcana +7, Religion +7</skill>
-    <resist>While wearing the mask of the Dragon Queen: acid, cold, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons</resist>
+    <resist>While wearing the mask of the Dragon Queen: acid, cold, lightning, poison, bludgeoning, piercing, and slashing damage from nonmagical weapons</resist>
     <vulnerable></vulnerable>
     <immune>While wearing the mask of the Dragon Queen: fire</immune>
     <conditionImmune>While wearing the mask of the Dragon Queen: charmed, frightened, poisoned</conditionImmune>
@@ -17161,7 +17161,7 @@
     <skill></skill>
     <resist></resist>
     <vulnerable></vulnerable>
-    <immune>poison; bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons</immune>
+    <immune>poison, bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons</immune>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone</conditionImmune>
     <senses>blindsight 120 ft.</senses>
     <passive>10</passive>
@@ -17260,7 +17260,7 @@
   <monster>
     <name>Strahd von Zarovich</name>
     <size>M</size>
-    <type>undead (shapechanger)</type>
+    <type>undead </type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>144 (17d8+68)</hp>
@@ -18253,7 +18253,7 @@
     <skill>Arcana +17, Perception +26, Religion +17</skill>
     <resist></resist>
     <vulnerable></vulnerable>
-    <immune> acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons</immune>
+    <immune> acid, cold, fire, lightning, poison, bludgeoning, piercing, and slashing damage from nonmagical weapons</immune>
     <conditionImmune>blinded, charmed, deafened, frightened, poisoned, stunned</conditionImmune>
     <senses>darkvision 240 ft., truesight 120 ft.</senses>
     <passive>36</passive>

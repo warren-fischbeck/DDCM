@@ -1748,7 +1748,7 @@
   <monster>
     <name>Portentia Dran</name>
     <size>M</size>
-    <type>monstrosity (shapechanger)</type>
+    <type>monstrosity </type>
     <alignment>Lawful Evil</alignment>
     <ac>17 (chain shirt)</ac>
     <hp>45 (6d8+18)</hp>

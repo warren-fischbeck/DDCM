@@ -911,7 +911,7 @@
         <languages>all, telepathy 120 ft.</languages>
         <cr>23</cr>
         <resist>acid, cold, fire, lightning, thunder</resist>
-        <immune>necrotic, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+        <immune>necrotic, poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
         <vulnerable></vulnerable>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>

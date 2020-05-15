@@ -3,7 +3,7 @@
   <monster>
     <name>Aboleth, Nihilith</name>
     <size>L</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>135 (18d10+36)</hp>
@@ -17,7 +17,7 @@
     <save>Con +6, Int +8, Wis +6</save>
     <skill>History +12, Perception +10</skill>
     <resist>acid, fire, lightning, thunder (only when in ethereal form); bludgeoning, piercing and slashing from nonmagical weapons</resist>
-    <immune>cold, necrotic, poison; bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)</immune>
+    <immune>cold, necrotic, poison, bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)</immune>
     <conditionImmune>charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>20</passive>
@@ -118,7 +118,7 @@
   <monster>
     <name>Nihilethic Zombie</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>9 (natural armor)</ac>
     <hp>22 (3d8+9)</hp>
@@ -131,7 +131,7 @@
     <cha>5</cha>
     <save>Wis +0</save>
     <resist>bludgeoning, piercing, and slashing from nonmagical weapons</resist>
-    <immune>cold, necrotic, poison; bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)</immune>
+    <immune>cold, necrotic, poison, bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>8</passive>
@@ -171,7 +171,7 @@
   <monster>
     <name>Abominable Beauty</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>187 (22d8+88)</hp>
@@ -213,7 +213,7 @@
   <monster>
     <name>Accursed Defiler</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>12</ac>
     <hp>75 (10d8+30)</hp>
@@ -257,7 +257,7 @@
   <monster>
     <name>Ala</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>127 (15d8+60)</hp>
@@ -309,7 +309,7 @@
   <monster>
     <name>Algorith</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>lawful neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>136 (16d8+64)</hp>
@@ -361,7 +361,7 @@
   <monster>
     <name>Alseid</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>14 (leather armor)</ac>
     <hp>49 (9d8+9)</hp>
@@ -395,7 +395,7 @@
   <monster>
     <name>Alseid Grovekeeper</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (studded leather Armor)</ac>
     <hp>71 (13d8+13)</hp>
@@ -437,7 +437,7 @@
   <monster>
     <name>Amphiptere</name>
     <size>M</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>60 (8d8+24)</hp>
@@ -479,7 +479,7 @@
   <monster>
     <name>Andrenjinyi</name>
     <size>G</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>228 (13d20+91)</hp>
@@ -547,7 +547,7 @@
   <monster>
     <name>Angatra</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>85 (10d8+40)</hp>
@@ -587,7 +587,7 @@
   <monster>
     <name>Angel, Chained</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>88 (16d8+16)</hp>
@@ -630,7 +630,7 @@
   <monster>
     <name>Fidele Angel</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>lawful good</alignment>
     <ac>16 (natural armor)</ac>
     <hp>104 (16d8+32)</hp>
@@ -643,7 +643,7 @@
     <cha>18</cha>
     <save>Dex +7, Con +5, Int +5, Wis +6, Cha +7</save>
     <skill>Insight +6, Perception +6</skill>
-    <resist>fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons</resist>
+    <resist>fire, lightning, poison, bludgeoning, piercing, and slashing damage from nonmagical weapons</resist>
     <immune>acid, cold</immune>
     <conditionImmune>charmed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -709,7 +709,7 @@
   <monster>
     <name>Angler Worm</name>
     <size>H</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>133 (14d12+42)</hp>
@@ -760,7 +760,7 @@
   <monster>
     <name>Giant Ant</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>52 (7d10+14)</hp>
@@ -797,7 +797,7 @@
   <monster>
     <name>Giant Ant Queen</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
@@ -838,7 +838,7 @@
   <monster>
     <name>Anubian</name>
     <size>M</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>44 (8d8+8)</hp>
@@ -886,7 +886,7 @@
   <monster>
     <name>Arboreal Grappler</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>90 (12d8+36)</hp>
@@ -928,7 +928,7 @@
   <monster>
     <name>Aridni</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>82 (15d6+30)</hp>
@@ -994,7 +994,7 @@
   <monster>
     <name>Asanbosam</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>102 (12d10+36)</hp>
@@ -1036,7 +1036,7 @@
   <monster>
     <name>Azza Gremlin</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>14</ac>
     <hp>7 (2d6)</hp>
@@ -1069,7 +1069,7 @@
   <monster>
     <name>Baba Yaga&#39;s Horsemen, Black Night</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful neutral</alignment>
     <ac>20 (plate and shield)</ac>
     <hp>171 (18d8+90)</hp>
@@ -1135,7 +1135,7 @@
   <monster>
     <name>Baba Yaga&#39;s Horsemen, Bright Day</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful neutral</alignment>
     <ac>20 (plate and shield)</ac>
     <hp>171 (18d8+90)</hp>
@@ -1197,7 +1197,7 @@
   <monster>
     <name>Baba Yaga&#39;s Horsemen, Red Sun</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful neutral</alignment>
     <ac>20 (plate and shield)</ac>
     <hp>171 (18d8+90)</hp>
@@ -1258,7 +1258,7 @@
   <monster>
     <name>Bagiennik</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -1296,7 +1296,7 @@
   <monster>
     <name>Bastet Temple Cat</name>
     <size>S</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>14</ac>
     <hp>40 (9d6+9)</hp>
@@ -1349,7 +1349,7 @@
   <monster>
     <name>Bearfolk</name>
     <size>M</size>
-    <type>humanoid (bearfolk),tome of Beasts</type>
+    <type>humanoid (bearfolk)</type>
     <alignment>chaotic good</alignment>
     <ac>14 (hide armor)</ac>
     <hp>45 (6d8+18)</hp>
@@ -1395,7 +1395,7 @@
   <monster>
     <name>Behtu</name>
     <size>S</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (hide armor)</ac>
     <hp>52 (8d6+24)</hp>
@@ -1436,7 +1436,7 @@
   <monster>
     <name>Beli</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>45 (10d6+10)</hp>
@@ -1487,7 +1487,7 @@
   <monster>
     <name>Bereginyas</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>70 (20d4+20)</hp>
@@ -1522,7 +1522,7 @@
   <monster>
     <name>Blemmyes</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>168 (16d10+80)</hp>
@@ -1565,7 +1565,7 @@
   <monster>
     <name>Boloti</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>63 (14d4+28)</hp>
@@ -1609,7 +1609,7 @@
   <monster>
     <name>Bone Collective</name>
     <size>S</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>120 (16d6+64)</hp>
@@ -1670,7 +1670,7 @@
   <monster>
     <name>Bone Crab</name>
     <size>S</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>33 (6d6+12)</hp>
@@ -1720,7 +1720,7 @@
   <monster>
     <name>Bone Swarm</name>
     <size>L</size>
-    <type>swarm of Tiny undead,tome of Beasts</type>
+    <type>swarm of Tiny undead</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>198 (36d10)</hp>
@@ -1766,7 +1766,7 @@
   <monster>
     <name>Avatar Of Boreas</name>
     <size>M</size>
-    <type>elemental (shapechanger),tome of Beasts</type>
+    <type>elemental </type>
     <alignment>chaotic evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>168 (16d8+96)</hp>
@@ -1847,7 +1847,7 @@
   <monster>
     <name>Bouda</name>
     <size>M</size>
-    <type>fiend (shapechanger),tome of Beasts</type>
+    <type>fiend </type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>93 (11d8+44)</hp>
@@ -1904,7 +1904,7 @@
   <monster>
     <name>Broodiken</name>
     <size>T</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>55 (10d4+30)</hp>
@@ -1948,7 +1948,7 @@
   <monster>
     <name>Bucca</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>27 (5d4+15)</hp>
@@ -1986,7 +1986,7 @@
   <monster>
     <name>Bukavac</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>199 (21d10+84)</hp>
@@ -2039,7 +2039,7 @@
   <monster>
     <name>Buraq</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>lawful good</alignment>
     <ac>17</ac>
     <hp>152 (16d8+80)</hp>
@@ -2094,7 +2094,7 @@
   <monster>
     <name>Burrowling</name>
     <size>S</size>
-    <type>humanoid (burrowling),tome of Beasts</type>
+    <type>humanoid (burrowling)</type>
     <alignment>lawful neutral</alignment>
     <ac>13</ac>
     <hp>27 (6d6+6)</hp>
@@ -2141,7 +2141,7 @@
   <monster>
     <name>Cactid</name>
     <size>L</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>76 (8d10+32)</hp>
@@ -2180,7 +2180,7 @@
   <monster>
     <name>Cambium</name>
     <size>L</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>264 (23d10+138)</hp>
@@ -2244,7 +2244,7 @@
   <monster>
     <name>Carrion Beetle</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>127 (15d10+45)</hp>
@@ -2282,7 +2282,7 @@
   <monster>
     <name>Cavelight Moss</name>
     <size>L</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
@@ -2316,7 +2316,7 @@
   <monster>
     <name>Chelicerae</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>153 (18d10+54)</hp>
@@ -2374,7 +2374,7 @@
   <monster>
     <name>Chernomoi</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>13</ac>
     <hp>32 (5d4+20)</hp>
@@ -2410,7 +2410,7 @@
   <monster>
     <name>Child Of The Briar</name>
     <size>T</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>neutral evil</alignment>
     <ac>13</ac>
     <hp>50 (20d4)</hp>
@@ -2457,7 +2457,7 @@
   <monster>
     <name>Chronalmental</name>
     <size>L</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>152 (16d10+64)</hp>
@@ -2468,7 +2468,7 @@
     <int>9</int>
     <wis>13</wis>
     <cha>6</cha>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>exhaustion, paralyzed, petrified, poisoned, unconscious</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>11</passive>
@@ -2503,7 +2503,7 @@
   <monster>
     <name>Cikavak</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>12</ac>
     <hp>17 (7d4)</hp>
@@ -2535,7 +2535,7 @@
   <monster>
     <name>Clockwork Abomination</name>
     <size>L</size>
-    <type>construct (devil),tome of Beasts</type>
+    <type>Construct</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>76 (8d10+32)</hp>
@@ -2593,7 +2593,7 @@
   <monster>
     <name>Clockwork Beetle</name>
     <size>T</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>15 (6d4)</hp>
@@ -2629,7 +2629,7 @@
   <monster>
     <name>Clockwork Beetle Swarm</name>
     <size>L</size>
-    <type>Large swarm of Tiny constructs,tome of Beasts</type>
+    <type>Large swarm of Tiny constructs</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>52 (8d10+8)</hp>
@@ -2660,7 +2660,7 @@
   <monster>
     <name>Clockwork Hound</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>71 (11d8+22)</hp>
@@ -2709,7 +2709,7 @@
   <monster>
     <name>Clockwork Huntsman</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>14</ac>
     <hp>110 (20d8+20)</hp>
@@ -2759,7 +2759,7 @@
   <monster>
     <name>Clockwork Myrmidon</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>153 (18d10+54)</hp>
@@ -2816,7 +2816,7 @@
   <monster>
     <name>Clockwork Watchman</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>55 (10d8+10)</hp>
@@ -2862,7 +2862,7 @@
   <monster>
     <name>Weaving Spider</name>
     <size>T</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>25 (10d4)</hp>
@@ -2909,7 +2909,7 @@
   <monster>
     <name>Clurichaun</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>14</ac>
     <hp>22 (4d4+12)</hp>
@@ -2955,7 +2955,7 @@
   <monster>
     <name>Cobbleswarm</name>
     <size>M</size>
-    <type>swarm of Tiny monstrosities,tome of Beasts</type>
+    <type>swarm of Tiny monstrosities</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>36 (8d8)</hp>
@@ -2997,7 +2997,7 @@
   <monster>
     <name>Corpse Mound</name>
     <size>H</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>207 (18d12+90)</hp>
@@ -3050,7 +3050,7 @@
   <monster>
     <name>Dau</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>49 (9d6+18)</hp>
@@ -3098,7 +3098,7 @@
   <monster>
     <name>Death Butterfly Swarm</name>
     <size>L</size>
-    <type>swarm of tiny beasts,tome of Beasts</type>
+    <type>swarm of tiny beasts</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>60 (11d10)</hp>
@@ -3140,7 +3140,7 @@
   <monster>
     <name>Greater Death Butterfly Swarm</name>
     <size>H</size>
-    <type>swarm of tiny beasts,tome of Beasts</type>
+    <type>swarm of tiny beasts</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>84 (13d12)</hp>
@@ -3182,7 +3182,7 @@
   <monster>
     <name>Deathwisp</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>82 (11d8+33)</hp>
@@ -3235,7 +3235,7 @@
   <monster>
     <name>Deep One</name>
     <size>M</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>91 (14d8+28)</hp>
@@ -3277,7 +3277,7 @@
   <monster>
     <name>Deep One Hybrid Priest</name>
     <size>M</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>120 (16d8+48)</hp>
@@ -3331,7 +3331,7 @@
   <monster>
     <name>Deep One Archimandrite</name>
     <size>L</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>153 (18d10+54)</hp>
@@ -3394,7 +3394,7 @@
   <monster>
     <name>Apau Perape</name>
     <size>L</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
@@ -3408,7 +3408,7 @@
     <save>Dex +7, Con +7, Wis +4</save>
     <skill>Intimidation +5, Perception +4, Stealth +7</skill>
     <vulnerable>cold</vulnerable>
-    <resist>fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons</resist>
+    <resist>fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons</resist>
     <immune>poison</immune>
     <conditionImmune>frightened, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -3452,7 +3452,7 @@
   <monster>
     <name>Berstuc</name>
     <size>L</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
@@ -3505,7 +3505,7 @@
   <monster>
     <name>Kishi Demon</name>
     <size>M</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor, shield)</ac>
     <hp>119 (14d8+56)</hp>
@@ -3518,7 +3518,7 @@
     <cha>22</cha>
     <save>Dex +8, Con +7, Wis +3</save>
     <skill>Deception +9, Perception +3, Performance +9</skill>
-    <resist>cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons</resist>
+    <resist>cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons</resist>
     <immune>poison</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -3566,7 +3566,7 @@
   <monster>
     <name>Malakbel</name>
     <size>M</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>102 (12d8+48)</hp>
@@ -3619,7 +3619,7 @@
   <monster>
     <name>Psoglav Demon</name>
     <size>L</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>115 (11d10+55)</hp>
@@ -3669,7 +3669,7 @@
   <monster>
     <name>Rubezahl</name>
     <size>M</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>110 (17d8+34)</hp>
@@ -3730,7 +3730,7 @@
   <monster>
     <name>Akyishigal, Demon Lord Of Cockroaches</name>
     <size>L</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>138 (12d10+72)</hp>
@@ -3798,7 +3798,7 @@
   <monster>
     <name>Spawn Of Akyishigal</name>
     <size>M</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>119 (14d8+56)</hp>
@@ -3842,7 +3842,7 @@
   <monster>
     <name>Alquam, Demon Lord Of Night</name>
     <size>H</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>350 (28d12+168)</hp>
@@ -3856,7 +3856,7 @@
     <save>Dex +11, Con +13, Wis +12</save>
     <skill>Deception +10, Perception +12, Stealth +11</skill>
     <resist>fire, lightning</resist>
-    <immune>cold, poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>cold, poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -3943,7 +3943,7 @@
   <monster>
     <name>Camazotz, Demon Lord Of Bats And Fire</name>
     <size>L</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>537 (43d10+301)</hp>
@@ -4037,7 +4037,7 @@
   <monster>
     <name>Skin Bat</name>
     <size>S</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>14 (4d6)</hp>
@@ -4067,7 +4067,7 @@
   <monster>
     <name>Mechuiti, Demon Lord Of Apes</name>
     <size>G</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>370 (20d20+160)</hp>
@@ -4081,7 +4081,7 @@
     <save>Str +17, Dex +12, Wis +12</save>
     <skill>Arcana +12, Insight +12, Intimidation +14, Perception +12, Religion +12</skill>
     <vulnerable>cold</vulnerable>
-    <immune>acid, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>acid, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, frightened, poisoned, stunned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -4180,7 +4180,7 @@
   <monster>
     <name>Qorgeth, Demon Lord Of The Devouring Worm</name>
     <size>G</size>
-    <type>fiend (demon),tome of Beasts</type>
+    <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
     <ac>21 (natural armor)</ac>
     <hp>370 (20d20+160)</hp>
@@ -4194,7 +4194,7 @@
     <save>Dex +5, Con +15, Wis +11, Cha +11</save>
     <skill>Perception +11</skill>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>blinded, charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>blindsight 120 ft., tremorsense 120 ft.</senses>
     <passive>21</passive>
@@ -4277,7 +4277,7 @@
   <monster>
     <name>Derro Fetal Savant</name>
     <size>T</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (cage)</ac>
     <hp>2 (4d4-8)</hp>
@@ -4320,7 +4320,7 @@
   <monster>
     <name>Derro Shadow Antipaladin</name>
     <size>S</size>
-    <type>humanoid (derro),tome of Beasts</type>
+    <type>humanoid (derro)</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (breastplate and shield)</ac>
     <hp>82 (11d6+44)</hp>
@@ -4385,7 +4385,7 @@
   <monster>
     <name>Arbeyach</name>
     <size>L</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>275 (22d10+154)</hp>
@@ -4474,7 +4474,7 @@
   <monster>
     <name>Spawn Of Arbeyach</name>
     <size>M</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>78 (12d8+24)</hp>
@@ -4519,7 +4519,7 @@
   <monster>
     <name>Ia&#39;affrat</name>
     <size>L</size>
-    <type>swarm of Tiny elementals,tome of Beasts</type>
+    <type>swarm of Tiny elementals</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>170 (20d10+60)</hp>
@@ -4533,7 +4533,7 @@
     <save>Dex +10, Con +8, Wis +9, Cha +11</save>
     <skill>Arcana +10, Deception +11, Insight +9, Perception +9, Persuasion +11</skill>
     <vulnerable>cold</vulnerable>
-    <immune>fire, poison; bludgeoning, piercing, slashing</immune>
+    <immune>fire, poison, bludgeoning, piercing, slashing</immune>
     <conditionImmune>charmed, frightened, paralyzed, petrified, prone, poisoned, restrained, stunned</conditionImmune>
     <senses>blindsight 10 ft., darkvision 120 ft.</senses>
     <passive>19</passive>
@@ -4584,7 +4584,7 @@
   <monster>
     <name>Mammon</name>
     <size>H</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>378 (28d12+196)</hp>
@@ -4598,7 +4598,7 @@
     <save>Dex +9, Int +14, Wis +13, Cha +16</save>
     <skill>Deception +16, Insight +13, Perception +13, Persuasion +16</skill>
     <resist>cold</resist>
-    <immune>fire, poison; bludgeoning, piercing, and slashing from weapons that aren&#39;t silvered</immune>
+    <immune>fire, poison, bludgeoning, piercing, and slashing from weapons that aren&#39;t silvered</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>23</passive>
@@ -4676,7 +4676,7 @@
   <monster>
     <name>Totivillus, Scribe Of Hell</name>
     <size>M</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>299 (26d8+182)</hp>
@@ -4768,7 +4768,7 @@
   <monster>
     <name>Automata Devil</name>
     <size>L</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>168 (16d10+80)</hp>
@@ -4833,7 +4833,7 @@
   <monster>
     <name>Chort Devil</name>
     <size>M</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>187 (15d8+120)</hp>
@@ -4890,7 +4890,7 @@
   <monster>
     <name>Crystalline Devil</name>
     <size>M</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>102 (12d8+48)</hp>
@@ -4954,7 +4954,7 @@
   <monster>
     <name>Gilded Devil</name>
     <size>M</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>16 (coin mail)</ac>
     <hp>112 (15d8+45)</hp>
@@ -5035,7 +5035,7 @@
   <monster>
     <name>Ink Devil</name>
     <size>S</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>14</ac>
     <hp>54 (12d6+12)</hp>
@@ -5095,7 +5095,7 @@
   <monster>
     <name>Koralk (Harvester Devil)</name>
     <size>L</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>136 (16d10+48)</hp>
@@ -5149,7 +5149,7 @@
   <monster>
     <name>Lunar Devil</name>
     <size>L</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>94 (9d10+45)</hp>
@@ -5224,7 +5224,7 @@
   <monster>
     <name>Orobas Devil</name>
     <size>L</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>261 (14d10+126)</hp>
@@ -5294,7 +5294,7 @@
   <monster>
     <name>Salt Devil</name>
     <size>M</size>
-    <type>fiend (devil),tome of Beasts</type>
+    <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>93 (11d8+44)</hp>
@@ -5345,7 +5345,7 @@
   <monster>
     <name>Mbielu</name>
     <size>H</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>95 (10d12+30)</hp>
@@ -5378,7 +5378,7 @@
   <monster>
     <name>Ngobou</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
@@ -5420,7 +5420,7 @@
   <monster>
     <name>Spinosaurus</name>
     <size>G</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>231 (14d20+84)</hp>
@@ -5487,7 +5487,7 @@
   <monster>
     <name>Young Spinosaurus</name>
     <size>H</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>105 (10d12+40)</hp>
@@ -5525,7 +5525,7 @@
   <monster>
     <name>Dipsa</name>
     <size>T</size>
-    <type>ooze,tome of Beasts</type>
+    <type>ooze</type>
     <alignment>unaligned</alignment>
     <ac>15</ac>
     <hp>27 (6d4+12)</hp>
@@ -5568,7 +5568,7 @@
   <monster>
     <name>Dissimortuum</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>112 (15d8+45)</hp>
@@ -5608,7 +5608,7 @@
   <monster>
     <name>Dogmole</name>
     <size>M</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>71 (11d8+22)</hp>
@@ -5649,7 +5649,7 @@
   <monster>
     <name>Dogmole Juggernaut</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>15 (chain armor)</ac>
     <hp>126 (12d10+60)</hp>
@@ -5699,7 +5699,7 @@
   <monster>
     <name>Domovoi</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>93 (11d8+44)</hp>
@@ -5735,7 +5735,7 @@
   <monster>
     <name>Doppelrat</name>
     <size>T</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>22 (5d4+10)</hp>
@@ -5777,7 +5777,7 @@
   <monster>
     <name>Dorreq</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>93 (17d8+17)</hp>
@@ -5821,7 +5821,7 @@
   <monster>
     <name>Adult Cave Dragon</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>243 (18d12+126)</hp>
@@ -5929,7 +5929,7 @@
   <monster>
     <name>Young Cave Dragon</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
@@ -5984,7 +5984,7 @@
   <monster>
     <name>Cave Dragon Wyrmling</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -6025,7 +6025,7 @@
   <monster>
     <name>Ancient Flame Dragon</name>
     <size>G</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>22 (natural armor)</ac>
     <hp>481 (26d20+208)</hp>
@@ -6117,7 +6117,7 @@
   <monster>
     <name>Adult Flame Dragon</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>212 (17d12+102)</hp>
@@ -6194,7 +6194,7 @@
   <monster>
     <name>Young Flame Dragon</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>161 (17d10+68)</hp>
@@ -6238,7 +6238,7 @@
   <monster>
     <name>Flame Dragon Wyrmling</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -6269,7 +6269,7 @@
   <monster>
     <name>Ancient Mithral Dragon</name>
     <size>G</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>20 (natural armor)</ac>
     <hp>297 (17d20+119)</hp>
@@ -6363,7 +6363,7 @@
   <monster>
     <name>Adult Mithral Dragon</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>184 (16d12+80)</hp>
@@ -6448,7 +6448,7 @@
   <monster>
     <name>Young Mithral Dragon</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>92 (16d8+20)</hp>
@@ -6496,7 +6496,7 @@
   <monster>
     <name>Ancient Sea Dragon</name>
     <size>G</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>22 (natural armor)</ac>
     <hp>481 (26d20+208)</hp>
@@ -6588,7 +6588,7 @@
   <monster>
     <name>Adult Sea Dragon</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>225 (18d12+108)</hp>
@@ -6665,7 +6665,7 @@
   <monster>
     <name>Young Sea Dragon</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>152 (16d10+64)</hp>
@@ -6717,7 +6717,7 @@
   <monster>
     <name>Sea Dragon Wyrmling</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -6748,7 +6748,7 @@
   <monster>
     <name>Ancient Void Dragon</name>
     <size>G</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>22 (natural armor)</ac>
     <hp>448 (23d20+207)</hp>
@@ -6865,7 +6865,7 @@
   <monster>
     <name>Adult Void Dragon</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>229 (17d12+119)</hp>
@@ -6963,7 +6963,7 @@
   <monster>
     <name>Young Void Dragon</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
@@ -7028,7 +7028,7 @@
   <monster>
     <name>Void Dragon Wyrmling</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>45 (6d8+18)</hp>
@@ -7079,7 +7079,7 @@
   <monster>
     <name>Ancient Wind Dragon</name>
     <size>G</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>20 (natural armor)</ac>
     <hp>425 (23d20+184)</hp>
@@ -7179,7 +7179,7 @@
   <monster>
     <name>Adult Wind Dragon</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>237 (19d12+114)</hp>
@@ -7271,7 +7271,7 @@
   <monster>
     <name>Young Wind Dragon</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>150 (16d10+62)</hp>
@@ -7325,7 +7325,7 @@
   <monster>
     <name>Wyrmling Wind Dragon</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>14</ac>
     <hp>45 (7d8+14)</hp>
@@ -7357,7 +7357,7 @@
   <monster>
     <name>Dragon Eel</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>230 (20d12+100)</hp>
@@ -7410,7 +7410,7 @@
   <monster>
     <name>Dragonleaf Tree</name>
     <size>L</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>152 (16d10+64)</hp>
@@ -7453,7 +7453,7 @@
   <monster>
     <name>Alehouse Drake</name>
     <size>T</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>65 (10d4+40)</hp>
@@ -7504,7 +7504,7 @@
   <monster>
     <name>Ash Drake</name>
     <size>S</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>117 (18d6+54)</hp>
@@ -7549,7 +7549,7 @@
   <monster>
     <name>Coral Drake</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>127 (15d8+60)</hp>
@@ -7603,7 +7603,7 @@
   <monster>
     <name>Crimson Drake</name>
     <size>T</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>54 (12d4+24)</hp>
@@ -7648,7 +7648,7 @@
   <monster>
     <name>Deep Drake</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>150 (20d10+40)</hp>
@@ -7698,7 +7698,7 @@
   <monster>
     <name>Elder Shadow Drake</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>114 (12d10+48)</hp>
@@ -7752,7 +7752,7 @@
   <monster>
     <name>Paper Drake</name>
     <size>S</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>13</ac>
     <hp>78 (12d6+36)</hp>
@@ -7799,7 +7799,7 @@
   <monster>
     <name>Rust Drake</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>161 (19d8+76)</hp>
@@ -7844,7 +7844,7 @@
   <monster>
     <name>Star Drake</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>189 (18d10+90)</hp>
@@ -7929,7 +7929,7 @@
   <monster>
     <name>Drakon</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>105 (14d10+28)</hp>
@@ -7973,7 +7973,7 @@
   <monster>
     <name>Dream Eater</name>
     <size>M</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -8032,7 +8032,7 @@
   <monster>
     <name>Drowned Maiden</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>90 (20d8)</hp>
@@ -8086,7 +8086,7 @@
   <monster>
     <name>Duskthorn Dryad</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic</alignment>
     <ac>17 (natural armor)</ac>
     <hp>77 (14d8+14)</hp>
@@ -8140,7 +8140,7 @@
   <monster>
     <name>Dullahan</name>
     <size>L</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>178 (17d10+85)</hp>
@@ -8199,7 +8199,7 @@
   <monster>
     <name>Dune Mimic</name>
     <size>H</size>
-    <type>monstrosity (shapechanger),tome of Beasts</type>
+    <type>monstrosity </type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>168 (16d12+64)</hp>
@@ -8250,7 +8250,7 @@
   <monster>
     <name>Eala</name>
     <size>S</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural)</ac>
     <hp>40 (9d6+9)</hp>
@@ -8288,7 +8288,7 @@
   <monster>
     <name>Eater Of Dust (Yakat-Shi)</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>114 (12d8+60)</hp>
@@ -8339,7 +8339,7 @@
   <monster>
     <name>Edimmu</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>15</ac>
     <hp>75 (10d8+30)</hp>
@@ -8374,7 +8374,7 @@
   <monster>
     <name>Eel Hound</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>77 (14d8+14)</hp>
@@ -8415,7 +8415,7 @@
   <monster>
     <name>Einherjar</name>
     <size>M</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>18 (chain mail and shield)</ac>
     <hp>119 (14d8+56)</hp>
@@ -8478,7 +8478,7 @@
   <monster>
     <name>Eleinomae</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>18</ac>
     <hp>112 (15d8+45)</hp>
@@ -8528,7 +8528,7 @@
   <monster>
     <name>Elemental Locus</name>
     <size>G</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>290 (20d20+80)</hp>
@@ -8581,7 +8581,7 @@
   <monster>
     <name>Shadow Fey</name>
     <size>M</size>
-    <type>humanoid (elf),tome of Beasts</type>
+    <type>humanoid (elf)</type>
     <alignment>lawful evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>31 (7d8)</hp>
@@ -8628,7 +8628,7 @@
   <monster>
     <name>Shadow Fey Duelist</name>
     <size>M</size>
-    <type>humanoid (elf),tome of Beasts</type>
+    <type>humanoid (elf)</type>
     <alignment>lawful evil</alignment>
     <ac>17 (studded leather)</ac>
     <hp>117 (18d8+36)</hp>
@@ -8684,7 +8684,7 @@
   <monster>
     <name>Shadow Fey Enchantress</name>
     <size>M</size>
-    <type>humanoid (shadow fey),tome of Beasts</type>
+    <type>humanoid (shadow fey)</type>
     <alignment>lawful evil</alignment>
     <ac>16 (breastplate)</ac>
     <hp>123 (19d8+38)</hp>
@@ -8749,7 +8749,7 @@
   <monster>
     <name>Shadow Fey Forest Hunter</name>
     <size>M</size>
-    <type>humanoid (elf),tome of Beasts</type>
+    <type>humanoid (elf)</type>
     <alignment>lawful evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>104 (19d8+19)</hp>
@@ -8805,7 +8805,7 @@
   <monster>
     <name>Shadow Fey Guardian</name>
     <size>L</size>
-    <type>humanoid (elf),tome of Beasts</type>
+    <type>humanoid (elf)</type>
     <alignment>neutral evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>110 (13d10+39)</hp>
@@ -8866,7 +8866,7 @@
   <monster>
     <name>Emerald Eye</name>
     <size>T</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>54 (12d4+24)</hp>
@@ -8915,7 +8915,7 @@
   <monster>
     <name>Empty Cloak</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>45 (10d8)</hp>
@@ -8966,7 +8966,7 @@
   <monster>
     <name>Eonic Drifter</name>
     <size>M</size>
-    <type>humanoid (human),tome of Beasts</type>
+    <type>humanoid (human)</type>
     <alignment>chaotic neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -9003,7 +9003,7 @@
   <monster>
     <name>Erina Scrounger</name>
     <size>S</size>
-    <type>humanoid (erina),tome of Beasts</type>
+    <type>humanoid (erina)</type>
     <alignment>neutral</alignment>
     <ac>12 (leather armor)</ac>
     <hp>22 (4d6+8)</hp>
@@ -9045,7 +9045,7 @@
   <monster>
     <name>Erina Defender</name>
     <size>S</size>
-    <type>humanoid (erina),tome of Beasts</type>
+    <type>humanoid (erina)</type>
     <alignment>neutral</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>44 (8d6+16)</hp>
@@ -9096,7 +9096,7 @@
   <monster>
     <name>Far Darrig</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>14 (hide armor)</ac>
     <hp>104 (16d6+48)</hp>
@@ -9138,7 +9138,7 @@
   <monster>
     <name>Fate Eater</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>182 (28d8+56)</hp>
@@ -9185,7 +9185,7 @@
   <monster>
     <name>Fear Smith</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>123 (19d8+38)</hp>
@@ -9239,7 +9239,7 @@
   <monster>
     <name>Fellforged</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>135 (18d8+54)</hp>
@@ -9287,7 +9287,7 @@
   <monster>
     <name>Fext</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>any alignment</alignment>
     <ac>17 (natural armor)</ac>
     <hp>60 (11d8+11)</hp>
@@ -9343,7 +9343,7 @@
   <monster>
     <name>Bear King</name>
     <size>M</size>
-    <type>fey (shapechanger),tome of Beasts</type>
+    <type>fey </type>
     <alignment>lawful neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>133 (14d8+70)</hp>
@@ -9357,7 +9357,7 @@
     <save>Str +9, Dex +4, Wis +7</save>
     <skill>Athletics +9, Intimidation +7, Perception +7</skill>
     <resist>cold</resist>
-    <immune>poison; bludgeoning, slashing, and piercing from nonmagical weapons that aren&#39;t made of cold iron</immune>
+    <immune>poison, bludgeoning, slashing, and piercing from nonmagical weapons that aren&#39;t made of cold iron</immune>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>17</passive>
@@ -9441,7 +9441,7 @@
   <monster>
     <name>Lord Of The Hunt</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>229 (27d8+108)</hp>
@@ -9534,7 +9534,7 @@
   <monster>
     <name>Moonlit King</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral good</alignment>
     <ac>17 (half plate)</ac>
     <hp>170 (20d8+80)</hp>
@@ -9635,7 +9635,7 @@
   <monster>
     <name>Queen Of Night And Magic</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15 (18 with mage armor)</ac>
     <hp>180 (24d8+72)</hp>
@@ -9751,7 +9751,7 @@
   <monster>
     <name>Queen Of Witches</name>
     <size>L</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>123 (13d10+52)</hp>
@@ -9844,7 +9844,7 @@
   <monster>
     <name>River King</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>152 (16d8+80)</hp>
@@ -9940,7 +9940,7 @@
   <monster>
     <name>Snow Queen</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>123 (19d8+38)</hp>
@@ -10038,7 +10038,7 @@
   <monster>
     <name>Feyward Tree</name>
     <size>H</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>94 (9d12+36)</hp>
@@ -10096,7 +10096,7 @@
   <monster>
     <name>Firebird</name>
     <size>S</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>neutral good</alignment>
     <ac>16 (natural armor)</ac>
     <hp>99 (18d6+36)</hp>
@@ -10153,7 +10153,7 @@
   <monster>
     <name>Firegeist</name>
     <size>S</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>neutral evil</alignment>
     <ac>14</ac>
     <hp>87 (25d6)</hp>
@@ -10204,7 +10204,7 @@
   <monster>
     <name>Flutterflesh</name>
     <size>L</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>187 (22d10+66)</hp>
@@ -10263,7 +10263,7 @@
   <monster>
     <name>Folk Of Leng</name>
     <size>M</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>neutral evil</alignment>
     <ac>14 (studded leather)</ac>
     <hp>68 (8d8+32)</hp>
@@ -10320,7 +10320,7 @@
   <monster>
     <name>Forest Marauder</name>
     <size>L</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>114 (12d10+48)</hp>
@@ -10358,7 +10358,7 @@
   <monster>
     <name>Fraughashar</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15 (leather armor, shield)</ac>
     <hp>18 (4d6+4)</hp>
@@ -10402,7 +10402,7 @@
   <monster>
     <name>Frostveil</name>
     <size>M</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>unaligned</alignment>
     <ac>16</ac>
     <hp>67 (9d8+27)</hp>
@@ -10455,7 +10455,7 @@
   <monster>
     <name>Garroter Crab</name>
     <size>T</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>18 (4d4+8)</hp>
@@ -10485,7 +10485,7 @@
   <monster>
     <name>Gbahali (Postosuchus)</name>
     <size>H</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>126 (12d12+48)</hp>
@@ -10523,7 +10523,7 @@
   <monster>
     <name>Gearforged Templar</name>
     <size>M</size>
-    <type>humanoid (gearforged),tome of Beasts</type>
+    <type>humanoid (gearforged)</type>
     <alignment>lawful neutral</alignment>
     <ac>18 (plate armor)</ac>
     <hp>71 (11d8+22)</hp>
@@ -10576,7 +10576,7 @@
   <monster>
     <name>Al-Aeshma Genie</name>
     <size>L</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>172 (15d10+90)</hp>
@@ -10637,7 +10637,7 @@
   <monster>
     <name>Gerridae</name>
     <size>L</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral</alignment>
     <ac>14</ac>
     <hp>77 (9d10+27)</hp>
@@ -10678,7 +10678,7 @@
   <monster>
     <name>Beggar Ghoul</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>12</ac>
     <hp>13 (3d8)</hp>
@@ -10717,7 +10717,7 @@
   <monster>
     <name>Bonepowder Ghoul</name>
     <size>S</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>195 (26d6+104)</hp>
@@ -10773,7 +10773,7 @@
   <monster>
     <name>Ghoul, Darakhul</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>16 (scale mail; 18 with shield)</ac>
     <hp>78 (12d8+24)</hp>
@@ -10839,7 +10839,7 @@
   <monster>
     <name>Emperor Of The Ghouls</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>204 (24d8+96)</hp>
@@ -10853,7 +10853,7 @@
     <save>Dex +8, Wis +9</save>
     <skill>Deception +11, Insight +9, Perception +9, Persuasion +11</skill>
     <resist>cold, necrotic</resist>
-    <immune>poison; bludgeoning, piercing, and slashing damage from nonmagical weapons.</immune>
+    <immune>poison, bludgeoning, piercing, and slashing damage from nonmagical weapons.</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
     <passive>19</passive>
@@ -10944,7 +10944,7 @@
   <monster>
     <name>Ghoul, Imperial</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>16 (breastplate)</ac>
     <hp>93 (17d8+17)</hp>
@@ -10988,7 +10988,7 @@
   <monster>
     <name>Ghoul, Iron</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>16 (breastplate)</ac>
     <hp>143 (22d8+44)</hp>
@@ -11037,7 +11037,7 @@
   <monster>
     <name>Desert Giant</name>
     <size>H</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>175 (14d12+84)</hp>
@@ -11081,7 +11081,7 @@
   <monster>
     <name>Flab Giant</name>
     <size>L</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>110 (13d10+39)</hp>
@@ -11121,7 +11121,7 @@
   <monster>
     <name>Hraesvelgr The Corpse Swallower</name>
     <size>H</size>
-    <type>giant (shapechanger,tome of Beasts</type>
+    <type>giant (shapechanger</type>
     <alignment>titan), neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>241 (21d12+105)</hp>
@@ -11217,7 +11217,7 @@
   <monster>
     <name>Jotun Giant</name>
     <size>G</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic neutral</alignment>
     <ac>20 (natural armor)</ac>
     <hp>407 (22d20+176)</hp>
@@ -11300,7 +11300,7 @@
   <monster>
     <name>Thursir Giant</name>
     <size>L</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>neutral evil (50%) lawful evil (50%)</alignment>
     <ac>13 (chain shirt)</ac>
     <hp>114 (12d10+48)</hp>
@@ -11343,7 +11343,7 @@
   <monster>
     <name>Glass Gator</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>45 (7d10+7)</hp>
@@ -11392,7 +11392,7 @@
   <monster>
     <name>Gnarljak</name>
     <size>S</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>16</ac>
     <hp>63 (14d6+14)</hp>
@@ -11425,7 +11425,7 @@
   <monster>
     <name>Gnoll Havoc Runner</name>
     <size>M</size>
-    <type>humanoid (gnoll),tome of Beasts</type>
+    <type>humanoid (gnoll)</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>58 (9d8+18)</hp>
@@ -11471,7 +11471,7 @@
   <monster>
     <name>Goat-Man</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -11512,7 +11512,7 @@
   <monster>
     <name>Dust Goblin</name>
     <size>S</size>
-    <type>humanoid (goblinoid),tome of Beasts</type>
+    <type>humanoid (goblinoid)</type>
     <alignment>neutral evil</alignment>
     <ac>14 (leather armor)</ac>
     <hp>5 (1d6+2)</hp>
@@ -11547,7 +11547,7 @@
   <monster>
     <name>Eye Golem</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>20 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
@@ -11602,7 +11602,7 @@
   <monster>
     <name>Hoard Golem</name>
     <size>H</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>18 (natural armor)</ac>
     <hp>161 (14d12+70)</hp>
@@ -11654,7 +11654,7 @@
   <monster>
     <name>Salt Golem</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>110 (11d10+55)</hp>
@@ -11701,7 +11701,7 @@
   <monster>
     <name>Smaragdine Golem</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>231 (22d10+110)</hp>
@@ -11751,7 +11751,7 @@
   <monster>
     <name>Steam Golem</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>18 (natural armor)</ac>
     <hp>171 (18d10+72)</hp>
@@ -11814,7 +11814,7 @@
   <monster>
     <name>Gray Thirster</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>13</ac>
     <hp>39 (6d8+12)</hp>
@@ -11859,7 +11859,7 @@
   <monster>
     <name>Rum Gremlin</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>22 (5d4+10)</hp>
@@ -11908,7 +11908,7 @@
   <monster>
     <name>Grim Jester</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>136 (16d8+64)</hp>
@@ -11922,7 +11922,7 @@
     <save>Dex +10, Con +8, Cha +9</save>
     <skill>Acrobatics +10, Deception +9, Perception +7, Performance +9, Sleight of Hand +10, Stealth +10</skill>
     <resist>cold</resist>
-    <immune>necrotic, poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>necrotic, poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>17</passive>
@@ -11963,7 +11963,7 @@
   <monster>
     <name>Gug</name>
     <size>H</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>270 (20d12+140)</hp>
@@ -12028,7 +12028,7 @@
   <monster>
     <name>Blood Hag</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>178 (21d8+84)</hp>
@@ -12099,7 +12099,7 @@
   <monster>
     <name>Mirror Hag</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>168 (16d8+96)</hp>
@@ -12152,7 +12152,7 @@
   <monster>
     <name>Red Hag</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>119 (14d8+56)</hp>
@@ -12203,7 +12203,7 @@
   <monster>
     <name>Sand Hag</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>112 (15d8+45)</hp>
@@ -12258,7 +12258,7 @@
   <monster>
     <name>Owl Harpy</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>14</ac>
     <hp>112 (15d8+45)</hp>
@@ -12314,7 +12314,7 @@
   <monster>
     <name>Haugbui</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>136 (16d8+64)</hp>
@@ -12328,7 +12328,7 @@
     <save>Dex +8, Con +9, Wis +10</save>
     <skill>Arcana +7, History +7, Intimidation +8, Perception +10, Religion +12</skill>
     <resist>cold, lightning, necrotic</resist>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>truesight 60 ft.</senses>
     <passive>20</passive>
@@ -12378,7 +12378,7 @@
   <monster>
     <name>Herald Of Blood</name>
     <size>H</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>115 (10d12+50)</hp>
@@ -12443,7 +12443,7 @@
   <monster>
     <name>Herald Of Darkness</name>
     <size>L</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>105 (10d10+50)</hp>
@@ -12496,7 +12496,7 @@
   <monster>
     <name>Horakh</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>161 (19d8+76)</hp>
@@ -12543,7 +12543,7 @@
   <monster>
     <name>Hound Of The Night</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>112 (15d10+30)</hp>
@@ -12584,7 +12584,7 @@
   <monster>
     <name>Hulking Whelp</name>
     <size>S</size>
-    <type>fey (shapechanger),tome of Beasts</type>
+    <type>fey </type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>94 (9d12+36)</hp>
@@ -12629,7 +12629,7 @@
   <monster>
     <name>Hundun</name>
     <size>L</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>chaotic good</alignment>
     <ac>18 (natural armor)</ac>
     <hp>153 (18d10+54)</hp>
@@ -12707,7 +12707,7 @@
   <monster>
     <name>Ice Maiden</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>84 (13d8+26)</hp>
@@ -12784,7 +12784,7 @@
   <monster>
     <name>Idolic Deity</name>
     <size>S</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>90 (12d6+48)</hp>
@@ -12838,7 +12838,7 @@
   <monster>
     <name>Imy-Ut Ushabti</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>97 (15d8+30)</hp>
@@ -12883,7 +12883,7 @@
   <monster>
     <name>Isonade</name>
     <size>G</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>222 (12d20+96)</hp>
@@ -12946,7 +12946,7 @@
   <monster>
     <name>Jaculus</name>
     <size>S</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>65 (10d6+30)</hp>
@@ -12986,7 +12986,7 @@
   <monster>
     <name>Kalke</name>
     <size>S</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>9 (2d6+2)</hp>
@@ -13023,7 +13023,7 @@
   <monster>
     <name>Kikimora</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>65 (10d8+20)</hp>
@@ -13068,7 +13068,7 @@
   <monster>
     <name>Kobold Alchemist</name>
     <size>S</size>
-    <type>humanoid (kobold),tome of Beasts</type>
+    <type>humanoid (kobold)</type>
     <alignment>lawful neutral</alignment>
     <ac>15 (studded leather)</ac>
     <hp>44 (8d6+16)</hp>
@@ -13125,7 +13125,7 @@
   <monster>
     <name>Kobold Chieftain</name>
     <size>S</size>
-    <type>humanoid (kobold),tome of Beasts</type>
+    <type>humanoid (kobold)</type>
     <alignment>lawful evil</alignment>
     <ac>17 (studded leather and shield)</ac>
     <hp>82 (15d6+30)</hp>
@@ -13177,7 +13177,7 @@
   <monster>
     <name>Kobold Trapsmith</name>
     <size>S</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>lawful neutral</alignment>
     <ac>14 (leather)</ac>
     <hp>36 (8d6+8)</hp>
@@ -13248,7 +13248,7 @@
   <monster>
     <name>Kongamato</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>112 (15d10+30)</hp>
@@ -13294,7 +13294,7 @@
   <monster>
     <name>Koschei</name>
     <size>M</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>135 (18d8+54)</hp>
@@ -13388,7 +13388,7 @@
   <monster>
     <name>Kot Bayun</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>15</ac>
     <hp>44 (8d8+8)</hp>
@@ -13436,7 +13436,7 @@
   <monster>
     <name>Krake Spawn</name>
     <size>H</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>150 (12d12+72)</hp>
@@ -13499,7 +13499,7 @@
   <monster>
     <name>Lantern Dragonette</name>
     <size>T</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>lawful neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>28 (8d4+8)</hp>
@@ -13539,7 +13539,7 @@
   <monster>
     <name>Lemurfolk</name>
     <size>S</size>
-    <type>humanoid (lemurfolk),tome of Beasts</type>
+    <type>humanoid (lemurfolk)</type>
     <alignment>neutral</alignment>
     <ac>13</ac>
     <hp>14 (4d6)</hp>
@@ -13577,7 +13577,7 @@
   <monster>
     <name>Lemurfolk Greyfur</name>
     <size>S</size>
-    <type>humanoid (lemurfolk),tome of Beasts</type>
+    <type>humanoid (lemurfolk)</type>
     <alignment>neutral</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>67 (15d6+15)</hp>
@@ -13623,7 +13623,7 @@
   <monster>
     <name>Leshy</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>84 (13d8+26)</hp>
@@ -13670,7 +13670,7 @@
   <monster>
     <name>Library Automaton</name>
     <size>S</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>lawful neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>7 (2d6)</hp>
@@ -13704,7 +13704,7 @@
   <monster>
     <name>Lich Hound</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>14</ac>
     <hp>119 (14d8+56)</hp>
@@ -13749,7 +13749,7 @@
   <monster>
     <name>Likho</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>90 (12d8+36)</hp>
@@ -13798,7 +13798,7 @@
   <monster>
     <name>Lindwurm</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>136 (16d10+48)</hp>
@@ -13852,7 +13852,7 @@
   <monster>
     <name>Liosalfar</name>
     <size>L</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>neutral</alignment>
     <ac>17</ac>
     <hp>110 (20d10)</hp>
@@ -13912,7 +13912,7 @@
   <monster>
     <name>Living Wick</name>
     <size>S</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>28 (8d6)</hp>
@@ -13955,7 +13955,7 @@
   <monster>
     <name>Lorelei</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (18 mage armor)</ac>
     <hp>76 (9d8+36)</hp>
@@ -14010,7 +14010,7 @@
   <monster>
     <name>Loxoda</name>
     <size>H</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>147 (14d12+56)</hp>
@@ -14053,7 +14053,7 @@
   <monster>
     <name>Mahoru</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>91 (14d8+28)</hp>
@@ -14110,7 +14110,7 @@
   <monster>
     <name>Mallqui</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>120 (16d8+48)</hp>
@@ -14173,7 +14173,7 @@
   <monster>
     <name>Malphas (Storm Crow)</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>16 (studded leather)</ac>
     <hp>120 (16d8+48)</hp>
@@ -14225,7 +14225,7 @@
   <monster>
     <name>Mamura</name>
     <size>S</size>
-    <type>aberration (fey),tome of Beasts</type>
+    <type>Aberration</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (13d6+52)</hp>
@@ -14281,7 +14281,7 @@
   <monster>
     <name>Mask Wight</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>207 (18d8+126)</hp>
@@ -14334,7 +14334,7 @@
   <monster>
     <name>Mavka</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>170 (20d8+80)</hp>
@@ -14382,7 +14382,7 @@
   <monster>
     <name>Mi-Go</name>
     <size>M</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>76 (8d8+40)</hp>
@@ -14429,7 +14429,7 @@
   <monster>
     <name>Millitaur</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
@@ -14441,7 +14441,7 @@
     <wis>12</wis>
     <cha>10</cha>
     <skill>Acrobatics +4</skill>
-    <resist>poison; bludgeoning and slashing from nonmagical weapons</resist>
+    <resist>poison, bludgeoning and slashing from nonmagical weapons</resist>
     <conditionImmune>prone</conditionImmune>
     <senses>darkvision 60 ft., tremorsense 30 ft.</senses>
     <passive>11</passive>
@@ -14460,7 +14460,7 @@
   <monster>
     <name>Map Mimic</name>
     <size>T</size>
-    <type>aberration (shapechanger),tome of Beasts</type>
+    <type>Aberration</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>32 (5d8+10)</hp>
@@ -14502,7 +14502,7 @@
   <monster>
     <name>Mindrot Thrall</name>
     <size>M</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>82 (11d8+33)</hp>
@@ -14546,7 +14546,7 @@
   <monster>
     <name>Mirager</name>
     <size>M</size>
-    <type>fey (shapechanger),tome of Beasts</type>
+    <type>fey </type>
     <alignment>neutral evil</alignment>
     <ac>13</ac>
     <hp>78 (12d8+24)</hp>
@@ -14597,7 +14597,7 @@
   <monster>
     <name>Miremal</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>22 (5d6+5)</hp>
@@ -14651,7 +14651,7 @@
   <monster>
     <name>Mngwa</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>16</ac>
     <hp>91 (14d8+28)</hp>
@@ -14705,7 +14705,7 @@
   <monster>
     <name>Monolith Champion</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>102 (12d10+36)</hp>
@@ -14748,7 +14748,7 @@
   <monster>
     <name>Monolith Footman</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>60 (8d10+16)</hp>
@@ -14791,7 +14791,7 @@
   <monster>
     <name>Mordant Snare</name>
     <size>G</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>264 (16d20+96)</hp>
@@ -14849,7 +14849,7 @@
   <monster>
     <name>Morphoi</name>
     <size>M</size>
-    <type>plant (shapechanger),tome of Beasts</type>
+    <type>plant </type>
     <alignment>chaotic evil</alignment>
     <ac>13 (may be higher with armor)</ac>
     <hp>33 (6d8+6)</hp>
@@ -14895,7 +14895,7 @@
   <monster>
     <name>Moss Lurker</name>
     <size>S</size>
-    <type>humanoid,tome of Beasts</type>
+    <type>humanoid</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>45 (10d6+10)</hp>
@@ -14954,7 +14954,7 @@
   <monster>
     <name>Venomous Mummy</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>11 (natural armor)</ac>
     <hp>58 (9d8+18)</hp>
@@ -14991,7 +14991,7 @@
   <monster>
     <name>Deathcap Myconid</name>
     <size>M</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>90 (12d8+36)</hp>
@@ -15035,7 +15035,7 @@
   <monster>
     <name>Myling</name>
     <size>S</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>45 (10d6+10)</hp>
@@ -15076,7 +15076,7 @@
   <monster>
     <name>Naina</name>
     <size>L</size>
-    <type>dragon (shapechanger),tome of Beasts</type>
+    <type>Dragon</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>231 (22d10+110)</hp>
@@ -15147,7 +15147,7 @@
   <monster>
     <name>Nichny</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>112 (15d8+45)</hp>
@@ -15207,7 +15207,7 @@
   <monster>
     <name>Nightgarm</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>114 (12d10+48)</hp>
@@ -15252,7 +15252,7 @@
   <monster>
     <name>Nkosi</name>
     <size>M</size>
-    <type>humanoid (shapechanger,tome of Beasts</type>
+    <type>humanoid (shapechanger</type>
     <alignment>nkosi), lawful neutral</alignment>
     <ac>15 (studded leather)</ac>
     <hp>11 (2d8+2)</hp>
@@ -15299,7 +15299,7 @@
   <monster>
     <name>Nkosi Pridelord</name>
     <size>M</size>
-    <type>humanoid (shapechanger,tome of Beasts</type>
+    <type>humanoid (shapechanger</type>
     <alignment>nkosi), lawful neutral</alignment>
     <ac>16 (studded leather)</ac>
     <hp>93 (17d8+17)</hp>
@@ -15358,7 +15358,7 @@
   <monster>
     <name>Nkosi War Ostrich</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>11</ac>
     <hp>42 (5d10+15)</hp>
@@ -15394,7 +15394,7 @@
   <monster>
     <name>Noctiny</name>
     <size>M</size>
-    <type>humanoid (noctiny),tome of Beasts</type>
+    <type>humanoid (noctiny)</type>
     <alignment>neutral evil</alignment>
     <ac>13 (studded leather armor)</ac>
     <hp>52 (8d8+16)</hp>
@@ -15438,7 +15438,7 @@
   <monster>
     <name>Oculo Swarm</name>
     <size>L</size>
-    <type>swarm of Tiny aberrations,tome of Beasts</type>
+    <type>swarm of Tiny aberrations</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>110 (13d10+39)</hp>
@@ -15472,7 +15472,7 @@
   <monster>
     <name>Oozasis</name>
     <size>G</size>
-    <type>ooze,tome of Beasts</type>
+    <type>ooze</type>
     <alignment>unaligned</alignment>
     <ac>7</ac>
     <hp>217 (14d20+70)</hp>
@@ -15526,7 +15526,7 @@
   <monster>
     <name>Corrupting Ooze</name>
     <size>L</size>
-    <type>ooze,tome of Beasts</type>
+    <type>ooze</type>
     <alignment>neutral evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>115 (10d10+60)</hp>
@@ -15562,7 +15562,7 @@
   <monster>
     <name>Ostinato</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic neutral</alignment>
     <ac>15</ac>
     <hp>39 (6d8+12)</hp>
@@ -15615,7 +15615,7 @@
   <monster>
     <name>Pombero</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>90 (12d8+36)</hp>
@@ -15668,7 +15668,7 @@
   <monster>
     <name>Possessed Pillar</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
@@ -15718,7 +15718,7 @@
   <monster>
     <name>Putrid Haunt</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>44 (8d8+8)</hp>
@@ -15757,7 +15757,7 @@
   <monster>
     <name>Qwyllion</name>
     <size>M</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>110 (13d8+52)</hp>
@@ -15805,7 +15805,7 @@
   <monster>
     <name>Ramag</name>
     <size>M</size>
-    <type>humanoid (ramag),tome of Beasts</type>
+    <type>humanoid (ramag)</type>
     <alignment>neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>27 (6d8)</hp>
@@ -15839,7 +15839,7 @@
   <monster>
     <name>Rat King</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>76 (9d8+36)</hp>
@@ -15887,7 +15887,7 @@
   <monster>
     <name>Ratatosk</name>
     <size>T</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>chaotic neutral</alignment>
     <ac>14</ac>
     <hp>42 (12d4+12)</hp>
@@ -15933,7 +15933,7 @@
   <monster>
     <name>Ratfolk</name>
     <size>S</size>
-    <type>humanoid (ratfolk),tome of Beasts</type>
+    <type>humanoid (ratfolk)</type>
     <alignment>neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>7 (2d6)</hp>
@@ -15971,7 +15971,7 @@
   <monster>
     <name>Ratfolk Rogue</name>
     <size>S</size>
-    <type>humanoid (ratfolk),tome of Beasts</type>
+    <type>humanoid (ratfolk)</type>
     <alignment>neutral</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>18 (4d6+4)</hp>
@@ -16022,7 +16022,7 @@
   <monster>
     <name>Ravenala</name>
     <size>L</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>126 (12d10+60)</hp>
@@ -16077,7 +16077,7 @@
   <monster>
     <name>Ravenfolk Scout</name>
     <size>M</size>
-    <type>humanoid (kenku),tome of Beasts</type>
+    <type>humanoid (kenku)</type>
     <alignment>neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>21 (6d8-6)</hp>
@@ -16124,7 +16124,7 @@
   <monster>
     <name>Ravenfolk Warrior</name>
     <size>M</size>
-    <type>humanoid (kenku),tome of Beasts</type>
+    <type>humanoid (kenku)</type>
     <alignment>neutral</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>78 (12d8+24)</hp>
@@ -16184,7 +16184,7 @@
   <monster>
     <name>Ravenfolk Doom Croaker</name>
     <size>M</size>
-    <type>humanoid (kenku),tome of Beasts</type>
+    <type>humanoid (kenku)</type>
     <alignment>neutral</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>88 (16d8+16)</hp>
@@ -16230,7 +16230,7 @@
   <monster>
     <name>Redcap</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>105 (14d8+42)</hp>
@@ -16279,7 +16279,7 @@
   <monster>
     <name>Rift Swine</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>110 (13d10+39)</hp>
@@ -16327,7 +16327,7 @@
   <monster>
     <name>Adult Rime Worm</name>
     <size>L</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>105 (10d10+50)</hp>
@@ -16375,7 +16375,7 @@
   <monster>
     <name>Rime Worm Grub</name>
     <size>M</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>45 (6d8+18)</hp>
@@ -16418,7 +16418,7 @@
   <monster>
     <name>Risen Reaver</name>
     <size>L</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (studded leather)</ac>
     <hp>168 (16d10+80)</hp>
@@ -16464,7 +16464,7 @@
   <monster>
     <name>Roachling Skirmisher</name>
     <size>S</size>
-    <type>humanoid (roachling),tome of Beasts</type>
+    <type>humanoid (roachling)</type>
     <alignment>chaotic neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>7 (2d6)</hp>
@@ -16503,7 +16503,7 @@
   <monster>
     <name>Roachling Lord</name>
     <size>S</size>
-    <type>humanoid (roachling),tome of Beasts</type>
+    <type>humanoid (roachling)</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>63 (14d6+14)</hp>
@@ -16546,7 +16546,7 @@
   <monster>
     <name>Rotting Wind</name>
     <size>L</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>82 (11d10+22)</hp>
@@ -16585,7 +16585,7 @@
   <monster>
     <name>Rusalka</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>88 (16d8+16)</hp>
@@ -16596,7 +16596,7 @@
     <int>11</int>
     <wis>15</wis>
     <cha>18</cha>
-    <immune>necrotic, poison; piercing and slashing damage from nonmagical weapons</immune>
+    <immune>necrotic, poison, piercing and slashing damage from nonmagical weapons</immune>
     <conditionImmune>charmed, frightened, paralyzed, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>12</passive>
@@ -16629,7 +16629,7 @@
   <monster>
     <name>Sand Silhouette</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>105 (14d8+42)</hp>
@@ -16684,7 +16684,7 @@
   <monster>
     <name>Sandman</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>chaotic neutral</alignment>
     <ac>14</ac>
     <hp>82 (11d8+33)</hp>
@@ -16735,7 +16735,7 @@
   <monster>
     <name>Sandwyrm</name>
     <size>L</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>142 (15d10+60)</hp>
@@ -16777,7 +16777,7 @@
   <monster>
     <name>Sap Demon</name>
     <size>S</size>
-    <type>ooze,tome of Beasts</type>
+    <type>ooze</type>
     <alignment>chaotic evil</alignment>
     <ac>13 (natural)</ac>
     <hp>67 (15d6+15)</hp>
@@ -16820,7 +16820,7 @@
   <monster>
     <name>Sarcophagus Slime</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>11</ac>
     <hp>105 (14d8+42)</hp>
@@ -16865,7 +16865,7 @@
   <monster>
     <name>Sathaq Worm</name>
     <size>H</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>172 (15d12+75)</hp>
@@ -16907,7 +16907,7 @@
   <monster>
     <name>Savager</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>115 (1d10+60)</hp>
@@ -16951,7 +16951,7 @@
   <monster>
     <name>Scheznyki</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>153 (18d6+72)</hp>
@@ -16998,7 +16998,7 @@
   <monster>
     <name>Night Scorpion</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>90 (12d10+24)</hp>
@@ -17031,7 +17031,7 @@
   <monster>
     <name>Stygian Fat-Tailed Scorpion</name>
     <size>T</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>10 (4d4)</hp>
@@ -17064,7 +17064,7 @@
   <monster>
     <name>Selang</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>76 (9d8+36)</hp>
@@ -17115,7 +17115,7 @@
   <monster>
     <name>Serpopard</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
@@ -17163,7 +17163,7 @@
   <monster>
     <name>Shabti</name>
     <size>M</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>102 (12d8+48)</hp>
@@ -17213,7 +17213,7 @@
   <monster>
     <name>Shadhavar</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>14 (natural)</ac>
     <hp>97 (13d10+26)</hp>
@@ -17265,7 +17265,7 @@
   <monster>
     <name>Shadow Beast</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>135 (18d8+54)</hp>
@@ -17325,7 +17325,7 @@
   <monster>
     <name>Shellycoat</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -17378,7 +17378,7 @@
   <monster>
     <name>Shoggoth</name>
     <size>H</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>387 (25d12+225)</hp>
@@ -17434,7 +17434,7 @@
   <monster>
     <name>Shroud</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>9 (2d8)</hp>
@@ -17479,7 +17479,7 @@
   <monster>
     <name>Skein Witch</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>neutral</alignment>
     <ac>20 (natural armor)</ac>
     <hp>162 (25d8+50)</hp>
@@ -17539,7 +17539,7 @@
   <monster>
     <name>Sharkjaw Skeleton</name>
     <size>L</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>45 (6d10+12)</hp>
@@ -17576,7 +17576,7 @@
   <monster>
     <name>Vine Troll Skeleton</name>
     <size>L</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>119 (14d10+42)</hp>
@@ -17617,7 +17617,7 @@
   <monster>
     <name>Skitterhaunt</name>
     <size>L</size>
-    <type>ooze,tome of Beasts</type>
+    <type>ooze</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
@@ -17664,7 +17664,7 @@
   <monster>
     <name>Slow Storm</name>
     <size>H</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>chaotic neutral</alignment>
     <ac>19</ac>
     <hp>225 (18d12+108)</hp>
@@ -17710,7 +17710,7 @@
   <monster>
     <name>Swamp Adder</name>
     <size>S</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>18 (4d6+4)</hp>
@@ -17738,7 +17738,7 @@
   <monster>
     <name>Zanskaran Viper</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>38 (4d10+16)</hp>
@@ -17762,7 +17762,7 @@
   <monster>
     <name>Son Of Fenris</name>
     <size>H</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>175 (14d12+84)</hp>
@@ -17776,7 +17776,7 @@
     <save>Dex +7, Con +10, Wis +8</save>
     <skill>Arcana +7, Intimidation +6, Religion +12</skill>
     <resist>psychic, radiant</resist>
-    <immune>cold, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>cold, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>truesight 60 ft., tremorsense 100 ft.</senses>
     <passive>14</passive>
@@ -17829,7 +17829,7 @@
   <monster>
     <name>Soul Eater</name>
     <size>M</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>16</ac>
     <hp>104 (16d8+32)</hp>
@@ -17874,7 +17874,7 @@
   <monster>
     <name>Spark</name>
     <size>T</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>chaotic neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>84 (13d4+52)</hp>
@@ -17908,7 +17908,7 @@
   <monster>
     <name>Spectral Guardian</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>neutral evil</alignment>
     <ac>14</ac>
     <hp>110 (13d8+52)</hp>
@@ -17962,7 +17962,7 @@
   <monster>
     <name>Gypsosphinx</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>171 (18d10+72)</hp>
@@ -18041,7 +18041,7 @@
   <monster>
     <name>Ghostwalk Spider</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>119 (14d10+42)</hp>
@@ -18093,7 +18093,7 @@
   <monster>
     <name>J&#39;ba Fofi Spider</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>18 (natural armor)</ac>
     <hp>75 (10d10+20)</hp>
@@ -18141,7 +18141,7 @@
   <monster>
     <name>Red-Banded Line Spider</name>
     <size>T</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>2 (1d4)</hp>
@@ -18181,7 +18181,7 @@
   <monster>
     <name>Sand Spider</name>
     <size>L</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>105 (14d10+28)</hp>
@@ -18231,7 +18231,7 @@
   <monster>
     <name>Spider Of Leng</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>144 (17d10+51)</hp>
@@ -18296,7 +18296,7 @@
   <monster>
     <name>Spider Thief</name>
     <size>S</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>54 (12d6+12)</hp>
@@ -18345,7 +18345,7 @@
   <monster>
     <name>Spire Walker</name>
     <size>T</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>38 (11d4+22)</hp>
@@ -18387,7 +18387,7 @@
   <monster>
     <name>Star Spawn Of Cthulhu</name>
     <size>L</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>187 (15d10+105)</hp>
@@ -18441,7 +18441,7 @@
   <monster>
     <name>Stryx</name>
     <size>T</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>13</ac>
     <hp>10 (4d4)</hp>
@@ -18483,7 +18483,7 @@
   <monster>
     <name>Stuhac</name>
     <size>M</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>190 (20d8+100)</hp>
@@ -18537,7 +18537,7 @@
   <monster>
     <name>Subek</name>
     <size>L</size>
-    <type>humanoid (subek),tome of Beasts</type>
+    <type>humanoid (subek)</type>
     <alignment>lawful neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>76 (8d10+32)</hp>
@@ -18588,7 +18588,7 @@
   <monster>
     <name>Suturefly</name>
     <size>T</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14</ac>
     <hp>7 (3d4)</hp>
@@ -18621,7 +18621,7 @@
   <monster>
     <name>Fire Dancer Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny elementals,tome of Beasts</type>
+    <type>swarm of Tiny elementals</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>90 (12d8+36)</hp>
@@ -18664,7 +18664,7 @@
   <monster>
     <name>Manabane Scarab Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny beasts,tome of Beasts</type>
+    <type>swarm of Tiny beasts</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
@@ -18707,7 +18707,7 @@
   <monster>
     <name>Prismatic Beetle Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny beasts,tome of Beasts</type>
+    <type>swarm of Tiny beasts</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>38 (7d8+7)</hp>
@@ -18742,7 +18742,7 @@
   <monster>
     <name>Sluagh Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny fey,tome of Beasts</type>
+    <type>swarm of Tiny fey</type>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>54 (12d8)</hp>
@@ -18786,7 +18786,7 @@
   <monster>
     <name>Wolf Spirit Swarm</name>
     <size>L</size>
-    <type>swarm of Medium undead,tome of Beasts</type>
+    <type>swarm of Medium undead</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (15d10+15)</hp>
@@ -18831,7 +18831,7 @@
   <monster>
     <name>Temple Dog</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>good</alignment>
     <ac>15 (natural armor)</ac>
     <hp>97 (15d8+30)</hp>
@@ -18875,7 +18875,7 @@
   <monster>
     <name>Thuellai</name>
     <size>H</size>
-    <type>elemental,tome of Beasts</type>
+    <type>elemental</type>
     <alignment>chaotic neutral</alignment>
     <ac>17</ac>
     <hp>149 (13d12+65)</hp>
@@ -18937,7 +18937,7 @@
   <monster>
     <name>Ancient Titan</name>
     <size>G</size>
-    <type>celestial (titan),tome of Beasts</type>
+    <type>Celestial</type>
     <alignment>neutral good</alignment>
     <ac>15 (breastplate)</ac>
     <hp>198 (12d20+72)</hp>
@@ -18987,7 +18987,7 @@
   <monster>
     <name>Degenerate Titan</name>
     <size>H</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic evil</alignment>
     <ac>12 (crude armored coat)</ac>
     <hp>161 (14d12+70)</hp>
@@ -19033,7 +19033,7 @@
   <monster>
     <name>Titanoboa</name>
     <size>G</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>232 (15d20+75)</hp>
@@ -19076,7 +19076,7 @@
   <monster>
     <name>Tophet</name>
     <size>H</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>184 (16d12+80)</hp>
@@ -19124,7 +19124,7 @@
   <monster>
     <name>Tosculi Hive-Queen</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>lawful evil</alignment>
     <ac>17</ac>
     <hp>157 (15d10+75)</hp>
@@ -19208,7 +19208,7 @@
   <monster>
     <name>Tosculi Warrior</name>
     <size>S</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>lawful evil</alignment>
     <ac>15</ac>
     <hp>58 (9d6+27)</hp>
@@ -19255,7 +19255,7 @@
   <monster>
     <name>Tosculi Drone</name>
     <size>S</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>lawful evil</alignment>
     <ac>13</ac>
     <hp>22 (4d6+8)</hp>
@@ -19292,7 +19292,7 @@
   <monster>
     <name>Tosculi Elite Bow Raider</name>
     <size>M</size>
-    <type>humanoid (tosculi),tome of Beasts</type>
+    <type>humanoid (tosculi)</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (13d8+39)</hp>
@@ -19342,7 +19342,7 @@
   <monster>
     <name>Treacle</name>
     <size>T</size>
-    <type>ooze,tome of Beasts</type>
+    <type>ooze</type>
     <alignment>unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>22 (4d4+12)</hp>
@@ -19378,7 +19378,7 @@
   <monster>
     <name>Weeping Treant</name>
     <size>H</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>neutral</alignment>
     <ac>17 (natural armor)</ac>
     <hp>105 (10d12+40)</hp>
@@ -19425,7 +19425,7 @@
   <monster>
     <name>Lake Troll</name>
     <size>L</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>126 (12d10+60)</hp>
@@ -19472,7 +19472,7 @@
   <monster>
     <name>Trollkin Reaver</name>
     <size>M</size>
-    <type>humanoid (trollkin),tome of Beasts</type>
+    <type>humanoid (trollkin)</type>
     <alignment>neutral</alignment>
     <ac>14 (hide armor)</ac>
     <hp>82 (11d8+33)</hp>
@@ -19529,7 +19529,7 @@
   <monster>
     <name>Tusked Skyfish</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>lawful good</alignment>
     <ac>14 (natural armor)</ac>
     <hp>102 (12d10+36)</hp>
@@ -19571,7 +19571,7 @@
   <monster>
     <name>Uraeus</name>
     <size>T</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>lawful neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>40 (9d4+18)</hp>
@@ -19615,7 +19615,7 @@
   <monster>
     <name>Urochar (Strangling Watcher)</name>
     <size>H</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>256 (19d12+133)</hp>
@@ -19687,7 +19687,7 @@
   <monster>
     <name>Ushabti</name>
     <size>L</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>18 (natural armor)</ac>
     <hp>105 (10d10+50)</hp>
@@ -19700,7 +19700,7 @@
     <cha>9</cha>
     <save>Dex +7, Cha +3</save>
     <skill>Arcana +4, History +4, Perception +8</skill>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>18</passive>
@@ -19744,7 +19744,7 @@
   <monster>
     <name>Vaettir</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>15 (chain shirt)</ac>
     <hp>120 (16d8+48)</hp>
@@ -19807,7 +19807,7 @@
   <monster>
     <name>Valkyrie</name>
     <size>M</size>
-    <type>celestial,tome of Beasts</type>
+    <type>celestial</type>
     <alignment>neutral</alignment>
     <ac>16 (chain mail) or 18 (chain mail with shield)</ac>
     <hp>112 (15d8+45)</hp>
@@ -19877,7 +19877,7 @@
   <monster>
     <name>Umbral Vampire</name>
     <size>M</size>
-    <type>fiend,tome of Beasts</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>84 (13d8+26)</hp>
@@ -19928,7 +19928,7 @@
   <monster>
     <name>Vapor Lynx</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>127 (15d10+45)</hp>
@@ -19975,7 +19975,7 @@
   <monster>
     <name>Vesiculosa</name>
     <size>G</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>203 (14d20+56)</hp>
@@ -20033,7 +20033,7 @@
   <monster>
     <name>Vila</name>
     <size>M</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>lawful neutral</alignment>
     <ac>15</ac>
     <hp>77 (14d8+14)</hp>
@@ -20095,7 +20095,7 @@
   <monster>
     <name>Vile Barber</name>
     <size>S</size>
-    <type>fey,tome of Beasts</type>
+    <type>fey</type>
     <alignment>chaotic evil</alignment>
     <ac>15 (leather armor)</ac>
     <hp>28 (8d6)</hp>
@@ -20155,7 +20155,7 @@
   <monster>
     <name>Vine Lord</name>
     <size>M</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>lawful neutral</alignment>
     <ac>16 (natural armor)</ac>
     <hp>105 (14d8+42)</hp>
@@ -20215,7 +20215,7 @@
   <monster>
     <name>Vine Lord&#39;s Tendril Puppet</name>
     <size>M</size>
-    <type>plant,tome of Beasts</type>
+    <type>plant</type>
     <alignment>lawful neutral</alignment>
     <ac>13 (studded leather armor)</ac>
     <hp>34 (4d8+16)</hp>
@@ -20266,7 +20266,7 @@
   <monster>
     <name>Voidling</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>chaotic evil</alignment>
     <ac>16</ac>
     <hp>110 (20d10)</hp>
@@ -20321,7 +20321,7 @@
   <monster>
     <name>Wampus Cat</name>
     <size>M</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>chaotic neutral</alignment>
     <ac>14</ac>
     <hp>58 (9d8+18)</hp>
@@ -20364,7 +20364,7 @@
   <monster>
     <name>Water Leaper</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>97 (13d10+26)</hp>
@@ -20413,7 +20413,7 @@
   <monster>
     <name>Wharfling</name>
     <size>T</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>13</ac>
     <hp>6 (4d4-4)</hp>
@@ -20442,7 +20442,7 @@
   <monster>
     <name>Wharfling Swarm</name>
     <size>L</size>
-    <type>swarm of Tiny beasts,tome of Beasts</type>
+    <type>swarm of Tiny beasts</type>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>63 (14d10-14)</hp>
@@ -20481,7 +20481,7 @@
   <monster>
     <name>White Ape</name>
     <size>L</size>
-    <type>monstrosity,tome of Beasts</type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>114 (12d10+48)</hp>
@@ -20527,7 +20527,7 @@
   <monster>
     <name>Witchlight</name>
     <size>T</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>neutral</alignment>
     <ac>14</ac>
     <hp>10 (4d4)</hp>
@@ -20570,7 +20570,7 @@
   <monster>
     <name>Wormhearted Suffragan</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>chaotic evil</alignment>
     <ac>12</ac>
     <hp>97 (13d8+39)</hp>
@@ -20609,7 +20609,7 @@
   <monster>
     <name>Xanka</name>
     <size>S</size>
-    <type>construct,tome of Beasts</type>
+    <type>construct</type>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>18 (4d6+4)</hp>
@@ -20647,7 +20647,7 @@
   <monster>
     <name>Xhkarsh</name>
     <size>L</size>
-    <type>aberration,tome of Beasts</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>19 (natural and mystic armor)</ac>
     <hp>133 (14d10+56)</hp>
@@ -20690,7 +20690,7 @@
   <monster>
     <name>Ychen Bannog</name>
     <size>G</size>
-    <type>beast,tome of Beasts</type>
+    <type>beast</type>
     <alignment>unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>231 (14d20+84)</hp>
@@ -20741,7 +20741,7 @@
   <monster>
     <name>Zaratan</name>
     <size>G</size>
-    <type>monstrosity (titan),tome of Beasts</type>
+    <type>monstrosity (titan)</type>
     <alignment>unaligned</alignment>
     <ac>25 (natural armor)</ac>
     <hp>507 (26d20+234)</hp>
@@ -20814,7 +20814,7 @@
   <monster>
     <name>Zimwi</name>
     <size>M</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>76 (9d8+36)</hp>
@@ -20848,7 +20848,7 @@
   <monster>
     <name>Zmey</name>
     <size>H</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>189 (18d12+72)</hp>
@@ -20934,7 +20934,7 @@
   <monster>
     <name>Zmey Headling</name>
     <size>M</size>
-    <type>dragon,tome of Beasts</type>
+    <type>dragon</type>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>105 (14d8+42)</hp>
@@ -20986,7 +20986,7 @@
   <monster>
     <name>Bandit Lord</name>
     <size>M</size>
-    <type>humanoid (Any Race),tome of Beasts</type>
+    <type>humanoid (Any Race)</type>
     <alignment>any non-lawful</alignment>
     <ac>16 (breastplate)</ac>
     <hp>91 (14d8+28)</hp>
@@ -21037,7 +21037,7 @@
   <monster>
     <name>Black Knight Commander</name>
     <size>M</size>
-    <type>humanoid (Any Race),tome of Beasts</type>
+    <type>humanoid (Any Race)</type>
     <alignment>lawful evil</alignment>
     <ac>18 (plate)</ac>
     <hp>78 (12d8+24)</hp>
@@ -21090,7 +21090,7 @@
   <monster>
     <name>City Watch Captian</name>
     <size>M</size>
-    <type>humanoid (Any Race),tome of Beasts</type>
+    <type>humanoid (Any Race)</type>
     <alignment>lawful neutral</alignment>
     <ac>17 (scale mail)</ac>
     <hp>91 (14d8+28)</hp>
@@ -21141,7 +21141,7 @@
   <monster>
     <name>Devilbound Gnomish Prince</name>
     <size>S</size>
-    <type>humanoid (gnome),tome of Beasts</type>
+    <type>humanoid (gnome)</type>
     <alignment>any evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>104 (19d6+38)</hp>
@@ -21154,7 +21154,7 @@
     <cha>22</cha>
     <save>Con +6, Int +7, Cha +10</save>
     <skill>Arcana +7, Deception +10, History +7, Persuasion +10</skill>
-    <resist>cold, fire, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&#39;t silvered</resist>
+    <resist>cold, fire, poison, bludgeoning, piercing, and slashing damage from nonmagical weapons that aren&#39;t silvered</resist>
     <conditionImmune>poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
     <passive>11</passive>
@@ -21197,7 +21197,7 @@
   <monster>
     <name>Dwarven Ringmage</name>
     <size>M</size>
-    <type>humanoid (dwarf),tome of Beasts</type>
+    <type>humanoid (dwarf)</type>
     <alignment>any</alignment>
     <ac>16 (breastplate)</ac>
     <hp>82 (15d8+15)</hp>
@@ -21250,7 +21250,7 @@
   <monster>
     <name>Elvish Veteran Archer</name>
     <size>M</size>
-    <type>humanoid (elf),tome of Beasts</type>
+    <type>humanoid (elf)</type>
     <alignment>chaotic good or chaotic neutral</alignment>
     <ac>15 (studded leather)</ac>
     <hp>77 (14d8+14)</hp>
@@ -21312,7 +21312,7 @@
   <monster>
     <name>Ghost Knight</name>
     <size>M</size>
-    <type>undead,tome of Beasts</type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>17 (half plate)</ac>
     <hp>97 (15d8+30)</hp>
@@ -21376,7 +21376,7 @@
   <monster>
     <name>Ogre Chieftain, Corrupted</name>
     <size>L</size>
-    <type>giant,tome of Beasts</type>
+    <type>giant</type>
     <alignment>chaotic evil</alignment>
     <ac>17 (splint)</ac>
     <hp>127 (15d10+45)</hp>
@@ -21421,7 +21421,7 @@
   <monster>
     <name>Scorpion Cultist</name>
     <size>M</size>
-    <type>humanoid (any race),tome of Beasts</type>
+    <type>humanoid (any race)</type>
     <alignment>neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>19 (3d8+6)</hp>
@@ -21461,7 +21461,7 @@
   <monster>
     <name>Wolf Reaver Dwarf</name>
     <size>M</size>
-    <type>humanoid (dwarf),tome of Beasts</type>
+    <type>humanoid (dwarf)</type>
     <alignment>any chaotic</alignment>
     <ac>16 (chain shirt, shield)</ac>
     <hp>76 (9d8+36)</hp>
@@ -21517,7 +21517,7 @@
   <monster>
     <name>Emerald Order Cult Leader</name>
     <size>M</size>
-    <type>humanoid (any race),tome of Beasts</type>
+    <type>humanoid (any race)</type>
     <alignment>lawful neutral or evil</alignment>
     <ac>14 (breastplate)</ac>
     <hp>117 (18d8+36)</hp>
@@ -21572,7 +21572,7 @@
   <monster>
     <name>Vampire Warlock - Variant</name>
     <size>M</size>
-    <type>undead (shapechanger),tome of Beasts</type>
+    <type>undead </type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>144</hp>

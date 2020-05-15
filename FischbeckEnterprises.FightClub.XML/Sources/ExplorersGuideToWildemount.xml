@@ -4552,7 +4552,7 @@
     <languages>understands the languages of its creator but can&#39;t speak</languages>
     <cr>5</cr>
     <resist></resist>
-    <immune>lightning, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&#39;t adamantine</immune>
+    <immune>lightning, poison, bludgeoning, piercing, slashing from nonmagical attacks that aren&#39;t adamantine</immune>
     <vulnerable></vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>darkvision 60 ft.</senses>
@@ -5813,7 +5813,7 @@
     <languages>Aquan, Common, Giant</languages>
     <cr>12</cr>
     <resist></resist>
-    <immune>cold, fire, poison; bludgeoning, piercing, slashing from nonmagical attacks that aren&#39;t silvered</immune>
+    <immune>cold, fire, poison, bludgeoning, piercing, slashing from nonmagical attacks that aren&#39;t silvered</immune>
     <vulnerable></vulnerable>
     <conditionImmune>paralyzed, poisoned</conditionImmune>
     <senses>darkvision 120 ft.</senses>
@@ -6237,7 +6237,7 @@
     <languages></languages>
     <cr>16</cr>
     <resist></resist>
-    <immune>poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <immune>poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
     <vulnerable>thunder</vulnerable>
     <conditionImmune>frightened, grappled, poisoned, restrained</conditionImmune>
     <senses>darkvision 120 ft.</senses>

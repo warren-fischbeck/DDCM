@@ -2228,7 +2228,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, lightning, necrotic</resist>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>17</passive>
@@ -5937,7 +5937,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -13102,7 +13102,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>21</passive>
@@ -19684,7 +19684,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -24378,7 +24378,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -27663,7 +27663,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, lightning, necrotic</resist>
-    <immune>poison; bludgeoning, piercing, and slashing from nonmagical weapons</immune>
+    <immune>poison, bludgeoning, piercing, and slashing from nonmagical weapons</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>19</passive>
@@ -28750,7 +28750,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -35938,7 +35938,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>necrotic, poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>necrotic, poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>22</passive>
@@ -40445,7 +40445,7 @@
     <skill>Arcana +7, Religion +7</skill>
     <vulnerable>
     </vulnerable>
-    <resist>While wearing the mask of the Dragon Queen: acid, cold, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons</resist>
+    <resist>While wearing the mask of the Dragon Queen: acid, cold, lightning, poison, bludgeoning, piercing, and slashing damage from nonmagical weapons</resist>
     <immune>While wearing the mask of the Dragon Queen: fire</immune>
     <conditionImmune>While wearing the mask of the Dragon Queen: charmed, frightened, poisoned</conditionImmune>
     <senses>While wearing the Mask of the Dragon Queen: darkvision 60 ft.</senses>
@@ -44958,7 +44958,7 @@
     </vulnerable>
     <resist>
     </resist>
-    <immune> acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons</immune>
+    <immune> acid, cold, fire, lightning, poison, bludgeoning, piercing, and slashing damage from nonmagical weapons</immune>
     <conditionImmune>blinded, charmed, deafened, frightened, poisoned, stunned</conditionImmune>
     <senses>darkvision 240 ft., truesight 120 ft.</senses>
     <passive>36</passive>
@@ -49833,7 +49833,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>24</passive>
@@ -52586,7 +52586,7 @@
     <vulnerable>
     </vulnerable>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, and slashing that is nonmagical</immune>
+    <immune>poison, bludgeoning, piercing, and slashing that is nonmagical</immune>
     <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
     <passive>21</passive>

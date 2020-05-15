@@ -4725,7 +4725,7 @@
     <languages>Common, Draconic, Elvish</languages>
     <cr>22</cr>
     <resist>cold, lightning</resist>
-    <immune>necrotic, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <immune>necrotic, poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
     <vulnerable></vulnerable>
     <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
     <senses>truesight 120 ft.</senses>
@@ -5213,7 +5213,7 @@
     <languages>all, telepathy 120 ft.</languages>
     <cr>28</cr>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <immune>poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
     <vulnerable></vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, stunned</conditionImmune>
     <senses>truesight 120 ft.</senses>
@@ -5355,7 +5355,7 @@
     <languages>all, telepathy 150 ft.</languages>
     <cr>28</cr>
     <resist>cold, fire, lightning</resist>
-    <immune>poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <immune>poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
     <vulnerable></vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
     <senses>truesight 120 ft.</senses>
@@ -6006,7 +6006,7 @@
     <languages>understands Common but can&#39;t speak</languages>
     <cr>25</cr>
     <resist></resist>
-    <immune>necrotic, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+    <immune>necrotic, poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
     <vulnerable></vulnerable>
     <conditionImmune>charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned</conditionImmune>
     <senses>truesight 150 ft.</senses>

@@ -1495,7 +1495,7 @@
         <passive>10</passive>
         <languages>Common, Draconic</languages>
         <cr>16</cr>
-        <resist>fire, poison; bludgeoning, piercing, slashing from nonmagical attacks</resist>
+        <resist>fire, poison, bludgeoning, piercing, slashing from nonmagical attacks</resist>
         <immune></immune>
         <vulnerable></vulnerable>
         <conditionImmune>frightened</conditionImmune>
@@ -1763,7 +1763,7 @@
     <monster>
         <name>Fiendish Flesh Golem</name>
         <size>L</size>
-        <type>construct (unaligned)</type>
+        <type>Construct</type>
         <speed>30 ft., fly 30 ft. (Hover)</speed>
         <ac>12 (natural armor)</ac>
         <cr>8</cr>
@@ -2300,7 +2300,7 @@
     <monster>
         <name>Smiler the Defiler</name>
         <size>M</size>
-        <type>fey (elf)</type>
+        <type>Humanoid (elf)</type>
         <alignment>Chaotic Evil</alignment>
         <ac>18 (leather armor +2)</ac>
         <hp>165 (22d8+66)</hp>
@@ -3048,7 +3048,7 @@
         <languages>Abyssal, Giant, telepathy 120 ft</languages>
         <cr>25</cr>
         <resist>fire, lightning</resist>
-        <immune>cold, poison; bludgeoning, piercing, slashing from nonmagical attacks</immune>
+        <immune>cold, poison, bludgeoning, piercing, slashing from nonmagical attacks</immune>
         <vulnerable></vulnerable>
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
         <senses>truesight 120 ft</senses>

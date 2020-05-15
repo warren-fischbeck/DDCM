@@ -875,7 +875,7 @@
         <skill>Arcana +8, Deception +7, History +8, Insight +7, Perception +7, Stealth +5</skill>
         <resist>cold, lightning, necrotic</resist>
         <vulnerable></vulnerable>
-        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks</immune>
+        <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks</immune>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
         <passive>17</passive>
@@ -1595,7 +1595,7 @@
     <monster>
         <name>Barghest</name>
         <size>L</size>
-        <type>fiend (shapechanger)</type>
+        <type>fiend </type>
         <alignment>neutral evil</alignment>
         <ac>17 (natural armor)</ac>
         <hp>90 (12d10+24)</hp>
@@ -2963,7 +2963,7 @@
     <monster>
         <name>Deep Scion</name>
         <size>M</size>
-        <type>humanoid (shapechanger)</type>
+        <type>humanoid </type>
         <alignment>neutral evil</alignment>
         <ac>11</ac>
         <hp>67 (9d8+27)</hp>
@@ -4714,7 +4714,7 @@
         <skill>Arcana +18, History +12, Insight +9, Perception +9</skill>
         <resist>cold, lightning, necrotic</resist>
         <vulnerable></vulnerable>
-        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks</immune>
+        <immune>poison, bludgeoning, piercing, and slashing from nonmagical attacks</immune>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
         <senses>truesight 120 ft.</senses>
         <passive>19</passive>
