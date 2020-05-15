@@ -5163,7 +5163,7 @@
   <monster>
     <name>Graz&#39;zt</name>
     <size>L</size>
-    <type>fiend (demon, shapechanger)</type>
+    <type>fiend</type>
     <alignment>chaotic evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>378 (36d10+180)</hp>

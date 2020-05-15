@@ -1766,7 +1766,7 @@
   <monster>
     <name>Avatar Of Boreas</name>
     <size>M</size>
-    <type>elemental </type>
+    <type>elemental</type>
     <alignment>chaotic evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>168 (16d8+96)</hp>
@@ -1847,7 +1847,7 @@
   <monster>
     <name>Bouda</name>
     <size>M</size>
-    <type>fiend </type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>93 (11d8+44)</hp>
@@ -2629,7 +2629,7 @@
   <monster>
     <name>Clockwork Beetle Swarm</name>
     <size>L</size>
-    <type>constructs</type>
+    <type>construct</type>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>52 (8d10+8)</hp>
@@ -4519,7 +4519,7 @@
   <monster>
     <name>Ia&#39;affrat</name>
     <size>L</size>
-    <type>swarm of Tiny elementals</type>
+    <type>elementals</type>
     <alignment>lawful evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>170 (20d10+60)</hp>
@@ -8199,7 +8199,7 @@
   <monster>
     <name>Dune Mimic</name>
     <size>H</size>
-    <type>monstrosity </type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>168 (16d12+64)</hp>
@@ -9343,7 +9343,7 @@
   <monster>
     <name>Bear King</name>
     <size>M</size>
-    <type>fey </type>
+    <type>fey</type>
     <alignment>lawful neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>133 (14d8+70)</hp>
@@ -12584,7 +12584,7 @@
   <monster>
     <name>Hulking Whelp</name>
     <size>S</size>
-    <type>fey </type>
+    <type>fey</type>
     <alignment>chaotic neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>94 (9d12+36)</hp>
@@ -14546,7 +14546,7 @@
   <monster>
     <name>Mirager</name>
     <size>M</size>
-    <type>fey </type>
+    <type>fey</type>
     <alignment>neutral evil</alignment>
     <ac>13</ac>
     <hp>78 (12d8+24)</hp>
@@ -14849,7 +14849,7 @@
   <monster>
     <name>Morphoi</name>
     <size>M</size>
-    <type>plant </type>
+    <type>plant</type>
     <alignment>chaotic evil</alignment>
     <ac>13 (may be higher with armor)</ac>
     <hp>33 (6d8+6)</hp>
@@ -15438,7 +15438,7 @@
   <monster>
     <name>Oculo Swarm</name>
     <size>L</size>
-    <type>aberrations</type>
+    <type>aberration</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>110 (13d10+39)</hp>
@@ -18621,7 +18621,7 @@
   <monster>
     <name>Fire Dancer Swarm</name>
     <size>M</size>
-    <type>swarm of Tiny elementals</type>
+    <type>elementals</type>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>90 (12d8+36)</hp>
@@ -19472,7 +19472,7 @@
   <monster>
     <name>Trollkin Reaver</name>
     <size>M</size>
-    <type>humanoid (trollkin)</type>
+    <type>humanoid</type>
     <alignment>neutral</alignment>
     <ac>14 (hide armor)</ac>
     <hp>82 (11d8+33)</hp>
@@ -21572,7 +21572,7 @@
   <monster>
     <name>Vampire Warlock - Variant</name>
     <size>M</size>
-    <type>undead </type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>144</hp>

@@ -47661,7 +47661,7 @@
   <monster>
     <name>Doppelganger</name>
     <size>M</size>
-    <type>monstrosity </type>
+    <type>monstrosity</type>
     <alignment>unaligned</alignment>
     <ac>14</ac>
     <hp>52 (8d8+16)</hp>
@@ -55540,7 +55540,7 @@
   <monster>
     <name>Jackalwere</name>
     <size>M</size>
-    <type>humanoid </type>
+    <type>humanoid</type>
     <alignment>chaotic evil</alignment>
     <ac>12</ac>
     <hp>18 (4d8)</hp>
@@ -57511,7 +57511,7 @@
   <monster>
     <name>Mimic</name>
     <size>M</size>
-    <type>monstrosity </type>
+    <type>monstrosity</type>
     <alignment>neutral</alignment>
     <ac>12 (natural armor)</ac>
     <hp>58 (9d8+18)</hp>
@@ -63580,7 +63580,7 @@
   <monster>
     <name>Succubus/Incubus</name>
     <size>M</size>
-    <type>fiend </type>
+    <type>fiend</type>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>66 (12d8+12)</hp>
@@ -65212,7 +65212,7 @@
   <monster>
     <name>Vampire</name>
     <size>M</size>
-    <type>undead </type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>144 (17d8+68)</hp>
@@ -65399,7 +65399,7 @@
   <monster>
     <name>Vampire Spellcaster</name>
     <size>M</size>
-    <type>undead </type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>144 (17d8+68)</hp>
@@ -65524,7 +65524,7 @@
   <monster>
     <name>Vampire Warrior</name>
     <size>M</size>
-    <type>undead </type>
+    <type>undead</type>
     <alignment>lawful evil</alignment>
     <ac>18 (plate)</ac>
     <hp>144 (17d8+68)</hp>

@@ -5787,7 +5787,7 @@
   <monster>
     <name>Lazav</name>
     <size>M</size>
-    <type>monstrosity </type>
+    <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>204 (24d8+96)</hp>

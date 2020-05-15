@@ -11924,7 +11924,7 @@
   <monster>
     <name>Darathra Shendrel</name>
     <size>M</size>
-    <type>humanoid (Illuskan humanoid)</type>
+    <type>humanoid(Illuskan humanoid)</type>
     <alignment>lawfull good</alignment>
     <ac>14 (breastplate)</ac>
     <hp>52 (8d8+16)</hp>

@@ -5978,7 +5978,7 @@
   <monster>
     <name>Sken Zabriss</name>
     <size>M</size>
-    <type>humanoid (goliath)</type>
+    <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
     <ac>16 (breastplate, shield)</ac>
     <hp>45 (7d8+14)</hp>

@@ -1595,7 +1595,7 @@
     <monster>
         <name>Barghest</name>
         <size>L</size>
-        <type>fiend </type>
+        <type>fiend</type>
         <alignment>neutral evil</alignment>
         <ac>17 (natural armor)</ac>
         <hp>90 (12d10+24)</hp>
@@ -2963,7 +2963,7 @@
     <monster>
         <name>Deep Scion</name>
         <size>M</size>
-        <type>humanoid </type>
+        <type>humanoid</type>
         <alignment>neutral evil</alignment>
         <ac>11</ac>
         <hp>67 (9d8+27)</hp>
@@ -3846,7 +3846,7 @@
     <monster>
         <name>Frost Giant Everlasting One</name>
         <size>H</size>
-        <type>giant (frost giant)</type>
+        <type>giant</type>
         <alignment>chaotic evil</alignment>
         <ac>15 (patchwork armor)</ac>
         <hp>189 (14d12+98)</hp>
