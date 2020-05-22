@@ -435,19 +435,19 @@
   </class>
   
   <spell>
-	<name>detect evil and good</name>
+	<name>Detect Evil And Good</name>
 	<classes>Warlock (Genie)</classes>
   </spell>
   <spell>
-	<name>phantasmal force</name>
+	<name>Phantasmal Force</name>
 	<classes>Warlock (Genie)</classes>
   </spell>
   <spell>
-	<name>create food and water</name>
+	<name>Create Food And Water</name>
 	<classes>Warlock (Genie)</classes>
   </spell>
   <spell>
-	<name>phantasmal killer</name>
+	<name>Phantasmal Killer</name>
 	<classes>Warlock (Genie)</classes>
   </spell>
   <spell>
@@ -455,87 +455,87 @@
 	<classes>Warlock (Genie)</classes>
   </spell>
   <spell>
-	<name>wish</name>
+	<name>Wish</name>
 	<classes>Warlock (Genie)</classes>
   </spell>
   <spell>
-	<name>sanctuary</name>
+	<name>Sanctuary</name>
 	<classes>Warlock (Genie - Dao)</classes>
   </spell>
   <spell>
-	<name>spike growth</name>
+	<name>Spike Growth</name>
 	<classes>Warlock (Genie - Dao)</classes>
   </spell>
   <spell>
-	<name>meld into stone</name>
+	<name>Meld Into Stone</name>
 	<classes>Warlock (Genie - Dao)</classes>
   </spell>
   <spell>
-	<name>stone shape</name>
+	<name>Stone Shape</name>
 	<classes>Warlock (Genie - Dao)</classes>
   </spell>
   <spell>
-	<name>wall of stone</name>
+	<name>Wall Of Stone</name>
 	<classes>Warlock (Genie - Dao)</classes>
   </spell>
   <spell>
-	<name>thunderwave</name>
+	<name>Thunderwave</name>
 	<classes>Warlock (Genie - Djinni)</classes>
   </spell>  
   <spell>
-	<name>gust of wind</name>
+	<name>Gust Of Wind</name>
 	<classes>Warlock (Genie - Djinni)</classes>
   </spell>
   <spell>
-	<name>wind wall</name>
+	<name>Wind Wall</name>
 	<classes>Warlock (Genie - Djinni)</classes>
   </spell>
   <spell>
-	<name>greater invisiblity</name>
+	<name>Greater Invisiblity</name>
 	<classes>Warlock (Genie - Djinni)</classes>
   </spell>
   <spell>
-	<name>seeming</name>
+	<name>Seeming</name>
 	<classes>Warlock (Genie - Djinni)</classes>
   </spell>
   <spell>
-	<name>burning hands</name>
+	<name>Burning Hands</name>
 	<classes>Warlock (Genie - Efreeti)</classes>
   </spell>
   <spell>
-	<name>scorching ray</name>
+	<name>Scorching Ray</name>
 	<classes>Warlock (Genie - Efreeti)</classes>
   </spell>
   <spell>
-	<name>fireball</name>
+	<name>Fireball</name>
 	<classes>Warlock (Genie - Efreeti)</classes>
   </spell>
   <spell>
-	<name>fire shield</name>
+	<name>Fire Shield</name>
 	<classes>Warlock (Genie - Efreeti)</classes>
   </spell>
   <spell>
-	<name>flame strike</name>
+	<name>Flame Strike</name>
 	<classes>Warlock (Genie - Efreeti)</classes>
   </spell>
   <spell>
-	<name>fog cloud</name>
+	<name>Fog Cloud</name>
 	<classes>Warlock (Genie - Marid)</classes>
   </spell>
   <spell>
-	<name>blur</name>
+	<name>Blur</name>
 	<classes>Warlock (Genie - Marid)</classes>
   </spell>
   <spell>
-	<name>sleet storm</name>
+	<name>Sleet Storm</name>
 	<classes>Warlock (Genie - Marid)</classes>
   </spell>
   <spell>
-	<name>control water</name>
+	<name>Control Water</name>
 	<classes>Warlock (Genie - Marid)</classes>
   </spell>
   <spell>
-	<name>cone of cold</name>
+	<name>Cone Of Cold</name>
 	<classes>Warlock (Genie - Marid)</classes>
   </spell>
 </compendium>
