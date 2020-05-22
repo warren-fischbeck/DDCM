@@ -2,7 +2,6 @@
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Rogue</name>
-
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Phantom (UA)</name>
@@ -71,7 +70,6 @@
   </class>
   <class>
     <name>Warlock</name>
-
     <autolevel level="1">
       <feature optional="YES">
         <name>Otherworldly Patron: The Noble Genie (UA)</name>
@@ -161,6 +159,5 @@
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
     </autolevel>
-  </class>
-  
+  </class>  
 </compendium>
