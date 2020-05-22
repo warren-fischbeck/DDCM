@@ -4636,7 +4636,7 @@
       <text>- Treasure in the possession of creatures other than Mammon turns to worthless materials such as lead, wood, or gravel, after spending 24 hours within 1 mile of the lair. The resulting junk resumes its valuable form when Mammon claims it, or by means of a wish spell or comparable magic.</text>
       <text>- Creatures that spend more than 1 hour within 1 mile of Mammon&#39;s lair become obsessed with gaining the most generous payment or portion of wealth in any dealing unless they succeed on a DC 18 Wisdom saving throw. A creature that saves successfully is immune to this effect for 24 hours. The effect can be removed by a greater restoration spell or comparable magic.</text>
       <text>- Any naturally occurring treasure in Mammon&#39;s home plane reverts to worthless junk if removed from the plane. Similarly, any mundane item left behind transforms into something fantastically valuable, as long as it remains on the plane.</text>
-      <text> If Mammon dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
+      <text>If Mammon dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -5194,7 +5194,7 @@
     </trait>
     <trait>
       <name>Variant: Devil Summoning</name>
-      <text> Summon Devil (1/Day): The devil can attempt a magical summoning. The devil has a 40 percent chance of summoning either 2 chain devils or 1 lunar devil.</text>
+      <text>Summon Devil (1/Day): The devil can attempt a magical summoning. The devil has a 40 percent chance of summoning either 2 chain devils or 1 lunar devil.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -7447,7 +7447,7 @@
     </action>
     <action>
       <name>Breath Weapon (Recharge 6)</name>
-      <text> dragonleaf tree can issue forth a breath weapon from its leaves appropriate to the dragon it honors. The creature&#39;s breath weapon deals 49 (14d6) damage, or half damage to targets that make a successful DC 15 Dexterity saving throw. A black, copper, or green tree breathes a 60-foot line of acid; a blue or bronze tree breathes a 60-foot line of lightning; a brass, gold, or red tree breathes a 30-foot cone of fire; and a silver or white tree breathes a 30-foot cone of cold.</text>
+      <text>dragonleaf tree can issue forth a breath weapon from its leaves appropriate to the dragon it honors. The creature&#39;s breath weapon deals 49 (14d6) damage, or half damage to targets that make a successful DC 15 Dexterity saving throw. A black, copper, or green tree breathes a 60-foot line of acid; a blue or bronze tree breathes a 60-foot line of lightning; a brass, gold, or red tree breathes a 30-foot cone of fire; and a silver or white tree breathes a 30-foot cone of cold.</text>
     </action>
   </monster>
   <monster>
@@ -9694,7 +9694,7 @@
       <text>- Shadows come to life within 6 miles of the Queen&#39;s lair. Most of the time these living shadows are unnerving and nothing more, but when a creature acts against the interests of the Queen, the shadows can interfere and cause any relevant die roll to be made with disadvantage.</text>
       <text>- Magic saturates the area within 6 miles of the lair, causing minor random effects similar to a prestidigitation cantrip.</text>
       <text>- The Queen of Night and Magic can cast her senses to any area containing darkness, dim light, or shadows within 6 miles of her lair, similar to a clairvoyance spell.</text>
-      <text> While the Summer Court rules, the regional effects of the Queen&#39;s lair extend into the Winter Palace, but they are diminished and weaker than normal. During the Winter Court&#39;s reign, the Winter Palace is not subject to the regional effects. If the Queen of Night and Magic dies, conditions in the area surrounding the lair gradually return to normal over the course of 2d10 days.</text>
+      <text>While the Summer Court rules, the regional effects of the Queen&#39;s lair extend into the Winter Palace, but they are diminished and weaker than normal. During the Winter Court&#39;s reign, the Winter Palace is not subject to the regional effects. If the Queen of Night and Magic dies, conditions in the area surrounding the lair gradually return to normal over the course of 2d10 days.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -12876,7 +12876,7 @@
     </action>
     <action>
       <name>Bites</name>
-      <text> Melee Weapon Attack: +3 to hit, reach 0 ft., one creature. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer, and the target must make a successful DC 13 Constitution saving throw or take 5 (2d4) poison damage at the start of each of its turns. A poisoned creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>Melee Weapon Attack: +3 to hit, reach 0 ft., one creature. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer, and the target must make a successful DC 13 Constitution saving throw or take 5 (2d4) poison damage at the start of each of its turns. A poisoned creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <attack>Bites|3|4d4</attack>
     </action>
   </monster>
@@ -19161,7 +19161,7 @@
     </trait>
     <trait>
       <name>Regional Effects</name>
-      <text> The region containing a tosculi hive-queen&#39;s lair is warped by the creature&#39;s presence, which creates one or more of the	following effects:</text>
+      <text>The region containing a tosculi hive-queen&#39;s lair is warped by the creature&#39;s presence, which creates one or more of the	following effects:</text>
       <text>- Intelligent creatures within 6 miles suffer frequent headaches. It&#39;s as if they had a constant buzzing inside their heads.</text>
       <text>- Beasts within 6 miles are more irritable and violent than usual and have the Blood Frenzy trait:The beast has advantage on melee attack rolls against a creature that doesn&#39;t have all its hit points.</text>
       <text>If the tosculi hive-queen dies, the buzzing disappears immediately, and the beasts go back to normal within 1d10 days.</text>

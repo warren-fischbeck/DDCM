@@ -86,7 +86,7 @@
         <text />
         <text>Guardian. Tinkering with your armor&#39;s energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.</text>
         <text />
-        <text>     You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
+        <text>You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.</text>
         <text />
         <text>Infiltrator. Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.</text>
         <text />
@@ -100,7 +100,7 @@
       <feature optional="YES">
         <name>Druid Circle: Circle of the Stars (UA)</name>
         <text>An ancient lineage, the Circle of Stars allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos</text>
-        <text>     Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle&#39;s sacred knowledge even against a great cataclysm.</text>
+        <text>Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle&#39;s sacred knowledge even against a great cataclysm.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -127,12 +127,12 @@
       <feature optional="YES">
         <name>Druid Circle: Circle of the Stars (UA): Stary Form (Circle of the Stars (UA))</name>
         <text>You gain the ability to harness constellations&#39; power to alter your form. As an action, you can expend a use of your Wild Shape feature to take on a starry form rather than transforming into a beast.</text>
-        <text>     While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10 foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you&#39;re incapacitated.</text>
-        <text>     Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:</text>
+        <text>While in your starry form, you retain your game statistics, but your body takes on a luminous, starlike quality; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10 foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes or until you&#39;re incapacitated.</text>
+        <text>Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:</text>
         <text />
         <text>Chalice. A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + half your level in this class.</text>
         <text>Archer. A constellation of an archer appears on you. You gain a bonus action that you can use to make a ranged spell attack, hurling a luminous arrow that targets a creature you can see within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier.</text>
-        <text> Dragon. A constellation of a wise, ancient dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.</text>
+        <text>Dragon. A constellation of a wise, ancient dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -362,8 +362,8 @@
     <level>4</level>
     <ritual>NO</ritual>
     <text>Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet, You can end the spell early by using an action to dismiss it.</text>
-    <text>    The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.</text>
-    <text>    In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.</text>
+    <text>The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.</text>
+    <text>In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.</text>
     <text />
     <text>Source: Player&#39;s Handbook, p. 242</text>
     <components>V, S, M (a bit of phosphorous or a firefly)</components>

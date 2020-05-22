@@ -265,10 +265,10 @@
 		<text/>
 		<text>Genie Kind</text>
 		<text>d4 |    Kind | Element</text>
-		<text> 1 |     Dao | Earth</text>
-		<text> 2 |  Djinni | Air</text>
-		<text> 3 | Efreeti | Fire</text>
-		<text> 4 |  Maarid | Water</text>
+		<text>1 |     Dao | Earth</text>
+		<text>2 |  Djinni | Air</text>
+		<text>3 | Efreeti | Fire</text>
+		<text>4 |  Maarid | Water</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -281,12 +281,12 @@
         <text>The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron&#39;s kind: dao, djinni, efreeti, or marid.</text>
         <text />
         <text>Spell Level | Genie Spells          | Dao Spells      | Djinni Spells       | Efreeti Spells| Marid Spells</text>
-        <text>        1st | detect evil and good  | sanctuary       | thunderwave         | burning hands | fog cloud</text>
-        <text>        2nd | phantasmal force      | spike growth    | gust of wind        | scorching ray | blur</text>
-        <text>        3rd | create food and water | meld into stone | wind wall           | fireball      | sleet storm</text>
-        <text>        4th | phantasmal killer     | stone shape     | greater invisiblity | fire shield   | control water</text>
-        <text>        5th | creation              | wall of stone   | seeming             | flame strike  | cone of cold</text>
-		<text>        9th | wish</text>
+        <text>1st | detect evil and good  | sanctuary       | thunderwave         | burning hands | fog cloud</text>
+        <text>2nd | phantasmal force      | spike growth    | gust of wind        | scorching ray | blur</text>
+        <text>3rd | create food and water | meld into stone | wind wall           | fireball      | sleet storm</text>
+        <text>4th | phantasmal killer     | stone shape     | greater invisiblity | fire shield   | control water</text>
+        <text>5th | creation              | wall of stone   | seeming             | flame strike  | cone of cold</text>
+		<text>9th | wish</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>

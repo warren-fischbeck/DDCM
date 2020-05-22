@@ -48,7 +48,7 @@
       <text>Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
@@ -79,28 +79,28 @@
       <text>You can speak, read, and write Dwarvish, Common, and Undercommon.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Duergar Resilience</name>
       <text>You have advantage on saving throws against illusions and against being charmed or paralyzed.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Duergar Magic</name>
       <text>When you reach 3rd level, you can cast the enlarge/reduce spell on yourself once with this trait, using only the spell&#39;s enlarge option. When your each 5th level, you can cast invisibility on yourself once with this trait. You don&#39;t need material components for either spell, and you can&#39;t cast them while you&#39;re in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
       <text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
   </race>
   <race>
@@ -143,7 +143,7 @@
     <trait>
       <name>Fey Step</name>
       <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can&#39;t do so again until you finish a short or long rest.</text>
-      <text>    When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:</text>
+      <text>When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:</text>
       <text />
       <text>Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.</text>
       <text />
@@ -164,7 +164,7 @@
       <text>Spring is the season of cheerfulness and celebration, marked by merriment as winter&#39;s sorrow passes.</text>
       <text>Summer is the season of boldness and aggression, a time of unfettered energy.</text>
       <text />
-      <text>    Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season. When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin&#39;s current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
+      <text>Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season. When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin&#39;s current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
       <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 61</text>
     </trait>
@@ -271,7 +271,7 @@
     <trait>
       <name>Blessing of the Raven Queen</name>
       <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can&#39;t do so again until you finish a long rest.</text>
-      <text>    Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.</text>
+      <text>Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.</text>
       <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 62</text>
     </trait>
@@ -304,8 +304,8 @@
     <trait>
       <name>Githyanki Psionics</name>
       <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
-      <text>    When you reach 3rd level, you can cast the jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
-      <text>    Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
+      <text>When you reach 3rd level, you can cast the jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
+      <text>Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
       <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
@@ -332,8 +332,8 @@
     <trait>
       <name>Githzerai Psionics</name>
       <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
-      <text>    When you reach 3rd level, you can cast the shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
-      <text>    Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
+      <text>When you reach 3rd level, you can cast the shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
+      <text>Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
       <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
@@ -350,32 +350,32 @@
       <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
-      <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
+      <text>Elemental Evil Player&#39;s Companion, p. 7</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 113</text>
     </trait>
     <trait>
       <name>Gnome Cunning</name>
       <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
-      <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
+      <text>Elemental Evil Player&#39;s Companion, p. 7</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 113</text>
     </trait>
     <trait>
       <name>Stone Camouflage</name>
       <text>You have advantage on Dexterity (stealth) checks to hide in rocky terrain and underground.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
-      <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
+      <text>Elemental Evil Player&#39;s Companion, p. 7</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 113</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Gnomish, and Undercommon. The svirfneblin dialect is more guttural than surface Gnomish, and most svirfneblin know only a little bit of Common, but those who deal with outsiders (and that includes you as an adventurer) pick up enough Common to get by in other lands.</text>
       <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
-      <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
-      <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
+      <text>Elemental Evil Player&#39;s Companion, p. 7</text>
+      <text>Mordenkainen&#39;s Tome of Foes, p. 113</text>
     </trait>
   </race>
   <race>
@@ -640,11 +640,11 @@
     <name>Svirfneblin Magic</name>
     <prerequisite>Gnome (deep gnome)</prerequisite>
     <text>You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast nondetection on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: blindness/deafness, blur, and disguise self. You regain the ability to cast these spells when you finish a long rest.</text>
-    <text>    Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.</text>
+    <text>Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.</text>
     <text></text>
     <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
-    <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
-    <text>        Mordenkainen&#39;s Tome of Foes, p. 114</text>
+    <text>Elemental Evil Player&#39;s Companion, p. 7</text>
+    <text>Mordenkainen&#39;s Tome of Foes, p. 114</text>
   </feat>
 
   <!-- Monsters -->
@@ -803,8 +803,8 @@
     <action>
       <name>Eat Memories</name>
       <text>The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically.</text>
-      <text>    While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends.</text>
-      <text>    When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except for any saving throw proficiencies.</text>
+      <text>While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends.</text>
+      <text>When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except for any saving throw proficiencies.</text>
       <text />
       <text>Unconscious:</text>
       <text>&#8226; An unconscious creature is incapacitated, meaning it can&#39;t take actions or reactions, can&#39;t move or speak, and is unaware of its surroundings.</text>
@@ -916,7 +916,7 @@
     <trait>
       <name>Foment Madness</name>
       <text>Any creature that isn&#39;t a demon that starts its turn within 30 feet of the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint buzzing in its head for a moment and has disadvantage on its next attack roll, saving throw, or ability check.</text>
-      <text>    If the saving throw against Foment Madness fails by 5 or more, the creature is instead subjected to the confusion spell for 1 minute (no concentration required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Madness.</text>
+      <text>If the saving throw against Foment Madness fails by 5 or more, the creature is instead subjected to the confusion spell for 1 minute (no concentration required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Madness.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1267,7 +1267,7 @@
     <trait>
       <name>Enchanting Presence</name>
       <text>Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin&#39;s Enchanting Presence for 24 hours.</text>
-      <text>    Whenever the eladrin deals damage to the charmed creature, the creature can repeat the saving throw, ending the effect on itself on a success.</text>
+      <text>Whenever the eladrin deals damage to the charmed creature, the creature can repeat the saving throw, ending the effect on itself on a success.</text>
       <text />
       <text>Charmed:</text>
       <text>&#8226; A charmed creature can&#39;t attack the charmer or target the charmer with harmful abilities or magical effects.</text>
@@ -1348,9 +1348,9 @@
       <name>Innate Spellcasting</name>
       <text>Baphomet&#39;s spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: detect magic</text>
-      <text>    3/day each: dispel magic, dominate beast, hunter&#39;s mark, maze, wall of stone</text>
-      <text>    1/day each: teleport</text>
+      <text>At will: detect magic</text>
+      <text>3/day each: dispel magic, dominate beast, hunter&#39;s mark, maze, wall of stone</text>
+      <text>1/day each: teleport</text>
     </trait>
     <trait>
       <name>Labyrinthine Recall</name>
@@ -1394,7 +1394,7 @@
     <action>
       <name>Frightful Presence</name>
       <text>Each creature of Baphomet&#39;s choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.</text>
-      <text>    If a creature succeeds on any of these saves or the effect ends on it, the creature is immune is Baphomet&#39;s Frightful Presence for the next 24 hours.</text>
+      <text>If a creature succeeds on any of these saves or the effect ends on it, the creature is immune is Baphomet&#39;s Frightful Presence for the next 24 hours.</text>
       <text />
       <text>Frightened:</text>
       <text>&#8226; A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</text>
@@ -1697,7 +1697,7 @@
     <action>
       <name>Shadow Jump</name>
       <text>If the boneclaw is in dim light or darkness, each creature of the boneclaw&#39;s choice within 5 feet of it must succeed on a DC 14 Constitution saving throw or take 34 (5d12 + 2) necrotic damage.</text>
-      <text>    The boneclaw then magically teleports up to 60 feet to an unoccupied space it can see. It can bring one creature it&#39;s grappling, teleporting that creature to an unoccupied space it can see within 5 feet of its destination. The destination spaces of this teleportation must be in dim light or darkness.</text>
+      <text>The boneclaw then magically teleports up to 60 feet to an unoccupied space it can see. It can bring one creature it&#39;s grappling, teleporting that creature to an unoccupied space it can see within 5 feet of its destination. The destination spaces of this teleportation must be in dim light or darkness.</text>
     </action>
     <reaction>
       <name>Deadly Reach</name>
@@ -1750,7 +1750,7 @@
     <trait>
       <name>Individual Designs</name>
       <text>A gnome artisan values an individualized clockwork more highly than a perfectly functioning one that copies too much from another creation. For that reason, even clockworks that fit established designs, such as those described here, are seldom identical.</text>
-      <text>    A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
+      <text>A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
       <text />
       <text>d10 &#8212; Enhancement:</text>
       <text />
@@ -2163,7 +2163,7 @@
     <trait>
       <name>Corpses</name>
       <text>When first encountered, a corpse flower contains the corpses of 1d6 + 3 humanoids. A corpse flower can hold the remains of up to nine dead humanoids. These remains have total cover against attacks and other effects outside the corpse flower. If the corpse flower dies, the corpses within it can be pulled free.</text>
-      <text>    While it has at least one humanoid corpse in its body, the corpse flower can use a bonus action to do one of the following:</text>
+      <text>While it has at least one humanoid corpse in its body, the corpse flower can use a bonus action to do one of the following:</text>
       <text />
       <text>&#8226; The corpse flower digests one humanoid corpse in its body and instantly regains 11 (2d10) hit points. Nothing of the digested body remains. Any equipment on the corpse is expelled from the corpse flower in its space.</text>
       <text />
@@ -2401,7 +2401,7 @@
     <action>
       <name>Life Drain</name>
       <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</text>
-      <text>    A humanoid slain by this attack rises 24 hours later as a zombie under the wight&#39;s control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.</text>
+      <text>A humanoid slain by this attack rises 24 hours later as a zombie under the wight&#39;s control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.</text>
       <attack>Life Drain|4|2d6+2</attack>
     </action>
     <spells>detect magic, disguise self, mage armor, fear, hold person, misty step</spells>
@@ -2440,9 +2440,9 @@
       <name>Innate Spellcasting</name>
       <text>Demogorgon&#39;s spellcasting ability is Charisma (spell save DC 23). Demogorgon can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: detect magic, major image</text>
-      <text>    3/day each: dispel magic, fear, telekinesis</text>
-      <text>    1/day each: feeblemind, project image</text>
+      <text>At will: detect magic, major image</text>
+      <text>3/day each: dispel magic, fear, telekinesis</text>
+      <text>1/day each: feeblemind, project image</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -2472,10 +2472,10 @@
     <action>
       <name>Gaze</name>
       <text>Demogorgon turns his magical gaze toward one creature that he can see within 120 feet of him. That target must make a DC 23 Wisdom saving throw. Unless the target is incapacitated, it can avert its eyes to avoid the gaze and to automatically succeed on the save. If the target does so, it can&#39;t see Demogorgon until the start of his next turn. If the target looks at him in the meantime, it must immediately make the save.</text>
-      <text>    If the target fails the save, the target suffers one of the following effects of Demogorgon&#39;s choice or at random:</text>
-      <text>    1. Beguiling Gaze: The target is stunned until the start of Demogorgon&#39;s next turn or until Demogorgon is no longer within line of sight.</text>
-      <text>    2. Hypnotic Gaze: The target is charmed by Demogorgon until the start of Demogorgon&#39;s next turn. Demogorgon chooses how the charmed target uses its actions, reactions, and movement. Because this gaze requires Demogorgon to focus both heads on the target, he can&#39;t use his Maddening Gaze legendary action until the start of his next turn.</text>
-      <text>    3. Insanity Gaze: The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon&#39;s next turn. Demogorgon doesn&#39;t need to concentrate on the spell.</text>
+      <text>If the target fails the save, the target suffers one of the following effects of Demogorgon&#39;s choice or at random:</text>
+      <text>1. Beguiling Gaze: The target is stunned until the start of Demogorgon&#39;s next turn or until Demogorgon is no longer within line of sight.</text>
+      <text>2. Hypnotic Gaze: The target is charmed by Demogorgon until the start of Demogorgon&#39;s next turn. Demogorgon chooses how the charmed target uses its actions, reactions, and movement. Because this gaze requires Demogorgon to focus both heads on the target, he can&#39;t use his Maddening Gaze legendary action until the start of his next turn.</text>
+      <text>3. Insanity Gaze: The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon&#39;s next turn. Demogorgon doesn&#39;t need to concentrate on the spell.</text>
       <text />
       <text>Charmed:</text>
       <text>&#8226; A charmed creature can&#39;t attack the charmer or target the charmer with harmful abilities or magical effects.</text>
@@ -2612,10 +2612,10 @@
       <name>Spellcasting</name>
       <text>The derro is a 5th-level spellcaster. It&#39;s spellcasting ability is Charisma (save DC 12, +4 to hit with spell attacks). The derro knows the following sorcerer spells:</text>
       <text />
-      <text>    Cantrips (at will): acid splash, light, mage hand, message, ray of frost</text>
-      <text>    1st level (4 slots): burning hands, chromatic orb, sleep</text>
-      <text>    2nd level (3 slots): invisibility, spider climb</text>
-      <text>    3rd level (2 slots): blink, lightning bolt</text>
+      <text>Cantrips (at will): acid splash, light, mage hand, message, ray of frost</text>
+      <text>1st level (4 slots): burning hands, chromatic orb, sleep</text>
+      <text>2nd level (3 slots): invisibility, spider climb</text>
+      <text>3rd level (2 slots): blink, lightning bolt</text>
     </trait>
     <action>
       <name>Hooked Shortspear</name>
@@ -3699,8 +3699,8 @@
       <name>Innate Spellcasting (Psionics)</name>
       <text>The duergar&#39;s innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no components:</text>
       <text />
-      <text>    At will: blade ward, true strike</text>
-      <text>    1/day each: jump, hunter&#39;s mark</text>
+      <text>At will: blade ward, true strike</text>
+      <text>1/day each: jump, hunter&#39;s mark</text>
     </trait>
     <action>
       <name>Enlarge (Recharges on a Short or Long Rest)</name>
@@ -3997,8 +3997,8 @@
     <action>
       <name>Possess Corpse (Recharge 6)</name>
       <text>The dybbuk disappears into an intact corpse it can see within 5 feet of it. The corpse must be Large or smaller and be that of a beast or a humanoid. The dybbuk is now effectively the possessed creature. Its type becomes undead, though it now looks alive, and it gains a number of temporary hit points equal to the corpse&#39;s hit point maximum in life.</text>
-      <text>    While possessing the corpse, the dybbuk retains its hit points, alignment, Intelligence, Wisdom, Charisma, telepathy, and immunity to poison damage, exhaustion, and being charmed and frightened. It otherwise uses the possessed target&#39;s game statistics, gaining access to its knowledge and proficiencies but not its class features, if any.</text>
-      <text>    The possession lasts until the temporary hit points are lost (at which point the body becomes a corpse once more) or the dybbuk ends its possession using a bonus action. When the possession ends, the dybbuk reappears in an unoccupied space within 5 feet of the corpse.</text>
+      <text>While possessing the corpse, the dybbuk retains its hit points, alignment, Intelligence, Wisdom, Charisma, telepathy, and immunity to poison damage, exhaustion, and being charmed and frightened. It otherwise uses the possessed target&#39;s game statistics, gaining access to its knowledge and proficiencies but not its class features, if any.</text>
+      <text>The possession lasts until the temporary hit points are lost (at which point the body becomes a corpse once more) or the dybbuk ends its possession using a bonus action. When the possession ends, the dybbuk reappears in an unoccupied space within 5 feet of the corpse.</text>
     </action>
     <spells>dimension door, fear, phantasmal force</spells>
     <slots></slots>
@@ -4187,8 +4187,8 @@
     <action>
       <name>Eat Memories</name>
       <text>The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 18 Wisdom saving throw or take 44 (8d10) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically.</text>
-      <text>    While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends.</text>
-      <text>    When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except any saving throw proficiencies.</text>
+      <text>While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends.</text>
+      <text>When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except any saving throw proficiencies.</text>
       <text />
       <text>Unconscious:</text>
       <text>&#8226; An unconscious creature is incapacitated, meaning it can&#39;t take actions or reactions, can&#39;t move or speak, and is unaware of its surroundings.</text>
@@ -4247,7 +4247,7 @@
     <trait>
       <name>Living Storm</name>
       <text>The tempest is always at the center of a storm1d6+4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing.</text>
-      <text>    In addition, strong winds swirl in the area covered by the storm. The winds impose disadvantage on ranged attack rolls. The winds extinguish open flames and disperse fog.</text>
+      <text>In addition, strong winds swirl in the area covered by the storm. The winds impose disadvantage on ranged attack rolls. The winds extinguish open flames and disperse fog.</text>
     </trait>
     <trait>
       <name>Siege Monster</name>
@@ -4383,9 +4383,9 @@
       <name>Innate Spellcasting</name>
       <text>Fraz-Urb&#39;luu&#39;s spellcasting ability is Charisma (spell save DC 23). Fraz-Urb&#39;luu can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: alter self (can become Medium-sized when changing his appearance), detect magic, dispel magic, phantasmal force</text>
-      <text>    3/day each: confusion, dream, mislead, programmed illusion, seeming</text>
-      <text>    1/day each: mirage arcane, modify memory, project image</text>
+      <text>At will: alter self (can become Medium-sized when changing his appearance), detect magic, dispel magic, phantasmal force</text>
+      <text>3/day each: confusion, dream, mislead, programmed illusion, seeming</text>
+      <text>1/day each: mirage arcane, modify memory, project image</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -5197,9 +5197,9 @@
       <name>Innate Spellcasting</name>
       <text>Graz&#39;zt&#39;s spellcasting ability is Charisma (spell save DC 23). Graz&#39;zt can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: charm person, crown of madness, detect magic, dispel magic, dissonant whispers</text>
-      <text>    3/day each: counterspell, darkness, dominate person, sanctuary, telekinesis, teleport</text>
-      <text>    1/day each: dominate monster, greater invisibility</text>
+      <text>At will: charm person, crown of madness, detect magic, dispel magic, dissonant whispers</text>
+      <text>3/day each: counterspell, darkness, dominate person, sanctuary, telekinesis, teleport</text>
+      <text>1/day each: dominate monster, greater invisibility</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -5371,7 +5371,7 @@
     <action>
       <name>Flesh-Crushing Stride</name>
       <text>The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures&#39; spaces. A creature whose space the hellfire engine enters must make a DC 18 Dexterity saving throw. On a successful save, the creature is pushed 5 feet to the nearest space out of the hellfire engine&#39;s path. On a failed save, the creature falls prone and takes 28 (8d6) bludgeoning damage.</text>
-      <text>    If the hellfire engine remains in the prone creature&#39;s space, the creature is also restrained until it&#39;s no longer in the same space as the hellfire engine. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer restrained.</text>
+      <text>If the hellfire engine remains in the prone creature&#39;s space, the creature is also restrained until it&#39;s no longer in the same space as the hellfire engine. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer restrained.</text>
       <text />
       <text>Prone:</text>
       <text>&#8226; A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
@@ -5399,7 +5399,7 @@
     <action>
       <name>Thunder Cannon</name>
       <text>The hellfire engine targets a point within 120 feet of it that it can see. Each creature within 30 feet of that point must make a DC 20 Dexterity saving throw, taking 27 (5d10) bludgeoning damage plus 13 (2d12) thunder damage on a failed save, or half as much damage on a successful one.</text>
-      <text>    If the chosen option kills a creature, the creature&#39;s soul rises from the River Styx as a lemure in Avernus in 1d4 hours. If the creature isn&#39;t revived before then, only a wish spell or killing the lemure and casting true resurrection on the creature&#39;s original body can restore it to life. Constructs and devils are immune to this effect.</text>
+      <text>If the chosen option kills a creature, the creature&#39;s soul rises from the River Styx as a lemure in Avernus in 1d4 hours. If the creature isn&#39;t revived before then, only a wish spell or killing the lemure and casting true resurrection on the creature&#39;s original body can restore it to life. Constructs and devils are immune to this effect.</text>
     </action>
     <spells></spells>
     <slots></slots>
@@ -5685,7 +5685,7 @@
     <trait>
       <name>Individual Designs</name>
       <text>A gnome artisan values an individualized clockwork more highly than a perfectly functioning one that copies too much from another creation. For that reason, even clockworks that fit established designs, such as those described here, are seldom identical.</text>
-      <text>    A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
+      <text>A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
       <text />
       <text>d10 &#8212; Enhancement:</text>
       <text />
@@ -5793,8 +5793,8 @@
       <name>Innate Spellcasting</name>
       <text>Juiblex&#39;s spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). Juiblex can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: acid splash (17th level), detect magic</text>
-      <text>    3/day each: blight, contagion, gaseous form</text>
+      <text>At will: acid splash (17th level), detect magic</text>
+      <text>3/day each: blight, contagion, gaseous form</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -5835,11 +5835,11 @@
       <text>On initiative count 20 (losing initiative ties), Juiblex can take a lair action to cause one of the following effects; it can&#39;t use the same effect two rounds in a row:</text>
       <text />
       <text>&#8226; Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become restrained. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.</text>
-      <text>    A restrained creature is stuck as long as it remains in the slimy area or until it breaks free. The restrained creature, or another creature that can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check.</text>
-      <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.</text>
+      <text>A restrained creature is stuck as long as it remains in the slimy area or until it breaks free. The restrained creature, or another creature that can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check.</text>
+      <text>If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.</text>
       <text />
       <text>&#8226; Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall prone and slide 10 feet in a random direction determined by a d8 roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.</text>
-      <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.</text>
+      <text>If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.</text>
       <text />
       <text>&#8226; A green slime (see the Dungeon Master&#39;s Guide) appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.</text>
       <text />
@@ -6000,9 +6000,9 @@
     <action>
       <name>Tidal Wave (Recharge 6)</name>
       <text>While submerged, the leviathan magically creates a wall of water centered on itself. The wall is up 250 feet long, up to 250 feet high, and up to 50 feet thick.</text>
-      <text>    When the wall appears, all other creatures within its area must each make a DC 24 Strength saving throw. A creature takes 33 (6d10) bludgeoning damage on failed save, or half as much damage on a successful one.</text>
-      <text>    At the start of each of the leviathan&#39;s turns after the wall appears, the wall, along with any other creatures in it, moves 50 feet away from the leviathan. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a DC 24 Strength saving throw or take 27 (5d10) bludgeoning damage. A creature takes this damage no more than once on a turn. At the end of each turn the wall moves, the wall&#39;s height is reduced by 50 feet, and the damage creatures take from the wall on subsequent rounds is reduced by 1d10. When the wall reaches 0 feet in height, the effect ends.</text>
-      <text>    A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful DC 24 Strength (Athletics) check to swim at all during that turn.</text>
+      <text>When the wall appears, all other creatures within its area must each make a DC 24 Strength saving throw. A creature takes 33 (6d10) bludgeoning damage on failed save, or half as much damage on a successful one.</text>
+      <text>At the start of each of the leviathan&#39;s turns after the wall appears, the wall, along with any other creatures in it, moves 50 feet away from the leviathan. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a DC 24 Strength saving throw or take 27 (5d10) bludgeoning damage. A creature takes this damage no more than once on a turn. At the end of each turn the wall moves, the wall&#39;s height is reduced by 50 feet, and the damage creatures take from the wall on subsequent rounds is reduced by 1d10. When the wall reaches 0 feet in height, the effect ends.</text>
+      <text>A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful DC 24 Strength (Athletics) check to swim at all during that turn.</text>
     </action>
     <legendary>
       <name>Legendary Actions (3/Turn)</name>
@@ -6091,7 +6091,7 @@
     <action>
       <name>Justify</name>
       <text>The marut targets up to two creatures it can see within 60 feet of it. Each target must succeed on a DC 20 Charisma saving throw or be teleported to a teleportation circle in the Hall of Concordance in Sigil. A target fails automatically if it is incapacitated. If either target is teleported in this way, the marut teleports with it to the circle.</text>
-      <text>    After teleporting in this way, the marut can&#39;t use this action again until it finishes a short or long rest.</text>
+      <text>After teleporting in this way, the marut can&#39;t use this action again until it finishes a short or long rest.</text>
     </action>
     <spells>plane shift</spells>
     <slots>0</slots>
@@ -6197,7 +6197,7 @@
     <action>
       <name>Garrote</name>
       <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target of the meazel&#39;s size or smaller. Hit: 6 (1d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (2d6 + 3) bludgeoning damage at the start of each of the meazel&#39;s turns.</text>
-      <text>    The meazel can&#39;t make weapon attacks while grappling a creature in this way.</text>
+      <text>The meazel can&#39;t make weapon attacks while grappling a creature in this way.</text>
       <attack>Garrote|5|1d6+3</attack>
     </action>
     <action>
@@ -6208,7 +6208,7 @@
     <action>
       <name>Shadow Teleport (Recharge 5-6)</name>
       <text>The meazel, any equipment it is wearing or carrying, and any creature it is grappling teleport to an unoccupied space within 500 feet of it, provided that the starting space and the destination are in dim light or darkness. The destination must be a place the meazel has seen before, but it need not be within line of sight. If the destination space is occupied, the teleportation leads to the nearest unoccupied space.</text>
-      <text>    Any other creature the meazel teleports becomes cursed by shadow for 1 hour. Until this curse ends, every undead and every creature native to the Shadowfell within 300 feet of the cursed creature can sense it, which prevents that creature from hiding from them.</text>
+      <text>Any other creature the meazel teleports becomes cursed by shadow for 1 hour. Until this curse ends, every undead and every creature native to the Shadowfell within 300 feet of the cursed creature can sense it, which prevents that creature from hiding from them.</text>
     </action>
     <spells></spells>
     <slots></slots>
@@ -6921,7 +6921,7 @@
     <trait>
       <name>Individual Designs</name>
       <text>A gnome artisan values an individualized clockwork more highly than a perfectly functioning one that copies too much from another creation. For that reason, even clockworks that fit established designs, such as those described here, are seldom identical.</text>
-      <text>    A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
+      <text>A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
       <text />
       <text>d10 &#8212; Enhancement:</text>
       <text />
@@ -7264,8 +7264,8 @@
     <trait>
       <name>Bringer of Plagues (Recharge 5-6)</name>
       <text>As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.</text>
-      <text>    Furthermore, when a creature moves into the blighted area or starts its turn there, that creature must make a DC 16 Constitution saving throw. On a successful save, the creature is immune to the oinoloth&#39;s Bringer of Plagues for the next 24 hours. On a failed save, the creature takes 14 (4d6) necrotic damage and is poisoned.</text>
-      <text>    The poisoned creature can&#39;t regain hit points. After every 24 hours that elapse, the poisoned creature can repeat the saving throw. On a failed save, the creature&#39;s hit point maximum is reduced by 5 (1d10). This reduction lasts until the poison ends, and the target dies if its hit point maximum is reduced to 0. The poison ends after the creature successfully saves against it three times.</text>
+      <text>Furthermore, when a creature moves into the blighted area or starts its turn there, that creature must make a DC 16 Constitution saving throw. On a successful save, the creature is immune to the oinoloth&#39;s Bringer of Plagues for the next 24 hours. On a failed save, the creature takes 14 (4d6) necrotic damage and is poisoned.</text>
+      <text>The poisoned creature can&#39;t regain hit points. After every 24 hours that elapse, the poisoned creature can repeat the saving throw. On a failed save, the creature&#39;s hit point maximum is reduced by 5 (1d10). This reduction lasts until the poison ends, and the target dies if its hit point maximum is reduced to 0. The poison ends after the creature successfully saves against it three times.</text>
       <text />
       <text>Poisoned:</text>
       <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
@@ -7300,7 +7300,7 @@
       <text>The oinoloth touches one willing creature within 5 feet of it. The target regains all its hit points. In addition, the oinoloth can end one disease on the target or remove one of the following conditions from it: blinded, deafened, paralyzed, or poisoned. The target then gains 1 level of exhaustion, and its hit point maximum is reduced by 7 (2d6). This reduction can be removed only by a wish spell or by casting greater restoration on the target three times within the same hour. The target dies if its hit point maximum is reduced to 0.</text>
       <text />
       <text>Exhaustion:</text>
-      <text>    Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect&#39;s description.</text>
+      <text>Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect&#39;s description.</text>
       <text />
       <text>Level &#8212; Effect:</text>
       <text>1 &#8212;Disadvantage on ability checks</text>
@@ -7308,12 +7308,12 @@
       <text>3 &#8212;Disadvantage on attack rolls and saving throws</text>
       <text>4 &#8212;Hit point maximum halved</text>
       <text>5 &#8212;Speed reduced to 0</text>
-      <text>    6 &#8212;Death</text>
+      <text>6 &#8212;Death</text>
       <text />
       <text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect&#39;s description.</text>
-      <text>    A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
-      <text>    An effect that removes exhaustion reduces its level as specified in the effect&#39;s description, with all exhaustion effects ending if a creature&#39;s exhaustion level is reduced below 1.</text>
-      <text>    Finishing a long rest reduces a creature&#39;s exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
+      <text>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
+      <text>An effect that removes exhaustion reduces its level as specified in the effect&#39;s description, with all exhaustion effects ending if a creature&#39;s exhaustion level is reduced below 1.</text>
+      <text>Finishing a long rest reduces a creature&#39;s exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
     </action>
     <action>
       <name>Teleport</name>
@@ -7370,15 +7370,15 @@
     <trait>
       <name>Wand of Orcus</name>
       <text>The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast animate dead, blight, or speak with dead. Alternatively, he can expend or 1 or more of the wand&#39;s charges to cast one of the following spells from it: circle of death (1 charge), finger of death (1 charge), or power word kill (2 charges). The wand regains 1d4+3 charges daily at dawn.</text>
-      <text>    While holding the wand, Orcus can use an action to conjure undead creatures whose combined average hit points don&#39;t exceed 500. These undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action. Once this property of the wand is used, the property can&#39;t be used again until the next dawn.</text>
+      <text>While holding the wand, Orcus can use an action to conjure undead creatures whose combined average hit points don&#39;t exceed 500. These undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action. Once this property of the wand is used, the property can&#39;t be used again until the next dawn.</text>
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
       <text>Orcus&#39;s spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: chill touch (17th level), detect magic</text>
-      <text>    3/day each: create undead, dispel magic</text>
-      <text>    1/day: time stop</text>
+      <text>At will: chill touch (17th level), detect magic</text>
+      <text>3/day each: create undead, dispel magic</text>
+      <text>1/day: time stop</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -7573,7 +7573,7 @@
     <trait>
       <name>Fiery Death and Rebirth</name>
       <text>When the phoenix dies, it explodes. Each creature within 60-feet of it must make a DC 20 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren&#39;t worn or carried.</text>
-      <text>    The explosion destroys the phoenix&#39;s body and leaves behind an egg-shaped cinder that weighs 5 pounds. The cinder is blazing hot, dealing 21 (6d6) fire damage to any creature that touches it, though no more than once per round. The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix.</text>
+      <text>The explosion destroys the phoenix&#39;s body and leaves behind an egg-shaped cinder that weighs 5 pounds. The cinder is blazing hot, dealing 21 (6d6) fire damage to any creature that touches it, though no more than once per round. The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix.</text>
     </trait>
     <trait>
       <name>Fire Form</name>
@@ -7766,7 +7766,7 @@
     <action>
       <name>Paralyzing Beam (Recharge 5-6)</name>
       <text>The retriever targets one creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The paralyzed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-      <text>    If the paralyzed creature is Medium or smaller, the retriever can pick it up as part of the retriever&#39;s move and walk or climb with it at full speed.</text>
+      <text>If the paralyzed creature is Medium or smaller, the retriever can pick it up as part of the retriever&#39;s move and walk or climb with it at full speed.</text>
       <text />
       <text>Paralyzed:</text>
       <text>&#8226; A paralyzed creature is incapacitated, meaning it can&#39;t take actions or reactions, and can&#39;t move or speak.</text>
@@ -8087,7 +8087,7 @@
       <text>The sibriex targets up to three creatures it can see within 120 feet of it. Each target must make a DC 20 Constitution saving throw. On a successful save, a creature becomes immune to this sibriex&#39;s Warp Creature. On a failed save, the target is poisoned, which causes it to also gain 1 level of exhaustion. While poisoned in this way, the target must repeat the saving throw at the start of each of its turns. Three successful saves against the poison end it, and ending the poison removes any levels of exhaustion caused by it. Each failed save causes the target to suffer another level of exhaustion. Once the target reaches 6 levels of exhaustion, it dies and instantly transforms into a living abyssal wretch under the sibriex&#39;s control. The transformation of the body can be undone only by a wish spell.</text>
       <text />
       <text>Exhaustion:</text>
-      <text>    Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect&#39;s description.</text>
+      <text>Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect&#39;s description.</text>
       <text />
       <text>Level &#8212; Effect:</text>
       <text>1 &#8212;Disadvantage on ability checks</text>
@@ -8095,12 +8095,12 @@
       <text>3 &#8212;Disadvantage on attack rolls and saving throws</text>
       <text>4 &#8212;Hit point maximum halved</text>
       <text>5 &#8212;Speed reduced to 0</text>
-      <text>    6 &#8212;Death</text>
+      <text>6 &#8212;Death</text>
       <text />
       <text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect&#39;s description.</text>
-      <text>    A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
-      <text>    An effect that removes exhaustion reduces its level as specified in the effect&#39;s description, with all exhaustion effects ending if a creature&#39;s exhaustion level is reduced below 1.</text>
-      <text>    Finishing a long rest reduces a creature&#39;s exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
+      <text>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
+      <text>An effect that removes exhaustion reduces its level as specified in the effect&#39;s description, with all exhaustion effects ending if a creature&#39;s exhaustion level is reduced below 1.</text>
+      <text>Finishing a long rest reduces a creature&#39;s exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
       <text />
       <text>Poisoned:</text>
       <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
@@ -8108,7 +8108,7 @@
     <action>
       <name>Variant: Flesh Warping</name>
       <text>Creatures that encounter a sibriex can be twisted beyond recognition. Whenever a creature fails a saving throw against the sibriex&#39;s Warp Creature effect, you can roll percentile dice and consult the Flesh Warping table to determine an additional effect, which vanishes when Warp Creature ends on the creature. If the creature transforms into an abyssal wretch, the effect becomes a permanent feature of that body.</text>
-      <text>    A creature can willingly submit to flesh warping, an agonizing process that takes at least 1 hour while the creature stays within 30 feet of the sibriex. At the end of the process, roll once on the table (or choose one effect) to determine how the creature is transformed permanently.</text>
+      <text>A creature can willingly submit to flesh warping, an agonizing process that takes at least 1 hour while the creature stays within 30 feet of the sibriex. At the end of the process, roll once on the table (or choose one effect) to determine how the creature is transformed permanently.</text>
       <text />
       <text>d100 &#8212; Effect:</text>
       <text />
@@ -8375,7 +8375,7 @@
       <text>The soul monger emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes 22 (5d8) psychic damage.</text>
       <text />
       <text>Exhaustion:</text>
-      <text>    Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect&#39;s description.</text>
+      <text>Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect&#39;s description.</text>
       <text />
       <text>Level &#8212; Effect:</text>
       <text>1 &#8212;Disadvantage on ability checks</text>
@@ -8383,12 +8383,12 @@
       <text>3 &#8212;Disadvantage on attack rolls and saving throws</text>
       <text>4 &#8212;Hit point maximum halved</text>
       <text>5 &#8212;Speed reduced to 0</text>
-      <text>    6 &#8212;Death</text>
+      <text>6 &#8212;Death</text>
       <text />
       <text>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect&#39;s description.</text>
-      <text>    A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
-      <text>    An effect that removes exhaustion reduces its level as specified in the effect&#39;s description, with all exhaustion effects ending if a creature&#39;s exhaustion level is reduced below 1.</text>
-      <text>    Finishing a long rest reduces a creature&#39;s exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
+      <text>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</text>
+      <text>An effect that removes exhaustion reduces its level as specified in the effect&#39;s description, with all exhaustion effects ending if a creature&#39;s exhaustion level is reduced below 1.</text>
+      <text>Finishing a long rest reduces a creature&#39;s exhaustion level by 1, provided that the creature has also ingested some food and drink.</text>
     </action>
     <spells>chill touch, poison spray, bestow curse, chain lightning, finger of death, gaseous form, phantasmal killer, seeming</spells>
     <slots></slots>
@@ -8498,7 +8498,7 @@
     <trait>
       <name>Joyful Presence</name>
       <text>Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin&#39;s Joyful Presence for 24 hours.</text>
-      <text>    Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.</text>
+      <text>Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.</text>
       <text />
       <text>Charmed:</text>
       <text>&#8226; A charmed creature can&#39;t attack the charmer or target the charmer with harmful abilities or magical effects.</text>
@@ -9132,7 +9132,7 @@
     <trait>
       <name>Individual Designs</name>
       <text>A gnome artisan values an individualized clockwork more highly than a perfectly functioning one that copies too much from another creation. For that reason, even clockworks that fit established designs, such as those described here, are seldom identical.</text>
-      <text>    A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
+      <text>A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork&#39;s builder.</text>
       <text />
       <text>d10 &#8212; Enhancement:</text>
       <text />
@@ -9411,7 +9411,7 @@
     <trait>
       <name>Rising Anger</name>
       <text>If another creature deals damage to the Angry, the Angry&#39;s attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack&#39;s target takes an extra 19 (3d12) psychic damage.</text>
-      <text>    On its turn, the Angry has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.</text>
+      <text>On its turn, the Angry has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -9643,7 +9643,7 @@
     <action>
       <name>Bite</name>
       <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10+1) piercing damage, and the Wretched attaches to the target. While attached, the Wretched can&#39;t attack, and at the start of each of the Wretched&#39;s turns, the target takes 6 (1d1[0-100]+[0-100]) necrotic damage.</text>
-      <text>    The attached Wretched moves with the target whenever the target moves, requiring none of the Wretched&#39;s movement. The Wretched can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach a Wretched.</text>
+      <text>The attached Wretched moves with the target whenever the target moves, requiring none of the Wretched&#39;s movement. The Wretched can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach a Wretched.</text>
       <attack>Bite|3|1d10+1</attack>
     </action>
     <spells></spells>
@@ -9938,7 +9938,7 @@
     <action>
       <name>Blood Drain</name>
       <text>One creature in the vampiric mist&#39;s space must make a DC 13 Constitution saving throw (undead and constructs automatically succeed). On a failed save, the target takes 10 (2d6 + 3) necrotic damage, its hit point maximum is reduced by an amount equal to the necrotic damage taken, and the mist regains hit points equal to that amount.</text>
-      <text>    This reduction to the target&#39;s hit point maximum lasts until the target finishes a long rest. It dies if this effect reduces its hit point maximum to 0.</text>
+      <text>This reduction to the target&#39;s hit point maximum lasts until the target finishes a long rest. It dies if this effect reduces its hit point maximum to 0.</text>
     </action>
     <spells></spells>
     <slots></slots>
@@ -10045,8 +10045,8 @@
     <trait>
       <name>Corrupt Water</name>
       <text>At the start of each of the wastrilith&#39;s turns, exposed water within 30 feet of it is befouled. Underwater, this effect lightly obscures the area until a current clears it away. Water in containers remains corrupted until it evaporates.</text>
-      <text>    A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (4d6) poison damage and is poisoned for 1 minute. At the end of this time, the poisoned creature must repeat the saving throw. On a failure, the creature takes 18 (4d8) poison damage and is poisoned until it finishes a long rest.</text>
-      <text>    If another demon drinks the foul water as an action, it gains 11 (2d10) temporary hit points.</text>
+      <text>A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (4d6) poison damage and is poisoned for 1 minute. At the end of this time, the poisoned creature must repeat the saving throw. On a failure, the creature takes 18 (4d8) poison damage and is poisoned until it finishes a long rest.</text>
+      <text>If another demon drinks the foul water as an action, it gains 11 (2d10) temporary hit points.</text>
       <text />
       <text>Poisoned:</text>
       <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
@@ -10248,7 +10248,7 @@
     <trait>
       <name>Sorrowful Presence</name>
       <text>Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. While charmed in this way, the creature has disadvantage on ability checks and saving throws. The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&#39;s saving throw is successful or the effect ends for it, the creature is immune to any eladrin&#39;s Sorrowful Presence for the next 24 hours.</text>
-      <text>    Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.</text>
+      <text>Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.</text>
       <text />
       <text>Charmed:</text>
       <text>&#8226; A charmed creature can&#39;t attack the charmer or target the charmer with harmful abilities or magical effects.</text>
@@ -10386,9 +10386,9 @@
       <name>Innate Spellcasting</name>
       <text>Yeenoghu&#39;s spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: detect magic, spiritual weapon (8th-level spell, 4d8+2 force damage on a hit, appears as a flail)</text>
-      <text>    3/day each: dispel magic, fear, invisibility</text>
-      <text>    1/day: teleport</text>
+      <text>At will: detect magic, spiritual weapon (8th-level spell, 4d8+2 force damage on a hit, appears as a flail)</text>
+      <text>3/day each: dispel magic, fear, invisibility</text>
+      <text>1/day: teleport</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
@@ -10409,9 +10409,9 @@
     <action>
       <name>Multiattack</name>
       <text>Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multi attack):</text>
-      <text>    1. The attack deals an extra 13 (2d12) bludgeoning damage.</text>
-      <text>    2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu&#39;s next turn.</text>
-      <text>    3. The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu&#39;s next turn.</text>
+      <text>1. The attack deals an extra 13 (2d12) bludgeoning damage.</text>
+      <text>2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu&#39;s next turn.</text>
+      <text>3. The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu&#39;s next turn.</text>
       <text />
       <text>Paralyzed:</text>
       <text>&#8226; A paralyzed creature is incapacitated, meaning it can&#39;t take actions or reactions, and can&#39;t move or speak.</text>
@@ -10538,7 +10538,7 @@
     <trait>
       <name>Earth-Shaking Movement</name>
       <text>As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is concentrating must succeed on a DC 25 Constitution saving throw or the creature&#39;s concentration is broken.</text>
-      <text>    The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure&#39;s height must make a DC 25 Dexterity saving throw. On a failed save, the creature takes 17 (5d6) bludgeoning damage, is knocked prone, and is trapped in the rubble. A trapped creature is restrained, requiring a successful DC 20 Strength (Athletics) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn&#39;t fall prone or become trapped.</text>
+      <text>The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure&#39;s height must make a DC 25 Dexterity saving throw. On a failed save, the creature takes 17 (5d6) bludgeoning damage, is knocked prone, and is trapped in the rubble. A trapped creature is restrained, requiring a successful DC 20 Strength (Athletics) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn&#39;t fall prone or become trapped.</text>
       <text />
       <text>Prone:</text>
       <text>&#8226; A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
@@ -10778,9 +10778,9 @@
       <name>Innate Spellcasting</name>
       <text>Zuggtmoy&#39;s spellcasting ability is Charisma (spell save DC 22). She can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>    At will: detect magic, locate animals or plants, ray of sickness</text>
-      <text>    3/day each: dispel magic, ensnaring strike, entangle, plant growth</text>
-      <text>    1/day: etherealness, teleport</text>
+      <text>At will: detect magic, locate animals or plants, ray of sickness</text>
+      <text>3/day each: dispel magic, ensnaring strike, entangle, plant growth</text>
+      <text>1/day: etherealness, teleport</text>
     </trait>
     <trait>
       <name>Legendary Resistance (3/Day)</name>

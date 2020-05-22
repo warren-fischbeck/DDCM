@@ -182,7 +182,7 @@
         <detail>rare</detail>
         <weight>6</weight>
         <text>A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eyes is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield&#39;s eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield.</text>
-        <text>    If a shield of far sight is destroyed, the mind flayer that created it is blinded for 2d12 hours.</text>
+        <text>If a shield of far sight is destroyed, the mind flayer that created it is blinded for 2d12 hours.</text>
         <text />
         <text>Source: Volo&#39;s Guide to Monsters, p. 81</text>
         <ac>2</ac>
@@ -231,8 +231,8 @@
         <trait>
             <name>Necrotic Shroud</name>
             <text>Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.</text>
-            <text>    Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.</text>
-            <text>    Once you use this trait, you can&#39;t use it again until you finish a long rest.</text>
+            <text>Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.</text>
+            <text>Once you use this trait, you can&#39;t use it again until you finish a long rest.</text>
             <text />            <text>Frightened:</text>
             <text>&#8226; A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</text>
             <text />
@@ -281,8 +281,8 @@
         <trait>
             <name>Radiant Soul</name>
             <text>Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.</text>
-            <text>    Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</text>
-            <text>    Once you use this trait, you can&#39;t use it again until you finish a long rest.</text>
+            <text>Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</text>
+            <text>Once you use this trait, you can&#39;t use it again until you finish a long rest.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 105</text>
         </trait>
@@ -327,8 +327,8 @@
         <trait>
             <name>Radiant Consumption</name>
             <text>Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.</text>
-            <text>    Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</text>
-            <text>    Once you use this trait, you can&#39;t use it again until you finish a long rest.</text>
+            <text>Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</text>
+            <text>Once you use this trait, you can&#39;t use it again until you finish a long rest.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 105</text>
         </trait>
@@ -461,21 +461,21 @@
             <text>You have proficiency in the Athletics skill.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 109</text>
-            <text>        Elemental Evil Player&#39;s Companion, p. 11</text>
+            <text>Elemental Evil Player&#39;s Companion, p. 11</text>
         </trait>
         <trait>
             <name>Stone&#39;s Endurance</name>
             <text>You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can&#39;t use it again until you finish a short or long rest.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 109</text>
-            <text>        Elemental Evil Player&#39;s Companion, p. 11</text>
+            <text>Elemental Evil Player&#39;s Companion, p. 11</text>
         </trait>
         <trait>
             <name>Powerful Build</name>
             <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 109</text>
-            <text>        Elemental Evil Player&#39;s Companion, p. 11</text>
+            <text>Elemental Evil Player&#39;s Companion, p. 11</text>
                     <special>powerful build</special>
         </trait>
         <trait>
@@ -483,14 +483,14 @@
             <text>You&#39;re acclimated to high altitude, including elevations above 20,000 feet. You&#39;re also naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master&#39;s Guide.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 109</text>
-            <text>        Elemental Evil Player&#39;s Companion, p. 11</text>
+            <text>Elemental Evil Player&#39;s Companion, p. 11</text>
         </trait>
         <trait>
             <name>Languages</name>
             <text>You can speak, read, and write Common and Giant.</text>
             <text></text>
             <text>Source: Volo&#39;s Guide to Monsters, p. 109</text>
-            <text>        Elemental Evil Player&#39;s Companion, p. 11</text>
+            <text>Elemental Evil Player&#39;s Companion, p. 11</text>
         </trait>
     </race>
     <race>
@@ -962,7 +962,7 @@
         <trait>
             <name>Hag Coven</name>
             <text>When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.</text>
-            <text>    A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.</text>
+            <text>A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.</text>
         </trait>
         <trait>
             <name>Shared Spellcasting (Coven Only)</name>
@@ -980,12 +980,12 @@
             <text />
             <text>&#8226; 6th level (1 slot): eyebite</text>
             <text />
-            <text>    For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag&#39;s Intelligence modifier, and the spell attack bonus is 4+the hag&#39;s Intelligence modifier.</text>
+            <text>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag&#39;s Intelligence modifier, and the spell attack bonus is 4+the hag&#39;s Intelligence modifier.</text>
         </trait>
         <trait>
             <name>Hag Eye (Coven Only)</name>
             <text>A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.</text>
-            <text>    A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can&#39;t perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.</text>
+            <text>A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can&#39;t perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.</text>
         </trait>
         <trait>
             <name>Variant: Death Coven</name>
@@ -1131,8 +1131,8 @@
         <action>
             <name>Change Shape (2/Day)</name>
             <text>The archdruid magically polymorphs into a beast or elemental with a challenge rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The archdruid reverts to its true form if it dies or falls unconscious. The archdruid can revert to its true form using a bonus action on its turn.</text>
-            <text>    While in a new form, the archdruid retains its game statistics and ability to speak, but its AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and it gains any special senses, proficiencies, traits, actions, and reactions (except class features, legendary actions, and lair actions) that the new form has but that it lacks. It can cast its spells with verbal or somatic components in its new form.</text>
-            <text>    The new form&#39;s attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.</text>
+            <text>While in a new form, the archdruid retains its game statistics and ability to speak, but its AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and it gains any special senses, proficiencies, traits, actions, and reactions (except class features, legendary actions, and lair actions) that the new form has but that it lacks. It can cast its spells with verbal or somatic components in its new form.</text>
+            <text>The new form&#39;s attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.</text>
         </action>
         <spells>druidcraft, mending, poison spray, produce flame, cure wounds, entangle, faerie fire, speak with animals, animal messenger, beast sense, hold person, conjure animals, meld into stone, water breathing, dominate beast, locate creature, stoneskin, wall of fire, commune with nature, mass cure wounds, tree stride, heal, heroes&#39; feast, sunbeam, fire storm, animal shapes, foresight</spells>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
@@ -1517,7 +1517,7 @@
         <action>
             <name>Swallow</name>
             <text>The banderhobb makes a bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb and it takes 10 (3d6) necrotic damage at the start of each of the banderhobb&#39;s turns. A creature reduced to 0 hit points in this way stops taking necrotic damage and becomes stable.</text>
-            <text>     The banderhobb can have only one target swallowed at a time. While the banderhobb isn&#39;t incapacitated, it can regurgitate the creature at any time (no action required) in a space within 5 feet of it. The creature exits prone. If the banderhobb dies, it likewise regurgitates a swallowed creature.</text>
+            <text>The banderhobb can have only one target swallowed at a time. While the banderhobb isn&#39;t incapacitated, it can regurgitate the creature at any time (no action required) in a space within 5 feet of it. The creature exits prone. If the banderhobb dies, it likewise regurgitates a swallowed creature.</text>
             <text />
             <text>Blinded:</text>
             <text>&#8226; A blinded creature can&#39;t see and automatically fails any ability check that requires sight.</text>
@@ -1636,7 +1636,7 @@
         <trait>
             <name>Soul Feeding</name>
             <text>A barghest can feed on the corpse of a humanoid that it killed that has been dead for less than 10 minutes, devouring both flesh and soul in doing so. This feeding takes at least 1 minute, and it destroys the victim&#39;s body. The victim&#39;s soul is trapped in the barghest for 24 hours, after which time it is digested. If the barghest dies before the soul is digested, the soul is released.</text>
-            <text>    While a humanoid&#39;s soul is trapped in a barghest, any form of revival that could work has only a 50 percent chance of doing so, freeing the soul from the barghest if it is successful. Once a creature&#39;s soul is digested, however, no mortal magic can return that humanoid to life.</text>
+            <text>While a humanoid&#39;s soul is trapped in a barghest, any form of revival that could work has only a 50 percent chance of doing so, freeing the soul from the barghest if it is successful. Once a creature&#39;s soul is digested, however, no mortal magic can return that humanoid to life.</text>
         </trait>
         <action>
             <name>Bite</name>
@@ -1693,7 +1693,7 @@
         <trait>
             <name>Hag Coven</name>
             <text>When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.</text>
-            <text>    A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.</text>
+            <text>A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.</text>
         </trait>
         <trait>
             <name>Shared Spellcasting (Coven Only)</name>
@@ -1711,12 +1711,12 @@
             <text />
             <text>&#8226; 6th level (1 slot): eyebite</text>
             <text />
-            <text>    For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag&#39;s Intelligence modifier, and the spell attack bonus is 4+the hag&#39;s Intelligence modifier.</text>
+            <text>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag&#39;s Intelligence modifier, and the spell attack bonus is 4+the hag&#39;s Intelligence modifier.</text>
         </trait>
         <trait>
             <name>Hag Eye (Coven Only)</name>
             <text>A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.</text>
-            <text>    A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can&#39;t perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.</text>
+            <text>A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can&#39;t perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.</text>
         </trait>
         <trait>
             <name>Variant: Death Coven</name>
@@ -1942,7 +1942,7 @@
         <trait>
             <name>Death Gaze</name>
             <text>When a creature that can see the bodak&#39;s eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn&#39;t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points, unless it is immune to the frightened condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed save.</text>
-            <text>    Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so. it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, it must immediately make the saving throw.</text>
+            <text>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so. it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, it must immediately make the saving throw.</text>
         </trait>
         <trait>
             <name>Sunlight Hypersensitivity</name>
@@ -2007,8 +2007,8 @@
         <action>
             <name>Oil Puddle</name>
             <text>The boggle creates a puddle of oil that is either slippery or sticky (boggle&#39;s choice). The puddle is 1 inch deep and covers the ground in the boggle&#39;s space. The puddle is difficult terrain For all creatures except boggles and lasts for 1 hour.</text>
-            <text>    If the oil is slippery, any creature that enters the puddle&#39;s area or starts its turn there must succeed on a DC 11 Dexterity saving throw or fall prone.</text>
-            <text>    If the oil is sticky, any creature that enters the puddle&#39;s area or starts its turn there must succeed on a DC 11 Strength saving throw or be restrained. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful DC 11 Strength check.</text>
+            <text>If the oil is slippery, any creature that enters the puddle&#39;s area or starts its turn there must succeed on a DC 11 Dexterity saving throw or fall prone.</text>
+            <text>If the oil is sticky, any creature that enters the puddle&#39;s area or starts its turn there must succeed on a DC 11 Strength saving throw or be restrained. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful DC 11 Strength check.</text>
             <text />
             <text>Prone:</text>
             <text>&#8226; A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
@@ -3442,7 +3442,7 @@
         <reaction>
             <name>Instinctive Charm (Recharges after the Enchanter Casts an Enchantment Spell of 1st level or Higher)</name>
             <text>The enchanter tries to magically divert an attack made against it, provided that the attacker is within 30 feet of it and visible to it. The enchanter must decide to do so before the attack hits or misses.</text>
-            <text>    The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attacker targets the creature closest to it, other than the enchanter or itself. If multiple creatures are closest, the attacker chooses which one to target.</text>
+            <text>The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attacker targets the creature closest to it, other than the enchanter or itself. If multiple creatures are closest, the attacker chooses which one to target.</text>
         </reaction>
         <spells>friends, mage hand, mending, message, charm person, mage armor, magic missile, hold person, invisibility, suggestion, fireball, haste, tongues, dominate beast, stoneskin, hold monster</spells>
         <slots>4, 3, 3, 3, 2</slots>
@@ -3819,7 +3819,7 @@
         <action>
             <name>Bite</name>
             <text>Melee Weapon Attack: +10 to hit, reach 5 ft, one target. Hit: 22 (3d10+6) piercing damage, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) acid damage at the start of each of the froghemoth&#39;s turns.</text>
-            <text>    The froghemoth&#39;s gullet can hold up to two creatures at a time. If the Froghemoth takes 20 damage or more on a single turn from a creature inside it, the Froghemoth must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls prone in a space within 10 feet of the froghemoth. If the froghemoth dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
+            <text>The froghemoth&#39;s gullet can hold up to two creatures at a time. If the Froghemoth takes 20 damage or more on a single turn from a creature inside it, the Froghemoth must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls prone in a space within 10 feet of the froghemoth. If the froghemoth dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
             <text />
             <text>Blinded:</text>
             <text>&#8226; A blinded creature can&#39;t see and automatically fails any ability check that requires sight.</text>
@@ -4020,7 +4020,7 @@
             <text />            <text>2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer&#39;s next turn.</text>
             <text />            <text>3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.</text>
             <text />            <text>4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.</text>
-            <text>    If the target is an object weighing 10 pounds or less that isn&#39;t being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.</text>
+            <text>If the target is an object weighing 10 pounds or less that isn&#39;t being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.</text>
             <text />
             <text>Charmed:</text>
             <text>&#8226; A charmed creature can&#39;t attack the charmer or target the charmer with harmful abilities or magical effects.</text>
@@ -4357,7 +4357,7 @@
         <trait>
             <name>Variant: Grung Poison</name>
             <text>Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.</text>
-            <text>    A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
+            <text>A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
             <text />            <text>Green. The poisoned creature can&#39;t move except to climb or make standing jumps. If the creature is flying, it can&#39;t take any actions or reactions unless it lands.</text>
             <text />            <text>Blue. The poisoned creature must shout loudly or otherwise make a loud noise at the start and end of its turn.</text>
             <text />            <text>Purple. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can&#39;t take actions or move except to do so or to reach a body of liquid or mud.</text>
@@ -4413,7 +4413,7 @@
         <trait>
             <name>Variant: Grung Poison</name>
             <text>Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.</text>
-            <text>    A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
+            <text>A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
             <text />            <text>Orange. The poisoned creature is frightened of its allies.</text>
             <text />            <text>Gold. The poisoned creature is charmed and can speak Grung.</text>
             <text />
@@ -4502,7 +4502,7 @@
         <trait>
             <name>Variant: Grung Poison</name>
             <text>Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.</text>
-            <text>    A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
+            <text>A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
             <text />            <text>Red. The poisoned creature must use its action to eat if food is within reach.</text>
         </trait>
         <action>
@@ -5165,7 +5165,7 @@
         <trait>
             <name>Command Hair</name>
             <text>The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.</text>
-            <text>    A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred&#39;s turns while it has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.</text>
+            <text>A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred&#39;s turns while it has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.</text>
         </trait>
         <trait>
             <name>Innate Spellcasting</name>
@@ -5657,7 +5657,7 @@
             <text />            <text>4. Slowing Ray: The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target&#39;s speed is halved for 1 minute. In addition, the creature can&#39;t take reactions, and it can take either an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
             <text />            <text>5. Stunning Ray: The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success.</text>
             <text />            <text>6. Telekinetic Ray: If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray&#39;s telekinetic grip until the start of the mindwitness&#39;s next turn or until the mindwitness is incapacitated.</text>
-            <text>    If the target is an object weighing 300 pounds or less that isn&#39;t being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.</text>
+            <text>If the target is an object weighing 300 pounds or less that isn&#39;t being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.</text>
             <text />
             <text>Frightened:</text>
             <text>&#8226; A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</text>
@@ -5795,7 +5795,7 @@
         <trait>
             <name>Mouth of Madness</name>
             <text>The giant is immune to confusion spells and similar magic.</text>
-            <text>    On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food. Roll a d10 at the start of each of the giant&#39;s turns to determine its action for that turn:</text>
+            <text>On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food. Roll a d10 at the start of each of the giant&#39;s turns to determine its action for that turn:</text>
             <text />            <text>1-3. The giant makes three attacks with its fists against one random target within its reach. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.</text>
             <text />            <text>4-5. The giant makes one attack with its fist against every creature within its reach. If no other creatures are within its reach, the giant makes one fist attack against itself.</text>
             <text />            <text>6-7. The giant makes one attack with its bite against one random target within its reach. If no other creatures are within its reach, its eyes glaze over and it becomes stunned until the start of its next turn.</text>
@@ -6081,7 +6081,7 @@
         <action>
             <name>Tentacles</name>
             <text>Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 21 (3d8+8) bludgeoning damage plus 13 (3d8) psychic damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be swallowed by the neothelid. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the neothelid, and it takes 35 (10d6) acid damage at the start of each of the neothelid&#39;s turns.</text>
-            <text>    If the neothelid takes 30 damage or more on a single turn from a creature inside it, the neothelid must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
+            <text>If the neothelid takes 30 damage or more on a single turn from a creature inside it, the neothelid must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</text>
             <text />
             <text>Blinded:</text>
             <text>&#8226; A blinded creature can&#39;t see and automatically fails any ability check that requires sight.</text>
@@ -7543,7 +7543,7 @@
             <text />            <text>&#8226;An extra 10 feet of speed while the bearer is unencumbered</text>
             <text />            <text>&#8226;Proficiency with Constitution saving throws</text>
             <text />            <text>&#8226;Resistance to acid, cold, fire, lightning, or thunder damage (transmuter&#39;s choice whenever the transmuter chooses this benefit)</text>
-            <text />            <text>    If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.</text>
+            <text />            <text>If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.</text>
         </trait>
         <action>
             <name>Quarterstaff</name>
@@ -8625,8 +8625,8 @@
             <name>Innate Spellcasting (Yuan-ti Form Only)</name>
             <text>The yuan-ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:</text>
             <text />
-            <text>    At will: animal friendship (snakes only)</text>
-            <text>    3/day: suggestion</text>
+            <text>At will: animal friendship (snakes only)</text>
+            <text>3/day: suggestion</text>
         </trait>
         <trait>
             <name>Magic Resistance</name>
@@ -8714,8 +8714,8 @@
             <name>Innate Spellcasting (Yuan-ti Form Only)</name>
             <text>The yuan-ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:</text>
             <text />
-            <text>    At will: animal friendship (snakes only)</text>
-            <text>    3/day: suggestion</text>
+            <text>At will: animal friendship (snakes only)</text>
+            <text>3/day: suggestion</text>
         </trait>
         <trait>
             <name>Magic Resistance</name>

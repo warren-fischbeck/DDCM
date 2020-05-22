@@ -2632,8 +2632,8 @@
         <text>Spellcasting Ability:</text>
         <text>Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.</text>
         <text></text>
-        <text> Spell save DC = 8 + your proficiency bonus + your Intelligence modifier</text>
-        <text> Spell attack modifier = your proficiency bonus + your Intelligence modifier</text>
+        <text>Spell save DC = 8 + your proficiency bonus + your Intelligence modifier</text>
+        <text>Spell attack modifier = your proficiency bonus + your Intelligence modifier</text>
         <text></text>
         <text>Ritual Casting:</text>
         <text>You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</text>
@@ -2692,32 +2692,32 @@
       </feature>
       <feature optional="YES">
         <name>Alchemist Spells (Alchemist)</name>
-        <text> Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.</text>
+        <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.</text>
         <text></text>
-        <text> 3rd - healing word, ray of sickness</text>
-        <text> 5th - flaming sphere, Melf&#39;s acid arrow</text>
-        <text> 9th - gaseous form, mass healing word</text>
-        <text> 13th - blight, death ward</text>
-        <text> 17th - cloudkill, raise dead</text>
+        <text>3rd - healing word, ray of sickness</text>
+        <text>5th - flaming sphere, Melf&#39;s acid arrow</text>
+        <text>9th - gaseous form, mass healing word</text>
+        <text>13th - blight, death ward</text>
+        <text>17th - cloudkill, raise dead</text>
         <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
         <name>Experimental Elixir (Alchemist)</name>
-        <text> Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&#39;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.</text>
+        <text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&#39;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.</text>
         <text></text>
-        <text> Creating an experimental elixir requires you to have alchemist&#39;s supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.</text>
+        <text>Creating an experimental elixir requires you to have alchemist&#39;s supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.</text>
         <text></text>
-        <text> When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir&#39;s effect separately. Each elixir requires its own flask.</text>
+        <text>When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir&#39;s effect separately. Each elixir requires its own flask.</text>
         <text></text>
-        <text> You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir&#39;s effect from the Experimental Elixir table.</text>
+        <text>You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir&#39;s effect from the Experimental Elixir table.</text>
         <text></text>
-        <text> 1 - Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.</text>
-        <text> 2 -    Swiftness. The drinker&#39;s walking speed increases by 10 feet for 1 hour.</text>
-        <text> 3 -    Resilience. The drinker gains a +1 bonus to AC for 10 minutes.</text>
-        <text> 4 -    Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.</text>
-        <text> 5 -    Flight. The drinker gains a flying speed of 10 feet for 10 minutes.</text>
-        <text> 6 - Transformation. The drinker&#39;s body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.</text>
+        <text>1 - Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.</text>
+        <text>2 -    Swiftness. The drinker&#39;s walking speed increases by 10 feet for 1 hour.</text>
+        <text>3 -    Resilience. The drinker gains a +1 bonus to AC for 10 minutes.</text>
+        <text>4 -    Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.</text>
+        <text>5 -    Flight. The drinker gains a flying speed of 10 feet for 10 minutes.</text>
+        <text>6 - Transformation. The drinker&#39;s body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.</text>
         <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
@@ -2800,8 +2800,8 @@
       <feature optional="YES">
         <name>Battle Ready (Battle Smith)</name>
         <text>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:</text>
-        <text> &#183; You gain proficiency with martial weapons.</text>
-        <text> &#183; When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</text>
+        <text>&#183; You gain proficiency with martial weapons.</text>
+        <text>&#183; When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</text>
         <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
