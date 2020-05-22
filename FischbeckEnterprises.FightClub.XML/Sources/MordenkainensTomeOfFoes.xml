@@ -46,59 +46,59 @@
     <trait>
       <name>Superior Darkvision</name>
       <text>Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
       <text>You have advantage on saving throws against poison, and you have resistance against poison damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook p. 20</text>
     </trait>
     <trait>
       <name>Dwarven Combat Training</name>
       <text>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook p. 20</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
       <text>You gain proficiency with the artisan&#39;s tools of your choice: smith&#39;s tools, brewer&#39;s supplies, or mason&#39;s tools.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook p. 20</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
       <text>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook p. 20</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Dwarvish, Common, and Undercommon.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Duergar Resilience</name>
       <text>You have advantage on saving throws against illusions and against being charmed or paralyzed.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Duergar Magic</name>
       <text>When you reach 3rd level, you can cast the enlarge/reduce spell on yourself once with this trait, using only the spell&#39;s enlarge option. When your each 5th level, you can cast invisibility on yourself once with this trait. You don&#39;t need material components for either spell, and you can&#39;t cast them while you&#39;re in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
     <trait>
       <name>Sunlight Sensitivity</name>
       <text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 104</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 81</text>
     </trait>
@@ -113,31 +113,31 @@
     <trait>
       <name>Darkvision</name>
       <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
       <text>You have proficiency in the Perception skill.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Trance</name>
       <text>Elves don&#39;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
@@ -152,7 +152,7 @@
       <text>Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.</text>
       <text />
       <text>Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 61</text>
     </trait>
     <trait>
@@ -165,7 +165,7 @@
       <text>Summer is the season of boldness and aggression, a time of unfettered energy.</text>
       <text />
       <text>    Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season. When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin&#39;s current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 61</text>
     </trait>
   </race>
@@ -179,49 +179,49 @@
     <trait>
       <name>Darkvision</name>
       <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
       <text>You have proficiency in the Perception skill.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Trance</name>
       <text>Elves don&#39;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Elvish, and Aquan. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Sea Elf Training</name>
       <text>You have proficiency with the spear, trident, light crossbow, and net.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 62</text>
     </trait>
     <trait>
       <name>Child of the Sea</name>
       <text>You have a swimming speed of 30 feet and can breathe air and water.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 62</text>
     </trait>
     <trait>
       <name>Friend of the Sea</name>
       <text>Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 62</text>
     </trait>
   </race>
@@ -235,44 +235,44 @@
     <trait>
       <name>Darkvision</name>
       <text>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Keen Senses</name>
       <text>You have proficiency in the Perception skill.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Trance</name>
       <text>Elves don&#39;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 23</text>
     </trait>
     <trait>
       <name>Necrotic Resistance</name>
       <text>You have resistance to necrotic damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 62</text>
     </trait>
     <trait>
       <name>Blessing of the Raven Queen</name>
       <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can&#39;t do so again until you finish a long rest.</text>
       <text>    Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 62</text>
     </trait>
   </race>
@@ -286,19 +286,19 @@
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Gith.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
     <trait>
       <name>Decadent Mastery</name>
       <text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu&#39;narath, githyanki have bountiful time to master odd bits of knowledge.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
     <trait>
       <name>Martial Prodigy</name>
       <text>You are proficient with light and medium armor and with shortswords, longswords, and greatswords.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
     <trait>
@@ -306,7 +306,7 @@
       <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
       <text>    When you reach 3rd level, you can cast the jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
       <text>    Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
   </race>
@@ -320,13 +320,13 @@
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Gith.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
     <trait>
       <name>Mental Discipline</name>
       <text>You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
     <trait>
@@ -334,7 +334,7 @@
       <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
       <text>    When you reach 3rd level, you can cast the shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
       <text>    Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don&#39;t require components.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 96</text>
     </trait>
   </race>
@@ -348,7 +348,7 @@
     <trait>
       <name>Superior Darkvision</name>
       <text>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
       <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
@@ -356,7 +356,7 @@
     <trait>
       <name>Gnome Cunning</name>
       <text>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
       <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
@@ -364,7 +364,7 @@
     <trait>
       <name>Stone Camouflage</name>
       <text>You have advantage on Dexterity (stealth) checks to hide in rocky terrain and underground.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
       <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
@@ -372,7 +372,7 @@
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Gnomish, and Undercommon. The svirfneblin dialect is more guttural than surface Gnomish, and most svirfneblin know only a little bit of Common, but those who deal with outsiders (and that includes you as an adventurer) pick up enough Common to get by in other lands.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
       <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
       <text>        Mordenkainen&#39;s Tome of Foes, p. 113</text>
@@ -388,25 +388,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Maladomini</name>
       <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the crown of madness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 21</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -420,25 +420,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Dis</name>
       <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 21</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -452,25 +452,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Phlegethos</name>
       <text>You know the friends cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 22</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -484,25 +484,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Malbolge</name>
       <text>You know the minor illusion cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 22</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -516,25 +516,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Stygia</name>
       <text>You know the ray of frost cantrip. When you reach 3rd level, you can cast the armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 22</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -548,25 +548,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Minauros</name>
       <text>You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser&#39;s floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 22</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -580,25 +580,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Cania</name>
       <text>You know the mage hand cantrip. When you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the flame blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 23</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -612,25 +612,25 @@
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Legacy of Avernus</name>
       <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Mordenkainen&#39;s Tome of Foes, p. 23</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
-      <text> </text>
+      <text></text>
       <text>Source: Player&#39;s Handbook, p. 43</text>
     </trait>
   </race>
@@ -641,7 +641,7 @@
     <prerequisite>Gnome (deep gnome)</prerequisite>
     <text>You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast nondetection on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: blindness/deafness, blur, and disguise self. You regain the ability to cast these spells when you finish a long rest.</text>
     <text>    Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.</text>
-    <text> </text>
+    <text></text>
     <text>Source: Sword Coast Adventurer&#39;s Guide, p. 115</text>
     <text>        Elemental Evil Player&#39;s Companion, p. 7</text>
     <text>        Mordenkainen&#39;s Tome of Foes, p. 114</text>
@@ -1029,9 +1029,9 @@
       <name>Innate Spellcasting</name>
       <text>The amnizu&#39;s innate spellcasting ability is Intelligence (spell save 19, +11 to hit with spell attacks). The amnizu can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: charm person, command </text>
+      <text>At will: charm person, command</text>
       <text />
-      <text>3/day each: dominate person, fireball </text>
+      <text>3/day each: dominate person, fireball</text>
       <text />
       <text>1/day each: dominate monster, feeblemind.</text>
     </trait>
@@ -1282,9 +1282,9 @@
       <name>Innate Spellcasting</name>
       <text>The eladrin&#39;s innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: calm emotions, sleep </text>
+      <text>At will: calm emotions, sleep</text>
       <text />
-      <text>3/day each: cure wounds (as a 5th-level spell), lesser restoration </text>
+      <text>3/day each: cure wounds (as a 5th-level spell), lesser restoration</text>
       <text />
       <text>1/day each: greater restoration, heal, raise dead.</text>
     </trait>
@@ -1475,7 +1475,7 @@
       <name>Innate Spellcasting</name>
       <text>The berbalang&#39;s innate spellcasting ability is Intelligence (spell save DC 13). The berbalang can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: speak with dead </text>
+      <text>At will: speak with dead</text>
       <text />
       <text>1/day each: plane shift (self only)</text>
     </trait>
@@ -1605,19 +1605,19 @@
       <name>Spellcasting</name>
       <text>The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The abishai has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): friends, mage hand, message, minor illusion, shocking grasp </text>
+      <text>Cantrips (at will): friends, mage hand, message, minor illusion, shocking grasp</text>
       <text />
-      <text>1st level (4 slots): chromatic orb, disguise self, expeditious retreat, magic missile, charm person, thunderwave </text>
+      <text>1st level (4 slots): chromatic orb, disguise self, expeditious retreat, magic missile, charm person, thunderwave</text>
       <text />
-      <text>2nd level (3 slots): darkness, mirror image, misty step </text>
+      <text>2nd level (3 slots): darkness, mirror image, misty step</text>
       <text />
-      <text>3rd level (3 slots): dispel magic, fear, lightning bolt </text>
+      <text>3rd level (3 slots): dispel magic, fear, lightning bolt</text>
       <text />
-      <text>4th level (3 slots): dimension door, greater invisibility, ice storm </text>
+      <text>4th level (3 slots): dimension door, greater invisibility, ice storm</text>
       <text />
-      <text>5th level (2 slots): cone of cold, wall of force </text>
+      <text>5th level (2 slots): cone of cold, wall of force</text>
       <text />
-      <text>6th level (1 slot): chain lightning </text>
+      <text>6th level (1 slot): chain lightning</text>
       <text />
       <text>7th level (1 slot): teleport</text>
     </trait>
@@ -2381,7 +2381,7 @@
       <name>Innate Spellcasting</name>
       <text>The wight&#39;s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:</text>
       <text />
-      <text>At will: detect magic, disguise self, mage armor </text>
+      <text>At will: detect magic, disguise self, mage armor</text>
       <text />
       <text>1/day each: fear, hold person, misty step</text>
     </trait>
@@ -2491,9 +2491,9 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Demogorgon can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Demogorgon can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row:</text>
       <text />
-      <text>&#8226; Demogorgon creates an illusory duplicate of himself, which appears in his own space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or object interacts physically with Demogorgon (for example, by hitting him with an attack), there is a 50 percent chance that the illusory duplicate is being affected, not Demogorgon himself, in which case the illusion disappears. </text>
+      <text>&#8226; Demogorgon creates an illusory duplicate of himself, which appears in his own space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or object interacts physically with Demogorgon (for example, by hitting him with an attack), there is a 50 percent chance that the illusory duplicate is being affected, not Demogorgon himself, in which case the illusion disappears.</text>
       <text />
       <text>&#8226; Demogorgon casts the darkness spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn&#39;t need to concentrate on the spells, which end on initiative count 20 of the next round.</text>
     </action>
@@ -2662,7 +2662,7 @@
       <name>Innate Spellcasting</name>
       <text>The dhergoloth&#39;s innate spellcasting ability is Charisma (spell save DC 10). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: darkness, fear </text>
+      <text>At will: darkness, fear</text>
       <text />
       <text>3/day each: sleep</text>
     </trait>
@@ -2791,7 +2791,7 @@
       <name>Innate Spellcasting</name>
       <text>The drow&#39;s innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dancing lights </text>
+      <text>At will: dancing lights</text>
       <text />
       <text>1/day each: darkness, faerie fire, levitate (self only).</text>
     </trait>
@@ -2801,7 +2801,7 @@
       <text />
       <text>Cantrips (at will): chill touch, eldritch blast, mage hand, poison spray 1st&#8211;</text>
       <text />
-      <text>5th level (3 5th-level slots): conjure animals (spiders only), crown of madness, dimension door, dispel magic, fear, fly, giant insect, hold monster, insect plague, invisibility, vampiric touch, web, witch bolt </text>
+      <text>5th level (3 5th-level slots): conjure animals (spiders only), crown of madness, dimension door, dispel magic, fear, fly, giant insect, hold monster, insect plague, invisibility, vampiric touch, web, witch bolt</text>
       <text />
       <text>1/day each: dominate monster, etherealness, eyebite.</text>
     </trait>
@@ -2894,7 +2894,7 @@
       <name>Innate Spellcasting</name>
       <text>The drow&#39;s innate spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dancing lights </text>
+      <text>At will: dancing lights</text>
       <text />
       <text>1/day each: darkness, faerie fire, levitate (self only).</text>
     </trait>
@@ -2902,17 +2902,17 @@
       <name>Spellcasting</name>
       <text>The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). It has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): mage hand, message, poison spray, shocking grasp, ray of frost </text>
+      <text>Cantrips (at will): mage hand, message, poison spray, shocking grasp, ray of frost</text>
       <text />
-      <text>1st level (4 slots): burning hands, mage armor, magic missile, shield </text>
+      <text>1st level (4 slots): burning hands, mage armor, magic missile, shield</text>
       <text />
-      <text>2nd level (3 slots): gust of wind, invisibility, misty step, shatter </text>
+      <text>2nd level (3 slots): gust of wind, invisibility, misty step, shatter</text>
       <text />
-      <text>3rd level (3 slots): counterspell, fireball, haste </text>
+      <text>3rd level (3 slots): counterspell, fireball, haste</text>
       <text />
-      <text>4th level (3 slots): dimension door, Otiluke&#39;s resilient sphere </text>
+      <text>4th level (3 slots): dimension door, Otiluke&#39;s resilient sphere</text>
       <text />
-      <text>5th level (2 slots): cone of cold </text>
+      <text>5th level (2 slots): cone of cold</text>
       <text />
       <text>6th level (1 slot): chain lightning.</text>
     </trait>
@@ -2995,7 +2995,7 @@
       <name>Innate Spellcasting</name>
       <text>The drow&#39;s innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dancing lights </text>
+      <text>At will: dancing lights</text>
       <text />
       <text>1/day each: darkness, faerie fire, levitate (self only).</text>
     </trait>
@@ -3084,7 +3084,7 @@
       <name>Innate Spellcasting</name>
       <text>The drow&#39;s innate spellcasting ability is Charisma (spell save DC 18). She can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dancing lights, detect magic </text>
+      <text>At will: dancing lights, detect magic</text>
       <text />
       <text>1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, levitate (self only), suggestion.</text>
     </trait>
@@ -3096,17 +3096,17 @@
       <name>Spellcasting</name>
       <text>The drow is a 12th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). She has the following cleric spells prepared:</text>
       <text />
-      <text>Cantrips (at will): guidance, message, poison spray, resistance, thaumaturgy </text>
+      <text>Cantrips (at will): guidance, message, poison spray, resistance, thaumaturgy</text>
       <text />
-      <text>1st level (4 slots): bane, cure wounds, inflict wounds </text>
+      <text>1st level (4 slots): bane, cure wounds, inflict wounds</text>
       <text />
-      <text>2nd level (3 slots): blindness/deafness, silence, spiritual weapon </text>
+      <text>2nd level (3 slots): blindness/deafness, silence, spiritual weapon</text>
       <text />
-      <text>3rd level (3 slots): bestow curse, dispel magic, magic circle </text>
+      <text>3rd level (3 slots): bestow curse, dispel magic, magic circle</text>
       <text />
-      <text>4th level (3 slots): banishment, divination, freedom of movement </text>
+      <text>4th level (3 slots): banishment, divination, freedom of movement</text>
       <text />
-      <text>5th level (2 slots): contagion, dispel evil and good, insect plague </text>
+      <text>5th level (2 slots): contagion, dispel evil and good, insect plague</text>
       <text />
       <text>6th level (1 slot): harm, true seeing.</text>
     </trait>
@@ -3166,7 +3166,7 @@
       <name>Innate Spellcasting</name>
       <text>The drow&#39;s innate spellcasting ability is Charisma (spell save DC 20). She can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dancing lights, detect magic </text>
+      <text>At will: dancing lights, detect magic</text>
       <text />
       <text>1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, levitate (self only), suggestion.</text>
     </trait>
@@ -3182,23 +3182,23 @@
       <name>Spellcasting</name>
       <text>The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 19, +11 to hit with spell attacks). The drow has the following cleric spells prepared:</text>
       <text />
-      <text>Cantrips (at will): guidance, mending, resistance, sacred flame, thaumaturgy </text>
+      <text>Cantrips (at will): guidance, mending, resistance, sacred flame, thaumaturgy</text>
       <text />
-      <text>1st level (4 slots): bane, command, cure wounds, guiding bolt </text>
+      <text>1st level (4 slots): bane, command, cure wounds, guiding bolt</text>
       <text />
-      <text>2nd level (3 slots): hold person, silence, spiritual weapon </text>
+      <text>2nd level (3 slots): hold person, silence, spiritual weapon</text>
       <text />
-      <text>3rd level (3 slots): bestow curse, clairvoyance, dispel magic, spirit guardians </text>
+      <text>3rd level (3 slots): bestow curse, clairvoyance, dispel magic, spirit guardians</text>
       <text />
-      <text>4th level (3 slots): banishment, death ward, freedom of movement, guardian of faith </text>
+      <text>4th level (3 slots): banishment, death ward, freedom of movement, guardian of faith</text>
       <text />
-      <text>5th level (3 slots): contagion, flame strike, geas, mass cure wounds </text>
+      <text>5th level (3 slots): contagion, flame strike, geas, mass cure wounds</text>
       <text />
-      <text>6th level (2 slots): blade barrier, harm </text>
+      <text>6th level (2 slots): blade barrier, harm</text>
       <text />
-      <text>7th level (2 slots): divine word, plane shift </text>
+      <text>7th level (2 slots): divine word, plane shift</text>
       <text />
-      <text>8th level (1 slot): holy aura </text>
+      <text>8th level (1 slot): holy aura</text>
       <text />
       <text>9th level (1 slot): gate.</text>
     </trait>
@@ -3284,7 +3284,7 @@
       <name>Innate Spellcasting</name>
       <text>The drow&#39;s innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dancing lights </text>
+      <text>At will: dancing lights</text>
       <text />
       <text>1/day each: darkness, faerie fire, levitate (self only).</text>
     </trait>
@@ -3363,7 +3363,7 @@
       <name>Innate Spellcasting (Psionics)</name>
       <text>The duergar despot&#39;s innate spellcasting ability is Intelligence (spell save DC 12). It can cast the following spells, requiring no components:</text>
       <text />
-      <text>At will: mage hand, minor illusion </text>
+      <text>At will: mage hand, minor illusion</text>
       <text />
       <text>1/day each: counterspell, misty step, stinking cloud.</text>
     </trait>
@@ -3972,7 +3972,7 @@
       <name>Innate Spellcasting</name>
       <text>The dybbuk&#39;s innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dimension door </text>
+      <text>At will: dimension door</text>
       <text />
       <text>3/day each: fear, phantasmal force.</text>
     </trait>
@@ -4167,7 +4167,7 @@
       <name>Innate Spellcasting</name>
       <text>The oblex&#39;s innate spellcasting ability is Intelligence (spell save DC 18). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: charm person (as 5th-level spell), detect thoughts, hold person </text>
+      <text>At will: charm person (as 5th-level spell), detect thoughts, hold person</text>
       <text />
       <text>3/day each: confusion, dimension door, dominate person, fear, hallucinatory terrain, hold monster, hypnotic pattern, telekinesis.</text>
     </trait>
@@ -4419,11 +4419,11 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Fraz-Urb&#39;luu can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Fraz-Urb&#39;luu can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row:</text>
       <text />
-      <text>&#8226; Fraz-Urb&#39;luu causes up to five doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none. </text>
+      <text>&#8226; Fraz-Urb&#39;luu causes up to five doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none.</text>
       <text />
-      <text>&#8226; Fraz-Urb&#39;luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb&#39;luu&#39;s commands and is destroyed on the next initiative count 20. </text>
+      <text>&#8226; Fraz-Urb&#39;luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb&#39;luu&#39;s commands and is destroyed on the next initiative count 20.</text>
       <text />
       <text>&#8226; Fraz-Urb&#39;luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10) psychic damage.</text>
     </action>
@@ -4528,7 +4528,7 @@
       <name>Innate Spellcasting</name>
       <text>Geryon&#39;s innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice </text>
+      <text>At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice</text>
       <text />
       <text>1/day each: divine word, symbol (pain only)</text>
     </trait>
@@ -4734,13 +4734,13 @@
       <name>Spellcasting</name>
       <text>The githyanki is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The githyanki has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): blade ward, light, message, true strike </text>
+      <text>Cantrips (at will): blade ward, light, message, true strike</text>
       <text />
-      <text>1st level (4 slots): expeditious retreat, magic missile, sleep, thunderwave </text>
+      <text>1st level (4 slots): expeditious retreat, magic missile, sleep, thunderwave</text>
       <text />
-      <text>2nd level (3 slots): blur, invisibility, levitate </text>
+      <text>2nd level (3 slots): blur, invisibility, levitate</text>
       <text />
-      <text>3rd level (3 slots): counterspell, fireball, haste </text>
+      <text>3rd level (3 slots): counterspell, fireball, haste</text>
       <text />
       <text>4th level (2 slots): dimension door.</text>
     </trait>
@@ -4924,7 +4924,7 @@
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text />
-      <text>3/day each: feather fall, jump, see invisibility, shield, telekinesis </text>
+      <text>3/day each: feather fall, jump, see invisibility, shield, telekinesis</text>
       <text />
       <text>1/day each: globe of invulnerability, plane shift, teleportation circle, wall of force.</text>
     </trait>
@@ -5009,7 +5009,7 @@
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text />
-      <text>3/day each: blur, expeditious retreat, feather fall, jump, see invisibility, shield </text>
+      <text>3/day each: blur, expeditious retreat, feather fall, jump, see invisibility, shield</text>
       <text />
       <text>1/day each: haste, plane shift, teleport.</text>
     </trait>
@@ -5074,7 +5074,7 @@
       <name>Innate Spellcasting</name>
       <text>The gloom weaver&#39;s innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: arcane eye, mage armor, speak with dead </text>
+      <text>At will: arcane eye, mage armor, speak with dead</text>
       <text />
       <text>1/day each: arcane gate, bane, compulsion, confusion, true seeing.</text>
     </trait>
@@ -5228,9 +5228,9 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Graz&#39;zt can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Graz&#39;zt can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row:</text>
       <text />
-      <text>&#8226; Graz&#39;zt casts the command spell on every creature of his choice in the lair. He needn&#39;t see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets. </text>
+      <text>&#8226; Graz&#39;zt casts the command spell on every creature of his choice in the lair. He needn&#39;t see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.</text>
       <text />
       <text>&#8226; Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity (Stealth) checks made to hide.</text>
     </action>
@@ -5294,9 +5294,9 @@
       <name>Innate Spellcasting</name>
       <text>The abishai&#39;s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: alter self, major image </text>
+      <text>At will: alter self, major image</text>
       <text />
-      <text>3/day each: charm person, detect thoughts, fear </text>
+      <text>3/day each: charm person, detect thoughts, fear</text>
       <text />
       <text>1/day each: confusion, dominate person, mass suggestion.</text>
     </trait>
@@ -5488,9 +5488,9 @@
       <name>Innate Spellcasting</name>
       <text>Hutijin&#39;s innate spellcasting ability is Charisma (spell save DC 22). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: alter self (can become Medium when changing his appearance), animate dead, detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire </text>
+      <text>At will: alter self (can become Medium when changing his appearance), animate dead, detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire</text>
       <text />
-      <text>3/day each: dispel magic </text>
+      <text>3/day each: dispel magic</text>
       <text />
       <text>1/day each: heal, symbol (hopelessness only).</text>
     </trait>
@@ -5601,7 +5601,7 @@
       <name>Innate Spellcasting</name>
       <text>The hydroloth&#39;s innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: darkness, detect magic, dispel magic, invisibility (self only), water walk </text>
+      <text>At will: darkness, detect magic, dispel magic, invisibility (self only), water walk</text>
       <text />
       <text>3/day each: control water, crown of madness, fear, phantasmal killer, suggestion.</text>
     </trait>
@@ -5832,14 +5832,14 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Juiblex can take a lair action to cause one of the following effects; it can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Juiblex can take a lair action to cause one of the following effects; it can&#39;t use the same effect two rounds in a row:</text>
       <text />
       <text>&#8226; Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become restrained. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.</text>
       <text>    A restrained creature is stuck as long as it remains in the slimy area or until it breaks free. The restrained creature, or another creature that can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check.</text>
-      <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage. </text>
+      <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.</text>
       <text />
       <text>&#8226; Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall prone and slide 10 feet in a random direction determined by a d8 roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.</text>
-      <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage. </text>
+      <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.</text>
       <text />
       <text>&#8226; A green slime (see the Dungeon Master&#39;s Guide) appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.</text>
       <text />
@@ -6303,9 +6303,9 @@
       <name>Innate Spellcasting</name>
       <text>The merrenoloth&#39;s innate spellcasting ability is Intelligence (spell save DC 13). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: charm person, darkness, detect magic, dispel magic, gust of wind </text>
+      <text>At will: charm person, darkness, detect magic, dispel magic, gust of wind</text>
       <text />
-      <text>3/day each: control water </text>
+      <text>3/day each: control water</text>
       <text />
       <text>1/day each: control weather</text>
     </trait>
@@ -6391,7 +6391,7 @@
       <name>Innate Spellcasting</name>
       <text>Moloch&#39;s innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: alter self (can become Medium when changing his appearance), animate dead, burning hands (as a 7th-level spell), confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire </text>
+      <text>At will: alter self (can become Medium when changing his appearance), animate dead, burning hands (as a 7th-level spell), confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire</text>
       <text />
       <text>1/day each: flame strike, symbol (stunning only)</text>
     </trait>
@@ -6494,9 +6494,9 @@
       <name>Innate Spellcasting</name>
       <text>The molydeus&#39;s innate spellcasting ability is Charisma (spell save DC 22). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: dispel magic, polymorph, telekinesis, teleport </text>
+      <text>At will: dispel magic, polymorph, telekinesis, teleport</text>
       <text />
-      <text>3/day each: lightning bolt </text>
+      <text>3/day each: lightning bolt</text>
       <text />
       <text>1/day each: imprisonment</text>
     </trait>
@@ -6673,21 +6673,21 @@
       <name>Spellcasting</name>
       <text>The nagpa is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). A nagpa has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): chill touch, fire bolt, mage hand, message, minor illusion </text>
+      <text>Cantrips (at will): chill touch, fire bolt, mage hand, message, minor illusion</text>
       <text />
-      <text>1st level (4 slots): charm person, detect magic, protection from evil and good, witch bolt </text>
+      <text>1st level (4 slots): charm person, detect magic, protection from evil and good, witch bolt</text>
       <text />
-      <text>2nd level (3 slots): hold person, ray of enfeeblement, suggestion </text>
+      <text>2nd level (3 slots): hold person, ray of enfeeblement, suggestion</text>
       <text />
-      <text>3rd level (3 slots): counterspell, fireball, fly </text>
+      <text>3rd level (3 slots): counterspell, fireball, fly</text>
       <text />
-      <text>4th level (3 slots): confusion, hallucinatory terrain, wall of fire </text>
+      <text>4th level (3 slots): confusion, hallucinatory terrain, wall of fire</text>
       <text />
-      <text>5th level (2 slots): dominate person, dream, geas </text>
+      <text>5th level (2 slots): dominate person, dream, geas</text>
       <text />
-      <text>6th level (1 slot): circle of death, disintegrate </text>
+      <text>6th level (1 slot): circle of death, disintegrate</text>
       <text />
-      <text>7th level (1 slot): etherealness, prismatic spray </text>
+      <text>7th level (1 slot): etherealness, prismatic spray</text>
       <text />
       <text>8th level (1 slot): feeblemind</text>
     </trait>
@@ -7412,11 +7412,11 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Orcus can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Orcus can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row:</text>
       <text />
-      <text>&#8226; Orcus&#39;s voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to power word kill (save DC 23). Orcus needn&#39;t see the creature, but he must be aware that the individual is in the lair. </text>
+      <text>&#8226; Orcus&#39;s voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to power word kill (save DC 23). Orcus needn&#39;t see the creature, but he must be aware that the individual is in the lair.</text>
       <text />
-      <text>&#8226; Orcus causes up to six corpses within the lair to rise as skeletons, zombies, or ghouls. These undead obey his telepathic commands, which can reach anywhere in the lair. </text>
+      <text>&#8226; Orcus causes up to six corpses within the lair to rise as skeletons, zombies, or ghouls. These undead obey his telepathic commands, which can reach anywhere in the lair.</text>
       <text />
       <text>&#8226; Orcus causes skeletal arms to rise from an area on the ground in a 20-foot square that he can see. They last until the next initiative count 20. Each creature in that area when the arms appear must succeed on a DC 23 Strength saving throw or be restrained until the arms disappear or until Orcus releases them (no action required).</text>
       <text />
@@ -8052,7 +8052,7 @@
       <name>Innate Spellcasting</name>
       <text>The sibriex&#39;s innate spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: charm person, command, dispel magic, hold monster </text>
+      <text>At will: charm person, command, dispel magic, hold monster</text>
       <text />
       <text>3/day each: feeblemind.</text>
     </trait>
@@ -8153,7 +8153,7 @@
       <text>96&#8211;00 &#8212; The target grows another head, causing it to have advantage on saving throws against being charmed, frightened, or stunned.</text>
       <text />
       <text>Deafened:</text>
-      <text>&#8226; A deafened creature can&#39;t hear and automatically fails any ability check that requires hearing. </text>
+      <text>&#8226; A deafened creature can&#39;t hear and automatically fails any ability check that requires hearing.</text>
     </action>
     <spells>charm person, command, dispel magic, hold monster, feeblemind</spells>
     <slots></slots>
@@ -8261,19 +8261,19 @@
       <name>Spellcasting</name>
       <text>The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:</text>
       <text />
-      <text>Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp </text>
+      <text>Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp</text>
       <text />
-      <text>1st level (4 slots): magic missile, expeditious retreat, thunderwave </text>
+      <text>1st level (4 slots): magic missile, expeditious retreat, thunderwave</text>
       <text />
-      <text>2nd level (3 slots): mirror image, scorching ray </text>
+      <text>2nd level (3 slots): mirror image, scorching ray</text>
       <text />
-      <text>3rd level (3 slots): fear, haste </text>
+      <text>3rd level (3 slots): fear, haste</text>
       <text />
-      <text>4th level (3 slots): dimension door, ice storm </text>
+      <text>4th level (3 slots): dimension door, ice storm</text>
       <text />
-      <text>5th level (2 slots): cloudkill, cone of cold </text>
+      <text>5th level (2 slots): cloudkill, cone of cold</text>
       <text />
-      <text>6th level (1 slot): eyebite </text>
+      <text>6th level (1 slot): eyebite</text>
       <text />
       <text>7th level (1 slot): finger of death</text>
     </trait>
@@ -8489,9 +8489,9 @@
       <name>Innate Spellcasting</name>
       <text>The eladrin&#39;s innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: charm person, Tasha&#39;s hideous laughter </text>
+      <text>At will: charm person, Tasha&#39;s hideous laughter</text>
       <text />
-      <text>3/day each: confusion, enthrall, suggestion </text>
+      <text>3/day each: confusion, enthrall, suggestion</text>
       <text />
       <text>1/day each: hallucinatory terrain, Otto&#39;s irresistible dance.</text>
     </trait>
@@ -8660,9 +8660,9 @@
       <name>Innate Spellcasting</name>
       <text>The larva mage&#39;s innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: eldritch blast (3 beams, +3 bonus to each damage roll), minor illusion </text>
+      <text>At will: eldritch blast (3 beams, +3 bonus to each damage roll), minor illusion</text>
       <text />
-      <text>3/day each: dominate monster </text>
+      <text>3/day each: dominate monster</text>
       <text />
       <text>1/day each: circle of death</text>
     </trait>
@@ -9681,9 +9681,9 @@
       <name>Innate Spellcasting</name>
       <text>Titivilus&#39;s innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion </text>
+      <text>At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion</text>
       <text />
-      <text>3/day each: greater invisibility (self only), mislead </text>
+      <text>3/day each: greater invisibility (self only), mislead</text>
       <text />
       <text>1/day each: feeblemind, symbol (discord or sleep only)</text>
     </trait>
@@ -9856,9 +9856,9 @@
       <name>Spellcasting</name>
       <text>The tortle is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</text>
       <text />
-      <text>Cantrips (at will): druidcraft, guidance, produce flame </text>
+      <text>Cantrips (at will): druidcraft, guidance, produce flame</text>
       <text />
-      <text>1st level (4 slots): animal friendship, cure wounds, speak with animals, thunderwave </text>
+      <text>1st level (4 slots): animal friendship, cure wounds, speak with animals, thunderwave</text>
       <text />
       <text>2nd level (3 slots): darkvision, hold person</text>
     </trait>
@@ -10237,7 +10237,7 @@
       <name>Innate Spellcasting</name>
       <text>The eladrin&#39;s innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: fog cloud, gust of wind </text>
+      <text>At will: fog cloud, gust of wind</text>
       <text />
       <text>1/day each: cone of cold, ice storm.</text>
     </trait>
@@ -10305,7 +10305,7 @@
       <name>Innate Spellcasting</name>
       <text>The yagnoloth&#39;s innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion </text>
+      <text>At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion</text>
       <text />
       <text>3/day each: lightning bolt</text>
     </trait>
@@ -10435,11 +10435,11 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can&#39;t use the same effect two rounds in a row:</text>
       <text />
-      <text>&#8226; Yeenoghu causes an iron spike &#8212; 5 feet tall and 1 inch in diameter &#8212; to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (6d8) piercing damage and is restrained by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the restrained condition. </text>
+      <text>&#8226; Yeenoghu causes an iron spike &#8212; 5 feet tall and 1 inch in diameter &#8212; to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (6d8) piercing damage and is restrained by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the restrained condition.</text>
       <text />
-      <text>&#8226; Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed. </text>
+      <text>&#8226; Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed.</text>
       <text />
       <text>&#8226; Until the next initiative count 20, all gnolls and hyenas within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.</text>
       <text />
@@ -10667,7 +10667,7 @@
       <name>Innate Spellcasting</name>
       <text>Zariel&#39;s innate spellcasting ability is Charisma (spell save DC 26). She can innately cast the following spells, requiring no material components:</text>
       <text />
-      <text>At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire </text>
+      <text>At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire</text>
       <text />
       <text>3/day each: blade barrier, dispel evil and good, finger of death.</text>
     </trait>
@@ -10707,7 +10707,7 @@
       <text>&#8226; Attack rolls against the creature have advantage, and the creature&#39;s attack rolls have disadvantage.</text>
       <text />
       <text>Deafened:</text>
-      <text>&#8226; A deafened creature can&#39;t hear and automatically fails any ability check that requires hearing. </text>
+      <text>&#8226; A deafened creature can&#39;t hear and automatically fails any ability check that requires hearing.</text>
       <text />
       <text>Poisoned:</text>
       <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
@@ -10818,11 +10818,11 @@
     </action>
     <action>
       <name>Lair Actions</name>
-      <text>On initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can&#39;t use the same effect two rounds in a row: </text>
+      <text>On initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can&#39;t use the same effect two rounds in a row:</text>
       <text />
-      <text>&#8226; Zuggtmoy causes four gas spores or violet fungi (see the Monster Manual) to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour. </text>
+      <text>&#8226; Zuggtmoy causes four gas spores or violet fungi (see the Monster Manual) to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.</text>
       <text />
-      <text>&#8226; Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack. </text>
+      <text>&#8226; Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.</text>
       <text />
       <text>&#8226; Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself.</text>
     </action>

@@ -19,7 +19,7 @@
         Humans
         "All that haste, their ambitions and drive to accomplish something before their brief lives pass away - human endeavors seem so futile sometimes. But then you look at what they have accomplished, and you have to appreciate their achievements. If only they could slow down and learn some refinement."
         Source: Eberron: Rising from the Last War p. 49
-      </text>
+</text>
     </trait>
     <trait>
       <name>Cunning Intuition</name>
@@ -39,7 +39,7 @@
         3rd | clairvoyance, major image
         4th | greater invisibility, hallucinatory terrain
         5th | mislead
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
@@ -70,7 +70,7 @@
       <text>
         Elves don&#39;t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
         If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -81,21 +81,21 @@
       <text>
         With their unearthly grace and fine features, elves appear hauntingly beautiful to humans and members of many other races. They are slightly shorter than humans on average, ranging from well under 5 feet tall to just over 6 feet. They are more slender than humans, weighing only 100 to 145 pounds. Males and females are about the same height, and males are only marginally heavier than females.
         Elves&#39; coloration encompasses the normal human range and also includes skin in shades of copper, bronze, and almost bluish-white, hair of green or blue, and eyes like pools of liquid gold or silver. Elves have no facial and little body hair. They favor elegant clothing in bright colors, and they enjoy simple yet lovely jewelry.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Timeless Perspective</name>
       <text>
         Elves can live well over 700 years, giving them a broad perspective on events that might trouble the shorter-lived races more deeply. They are more often amused than excited, and more likely to be curious than greedy. They tend to remain aloof and unfazed by petty happenstance. When pursuing a goal, however, whether adventuring on a mission or learning a new skill or art, elves can be focused and relentless. They are slow to make friends and enemies, and even slower to forget them. They reply to petty insults with disdain and to serious insults with vengeance.
         Like the branches of a young tree, elves are flexible in the face of danger. They trust in diplomacy and compromise to resolve differences before they escalate to violence. They have been known to retreat from intrusions into their woodland homes, confident that they can simply wait the invaders out. But when the need arises, elves reveal a stern martial side, demonstrating skill with sword, bow, and strategy.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hidden Woodland and Realms</name>
       <text>
         Most elves dwell in small forest villages hidden among the trees. Elves hunt game, gather food, and grow vegetables, and their skill and magic allow them to support themselves without the need for clearing and plowing land. They are talented artisans, crafting finely worked clothes and art objects. Their contact with outsiders is usually limited, though a few elves make a good living by trading crafted items for metals (which they have no interest in mining).
         Elves encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of elf instructors to teach swordplay or magic to their children.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exploration and Adventure</name>
@@ -110,7 +110,7 @@
         &#183; Male Adult Names: Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
         &#183; Female Adult Names: Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia
         &#183; Family Names (Common Translations): Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -125,7 +125,7 @@
       <text>
         A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
         Source: Eberron: Rising from the Last War p. 47
-      </text>
+</text>
     </trait>
     <trait>
       <name>Gifted Scribe</name>
@@ -145,7 +145,7 @@
         3rd | sending, tongues
         4th | arcane eye, confusion
         5th | dream
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
@@ -176,7 +176,7 @@
       <text>
         A gnome&#39;s energy and enthusiasm for living shines through every inch his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown face&#39;s are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome&#39;s insatiable interest in everything around.
         A gnome&#39;s personality is writ large in his or her appearance. A male gnome&#39;s beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome&#39;s clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Delighted Dedication</name>
@@ -184,14 +184,14 @@
         As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can&#39;t get in enough of the things they want to do and see.
         Gnomes speak as if they can&#39;t get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.
         Though gnomes love jokes of all kinds, particularly puns and pranks, they&#39;re just as dedicated to the more serious tasks they undertake. Many gnomes are skilled engineers, alchemists, tinkerers, and inventors. They&#39;re willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Bright Burrows</name>
       <text>
         Gnomes makes their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface where ever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.
         Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkerers. Some human families retained gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Gnome Names</name>
@@ -201,7 +201,7 @@
         &#183; Female Names: Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
         &#183; Clan Names: Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningcl, Raulnor, Seheppen, Timbers, Turen
         &#183; Nicknames: Aleslosh, Aslthearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nina, Oneshoe, Pock, Sparklegem, Scumbleduck
-      </text>
+</text>
     </trait>
     <trait>
       <name>Seeing The World</name>
@@ -224,7 +224,7 @@
       <text>
         Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing to adulthood while their peers continue to live as children, growing restless in the timeless elven realms. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
         Source: Eberron: Rising from the Last War p. 40
-      </text>
+</text>
     </trait>
     <trait>
       <name>Magical Detection</name>
@@ -240,7 +240,7 @@
         3rd | clairvoyance, nondetection
         4th | arcane eye, divination
         5th | legend lore
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
@@ -279,7 +279,7 @@
       <text>
         Half-elves have no lands of their own, though they are welcome in human cities and somewhat less welcome in elven forests. In large cities in regions where elves and humans interact often, half-elves are sometimes numerous enough to form small communities of their own. They enjoy the company of other half-elves, the only people who truly understand what it is to live between these two worlds.
         In most parts of the world, though, half-elves are uncommon enough that one might live for years without meeting another. Some prefer to avoid company altogether, wandering the wilds as foresters, hunters, or adventurers and visiting civilization only rarely. Like elves, they are driven by the wanderlust that comes of their longevity. Others, in contrast, throw themselves into the thick of society, putting their charisma and social skills to great use in diplomatic roles or as swindlers.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Half-Elf Names</name>
@@ -302,7 +302,7 @@
       <text>
         Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing to adulthood while their peers continue to live as children, growing restless in the timeless elven realms. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
         Source: Eberron: Rising from the Last War p. 50
-      </text>
+</text>
     </trait>
     <trait>
       <name>Storm&#39;s Boon</name>
@@ -322,7 +322,7 @@
         3rd | sleet storm, wind wall
         4th | conjure minor elementals, control water
         5th | conjure elemental
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
@@ -361,7 +361,7 @@
       <text>
         Half-elves have no lands of their own, though they are welcome in human cities and somewhat less welcome in elven forests. In large cities in regions where elves and humans interact often, half-elves are sometimes numerous enough to form small communities of their own. They enjoy the company of other half-elves, the only people who truly understand what it is to live between these two worlds.
         In most parts of the world, though, half-elves are uncommon enough that one might live for years without meeting another. Some prefer to avoid company altogether, wandering the wilds as foresters, hunters, or adventurers and visiting civilization only rarely. Like elves, they are driven by the wanderlust that comes of their longevity. Others, in contrast, throw themselves into the thick of society, putting their charisma and social skills to great use in diplomatic roles or as swindlers.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Half-Elf Names</name>
@@ -384,31 +384,31 @@
       <text>
         Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human tribes sometimes form alliances, joining forces into a larger horde to the terror of civilized lands nearby. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs and savage fury.
         Source: Eberron: Rising from the Last War p. 41
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hunter&#39;s Intuition</name>
       <text>
         When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Finder&#39;s Magic</name>
       <text>
         You can cast the hunter&#39;s mark spell with this trait. Starting at 3rd level, you can also cast the locate object spell with it. Once you cast either spell with this trait, you can&#39;t cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Goblin.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -421,39 +421,39 @@
         4th | divination, locate creature
         5th | commune with nature
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Scarred and Strong</name>
       <text>
         Half-orcs&#39; grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see. Half-orcs stand between 6 and 7 feet tall and usually weigh between 180 and 250 pounds.
         Orcs regard battle scars as tokens or pride and ornamental scars as things of beauty. Other scars, though, mark an Orc, or half-orc as a former slave or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries. Such a half-orc living among humans might display these scars proudly or hide them in shame.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Mark of Gruumsh</name>
       <text>
         The one-eyed god Gruumsh created the Orcs, and even those orcs who turn away from his worship can&#39;t fully escape his influence. The same is true of half orcs, though their human blood moderates the impact of their orcish heritage. Some half-orcs hear the whispers of Grummsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh&#39;s exultation when they join in melee combat-and either exult along with him or shiver with fear and loathing. Half-orcs are not evil by nature, but evil does lurk within them, whether they embrace it or rebel against it.
         Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn&#39;t just quicken their pulse, it makes their bodies burn. An insult stings like acid, and sadness saps their strength. But they laugh loudly and heartily, and simple bodily pleasures-feasting, drinking, wrestling, drumming, and wild dancing-fill their hearts with joy. They tend to be short tempered and sometimes sullen, more inclined to action than contemplation and to fighting than arguing. The most accomplished half-orcs are those with enough self control to get by in a civilized land.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Half-Orc Names</name>
@@ -461,13 +461,13 @@
         Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
         &#183; Male Orc Names: Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
         &#183; Female Orc Names: Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Vola, Volen, Yevelda
-      </text>
+</text>
     </trait>
     <trait>
       <name>Grudging Acceptance</name>
       <text>
         Each half-orc finds a way to gain acceptance from those who hate orcs. Some are reserved, trying not to draw attention to themselves. A few demonstrate piety and good-heartedness as publicly as they can (whether or not such demonstrations are genuine). And some simply try to be so tough that others just avoid them.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -488,19 +488,19 @@
         Humans
         "You take the time to get to know a human, and by then the human&#39;s on her deathbed. If you&#39;re lucky, she&#39;s got kin-a daughter or granddaughter, maybe-who&#39;s got hands and heart as good as hers. That&#39;s when you can make a human friend. And watch them go!. They set their hearts on something, they&#39;ll get it whether it&#39;s a dragon&#39;s hoard or an empire&#39;s throne. You have to admire that kind of dedication, even if it gets them in trouble more often than not."
         Source: Eberron: Rising from the Last War p. 51
-      </text>
+</text>
     </trait>
     <trait>
       <name>Warder&#39;s Intuition</name>
       <text>
         When you make an Intelligence (Investigation) check or an ability check using thieves&#39; tools, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Wards and Seals</name>
       <text>
         You can cast the alarm and mage armor spells with this trait. Starting at 3rd level, you can also cast the arcane lock spell with it. Once you cast any of these spells with this trait, you can&#39;t cast that spell with it again until you finish a long rest. Intelligence is your spellcasting ability for these spells, and you don&#39;t need material components for them when you cast them with this trait.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -513,67 +513,67 @@
         4th | Leomund&#39;s secret chest, Mordenkainen&#39;s faithful hound
         5th | antilife shell
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Dwarves mature at the same rate as humans, but they&#39;re considered young until they reach the age of 50. On average, they live about 350 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Speed</name>
       <text>
         Your speed is not reduced by wearing heavy armor.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Dwarven Resilience</name>
       <text>
         You have advantage on saving throws against poison, and you have resistance against poison damage.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Dwarven Combat Training</name>
       <text>
         You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Tool Proficiency</name>
       <text>
         You gain proficiency with the artisan&#39;s tools of your choice: Smith&#39;s tools, brewer&#39;s supplies, or mason&#39;s tools.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Stonecunning</name>
       <text>
         Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Short and Stout</name>
@@ -581,7 +581,7 @@
         Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human standing nearly two feet taller. Their courage and endurance are also easily a match for any of the larger folk.
         Dwarven skin ranges from deep brown to a paler hue tinged with red, but the most common shades are light brown or deep tan, like certain tones of earth.
         Their hair, worn long but in simple styles, is usually black, gray, or brown, though paler dwarves often have red hair. Male dwarves value their beards highly and groom them carefully.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Long Memory, Long Grudges</name>
@@ -589,7 +589,7 @@
         Dwarves can live to be more than 400 years old, so the oldest living dwarves often remember a very different world. For example, some of the oldest dwarves living in Citadel Felbarr (in the world of the Forgotten Realms) can recall the day, more than three centuries ago, when orcs conquered the fortress and drove them into an exile that lasted over 250 years. This longevity grants them a perspective on the world that shorter-lived races such as humans and halflings lack.
         Dwarves are solid and enduring like the mountains they love, weathering the passage of centuries with stoic endurance and little change. They respect the traditions of their clans, tracing their ancestry back to the founding of their most ancient strongholds in the youth of the world, and don&#39;t abandon those traditions lightly. Part of those traditions is devotion to the gods of the dwarves, who uphold the dwarven ideals of industrious labor, skill in battle, and devotion to the forge.
         Individual dwarves are determined and loyal, true to their word and decisive in action, sometimes to the point of stubbornness. Many dwarves have a strong sense of justice, and they are slow to forget wrongs they have suffered. A wrong done to one dwarf is a wrong done to the dwarf&#39;s entire clan, so what begins as one dwarf&#39;s hunt for vengeance can become a full-blown clan feud.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Clans and Kingdoms</name>
@@ -597,13 +597,13 @@
         Dwarven kingdoms stretch deep beneath the mountains where the dwarves mine gems and precious metals and forge items of wonder. They love the beauty and artistry of precious metals and fine jewelry, and in some dwarves this love festers into avarice. Whatever wealth they can&#39;t find in their mountains, they gain through trade. They dislike boats, so enterprising humans and halflings frequently handle trade in dwarven goods along water routes. Trustworthy members of other races are welcome in dwarf settlements, though some areas are off limits even to them.
         The chief unit of dwarven society is the clan, and dwarves highly value social standing. Even dwarves who live far from their own kingdoms cherish their clan identities and affiliations, recognize related dwarves, and invoke their ancestors&#39; names in oaths and curses. To be clanless is the worst fate that can befall a dwarf.
         Dwarves in other lands are typically artisans, especially weaponsmiths, armorers, and jewelers. Some become mercenaries or bodyguards, highly sought after for their courage and loyalty.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Gods, Gold, and Clan</name>
       <text>
         Dwarves who take up the adventuring life might be motivated by a desire for treasure-for its own sake, for a specific purpose, or even out of an altruistic desire to help others. Other dwarves are driven by the command or inspiration of a deity, a direct calling or simply a desire to bring glory to one of the dwarf gods. Clan and ancestry are also important motivators. A dwarf might seek to restore a clan&#39;s lost honor, avenge an ancient wrong the clan suffered, or earn a new place within the clan after having been exiled. Or a dwarf might search for the axe wielded by a mighty ancestor, lost on the field of battle centuries ago.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Dwarf Names</name>
@@ -613,13 +613,13 @@
         &#183; Male Names: Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
         &#183; Female Names: Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
         &#183; Clan Names: Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
-      </text>
+</text>
     </trait>
     <trait>
       <name>Duergar</name>
       <text>
         In cities deep in the Underdark live the duergar, or gray dwarves. These vicious, stealthy slave traders raid the surface world for captives, then sell their prey to the other races of the Underdark. They have innate magical abilities to become invisible and to temporarily grow to giant size.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -667,25 +667,25 @@
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
         &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 41
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hunter&#39;s Intuition</name>
       <text>
         When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Finder&#39;s Magic</name>
       <text>
         You can cast the hunter&#39;s mark spell with this trait. Starting at 3rd level, you can also cast the locate object spell with it. Once you cast either spell with this trait, you can&#39;t cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -697,56 +697,56 @@
         3rd | clairvoyance, speak with plants
         4th | divination, locate creature
         5th | commune with nature
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Humans reach adulthood in their late teens and live less than a century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Humans tend toward no particular alignment. The best and the worst are found among them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Goblin.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Broad Spectrum</name>
       <text>
         With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Variety in All Things</name>
       <text>
         Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human&#39;s memory. They live fully in the present-making them well suited to the adventuring life-but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lasting Institutions</name>
       <text>
         Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death&#39;s clutches) they achieve it by ensuring that they will be remembered when they are gone.
         Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exemplars of Ambition</name>
       <text>
         Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -794,25 +794,25 @@
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
         &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 42
-      </text>
+</text>
     </trait>
     <trait>
       <name>Wild Intuition</name>
       <text>
         When you make a Wisdom (Animal Handling) or Intelligence (Nature) check, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Primal Connection</name>
       <text>
         You can cast the animal friendship and speak with animals spells with this trait, requiring no material component. Once you cast either spell with this trait, you can&#39;t cast that spell with it again until you finish a short or long rest. Wisdom is your spellcasting ability for these spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Bigger They Are</name>
       <text>
         Starting at 3rd level, you can target a beast or monstrosity when you cast animal friendship or speak with animals, provided the creature&#39;s Intelligence score is 3 or lower.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -825,56 +825,56 @@
         4th | aura of life, dominate beast
         5th | awaken
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Humans reach adulthood in their late teens and live less than a century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Humans tend toward no particular alignment. The best and the worst are found among them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Broad Spectrum</name>
       <text>
         With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Variety in All Things</name>
       <text>
         Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human&#39;s memory. They live fully in the present-making them well suited to the adventuring life-but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lasting Institutions</name>
       <text>
         Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death&#39;s clutches) they achieve it by ensuring that they will be remembered when they are gone.
         Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exemplars of Ambition</name>
       <text>
         Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -922,25 +922,25 @@
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
         &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 45
-      </text>
+</text>
     </trait>
     <trait>
       <name>Artisan&#39;s Intuition</name>
       <text>
         When you make an Arcana check or an ability check involving artisan&#39;s tools, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Maker&#39;s Gift</name>
       <text>
         You gain proficiency with one type of artisan&#39;s tools of your choice.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spellsmith</name>
       <text>
         You know the mending cantrip. You can also cast the magic weapon spell with this trait. When you do so, the spell lasts for 1 hour and doesn&#39;t require concentration. Once you cast the spell with this trait, you can&#39;t do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -953,56 +953,56 @@
         4th | fabricate, stone shape
         5th | creation
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Humans reach adulthood in their late teens and live less than a century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Humans tend toward no particular alignment. The best and the worst are found among them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Broad Spectrum</name>
       <text>
         With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Variety in All Things</name>
       <text>
         Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human&#39;s memory. They live fully in the present-making them well suited to the adventuring life-but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lasting Institutions</name>
       <text>
         Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death&#39;s clutches) they achieve it by ensuring that they will be remembered when they are gone.
         Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exemplars of Ambition</name>
       <text>
         Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1050,25 +1050,25 @@
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
         &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 46
-      </text>
+</text>
     </trait>
     <trait>
       <name>Courier&#39;s Speed</name>
       <text>
         Your base walking speed increases to 35 feet.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Intuitive Motion</name>
       <text>
         When you make a Dexterity (Acrobatics) check or any ability check to operate or maintain a land vehicle, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Magical Passage</name>
       <text>
         You can cast the misty step spell once with this trait, and you regain the ability to cast it when you finish a long rest. Dexterity is your spellcasting ability for this spell.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1081,56 +1081,56 @@
         4th | dimension door, freedom of movement
         5th | teleportation circle
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Humans reach adulthood in their late teens and live less than a century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Humans tend toward no particular alignment. The best and the worst are found among them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Broad Spectrum</name>
       <text>
         With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Variety in All Things</name>
       <text>
         Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human&#39;s memory. They live fully in the present-making them well suited to the adventuring life-but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lasting Institutions</name>
       <text>
         Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death&#39;s clutches) they achieve it by ensuring that they will be remembered when they are gone.
         Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exemplars of Ambition</name>
       <text>
         Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1178,25 +1178,25 @@
         Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
         &#183; Turami Names:: (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, ]alana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
         Source: Eberron: Rising from the Last War p. 48
-      </text>
+</text>
     </trait>
     <trait>
       <name>Sentinel&#39;s Intuition</name>
       <text>
         When you make a Wisdom (Insight) or Wisdom (Perception) check, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Guardian&#39;s Shield</name>
       <text>
         You can cast the shield spell once with this trait, and you regain the ability to cast it after you finish a long rest. Wisdom is your spellcasting ability for this spell.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Vigilant Guardian</name>
       <text>
         When a creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to swap places with that creature, and you are hit by the attack instead. Once you use this trait, you can&#39;t do so again until you finish a long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1209,56 +1209,56 @@
         4th | death ward, guardian of faith
         5th | Bigby&#39;s hand
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Humans reach adulthood in their late teens and live less than a century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Humans tend toward no particular alignment. The best and the worst are found among them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Broad Spectrum</name>
       <text>
         With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Variety in All Things</name>
       <text>
         Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human&#39;s memory. They live fully in the present-making them well suited to the adventuring life-but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lasting Institutions</name>
       <text>
         Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death&#39;s clutches) they achieve it by ensuring that they will be remembered when they are gone.
         Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exemplars of Ambition</name>
       <text>
         Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1279,19 +1279,19 @@
         Humans
         "Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you&#39;ll find good, solid folk. Not that there&#39;s anything wrong with the barons and soldiers - you have to admire their conviction. And by protecting their own lands, they protect us as well."
         Source: Eberron: Rising from the Last War p. 43
-      </text>
+</text>
     </trait>
     <trait>
       <name>Medical Intuition</name>
       <text>
         When you make a Wisdom (Medicine) check or an ability check using an herbalism kit, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Healing Touch</name>
       <text>
         You can cast the cure wounds spell with this trait. Starting at 3rd level, you can also cast lesser restoration with it. Once you cast either spell with this trait, you can&#39;t cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1304,49 +1304,49 @@
         4th | aura of purity, aura of life
         5th | greater restoration
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lucky</name>
       <text>
         When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Brave</name>
       <text>
         You have advantage on saving throws against being frightened.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Halfling Nimbleness</name>
       <text>
         You can move through the space of any creature that is of a size larger than yours.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Halfling. The Halfling language isn&#39;t secret, but halflings are loath to share it with others. They write very little, so they don&#39;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Small and Practical</name>
@@ -1354,34 +1354,34 @@
         The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.
         Halflings&#39; skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.
         Halfling practicality extends beyond their clothing. They&#39;re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Kind and Curious</name>
       <text>
         Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.
         Halflings are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Blend into the Crowd</name>
       <text>
         Halflings are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention.
         Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Pastoral Pleasantries</name>
       <text>
         Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don&#39;t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.
         Many halflings live among other races, where the halflings&#39; hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exploring Opportunities</name>
       <text>
         Halflings usually set out on the adventurer&#39;s path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Halfling Names</name>
@@ -1390,7 +1390,7 @@
         &#183; Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
         &#183; Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
         &#183; Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1411,19 +1411,19 @@
         Humans
         "Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you&#39;ll find good, solid folk. Not that there&#39;s anything wrong with the barons and soldiers - you have to admire their conviction. And by protecting their own lands, they protect us as well."
         Source: Eberron: Rising from the Last War p. 44
-      </text>
+</text>
     </trait>
     <trait>
       <name>Ever Hospitable</name>
       <text>
         When you make a Charisma (Persuasion) check or an ability check involving brewer&#39;s supplies or cook&#39;s utensils, you can roll a d4 and add the number rolled to the ability check.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Innkeeper&#39;s Magic</name>
       <text>
         You know the prestidigitation cantrip. You can also cast the purify food and drink and unseen servant spells with this trait. Once you cast either spell with this trait, you can&#39;t cast that spell with it again until you finish long rest. Charisma is your spellcasting ability for these spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Spells of the Mark</name>
@@ -1436,49 +1436,49 @@
         4th | aura of purity, Mordenkainen&#39;s private sanctum
         5th | hallow
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lucky</name>
       <text>
         When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Brave</name>
       <text>
         You have advantage on saving throws against being frightened.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Halfling Nimbleness</name>
       <text>
         You can move through the space of any creature that is of a size larger than yours.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Halfling. The Halfling language isn&#39;t secret, but halflings are loath to share it with others. They write very little, so they don&#39;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Small and Practical</name>
@@ -1486,34 +1486,34 @@
         The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.
         Halflings&#39; skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.
         Halfling practicality extends beyond their clothing. They&#39;re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Kind and Curious</name>
       <text>
         Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.
         Halflings are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Blend into the Crowd</name>
       <text>
         Halflings are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention.
         Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Pastoral Pleasantries</name>
       <text>
         Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don&#39;t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.
         Many halflings live among other races, where the halflings&#39; hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Exploring Opportunities</name>
       <text>
         Halflings usually set out on the adventurer&#39;s path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Halfling Names</name>
@@ -1522,7 +1522,7 @@
         &#183; Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
         &#183; Female Names: Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
         &#183; Family Names: Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1540,13 +1540,13 @@
       <name>Age</name>
       <text>
         Bugbears reach adulthood at age 16 and live up to 80 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Bugbears live on the fringes of society even in Darguun, where they value self-sufficiency and violence. They are generally chaotic, organizing in loose tribes under charismatic and powerful leaders.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1555,43 +1555,43 @@
         Size modifier = 2d12
         Height = 6 feet + your size modifier in inches
         Weight in pounds = 200 + (2d6 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Long-Limbed</name>
       <text>
         When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Powerful Build</name>
       <text>
         You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Sneaky</name>
       <text>
         You are proficient in the Stealth skill.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Surprise Attack</name>
       <text>
         If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Goblin.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1606,19 +1606,19 @@
       <text>
         Whether sniveling in fear, cackling with mad laughter, or snarling in a fury, goblins are wretched and inconsequential—at least in the eyes of most of Ravnica&#39;s other folk. In their own minds, though, they are content to lurk in the shadows only until they fully come into their own and receive the recognition they believe they deserve. They are entitled to some credit for their tenacity, agility, crafty ingenuity, and dumb luck, all of which has enabled them to survive in a world overrun with creatures larger and more powerful than they are.
         Source: Eberron: Rising from the Last War p. 26
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Goblins reach adulthood at age 8 and live up to 60 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         In Eberron, goblins are usually neutral. They tend to look out for themselves, preferably without drawing unwanted attention from any larger, more powerful people.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1627,38 +1627,38 @@
         Size modifier = 2d4
         Height = 3 feet + 5 inches + your size modifier in inches
         Weight in pounds = 35 + your size modifier
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Fury of the Small</name>
       <text>
         When you damage a creature with an attack or a spell and the creature&#39;s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can&#39;t use it again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
       <text>
         You can take the Disengage or Hide action as a bonus action on each of your turns.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Goblin.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Small and Wiry</name>
       <text>
         Standing around 3 feet tall and covered in warty green or red skin, goblins have huge noses and ears. Their wiry bodies are surprisingly strong, and their mouths are full of sharp, crooked teeth.
         Most goblins are bald, either by heredity or by choice, but a few boast shocks of red or black hair. Their arms and legs are elongated in proportion to their small bodies, and their fingers and toes are also long and slender. Many goblins prefer to go unshod to leave their toes exposed for climbing.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Unfettered Emotion</name>
@@ -1666,14 +1666,14 @@
         Creatures of raw impulse, goblins are found among guilds that value that quality, particularly the Izzet (where they typically serve as attendants for researchers), the Gruul (in camps that form hapless buffers between the clans and civilized regions), the Rakdos (putting their love of explosions to good use), and occasionally the Boros (if they discover a well of discipline and courage within themselves, or find themselves unable to resist the shininess of Boros weapons and armor). Many goblins are guildless and make their way as members of street gangs.
         Sometimes driven by wild mood swings, goblins have an inclination toward destruction, which can take a playful form but is often anything but. Some goblins clobber things, others like to light them on fire, and many love to blow things up.
         Goblins have an outrageous sense of humor, usually expressed through mischievous pranks. The malicious among them find pleasure in the misfortune of others and tend to cackle maniacally whenever they&#39;re amused. They can act with apparent randomness, sometimes just to confuse and befuddle others.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Goblin Names</name>
       <text>
         The Goblin language is fond of certain sounds, and goblin names tend to repeat those sounds to form what can sound like nonsense words. A goblin&#39;s name gives no indication of gender.
         &#183; Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1691,13 +1691,13 @@
       <name>Age</name>
       <text>
         Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Hobgoblin society in Eberron is shaped by the ideal of a strict code of honor and rigid martial discipline. Most hobgoblins are lawful, tending toward harsh enforcement of their laws.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1706,31 +1706,31 @@
         Size modifier = 2d10
         Height = 4 feet + 8 inches + your size modifier in inches
         Weight in pounds = 110 + (2d4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Martial Training</name>
       <text>
         You are proficient with two martial weapons of your choice and with light armor.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Saving Face</name>
       <text>
         Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can&#39;t use it again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Goblin.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1748,13 +1748,13 @@
       <name>Age</name>
       <text>
         Orcs reach adulthood at age 12 and live up to 50 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         The orcs of Eberron are a passionate people, given to powerful emotion and deep faith. They are generally chaotic, but can be any alignment.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1763,37 +1763,37 @@
         Size modifier = 2d8
         Height = 5 feet + 4 inches + your size modifier in inches
         Weight in pounds = 175 + (2d6 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Aggressive</name>
       <text>
         As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Primal Intuition</name>
       <text>
         You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Powerful Build</name>
       <text>
         You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Orc.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1809,7 +1809,7 @@
         I am kalashtar, born of two worlds. Over a thousand years ago, my ancestor bound her bloodline to the spirit Kashtai, and I am a child of that union. Kashtai moves within me. Her memories come to me in dreams, and at times her voice whispers in the silence of my mind. As long as at least one of my sisters is alive, Kashtai will survive—and as long as she lives, she will fight il-Lashtavar.
         The kalashtar are a compound people, created from the union of humanity and renegade spirits from the plane of dreams—spirits called quori. Kalashtar are often seen as wise, spiritual people with great compassion for others. There is an unmistakable alien quality to the kalashtar, though, as they are haunted by the conflicts of their otherworldly spirits.
         Source: Eberron: Rising from the Last War p. 29
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
@@ -1826,38 +1826,38 @@
         Size modifier = 2d6
         Height = 5 feet + 4 inches + your size modifier in inches
         Weight in pounds = 110 + (1d6 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Dual Mind</name>
       <text>
         You have advantage on all Wisdom saving throws.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Mental Discipline</name>
       <text>
         You have resistance to psychic damage.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Mind Link</name>
       <text>
         You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don&#39;t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
         When you&#39;re using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait&#39;s range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Severed from Dreams</name>
       <text>
         Kalashtar sleep, but they don&#39;t connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like dream, but not to spells and other magical effects that put you to sleep, like sleep.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common, Quori, and one other language of your choice.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Bound to Spirits</name>
@@ -1876,14 +1876,14 @@
         8 | You prefer to find nonviolent solutions to problems whenever possible.
         9 | You are driven by a warrior spirit and will fight for any noble cause.
         10 | You are obsessed with Dreaming Dark conspiracies.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hunted by Nightmares</name>
       <text>
         The virtuous spirits tied to the kalashtar fled from the dream-realm of Dal Quor to escape evil spirits that dominate it. The rebel quori believe that through meditation and devotion, they can change the fundamental nature of Dal Quor, shifting the balance from darkness to light. Most kalashtar communities focus on acts of devotion known as the Path of Light. But the dark powers of Dal Quor have their own plans for Eberron. Through the force known as the Dreaming Dark, these monsters manipulate the folk of Khorvaire to eliminate kalashtar whenever possible.
         Many kalashtar defend themselves from the Dreaming Dark by focusing on devotion to the Path of Light. Others, though, seek out the agents of the Dreaming Dark and oppose their plans, or protect the innocent however they can. Still other kalashtar grow up isolated, knowing nothing about Dal Quor or the Dreaming Dark. Such orphans might use their abilities for personal gain or otherwise act against the virtuous instincts of their quori spirits; this can cause internal conflicts and violent mood swings.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Kalashtar Names</name>
@@ -1892,7 +1892,7 @@
         Kalashtar orphans are unlikely to know the name of their spirit and take names from another source.
         Quori Names: Ashana, Ashtai, Ishara, Hareth, Khad, Kosh, Melk, Nari, Tana, Tari, Tash, Ulad, Vakri, Vash
         Kalashtar Names: Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -1908,31 +1908,31 @@
         Geth&#39;s ancient heritage rose up from deep within him, spreading out from the core of his being. Some shifters manifested terrible claws, others massive fangs, still others astounding speed or heightened senses. Geth&#39;s gift from his lycanthrope ancestors was sheer toughness. Strength seeped into his bones and flooded his flesh. His skin hardened, and his hair became coarse like an animal&#39;s tough hide. A sense of invincibility spread through him. For the moment at least, he felt unstoppable!
         Shifters are sometimes called the weretouched, as many believe they are the descendants of humans and lycanthropes. Whatever their origins, shifters have evolved into a unique race. They are humanoids with a bestial aspect; while they can&#39;t fully change shape, they can temporarily enhance their animalistic features—a state they call shifting. Each shifter walks on the knife&#39;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
         Source: Eberron: Rising from the Last War p. 33
-      </text>
+</text>
     </trait>
     <trait>
       <name>Natural Athlete</name>
       <text>
         You have proficiency in the Athletics skill.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting Feature</name>
       <text>
         Whenever you shift, you gain 1d6 additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -1941,32 +1941,32 @@
         Size modifier = 2d8
         Height = 4 feet + 6 inches + your size modifier in inches
         Weight in pounds = 90 + (2d4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Speed</name>
       <text>
         Your base walking speed is 30 feet.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting</name>
       <text>
         As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
         Once you shift, you can&#39;t do so again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Beast Within</name>
@@ -1978,28 +1978,28 @@
         Swiftstride are often predatory and feline, but a swiftstride could also be a cunning rat who darts through the shadows.
         Wildhunt shifters are born from any creature that tracks its prey.
         While the beast within certainly has a physical impact on a shifter, it has a spiritual and psychological effect, as well. Two beasthide shifters share the same special ability, but if one has the aspect of the boar and the other is more like a bear, they&#39;ll be quite different in personality. With any shifter, identifying the beast within is a crucial part of understanding the character.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Similar and Diverse</name>
       <text>
         Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.
         The traits of the beast within affect a shifter&#39;s appearance as well. A swiftstride shifter may have catlike eyes and delicate build, while a beasthide shifter might be a massive brute built like a bear. While a shifter&#39;s appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Journey Yet to Come</name>
       <text>
         Shifters have a strong presence in the Eldeen Reaches but can be found in rural areas across Khorvaire, where they often live among humans. While they form powerful bonds to friends and kin, shifters place great value on self-reliance and freedom. It&#39;s a shifter proverb to "always be prepared for the journey yet to come," and most shifters strive to be ready for change or opportunity.
         Shifters have a natural inclination toward classes with a primal connection. A shifter barbarian draws their rage from the beast within. A shifter ranger indulges their urge to wander and hunt. A shifter rogue harnesses their own predatory instincts. But shifters can pursue any path or faith.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifter Names</name>
       <text>
         Shifters have no language of their own and often live in blended communities. Their names typically overlap with the names of other cultures in their region. Many shifters prefer to keep their personal names for their friends and use "wandering names" with strangers. These are usually tied to a physical or personality trait.
         Shifter Names: Badger, Bear, Cat, Fang, Grace, Grim, Moon, Rain, Red, Scar, Stripe, Swift, Talon, Wolf
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -2015,31 +2015,31 @@
         Geth&#39;s ancient heritage rose up from deep within him, spreading out from the core of his being. Some shifters manifested terrible claws, others massive fangs, still others astounding speed or heightened senses. Geth&#39;s gift from his lycanthrope ancestors was sheer toughness. Strength seeped into his bones and flooded his flesh. His skin hardened, and his hair became coarse like an animal&#39;s tough hide. A sense of invincibility spread through him. For the moment at least, he felt unstoppable!
         Shifters are sometimes called the weretouched, as many believe they are the descendants of humans and lycanthropes. Whatever their origins, shifters have evolved into a unique race. They are humanoids with a bestial aspect; while they can&#39;t fully change shape, they can temporarily enhance their animalistic features—a state they call shifting. Each shifter walks on the knife&#39;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
         Source: Eberron: Rising from the Last War p. 33
-      </text>
+</text>
     </trait>
     <trait>
       <name>Fierce</name>
       <text>
         You have proficiency in the Intimidation skill.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting Feature</name>
       <text>
         While shifted, you can use your elongated fangs to make an unarmed strike as a bonus action. If you hit with your fangs, you can deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -2048,32 +2048,32 @@
         Size modifier = 2d8
         Height = 4 feet + 6 inches + your size modifier in inches
         Weight in pounds = 90 + (2d4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Speed</name>
       <text>
         Your base walking speed is 30 feet.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting</name>
       <text>
         As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
         Once you shift, you can&#39;t do so again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Beast Within</name>
@@ -2085,28 +2085,28 @@
         Swiftstride are often predatory and feline, but a swiftstride could also be a cunning rat who darts through the shadows.
         Wildhunt shifters are born from any creature that tracks its prey.
         While the beast within certainly has a physical impact on a shifter, it has a spiritual and psychological effect, as well. Two beasthide shifters share the same special ability, but if one has the aspect of the boar and the other is more like a bear, they&#39;ll be quite different in personality. With any shifter, identifying the beast within is a crucial part of understanding the character.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Similar and Diverse</name>
       <text>
         Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.
         The traits of the beast within affect a shifter&#39;s appearance as well. A swiftstride shifter may have catlike eyes and delicate build, while a beasthide shifter might be a massive brute built like a bear. While a shifter&#39;s appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Journey Yet to Come</name>
       <text>
         Shifters have a strong presence in the Eldeen Reaches but can be found in rural areas across Khorvaire, where they often live among humans. While they form powerful bonds to friends and kin, shifters place great value on self-reliance and freedom. It&#39;s a shifter proverb to "always be prepared for the journey yet to come," and most shifters strive to be ready for change or opportunity.
         Shifters have a natural inclination toward classes with a primal connection. A shifter barbarian draws their rage from the beast within. A shifter ranger indulges their urge to wander and hunt. A shifter rogue harnesses their own predatory instincts. But shifters can pursue any path or faith.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifter Names</name>
       <text>
         Shifters have no language of their own and often live in blended communities. Their names typically overlap with the names of other cultures in their region. Many shifters prefer to keep their personal names for their friends and use "wandering names" with strangers. These are usually tied to a physical or personality trait.
         Shifter Names: Badger, Bear, Cat, Fang, Grace, Grim, Moon, Rain, Red, Scar, Stripe, Swift, Talon, Wolf
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -2122,31 +2122,31 @@
         Geth&#39;s ancient heritage rose up from deep within him, spreading out from the core of his being. Some shifters manifested terrible claws, others massive fangs, still others astounding speed or heightened senses. Geth&#39;s gift from his lycanthrope ancestors was sheer toughness. Strength seeped into his bones and flooded his flesh. His skin hardened, and his hair became coarse like an animal&#39;s tough hide. A sense of invincibility spread through him. For the moment at least, he felt unstoppable!
         Shifters are sometimes called the weretouched, as many believe they are the descendants of humans and lycanthropes. Whatever their origins, shifters have evolved into a unique race. They are humanoids with a bestial aspect; while they can&#39;t fully change shape, they can temporarily enhance their animalistic features—a state they call shifting. Each shifter walks on the knife&#39;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
         Source: Eberron: Rising from the Last War p. 33
-      </text>
+</text>
     </trait>
     <trait>
       <name>Graceful</name>
       <text>
         You have proficiency in the Acrobatics skill.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting Feature</name>
       <text>
         While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn&#39;t provoke opportunity attacks.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -2155,32 +2155,32 @@
         Size modifier = 2d8
         Height = 4 feet + 6 inches + your size modifier in inches
         Weight in pounds = 90 + (2d4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Speed</name>
       <text>
         Your base walking speed is 30 feet.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting</name>
       <text>
         As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
         Once you shift, you can&#39;t do so again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Beast Within</name>
@@ -2192,28 +2192,28 @@
         Swiftstride are often predatory and feline, but a swiftstride could also be a cunning rat who darts through the shadows.
         Wildhunt shifters are born from any creature that tracks its prey.
         While the beast within certainly has a physical impact on a shifter, it has a spiritual and psychological effect, as well. Two beasthide shifters share the same special ability, but if one has the aspect of the boar and the other is more like a bear, they&#39;ll be quite different in personality. With any shifter, identifying the beast within is a crucial part of understanding the character.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Similar and Diverse</name>
       <text>
         Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.
         The traits of the beast within affect a shifter&#39;s appearance as well. A swiftstride shifter may have catlike eyes and delicate build, while a beasthide shifter might be a massive brute built like a bear. While a shifter&#39;s appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Journey Yet to Come</name>
       <text>
         Shifters have a strong presence in the Eldeen Reaches but can be found in rural areas across Khorvaire, where they often live among humans. While they form powerful bonds to friends and kin, shifters place great value on self-reliance and freedom. It&#39;s a shifter proverb to "always be prepared for the journey yet to come," and most shifters strive to be ready for change or opportunity.
         Shifters have a natural inclination toward classes with a primal connection. A shifter barbarian draws their rage from the beast within. A shifter ranger indulges their urge to wander and hunt. A shifter rogue harnesses their own predatory instincts. But shifters can pursue any path or faith.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifter Names</name>
       <text>
         Shifters have no language of their own and often live in blended communities. Their names typically overlap with the names of other cultures in their region. Many shifters prefer to keep their personal names for their friends and use "wandering names" with strangers. These are usually tied to a physical or personality trait.
         Shifter Names: Badger, Bear, Cat, Fang, Grace, Grim, Moon, Rain, Red, Scar, Stripe, Swift, Talon, Wolf
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -2229,31 +2229,31 @@
         Geth&#39;s ancient heritage rose up from deep within him, spreading out from the core of his being. Some shifters manifested terrible claws, others massive fangs, still others astounding speed or heightened senses. Geth&#39;s gift from his lycanthrope ancestors was sheer toughness. Strength seeped into his bones and flooded his flesh. His skin hardened, and his hair became coarse like an animal&#39;s tough hide. A sense of invincibility spread through him. For the moment at least, he felt unstoppable!
         Shifters are sometimes called the weretouched, as many believe they are the descendants of humans and lycanthropes. Whatever their origins, shifters have evolved into a unique race. They are humanoids with a bestial aspect; while they can&#39;t fully change shape, they can temporarily enhance their animalistic features—a state they call shifting. Each shifter walks on the knife&#39;s edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?
         Source: Eberron: Rising from the Last War p. 33
-      </text>
+</text>
     </trait>
     <trait>
       <name>Natural Tracker</name>
       <text>
         You have proficiency in the Survival skill.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting Feature</name>
       <text>
         While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you&#39;re incapacitated.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -2262,32 +2262,32 @@
         Size modifier = 2d8
         Height = 4 feet + 6 inches + your size modifier in inches
         Weight in pounds = 90 + (2d4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Speed</name>
       <text>
         Your base walking speed is 30 feet.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifting</name>
       <text>
         As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
         Once you shift, you can&#39;t do so again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Beast Within</name>
@@ -2299,28 +2299,28 @@
         Swiftstride are often predatory and feline, but a swiftstride could also be a cunning rat who darts through the shadows.
         Wildhunt shifters are born from any creature that tracks its prey.
         While the beast within certainly has a physical impact on a shifter, it has a spiritual and psychological effect, as well. Two beasthide shifters share the same special ability, but if one has the aspect of the boar and the other is more like a bear, they&#39;ll be quite different in personality. With any shifter, identifying the beast within is a crucial part of understanding the character.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Similar and Diverse</name>
       <text>
         Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.
         The traits of the beast within affect a shifter&#39;s appearance as well. A swiftstride shifter may have catlike eyes and delicate build, while a beasthide shifter might be a massive brute built like a bear. While a shifter&#39;s appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.
-      </text>
+</text>
     </trait>
     <trait>
       <name>The Journey Yet to Come</name>
       <text>
         Shifters have a strong presence in the Eldeen Reaches but can be found in rural areas across Khorvaire, where they often live among humans. While they form powerful bonds to friends and kin, shifters place great value on self-reliance and freedom. It&#39;s a shifter proverb to "always be prepared for the journey yet to come," and most shifters strive to be ready for change or opportunity.
         Shifters have a natural inclination toward classes with a primal connection. A shifter barbarian draws their rage from the beast within. A shifter ranger indulges their urge to wander and hunt. A shifter rogue harnesses their own predatory instincts. But shifters can pursue any path or faith.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shifter Names</name>
       <text>
         Shifters have no language of their own and often live in blended communities. Their names typically overlap with the names of other cultures in their region. Many shifters prefer to keep their personal names for their friends and use "wandering names" with strangers. These are usually tied to a physical or personality trait.
         Shifter Names: Badger, Bear, Cat, Fang, Grace, Grim, Moon, Rain, Red, Scar, Stripe, Swift, Talon, Wolf
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -2338,19 +2338,19 @@
         "What makes you think you do?"
         The warforged were built to fight in the Last War. While the first warforged were mindless automatons, House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning.
         Source: Eberron: Rising from the Last War p. 35
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         A typical warforged is between two and thirty years old. The maximum warforged lifespan remains a mystery; so far, warforged have shown no signs of deterioration due to age. You are immune to magical aging effects.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most warforged take comfort in order and discipline, tending toward law and neutrality. But some have absorbed the morality, or lack thereof, of the beings with which they served.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -2359,7 +2359,7 @@
         Size modifier = 2d6
         Height = 5 feet + 10 inches + your size modifier in inches
         Weight in pounds = 270 + (4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Constructed Resilience</name>
@@ -2369,13 +2369,13 @@
         &#183; You don&#39;t need to eat, drink, or breathe.
         &#183; You are immune to disease.
         &#183; You don&#39;t need to sleep, and magic can&#39;t put you to sleep.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Sentry&#39;s Rest</name>
       <text>
         When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn&#39;t render you unconscious, and you can see and hear as normal.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Integrated Protection</name>
@@ -2384,26 +2384,26 @@
         &#183; You gain a +1 bonus to Armor Class.
         &#183; You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
         &#183; While you live, your armor can&#39;t be removed from your body against your will.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Specialized Design</name>
       <text>
         You gain one skill proficiency and one tool proficiency of your choice.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and one other language of your choice.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Living Steel and Stone</name>
       <text>
         Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, or stone. Armored plates form a protective outer shell and reinforce joints. Warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. Beyond these common elements of warforged design, the precise materials and build of a warforged vary based on the purpose for which it was designed.
         Although they were manufactured, warforged are living humanoids. Resting, healing magic, and the Medicine skill all provide the same benefits to warforged that they do to other humanoids.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Warforged Personality</name>
@@ -2412,7 +2412,7 @@
         The typical warforged shows little emotion. Many warforged embrace a concrete purpose—such as protecting allies, completing a contract, or exploring a land—and embrace this task as they once did war. However, there are warforged who delight in exploring their feelings, their freedom, and their relationships with others. Most warforged have no interest in religion, but some embrace faith and mysticism, seeking higher purpose and deeper meaning.
         The typical warforged has a sexless body shape. Some warforged ignore the concept of gender entirely, while others adopt a gender identity.
         The more a warforged develops its individuality, the more likely it is to modify its body, seeking out an artificer to customize the look of its face, limbs, and plating.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Quirks</name>
@@ -2428,14 +2428,14 @@
         7 | You are obsessed with your appearance and constantly polish and buff yourself.
         8 | War is the only thing that makes sense to you, and you&#39;re always looking for a fight.
 
-      </text>
+</text>
     </trait>
     <trait>
       <name>Warforged Names</name>
       <text>
         Most warforged were assigned numerical designations for use in military service. Many of them adopted nicknames, often given to them by their comrades. As independent individuals, some have chosen new names as a way to express their path in life. A few take on human names, often the name of a fallen friend or mentor.
         Warforged Names: Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -2451,19 +2451,19 @@
         Long ago there was a woman named Jes, and she had one hundred children. Her rivals conspired against her and swore to kill her children. Jes begged the Sovereigns for help, but their only answer was the wind and rain. In the depths of her despair, a lonely traveler took her hand. "I will protect your children if they follow my path. Let them wander the world. They may be shunned and feared, but they will never be destroyed." Jes agreed, and the traveler gave her his cloak. When she draped it over her children, their old faces melted away and they could be whoever they wanted to be. And so it remains. Though the children are shunned by all, the gift of the Traveler protects them still.
         Changelings can shift their forms with a thought. Many changelings use this gift as a form of artistic and emotional expression. It&#39;s also an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat changelings with suspicion.
         Source: Eberron: Rising from the Last War p. 17
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Changelings mature slightly faster than humans but share a similar lifespan—typically a century or less. While a changeling can transform to conceal their age, the effects of aging affect them similarly to humans.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Changelings tend toward pragmatic neutrality, and few changelings embrace evil.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
@@ -2472,26 +2472,26 @@
         Size modifier = 2d4
         Height = 5 feet + 1 inch + your size modifier in inches
         Weight in pounds = 115 + (2d4 x your size modifier)
-      </text>
+</text>
     </trait>
     <trait>
       <name>Shapechanger</name>
       <text>
         As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can&#39;t duplicate the appearance of a creature you&#39;ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren&#39;t changed by this trait.
         You stay in the new form until you use an action to revert to your true form or until you die.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Changeling Instincts</name>
       <text>
         You gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, and Persuasion.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and two other languages of your choice.
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Hidden People</name>
@@ -2499,14 +2499,14 @@
         Wherever humans live, changelings reside also; the question is whether their presence is known.
         Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler.
         In creating a changeling adventurer, consider the character&#39;s relationships with people around them. Does the character conceal their true changeling nature? Do they embrace it? Do they have connections to other changelings or are they alone and in search of companions?
-      </text>
+</text>
     </trait>
     <trait>
       <name>Masks and Personas</name>
       <text>
         In their true form, changelings are pale, with colorless eyes and silver-white hair. It is rare to see a changeling in that form, for a typical changeling changes their shape the way others might change clothes. A casual shape—one created on the spur of the moment, with no depth or history—is called a mask. A mask can be used to express a mood or to serve a specific purpose and then might never be used again. However, many changelings develop identities that have more depth. They build an identity over time, crafting a persona with a history and beliefs. This focused identity helps a changeling pinpoint a particular skill or emotion. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.
         Personas can be shared by multiple changelings; there might be three healers in a community, but whoever is on duty will adopt the persona of Tek, the kindly old medic. Personas can even be passed down through a family, allowing a younger changeling to take advantage of contacts established by the persona&#39;s previous users.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Changeling Names</name>
@@ -2514,7 +2514,7 @@
         A changeling might use a different name for each mask and persona and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic; however, there are often accents to a changeling&#39;s name that are expressed through shapeshifting, something single-skins will likely miss. So, two changelings might have the name Jin, but one is Jin-with-vivid-blue-eyes and one is Jin-with-golden-nails.
         Changelings have a fluid relationship with gender, seeing it as one characteristic to change among many.
         Changeling Names: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
-      </text>
+</text>
     </trait>
   </race>
 
@@ -2534,21 +2534,21 @@
       <feature optional="YES">
         <name>Starting Artificer</name>
         <text>As a 1st-level Artificer, you begin play with 8+your Constitution modifier hit points.</text>
-        <text> </text>
+        <text></text>
         <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
         <text>&#183; Armor: light armor, medium armor, shields</text>
         <text>&#183; Weapons: simple weapons</text>
         <text>&#183; Tools: Thieves&#39; tools, tinker&#39;s tools, one type of artisan&#39;s tools of your choice</text>
         <text>&#183; Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Slight of Hand</text>
-        <text> </text>
+        <text></text>
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
         <text>&#183; any two simple weapons of your choice</text>
         <text>&#183; a light crossbow and 20 bolts</text>
         <text>&#183; your choice of studded leather armor or scale mail</text>
         <text>&#183; thieve&#39;s tool and a dungeoneer&#39;s pack</text>
-        <text> </text>
+        <text></text>
         <text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 54</text>
       </feature>
     </autolevel>
@@ -2558,13 +2558,13 @@
         <name>Multiclass Artificer</name>
         <text>To multiclass as an Artificer, you must meet the following prerequisites:</text>
         <text>&#183; Intelligence 13</text>
-        <text> </text>
+        <text></text>
         <text>You gain the following proficiencies:</text>
         <text>&#183; light armor, medium armor, sheilds, thieves&#39; tools, tinker&#39;s tools</text>
-        <text> </text>
+        <text></text>
         <text>Spell Slots:</text>
         <text>Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 54</text>
       </feature>
     </autolevel>
@@ -2573,11 +2573,11 @@
       <feature optional="YES">
         <name>Optional Rule: Firearm Proficiency</name>
         <text>The secrets of creating and operating gunpowder weapons have been discovered in various corners of the Dungeons and Dragons multiverse. If your Dungeon Master uses the rules on firearms in chapter 9 of the Dungeon Master&#39;s Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.</text>
-        <text> </text>
+        <text></text>
         <text>
           Source: Eberron Rising From the Last War, p. 54
           Player&#39;s Handbook, p. 163
-        </text>
+</text>
       </feature>
     </autolevel>
 
@@ -2589,11 +2589,11 @@
         <text>&#183; Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</text>
         <text>&#183; The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</text>
         <text>&#183; A static visual effect appears on one of the object&#39;s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</text>
-        <text> </text>
+        <text></text>
         <text>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</text>
-        <text> </text>
+        <text></text>
         <text>You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 55</text>
       </feature>
     </autolevel>
@@ -2606,38 +2606,38 @@
       <feature>
         <name>Spellcasting</name>
         <text>You have studied the workings of magic and how to channel it through objects. As a result, you have gained the ability to cast spells. To observers, you don&#39;t appear to be casting spells in a conventional way; you look as if you&#39;re producing wonders using mundane items or outlandish inventions.</text>
-        <text> </text>
+        <text></text>
         <text>Tools Required:</text>
         <text>You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves&#39; tools or some kind of artisan&#39;s tool—in hand when you cast any spell with this Spellcasting feature. You must be proficient with the tool to use it in this way. See chapter 5, "Equipment," in the Player&#39;s Handbook for descriptions of these tools.</text>
-        <text> </text>
+        <text></text>
         <text>After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.</text>
-        <text> </text>
+        <text></text>
         <text>The Magic of Artifice:</text>
         <text>As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you&#39;re using a tool to perform the spell effect. If you cast cure wounds using alchemist&#39;s supplies, you could be quickly producing a salve. If you cast it using tinker&#39;s tools, you might have a miniature mechanical spider that binds wounds. When you cast poison spray, you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.</text>
-        <text> </text>
-        <text>The same principle applies when you prepare your spells. As an artificer, you don&#39;t study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you&#39;ll use to produce your effects. If you replace cure wounds with heat metal, you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy. Such details don&#39;t limit you in any way or provide you with any benefit beyond the spell&#39;s effects. You don&#39;t have to justify how you&#39;re using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters. </text>
-        <text> </text>
+        <text></text>
+        <text>The same principle applies when you prepare your spells. As an artificer, you don&#39;t study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you&#39;ll use to produce your effects. If you replace cure wounds with heat metal, you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy. Such details don&#39;t limit you in any way or provide you with any benefit beyond the spell&#39;s effects. You don&#39;t have to justify how you&#39;re using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.</text>
+        <text></text>
         <text>Cantrips:</text>
-        <text>At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table. When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list. </text>
-        <text> </text>
+        <text>At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table. When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.</text>
+        <text></text>
         <text>Preparing and Casting Spells:</text>
         <text>The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest.</text>
-        <text> </text>
+        <text></text>
         <text>You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</text>
-        <text> </text>
+        <text></text>
         <text>For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn&#39;t remove it from your list of prepared spells.</text>
-        <text> </text>
+        <text></text>
         <text>You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.</text>
-        <text> </text>
+        <text></text>
         <text>Spellcasting Ability:</text>
         <text>Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.</text>
-        <text> </text>
+        <text></text>
         <text> Spell save DC = 8 + your proficiency bonus + your Intelligence modifier</text>
-        <text> Spell attack modifier = your proficiency bonus + your Intelligence modifier </text>
-        <text> </text>
+        <text> Spell attack modifier = your proficiency bonus + your Intelligence modifier</text>
+        <text></text>
         <text>Ritual Casting:</text>
-        <text>You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared. </text>
-        <text> </text>
+        <text>You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 55</text>
       </feature>
     </autolevel>
@@ -2650,22 +2650,22 @@
       <feature>
         <name>Infuse Item</name>
         <text>At 2nd level, you gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.</text>
-        <text> </text>
+        <text></text>
         <text>Infusions Known:</text>
         <text>When you gain this feature, pick four artificer infusions to learn, choosing from the "Artificer Infusions" section at the end of the class&#39;s description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.</text>
-        <text> </text>
-        <text>Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one. </text>
-        <text> </text>
+        <text></text>
+        <text>Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.</text>
+        <text></text>
         <text>Artificer Infusions:</text>
         <text>Artificers have invented numerous magical infusions, extraordinary processes that rapidly create magic items. To many, artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete. The description of each of the following infusions details the type of item that can receive it, along with whether the resulting magic item requires attunement. Some infusions specify a minimum artificer level. You can&#39;t learn such an infusion until you are at least that level. Unless an infusion&#39;s description says otherwise, you can&#39;t learn an infusion more than once.</text>
-        <text> </text>
+        <text></text>
         <text>Infusing an Item:</text>
-        <text>Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion&#39;s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see "Attunement" in chapter 7 of the Dungeon Master&#39;s Guide). </text>
-        <text> </text>
-        <text>Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one. </text>
-        <text> </text>
+        <text>Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion&#39;s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see "Attunement" in chapter 7 of the Dungeon Master&#39;s Guide).</text>
+        <text></text>
+        <text>Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.</text>
+        <text></text>
         <text>You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 56</text>
       </feature>
     </autolevel>
@@ -2675,50 +2675,50 @@
       <feature>
         <name>Artificer Specialist</name>
         <text>At 3rd level, you choose the type of specialist you are: Alchemist, Artillerist, or Battle Smith, each of which is detailed at the end of the class&#39;s description. Your choice grants you features at 5th level and again at 9th and 15th level.</text>
-        <text>  </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
       <feature optional="YES">
         <name>Artificer Specialist: Alchemist</name>
-        <text>An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace. </text>
-        <text> </text>
+        <text>An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.</text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
         <name>Tool Proficiency (Alchemist)</name>
-        <text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist&#39;s supplies. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice. </text>
-        <text> </text>
+        <text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist&#39;s supplies. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.</text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
         <name>Alchemist Spells (Alchemist)</name>
-        <text> Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare. </text>
-        <text> </text>
-        <text> 3rd - healing word, ray of sickness </text>
-        <text> 5th - flaming sphere, Melf&#39;s acid arrow </text>
-        <text> 9th - gaseous form, mass healing word </text>
-        <text> 13th - blight, death ward </text>
-        <text> 17th - cloudkill, raise dead </text>
-        <text> </text>
+        <text> Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.</text>
+        <text></text>
+        <text> 3rd - healing word, ray of sickness</text>
+        <text> 5th - flaming sphere, Melf&#39;s acid arrow</text>
+        <text> 9th - gaseous form, mass healing word</text>
+        <text> 13th - blight, death ward</text>
+        <text> 17th - cloudkill, raise dead</text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
         <name>Experimental Elixir (Alchemist)</name>
-        <text> Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&#39;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature. </text>
-        <text> </text>
-        <text> Creating an experimental elixir requires you to have alchemist&#39;s supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest. </text>
-        <text> </text>
-        <text> When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir&#39;s effect separately. Each elixir requires its own flask. </text>
-        <text> </text>
-        <text> You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir&#39;s effect from the Experimental Elixir table. </text>
-        <text> </text>
-        <text> 1 - Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier. </text>
+        <text> Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&#39;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.</text>
+        <text></text>
+        <text> Creating an experimental elixir requires you to have alchemist&#39;s supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.</text>
+        <text></text>
+        <text> When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir&#39;s effect separately. Each elixir requires its own flask.</text>
+        <text></text>
+        <text> You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir&#39;s effect from the Experimental Elixir table.</text>
+        <text></text>
+        <text> 1 - Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.</text>
         <text> 2 -    Swiftness. The drinker&#39;s walking speed increases by 10 feet for 1 hour.</text>
         <text> 3 -    Resilience. The drinker gains a +1 bonus to AC for 10 minutes.</text>
         <text> 4 -    Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.</text>
         <text> 5 -    Flight. The drinker gains a flying speed of 10 feet for 10 minutes.</text>
         <text> 6 - Transformation. The drinker&#39;s body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
@@ -2726,75 +2726,75 @@
         <text>An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power was valued by all the armies of the Last War. Now that the war is over, some members of this specialization have sought to build a more peaceful world by using their powers to fight the resurgence of strife in Khorvaire.</text>
         <text />
         <text>The gnome artificer Vi, an unlikely yet key member of House Cannith&#39;s warforged project, has been especially vocal about making things right: "It&#39;s about time we fixed things instead of blowing them all to hell."</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
         <name>Tool Proficiency (Artillerist)</name>
         <text>When you adopt this specialization at 3rd level, you gain proficiency with woodcarver&#39;s tools. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Artillerist Spells (Artillerist)</name>
         <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.</text>
-        <text> </text>
+        <text></text>
         <text>3rd -    shield, thunderwave</text>
         <text>5th -    scorching ray, shatter</text>
         <text>9th -    fireball, wind wall</text>
         <text>13th -   ice storm, wall of fire</text>
         <text>17th -   cone of cold, wall of force</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Eldritch Cannon (Artillerist)</name>
         <text>At 3rd level, you learn how to create a magical cannon. Using woodcarver&#39;s tools or smith&#39;s tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</text>
-        <text> </text>
+        <text></text>
         <text>Once you create a cannon, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can&#39;t create one while your cannon is present.</text>
-        <text> </text>
+        <text></text>
         <text>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage, psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</text>
         <text />
         <text>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</text>
-        <text> </text>
+        <text></text>
         <text>Flamethrower:</text>
         <text>The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren&#39;t being worn or carried.</text>
         <text />
-        <text> </text>
+        <text></text>
         <text>Force Ballista:</text>
         <text>Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</text>
         <text />
-        <text> </text>
+        <text></text>
         <text>Protector:</text>
         <text>The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Artificer Specialist: Battle Smith</name>
         <text>Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</text>
-        <text> </text>
+        <text></text>
         <text>Battle Smiths played a key role in House Cannith&#39;s work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war&#39;s horrific battles.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 61</text>
-        <text> </text>
+        <text></text>
       </feature>
       <feature optional="YES">
         <name>Tool Proficiency (Battle Smith)</name>
         <text>When you adopt this specialization at 3rd level, you gain proficiency with smith&#39;s tools. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Battle Smith Spells (Battle Smith)</name>
         <text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.</text>
-        <text> </text>
+        <text></text>
         <text>3rd -    heroism, shield</text>
         <text>5th -    branding smite, warding bond</text>
         <text>9th -    aura of vitality, conjure barrage</text>
         <text>13th -    aura of purity, fire shield</text>
         <text>17th -    banishing smite, mass cure wounds</text>
-        <text>  </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
@@ -2802,19 +2802,19 @@
         <text>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:</text>
         <text> &#183; You gain proficiency with martial weapons.</text>
         <text> &#183; When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Steel Defender (Battle Smith)</name>
         <text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature&#39;s game statistics in the steel defender stat block. You determine the creature&#39;s appearance and whether it has two legs or four; your choice has no effect on its game statistics.</text>
-        <text> </text>
+        <text></text>
         <text>In combat, the steel defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.</text>
-        <text> </text>
+        <text></text>
         <text>If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith&#39;s tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.</text>
-        <text> </text>
+        <text></text>
         <text>At the end of a long rest, you can create a new steel defender if you have your smith&#39;s tools with you. If you already have a steel defender from this feature, the first one immediately perishes.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
     </autolevel>
@@ -2823,7 +2823,7 @@
       <feature>
         <name>The Right Tool for the Job</name>
         <text>At 3rd level, you learn how to produce exactly the tool you need: with tinker&#39;s tools in hand, you can magically create one set of artisan&#39;s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2833,9 +2833,9 @@
       <feature>
         <name>Ability Score Improvement</name>
         <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
-        <text> </text>
+        <text></text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2845,27 +2845,27 @@
       <feature>
         <name>Artificer Specialist Feature</name>
         <text>At 5th level, you gain a feature granted by your Artificer Specialist choice.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
       <feature optional="YES">
         <name>Alchemical Savant (Alchemist)</name>
         <text>At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist&#39;s supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
       <feature optional="YES">
         <name>Arcane Firearm (Artillerist)</name>
         <text>At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use woodcarver&#39;s tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.</text>
-        <text> </text>
+        <text></text>
         <text>You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bonus to one of the spell&#39;s damage rolls equal to the number rolled.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 60</text>
       </feature>
       <feature optional="YES">
         <name>Extra Attack (Battle Smith)</name>
         <text>Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 61</text>
       </feature>
     </autolevel>
@@ -2875,7 +2875,7 @@
       <feature>
         <name>Tool Expertise</name>
         <text>Starting at 6th level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2885,9 +2885,9 @@
       <feature>
         <name>Flash of Genius</name>
         <text>Starting at 7th level, you gain the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.</text>
-        <text> </text>
+        <text></text>
         <text>You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2897,9 +2897,9 @@
       <feature>
         <name>Ability Score Improvement</name>
         <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
-        <text> </text>
+        <text></text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2909,30 +2909,30 @@
       <feature optional="YES">
         <name>Restorative Reagents (Alchemist)</name>
         <text>Starting at 9th level, you can incorporate restorative reagents into some of your works:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).</text>
         <text>&#183; You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist&#39;s supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Explosive Cannon (Artillerist)</name>
         <text>Starting at 9th level, every eldritch cannon you create is more destructive:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; The cannon&#39;s damage rolls all increase by 1d8.</text>
         <text>&#183; As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 60</text>
       </feature>
       <feature optional="YES">
         <name>Arcane Jolt (Battle Smith)</name>
         <text>At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; The target takes an extra 2d6 force damage.</text>
         <text>&#183; Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.</text>
-        <text> </text>
+        <text></text>
         <text>You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 61</text>
       </feature>
     </autolevel>
@@ -2942,10 +2942,10 @@
       <feature>
         <name>Magic Item Adept</name>
         <text>When you reach 10th level, you achieve a profound understanding of how to use and make magic items:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; You can attune to up to four magic items at once.</text>
         <text>&#183; If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2955,9 +2955,9 @@
       <feature>
         <name>Spell-Storing Item</name>
         <text>At 11th level, you learn how to store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn&#39;t have it prepared).</text>
-        <text> </text>
+        <text></text>
         <text>While holding the object, a creature can take an action to produce the spell&#39;s effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it&#39;s been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
     </autolevel>
@@ -2967,9 +2967,9 @@
       <feature>
         <name>Ability Score Improvement</name>
         <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
-        <text> </text>
+        <text></text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -2983,10 +2983,10 @@
       <feature>
         <name>Magic Item Savant</name>
         <text>At 14th level, your skill with magic items deepens more:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; You can attune to up to five magic items at once.</text>
         <text>&#183; You ignore all class, race, spell, and level requirements on attuning to or using a magic item.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
     </autolevel>
@@ -2996,29 +2996,29 @@
       <feature optional="YES">
         <name>Chemical Mastery (Alchemist)</name>
         <text>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; You gain resistance to acid damage and poison damage, and you are immune to the poisoned condition.</text>
         <text>&#183; You can cast greater restoration and heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist&#39;s supplies as the spellcasting focus. Once you cast either spell with this feature, you can&#39;t cast that spell with it again until you finish a long rest.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 59</text>
       </feature>
       <feature optional="YES">
         <name>Fortified Position (Artillerist)</name>
         <text>Starting at 15th level, you&#39;re a master at forming well-defended emplacements using Eldritch Cannon:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.</text>
         <text>&#183; You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can&#39;t create a third cannon while you have two.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 60</text>
       </feature>
       <feature optional="YES">
         <name>Improved Defender (Battle Smith)</name>
         <text>At 15th level, your Arcane Jolt and steel defender become more powerful:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; The extra damage and the healing of your Arcane Jolt both increase to 4d6.</text>
         <text>&#183; Your steel defender gains a +2 bonus to Armor Class.</text>
-        <text>&#183; Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier. </text>
-        <text> </text>
+        <text>&#183; Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier.</text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 61</text>
       </feature>
     </autolevel>
@@ -3028,9 +3028,9 @@
       <feature>
         <name>Ability Score Improvement</name>
         <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
-        <text> </text>
+        <text></text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -3044,7 +3044,7 @@
       <feature>
         <name>Magic Item Master</name>
         <text>Starting at 18th level, you can attune to up to six magic items at once.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
     </autolevel>
@@ -3054,9 +3054,9 @@
       <feature>
         <name>Ability Score Improvement</name>
         <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.</text>
-        <text> </text>
+        <text></text>
         <text>If your DM allows the use of feats, you may instead take a feat.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 57</text>
       </feature>
     </autolevel>
@@ -3066,10 +3066,10 @@
       <feature>
         <name>Soul of Artifice</name>
         <text>At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:</text>
-        <text> </text>
+        <text></text>
         <text>&#183; You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</text>
         <text>&#183; If you&#39;re reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</text>
-        <text> </text>
+        <text></text>
         <text>Source: Eberron Rising From the Last War, p. 58</text>
       </feature>
     </autolevel>
@@ -3085,7 +3085,7 @@
       &#183; While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.
       &#183; A double-bladed scimitar has the finesse property when you wield it.
       Source: Eberron: Rising from the Last War p. 22
-    </text>
+</text>
   </feat>
   <feat>
     <name>Aberrant Dragonmark</name>
@@ -3106,7 +3106,7 @@
       8 | You have horrific nightmares after you use your mark.
 
       Source: Eberron: Rising from the Last War p. 52
-    </text>
+</text>
     <modifier category="ability score">Constitution +1</modifier>
   </feat>
 
@@ -3136,7 +3136,7 @@
         Thuranni | One musical instrument and poisoner&#39;s kit
         Vadalis | herbalism kit and vehicles (land)
         Source: Eberron: Rising from the Last War p. 53
-      </text>
+</text>
     </trait>
     <trait>
       <name>Role</name>
@@ -3151,13 +3151,13 @@
         6 | Exploration
         7 | Negotiation
         8 | Covert Operations
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: House Connections</name>
       <text>
         As an agent of your house, you can always get food and lodging for yourself and your friends at a house enclave. When the house assigns you a mission, it will usually provide you with the necessary supplies and transportation. Beyond this, you have many old friends, mentors, and rivals in your house, and you may encounter one of them when you interact with a house business. The degree to which such acquaintances are willing to help you depends on your current standing in your house.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -3194,7 +3194,7 @@
         4 | My secret could get me expelled from my house.
         5 | My religious beliefs aren&#39;t widespread in my house.
         6 | I&#39;m working for a hidden faction in my house that gives me secret assignments.
-      </text>
+</text>
     </trait>
   </background>
 

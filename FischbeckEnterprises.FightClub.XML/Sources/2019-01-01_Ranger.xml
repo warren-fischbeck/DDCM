@@ -19,9 +19,9 @@
         <text>Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
         <text />
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
-        <text>- (a) scale mail or (b) leather armor </text>
-        <text>- (a) two shortswords or (b) two simple melee weapons </text>
-        <text>- (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack </text>
+        <text>- (a) scale mail or (b) leather armor</text>
+        <text>- (a) two shortswords or (b) two simple melee weapons</text>
+        <text>- (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
         <text>- A longbow and a quiver of 20 arrows</text>
         <text />
         <text>Alternatively, you may start with 5d10 x 4 gp and choose your own equipment.</text>
@@ -35,25 +35,25 @@
       </feature>
       <feature>
         <name>Natural Explorer</name>
-        <text>You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits: </text>
+        <text>You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:</text>
         <text />
-        <text>- You ignore difficult terrain. </text>
+        <text>- You ignore difficult terrain.</text>
         <text />
-        <text>- You have advantage on initiative rolls. </text>
+        <text>- You have advantage on initiative rolls.</text>
         <text />
-        <text>- On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted. </text>
+        <text>- On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</text>
         <text />
-        <text>	In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more: </text>
+        <text>	In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:</text>
         <text />
-        <text>- Difficult terrain doesn&#39;t slow your group&#39;s travel. </text>
+        <text>- Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
         <text />
-        <text>- Your group can&#39;t become lost except by magical means. </text>
+        <text>- Your group can&#39;t become lost except by magical means.</text>
         <text />
-        <text>- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger. </text>
+        <text>- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
         <text />
-        <text>- If you are traveling alone, you can move stealthily at a normal pace. </text>
+        <text>- If you are traveling alone, you can move stealthily at a normal pace.</text>
         <text />
-        <text>- When you forage, you find twice as much food as you normally would. </text>
+        <text>- When you forage, you find twice as much food as you normally would.</text>
         <text />
         <text>- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
       </feature>
@@ -82,21 +82,21 @@
       </feature>
       <feature>
         <name>Spellcasting</name>
-        <text>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list. </text>
+        <text>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.</text>
         <text />
-        <text>Spell Slots: </text>
-        <text>	The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest. </text>
-        <text>	For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot. </text>
+        <text>Spell Slots:</text>
+        <text>	The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest.</text>
+        <text>	For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.</text>
         <text />
-        <text>Spells Known of 1st Level and Higher: </text>
-        <text>	You know two 1st-level spells of your choice from the ranger spell list. </text>
-        <text>	At each odd level, you learn an additional ranger spell of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level. </text>
-        <text>	Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots. </text>
+        <text>Spells Known of 1st Level and Higher:</text>
+        <text>	You know two 1st-level spells of your choice from the ranger spell list.</text>
+        <text>	At each odd level, you learn an additional ranger spell of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.</text>
+        <text>	Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.</text>
         <text />
-        <text>Spellcasting Ability: </text>
-        <text>	Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one. </text>
+        <text>Spellcasting Ability:</text>
+        <text>	Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</text>
         <text />
-        <text>Spell save DC = 8 + your proficiency bonus + your Wisdom modifier </text>
+        <text>Spell save DC = 8 + your proficiency bonus + your Wisdom modifier</text>
         <text />
         <text>Spell attack modifier = your proficiency bonus + your Wisdom modifier</text>
       </feature>
@@ -105,10 +105,10 @@
     <autolevel level="3">
       <feature>
         <name>Primeval Awareness</name>
-        <text>Beginning at 3rd level, your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you. </text>
-        <text>	You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. </text>
-        <text>	You cannot use this ability against a creature that you have attacked within the past 10 minutes. </text>
-        <text>	Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures&#39; general direction and distance (in miles) from you. </text>
+        <text>Beginning at 3rd level, your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you.</text>
+        <text>	You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack.</text>
+        <text>	You cannot use this ability against a creature that you have attacked within the past 10 minutes.</text>
+        <text>	Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures&#39; general direction and distance (in miles) from you.</text>
         <text>	If there are multiple groups of your favored enemies within range, you learn this information for each group.</text>
       </feature>
       <feature>
@@ -121,39 +121,39 @@
       </feature>
       <feature optional="YES">
         <name>Beast Conclave: Animal Companion</name>
-        <text>At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world. </text>
-        <text>	With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area. </text>
-        <text>	At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion&#39;s Bond ability. You can have only one animal companion at a time. </text>
-        <text>	If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion&#39;s spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body. </text>
+        <text>At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world.</text>
+        <text>	With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.</text>
+        <text>	At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion&#39;s Bond ability. You can have only one animal companion at a time.</text>
+        <text>	If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion&#39;s spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.</text>
         <text>	If you use this ability to return a former animal companion to life while you have a current animal companion, your current companion leaves you and is replaced by the restored companion.</text>
       </feature>
       <feature optional="YES">
         <name>Beast Conclave: Companion&#39;s Bond</name>
-        <text>Your animal companion gains a variety of benefits while it is linked to you. </text>
-        <text>	The animal companion loses its Multiattack action, if it has one. </text>
-        <text>	The companion obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your companion acts on its own. </text>
-        <text>	When using your Natural Explorer feature, you and your animal companion can both move stealthily at a normal pace. </text>
-        <text>	Your animal companion has abilities and game statistics determined in part by your level. Your companion uses your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, an animal companion also adds its proficiency bonus to its AC and to its damage rolls. </text>
-        <text>	Your animal companion gains proficiency in two skills of your choice. It also becomes proficient with all saving throws. </text>
-        <text>	For each level you gain after 3rd, your animal companion gains an additional hit die and increases its hit points accordingly. </text>
-        <text>	Whenever you gain the Ability Score Improvement class feature, your companion&#39;s abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can&#39;t increase an ability score above 20 using this feature unless its description specifies otherwise. </text>
-        <text>	Your companion shares your alignment, and has a personality trait and a flaw that you can roll for or select from the tables below. Your companion shares your ideal, and its bond is always, "The ranger who travels with me is a beloved companion for whom I would gladly give my life." </text>
-        <text>	Your animal companion gains the benefits of your Favored Enemy feature, and of your Greater Favored Enemy feature when you gain that feature at 6th level. It uses the favored enemies you selected for those features. </text>
+        <text>Your animal companion gains a variety of benefits while it is linked to you.</text>
+        <text>	The animal companion loses its Multiattack action, if it has one.</text>
+        <text>	The companion obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your companion acts on its own.</text>
+        <text>	When using your Natural Explorer feature, you and your animal companion can both move stealthily at a normal pace.</text>
+        <text>	Your animal companion has abilities and game statistics determined in part by your level. Your companion uses your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, an animal companion also adds its proficiency bonus to its AC and to its damage rolls.</text>
+        <text>	Your animal companion gains proficiency in two skills of your choice. It also becomes proficient with all saving throws.</text>
+        <text>	For each level you gain after 3rd, your animal companion gains an additional hit die and increases its hit points accordingly.</text>
+        <text>	Whenever you gain the Ability Score Improvement class feature, your companion&#39;s abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can&#39;t increase an ability score above 20 using this feature unless its description specifies otherwise.</text>
+        <text>	Your companion shares your alignment, and has a personality trait and a flaw that you can roll for or select from the tables below. Your companion shares your ideal, and its bond is always, "The ranger who travels with me is a beloved companion for whom I would gladly give my life."</text>
+        <text>	Your animal companion gains the benefits of your Favored Enemy feature, and of your Greater Favored Enemy feature when you gain that feature at 6th level. It uses the favored enemies you selected for those features.</text>
         <text />
-        <text>Trait: </text>
-        <text>1. I&#39;m dauntless in the face of adversity. </text>
-        <text>2. Threaten my friends, threaten me. </text>
-        <text>3. I stay on alert so others can rest. </text>
-        <text>4. People see an animal and underestimate me. I use that to my advantage. </text>
-        <text>5. I have a knack for showing up in the nick of time. </text>
-        <text>6. I put my friends&#39; needs before my own in all things. </text>
+        <text>Trait:</text>
+        <text>1. I&#39;m dauntless in the face of adversity.</text>
+        <text>2. Threaten my friends, threaten me.</text>
+        <text>3. I stay on alert so others can rest.</text>
+        <text>4. People see an animal and underestimate me. I use that to my advantage.</text>
+        <text>5. I have a knack for showing up in the nick of time.</text>
+        <text>6. I put my friends&#39; needs before my own in all things.</text>
         <text />
-        <text>Flaw: </text>
-        <text>1. If there&#39;s food left unattended, I&#39;ll eat it. </text>
-        <text>2. I growl at strangers, and all people except my ranger are strangers to me. </text>
-        <text>3. Any time is a good time for a belly rub. </text>
-        <text>4. I&#39;m deathly afraid of water. </text>
-        <text>5. My idea of hello is a flurry of licks to the face. </text>
+        <text>Flaw:</text>
+        <text>1. If there&#39;s food left unattended, I&#39;ll eat it.</text>
+        <text>2. I growl at strangers, and all people except my ranger are strangers to me.</text>
+        <text>3. Any time is a good time for a belly rub.</text>
+        <text>4. I&#39;m deathly afraid of water.</text>
+        <text>5. My idea of hello is a flurry of licks to the face.</text>
         <text>6. I jump on creatures to tell them how much I love them.</text>
       </feature>
       <feature optional="YES">
@@ -195,7 +195,7 @@
       </feature>
       <feature optional="YES">
         <name>Deep Stalker Conclave: Underdark Scout</name>
-        <text>At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed, and if you use the Attack action, you can make one additional attack. </text>
+        <text>At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed, and if you use the Attack action, you can make one additional attack.</text>
         <text>	You are also adept at evading creatures that rely on darkvision. Such creatures gain no benefit when attempting to detect you in dark and dim conditions. Additionally, when the DM determines if you can hide from a creature, that creature gains no benefit from its darkvision.</text>
       </feature>
       <feature optional="YES">
@@ -204,12 +204,12 @@
       </feature>
       <feature optional="YES">
         <name>Horizon Walker: Planar Magic</name>
-        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn&#39;t count against the number of ranger spells you know. </text>
+        <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn&#39;t count against the number of ranger spells you know.</text>
         <text />
-        <text>3rd-protection from evil and good </text>
-        <text>5th-alter self </text>
-        <text>9th-protection from energy </text>
-        <text>13th-banishment </text>
+        <text>3rd-protection from evil and good</text>
+        <text>5th-alter self</text>
+        <text>9th-protection from energy</text>
+        <text>13th-banishment</text>
         <text>17th-teleportation circle</text>
       </feature>
       <feature optional="YES">
@@ -218,35 +218,35 @@
       </feature>
       <feature optional="YES">
         <name>Horizon Walker: Portal Lore</name>
-        <text>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn&#39;t reveal them. </text>
-        <text>	Once you use this feature, you can&#39;t use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher. </text>
+        <text>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn&#39;t reveal them.</text>
+        <text>	Once you use this feature, you can&#39;t use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.</text>
         <text>	See the "Planar Travel" section in chapter 2 of the Dungeon Master&#39;s Guide for examples of planar portals.</text>
       </feature>
       <feature optional="YES">
         <name>Ranger Conclave: Primeval Guardian</name>
-        <text>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes. </text>
+        <text>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes.</text>
         <text>	These rangers dwell in the elder forests of the world. They venture out only rarely, as they consider it their sacred duty to protect the druidic groves and ancient trees that saw the earliest days of the world.</text>
       </feature>
       <feature optional="YES">
         <name>Primeval Guardian: Guardian Magic</name>
         <text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table. The spell counts as a ranger spell for you, and it doesn&#39;t count against the number of ranger spells you know.</text>
         <text />
-        <text>3rd-entangle </text>
-        <text>5th-enhance ability </text>
-        <text>9th-conjure animals </text>
-        <text>13th-giant insect </text>
+        <text>3rd-entangle</text>
+        <text>5th-enhance ability</text>
+        <text>9th-conjure animals</text>
+        <text>13th-giant insect</text>
         <text>17th-insect plague</text>
       </feature>
       <feature optional="YES">
         <name>Primeval Guardian: Guardian Soul</name>
-        <text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated. </text>
-        <text>	You undergo the following changes while in your guardian form: </text>
+        <text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated.</text>
+        <text>	You undergo the following changes while in your guardian form:</text>
         <text />
-        <text>- Your size becomes Large, unless you were larger. </text>
+        <text>- Your size becomes Large, unless you were larger.</text>
         <text />
-        <text>- Any speed you have becomes 5 feet, unless the speed was lower. </text>
+        <text>- Any speed you have becomes 5 feet, unless the speed was lower.</text>
         <text />
-        <text>- Your reach increases by 5 feet. </text>
+        <text>- Your reach increases by 5 feet.</text>
         <text />
         <text>- You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.</text>
       </feature>
@@ -349,8 +349,8 @@
     <autolevel level="10">
       <feature>
         <name>Hide in Plain Sight</name>
-        <text>Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes. </text>
-        <text>	When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden. </text>
+        <text>Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes.</text>
+        <text>	When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.</text>
         <text>	If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</text>
       </feature>
       <slots>0,4,3,2,0,0</slots>
@@ -378,7 +378,7 @@
       </feature>
       <feature optional="YES">
         <name>Horizon Walker: Distant Strike</name>
-        <text>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation. </text>
+        <text>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation.</text>
         <text>	If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</text>
       </feature>
       <feature optional="YES">
@@ -487,22 +487,22 @@
 			<feature optional="YES">
 				<name>Starting Ranger (Alternate)</name>
 				<text>As a 1st-level Ranger (Alternate), you begin play with 12+your Constitution modifier hit points.</text>
-				<text> </text>
+				<text></text>
 				<text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
 				<text>&#8226; Armor: light armor, shields</text>
 				<text>&#8226; Weapons: simple weapons, martial weapons</text>
 				<text>&#8226; Tools: herbalism kit</text>
 				<text>&#8226; Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 </text>
-				<text> </text>
+				<text></text>
 				<text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
 				<text>&#8226; Leather armor</text>
 				<text>&#8226; (a) two shortswords or (b) two martial melee weapons or (c) a martial weapon and a shield</text>
 				<text>&#8226; (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
 				<text>&#8226; (a) a longbow and a quiver of 20 arrows or (b) a martial weapon</text>
-				<text> </text>
+				<text></text>
 				<text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
-				<text> </text>
+				<text></text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 1</text>
 			</feature>
 		</autolevel>
@@ -512,10 +512,10 @@
 				<name>Multiclass Ranger (Alternate)</name>
 				<text>To multiclass as a Ranger (Alternate), you must meet the following prerequisites:</text>
 				<text>&#8226; Dexterity 13 and Wisdom 13</text>
-				<text> </text>
+				<text></text>
 				<text>You gain the following proficiencies:</text>
 				<text>&#8226; light armor, medium armor, shields, simple weapons, martial weapons; choose one skill from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
-				<text> </text>
+				<text></text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 1</text>
 			</feature>
 		</autolevel>
@@ -525,7 +525,7 @@
 			<feature>
 				<name>Ambuscade</name>
 				<text>Rangers strike first and strike hard. When you roll initiative, you gain a special turn that takes place before other creatures can act. On this turn, you can use your action to take either the Attack or Hide action.</text>
-				<text>	If more than one creature in an encounter has this feature, they all act first in order of initiative, then the regular initiative order begins. </text>
+				<text>	If more than one creature in an encounter has this feature, they all act first in order of initiative, then the regular initiative order begins.</text>
 				<text>	If you would normally be surprised at the start of an encounter, you are not surprised but you do not gain this extra turn.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 2</text>
@@ -537,19 +537,19 @@
 				<name>Natural Explorer</name>
 				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#39;re proficient in.</text>
 				<text>	While traveling for an hour or more in your favored terrain, you gain the following benefits.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Your group can&#39;t become lost except by magical means.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; If you are traveling alone, you can move stealthily at a normal pace.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; When you forage, you find twice as much food as you normally would.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>	You choose additional favored terrain types at 6th and 10th level.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 2</text>
@@ -559,7 +559,7 @@
 		<autolevel level="2">
 			<feature>
 				<name>Skirmisher&#39;s Stealth</name>
-				<text>Beginning at 2nd level, you combine speed and stealth in combat to make yourself hard to pin down. You are difficult to detect even if you attack or otherwise take actions that would normally reveal your presence. </text>
+				<text>Beginning at 2nd level, you combine speed and stealth in combat to make yourself hard to pin down. You are difficult to detect even if you attack or otherwise take actions that would normally reveal your presence.</text>
 				<text>	At the start of your turn, pick a creature you are hidden from. You remain hidden from that creature during your turn, regardless of your actions or the actions of other creatures. As a bonus action at the end of your turn, you can make a Dexterity (Stealth) check to hide again if you fulfill the conditions needed to hide. Otherwise, creatures are aware of you at the end of your turn.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
@@ -646,7 +646,7 @@
 			<feature>
 				<name>Primeval Awareness</name>
 				<text>Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 5 minutes, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#39;t reveal the creatures&#39; location or number.</text>
-				<text>	Once you use this feature, you must finish a short or long rest before you can use it again. </text>
+				<text>	Once you use this feature, you must finish a short or long rest before you can use it again.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
 			</feature>
@@ -655,13 +655,13 @@
 		<autolevel level="3">
 			<feature>
 				<name>Spirit Path</name>
-				<text>At 3rd level, you form a bond with a nature spirit&#8212;a companion forged by your link to the wild. This spirit companion protects you as you travel and watches your back in battle. You choose a ranger path that shapes your spirit companion and its magic: the Guardian, the Seeker, or the Stalker. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level. </text>
-				<text>	 </text>
-				<text>Spirit Companion: </text>
-				<text>	All rangers gain a spirit companion and the ability to invoke its magical power. (Your spirit companion grants you one benefit you can call on in this playtest version of the revised ranger, with more benefits gained at higher levels.) You regain your ability to call on your spirit companion in this way when you finish a short or long rest. </text>
-				<text>	Once per day as a bonus action, you can command your spirit companion to materialize as a living creature, determined by the ranger path you choose. Your spirit companion manifests as an animal for 1 minute or until your concentration is broken (as if you are concentrating on a spell). You can also dismiss it as a bonus action. </text>
-				<text>	The manifested creature gains a bonus to attack rolls and saving throws equal to your Wisdom modifier. It uses the hit points in the animal&#39;s stat block or half your hit point maximum, whichever is higher. </text>
-				<text>	The manifested creature takes its turn on your initiative and acts immediately after you. You control its actions, even if you are unconscious or otherwise unable to act. </text>
+				<text>At 3rd level, you form a bond with a nature spirit&#8212;a companion forged by your link to the wild. This spirit companion protects you as you travel and watches your back in battle. You choose a ranger path that shapes your spirit companion and its magic: the Guardian, the Seeker, or the Stalker. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</text>
+				<text>	</text>
+				<text>Spirit Companion:</text>
+				<text>	All rangers gain a spirit companion and the ability to invoke its magical power. (Your spirit companion grants you one benefit you can call on in this playtest version of the revised ranger, with more benefits gained at higher levels.) You regain your ability to call on your spirit companion in this way when you finish a short or long rest.</text>
+				<text>	Once per day as a bonus action, you can command your spirit companion to materialize as a living creature, determined by the ranger path you choose. Your spirit companion manifests as an animal for 1 minute or until your concentration is broken (as if you are concentrating on a spell). You can also dismiss it as a bonus action.</text>
+				<text>	The manifested creature gains a bonus to attack rolls and saving throws equal to your Wisdom modifier. It uses the hit points in the animal&#39;s stat block or half your hit point maximum, whichever is higher.</text>
+				<text>	The manifested creature takes its turn on your initiative and acts immediately after you. You control its actions, even if you are unconscious or otherwise unable to act.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
 			</feature>
@@ -670,7 +670,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Spirit Path: Guardian</name>
-				<text>By following the path of the Guardian, you protect the natural world from creatures that would despoil it, even as you engage with the common folk who rely upon nature&#39;s bounty to survive. You patrol the pathways through the wilds, keeping them clear of bandits and rampaging monsters, even as you keep careful watch on how civilized realms interact with the wilderness. Those who take more than their fair share&#8212;clear-___cutting forests or hunting for sport rather than survival&#8212;risk your wrath. </text>
+				<text>By following the path of the Guardian, you protect the natural world from creatures that would despoil it, even as you engage with the common folk who rely upon nature&#39;s bounty to survive. You patrol the pathways through the wilds, keeping them clear of bandits and rampaging monsters, even as you keep careful watch on how civilized realms interact with the wilderness. Those who take more than their fair share&#8212;clear-___cutting forests or hunting for sport rather than survival&#8212;risk your wrath.</text>
 				<text>	When your spirit companion manifests, it takes the form of a brown bear.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 3</text>
@@ -680,7 +680,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Guardian&#39;s Shroud (Guardian)</name>
-				<text>Your companion spirit helps to protect you and the creatures closest to you. As a bonus action, you invoke your spirit companion and choose yourself or an ally you can see. The chosen creature gains temporary hit points equal to 2d6+your Wisdom modifier. </text>
+				<text>Your companion spirit helps to protect you and the creatures closest to you. As a bonus action, you invoke your spirit companion and choose yourself or an ally you can see. The chosen creature gains temporary hit points equal to 2d6+your Wisdom modifier.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
 			</feature>
@@ -689,8 +689,8 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Spirit Path: Seeker</name>
-				<text>By taking up the Seeker path, you are drawn into the unknown wilds far from civilization in search of lost treasures, forgotten evil, and sites of primal magic. You understand that the trackless wilderness can harbor many secrets. Some of those secrets&#8212;such as a lonely oasis providing water to a desert realm&#8212;must be protected. Others&#8212;such as an ancient idol infused with the foul magic of the demon worshippers who crafted it&#8212;must be destroyed before their evil awakens once more. </text>
-				<text>	When your spirit companion manifests, it takes the form of a giant eagle. </text>
+				<text>By taking up the Seeker path, you are drawn into the unknown wilds far from civilization in search of lost treasures, forgotten evil, and sites of primal magic. You understand that the trackless wilderness can harbor many secrets. Some of those secrets&#8212;such as a lonely oasis providing water to a desert realm&#8212;must be protected. Others&#8212;such as an ancient idol infused with the foul magic of the demon worshippers who crafted it&#8212;must be destroyed before their evil awakens once more.</text>
+				<text>	When your spirit companion manifests, it takes the form of a giant eagle.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
 			</feature>
@@ -708,7 +708,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Spirit Path: Stalker</name>
-				<text>As a ranger of the Stalker path, you prowl the wilderness in search of aberrations, fiends, and other monsters that must be slain before they wreak havoc on the natural world. You are the power of nature&#39;s vengeance made manifest, and anything that poses a threat to nature is your target. When a powerful creature such as a dragon threatens a region, a ranger of the Stalker path leads the hunt that will take it down. Like others of your kind, you do not rest until your quarry is dead and the natural world is safe. </text>
+				<text>As a ranger of the Stalker path, you prowl the wilderness in search of aberrations, fiends, and other monsters that must be slain before they wreak havoc on the natural world. You are the power of nature&#39;s vengeance made manifest, and anything that poses a threat to nature is your target. When a powerful creature such as a dragon threatens a region, a ranger of the Stalker path leads the hunt that will take it down. Like others of your kind, you do not rest until your quarry is dead and the natural world is safe.</text>
 				<text>	When your spirit companion manifests, it takes the form of a dire wolf.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Ranger Options, p. 4</text>
@@ -794,21 +794,21 @@
 			<feature optional="YES">
 				<name>Starting Ranger (No Spells)</name>
 				<text>As a 1st-level Ranger (No Spells), you begin play with 10+your Constitution modifier hit points.</text>
-				<text> </text>
+				<text></text>
 				<text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
 				<text>&#8226; Armor: light armor, medium armor, shields</text>
 				<text>&#8226; Weapons: simple weapons, martial weapons</text>
 				<text>&#8226; Tools: none</text>
 				<text>&#8226; Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
-				<text> </text>
+				<text></text>
 				<text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
 				<text>&#8226; (a) scale mail or (b) leather armor</text>
 				<text>&#8226; (a) two shortswords or (b) two simple melee weapons</text>
 				<text>&#8226; (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
 				<text>&#8226; A longbow and a quiver of 20 arrows</text>
-				<text> </text>
+				<text></text>
 				<text>Alternatively, you may start with 5d4x10 gp and choose your own equipment.</text>
-				<text> </text>
+				<text></text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 5</text>
 			</feature>
 		</autolevel>
@@ -818,10 +818,10 @@
 				<name>Multiclass Ranger (No Spells)</name>
 				<text>To multiclass as a Ranger (No Spells), you must meet the following prerequisites:</text>
 				<text>&#8226; Dexterity 13 and Wisdom 13</text>
-				<text> </text>
+				<text></text>
 				<text>You gain the following proficiencies:</text>
 				<text>&#8226; light armor, medium armor, shields, simple weapons, martial weapons; choose one skill from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
-				<text> </text>
+				<text></text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 5</text>
 			</feature>
 		</autolevel>
@@ -849,19 +849,19 @@
 				<name>Natural Explorer</name>
 				<text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#39;re proficient in.</text>
 				<text>	While traveling for an hour or more in your favored terrain, you gain the following benefits.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Your group can&#39;t become lost except by magical means.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; If you are traveling alone, you can move stealthily at a normal pace.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; When you forage, you find twice as much food as you normally would.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>	You choose additional favored terrain types at 6th and 10th level.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -951,13 +951,13 @@
 		<autolevel level="2">
 			<feature>
 				<name>Combat Superiority</name>
-				<text>At 2nd level, you learn maneuvers that are fueled by special dice called superiority dice. </text>
-				<text>	 </text>
-				<text>Maneuvers: You learn two maneuvers of your choice, which are chosen from the list of maneuvers available to fighters with the Battle Master archetype. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn one additional maneuver of your choice at 5th, 9th, 13th, and 17th levels. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one. </text>
-				<text>	 </text>
-				<text>Superiority Dice: You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest. You gain another superiority die at 9th level and one more at 17th level. </text>
-				<text>	 </text>
-				<text>Saving Throws: Some of your maneuvers require your target to make a saving throw to resist the maneuver&#39;s effects. The saving throw DC is calculated as follows: </text>
+				<text>At 2nd level, you learn maneuvers that are fueled by special dice called superiority dice.</text>
+				<text>	</text>
+				<text>Maneuvers: You learn two maneuvers of your choice, which are chosen from the list of maneuvers available to fighters with the Battle Master archetype. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn one additional maneuver of your choice at 5th, 9th, 13th, and 17th levels. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.</text>
+				<text>	</text>
+				<text>Superiority Dice: You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest. You gain another superiority die at 9th level and one more at 17th level.</text>
+				<text>	</text>
+				<text>Saving Throws: Some of your maneuvers require your target to make a saving throw to resist the maneuver&#39;s effects. The saving throw DC is calculated as follows:</text>
 				<text>	Maneuver save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
@@ -982,7 +982,7 @@
 			<feature>
 				<name>Poultices</name>
 				<text>At 3rd level, you can create special herbal poultices that have healing power comparable to some potions. You can spend 1 hour gathering herbs and preparing herbal poultices using treated bandages to create a number of such poultices equal to your Wisdom modifier (minimum 1). You can carry a number of poultices at one time equal to your Wisdom modifier (minimum 1). The poultices you create cannot be applied by anyone but you. After 24 hours, any poultices that you have not used lose their potency.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>If you spend 1 minute applying one of your poultices to a wounded humanoid creature, thereby expending its use, that creature regains 1d6 hit points for every two ranger levels you have (rounded up).</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 7</text>
@@ -1041,7 +1041,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Hunter&#39;s Prey: Colossus Slayer</name>
-				<text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it&#39;s below its hit point maximum. You can deal this extra damage only once per turn. </text>
+				<text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it&#39;s below its hit point maximum. You can deal this extra damage only once per turn.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1050,7 +1050,7 @@
 		<autolevel level="3">
 			<feature optional="YES">
 				<name>Hunter&#39;s Prey: Giant Killer</name>
-				<text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature. </text>
+				<text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1130,7 +1130,7 @@
 		<autolevel level="7">
 			<feature optional="YES">
 				<name>Defensive Tactics: Escape the Horde</name>
-				<text>Opportunity attacks against you are made with disadvantage. </text>
+				<text>Opportunity attacks against you are made with disadvantage.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1139,7 +1139,7 @@
 		<autolevel level="7">
 			<feature optional="YES">
 				<name>Defensive Tactics: Multiattack Defense</name>
-				<text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn. </text>
+				<text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1239,7 +1239,7 @@
 		<autolevel level="11">
 			<feature optional="YES">
 				<name>Multiattack: Volley</name>
-				<text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon&#39;s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. </text>
+				<text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon&#39;s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>
@@ -1276,15 +1276,15 @@
 			<feature>
 				<name>Call Natural Allies</name>
 				<text>Starting at 13th level, when you are in an area of your favored terrain, you can call natural creatures from that terrain to fight on your behalf, using your attunement to the natural world to convince them to aid you. The DM chooses beasts appropriate to the terrain to come to your aid from among those that could hear you and that are within 1 mile of you, in one of the following groups.</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; One beast of challenge rating 2 or lower</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Two beasts of challenge rating 1 or lower</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Four beasts of challenge rating 1/2 or lower</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>&#8226; Eight beasts of challenge rating 1/4 or lower</text>
-				<text>	 </text>
+				<text>	</text>
 				<text>	These beasts approach you from their current location, and will fight alongside you, attacking any creatures that are hostile to you. They are friendly to you and your comrades, and you roll initiative for the called creatures as a group, which takes its own turns. The DM has the creatures&#39; statistics.</text>
 				<text>	After 1 hour, these beasts return to their previous location. Once you use this feature, you cannot use it again in the same general area for 24 hours, since the same animals will not repeatedly heed your call.</text>
 				<text>	</text>
@@ -1348,7 +1348,7 @@
 		<autolevel level="15">
 			<feature optional="YES">
 				<name>Superior Hunter&#39;s Defense: Stand Against the Tide</name>
-				<text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice. </text>
+				<text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</text>
 				<text>	</text>
 				<text>Source: Unearthed Arcana: Modifying Classes, p. 6</text>
 			</feature>

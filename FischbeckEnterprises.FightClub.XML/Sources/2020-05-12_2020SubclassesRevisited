@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+  <class>
+    <name>Rogue</name>
+
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Roguish Archetype: Phantom (UA)</name>
+        <text>Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves&#39; guilds value them as highly effective information gatherers and spies.</text>
+		<text>Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay (Forgotten Realms) and Karrnath (Eberron), where many necromancers practice their craft, a Phantom can become a wizard&#39;s confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.</text>
+		<text>How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves&#39; guild dedicated to a god of death?</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Roguish Archetype: Phantom (UA): Whispers of the Dead (Phantom (UA))</name>
+        <text>3rd-level Phantom feature</text>
+        <text>Echoes of those who have died begin to cling to you. Whenever you finish a short or long rest, you can gain one skill or tool proficiency of your choice, as a ghostly presence shares its knowledge with you. This proficiency lasts until you use this feature again.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Roguish Archetype: Phantom (UA): Wails from the Grave (Phantom (UA))</name>
+        <text>3rd-level Phantom feature</text>
+        <text>As you nudge someone closer to the grave, you can cause deathly wails to be heard near them. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes psychic damage equal to the roll&#39;s total, as wails of the dead sound around them for a moment.</text>
+		<text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="9">
+      <feature optional="YES">
+        <name>Roguish Archetype: Phantom (UA): Tokens of the Departed (Phantom (UA))</name>
+        <text>9th-level Phantom feature</text>
+        <text>When a life ends in your presence, you&#39;re able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you open your free hand and a Tiny trinket appears there, a soul trinket. The DM chooses the trinket&#39;s form or has you roll on the Trinkets table in the Player&#39;s Handbook to determine it.</text> 
+		<text>While the soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, as your vitality is enhanced by the life essence within the object. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can&#39;t create one while at your maximum.</text>
+		<text>As an action, you can destroy one of your soul trinkets, no matter where it&#39;s located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It&#39;s under no obligation to be truthful, and it answers as concisely as possible, eager to be free.</text>
+        <text />
+        <text>d3 | Capability</text>
+        <text>1 | You learn how to speak, read, and write one language of your choice.</text>
+        <text>2 | You gain one skill or tool proficiency of your choice.</text>
+        <text>3 | You gain proficiency with one saving throw of your choice.</text>
+        <text />
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="13">
+      <feature optional="YES">
+        <name>Roguish Archetype: Phantom (UA): Ghost Walk (Phantom (UA))</name>
+        <text>13th-level Phantom feature</text>
+        <text>You can now phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.</text>
+		<text>You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="17">
+      <feature optional="YES">
+        <name>Roguish Archetype: Phantom (UA): Death Knell (Phantom (UA))</name>
+        <text>17th-level Phantom feature</text>
+        <text>When you use your Wails from the Grave feature, you can now deal the psychic damage to both the first and the second creature.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+  </class>
+  <class>
+    <name>Warlock</name>
+
+    <autolevel level="1">
+      <feature optional="YES">
+        <name>Otherworldly Patron: The Noble Genie (UA)</name>
+        <text>You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities are rulers of vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations but are all arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals who so love to bind genies into servitude, readily entering into pacts that expand their reach across the multiverse.</text>
+		<text>You choose your patron&#39;s kind or determine it randomly, using the Genie Kind table. Each kind of genie is associated with a particular element, as shown in the table.</text>
+		<text/>
+		<text>Genie Kind</text>
+		<text>d4 |    Kind | Element</text>
+		<text> 1 |     Dao | Earth</text>
+		<text> 2 |  Djinni | Air</text>
+		<text> 3 | Efreeti | Fire</text>
+		<text> 4 |  Maarid | Water</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="1">
+      <feature optional="YES">
+        <name>Otherworldly Patron: The Genie (UA): Expanded Spell List (The Genie (UA))</name>
+        <text>1st-level Genie feature</text>
+        <text>The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron&#39;s kind: dao, djinni, efreeti, or marid.</text>
+        <text />
+        <text>Spell Level | Genie Spells          | Dao Spells      | Djinni Spells       | Efreeti Spells| Marid Spells</text>
+        <text>        1st | detect evil and good  | sanctuary       | thunderwave         | burning hands | fog cloud</text>
+        <text>        2nd | phantasmal force      | spike growth    | gust of wind        | scorching ray |blur</text>
+        <text>        3rd | create food and water | meld into stone | wind wall           | fireball      | sleet storm</text>
+        <text>        4th | phantasmal killer     | stone shape     | greater invisiblity | fire shield   | control water</text>
+        <text>        5th | creation              | wall of stone   | seeming             | flame strike  | cone of cold</text>
+		<text>        9th | wish</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="1">
+      <feature optional="YES">
+        <name>Otherworldly Patron: The Genie (UA): Genie&#39;s Vessel (The Genie (UA))</name>
+        <text>1st-level Genie feature</text>
+        <text>Your patron gifts you a magical vessel that grants you a measure of the genie&#39;s power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie&#39;s Vessel table</text>
+        <text />
+        <text>d6 | Vessel</text>
+        <text>1 | Oil lamp</text>
+        <text>2 | Urn</text>
+        <text>3 | Ring with a compartment</text>
+        <text>4 | Stoppered bottle</text>
+        <text>5 | Hollow statuette</text>
+        <text>6 | Ornate lantern</text>
+        <text />
+        <text>While you are touching the vessel, you can use it in the following ways:</text>
+		<text>Bottled Respite</text>
+		<text>As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is comfortably appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel&#39;s former space. Once you enter the vessel, you can&#39;t enter again until you finish a long rest.</text> 
+		<text />
+		<text>Genie&#39;s Wrath</text>
+		<text>Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid). The vessel&#39;s AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.</text>
+		<text>If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="6">
+      <feature optional="YES">
+        <name>Otherworldly Patron: The Genie (UA): Elemental Gift (The Genie (UA))</name>
+        <text>6th-level Genie feature</text>
+        <text>You begin to take on characteristics of your patron&#39;s kind. You now have resistance to a damage type determined by your patron&#39;s kind: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</text>
+		<text>In addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="10">
+      <feature optional="YES">
+        <name>Otherworldly Patron: The Genie (UA): Sanctuary Vessel (The Genie (UA))</name>
+        <text>10th-level Genie feature</text>
+        <text>When you enter your Genie&#39;s Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.</text>
+		<text>As a bonus action, you can eject any number of creatures from the vessel, and everyone is ejected if you leave or the vessel is destroyed.</text> 
+		<text>In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="14">
+      <feature optional="YES">
+        <name>Otherworldly Patron: The Genie (UA): Limited Wish (The Genie (UA))</name>
+        <text>14th-level Genie feature</text>
+        <text>You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie&#39;s Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class&#39;s spell list, and you don&#39;t need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.</text>
+		<text>Once you use this feature, you can&#39;t use it again until you finish 1d4 long rests.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+  </class>
+  
+</compendium>

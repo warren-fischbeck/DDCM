@@ -349,7 +349,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared: </text>
+      <text>The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): light, sacred flame, thaumaturgy</text>
       <text>- 1st level (3 slots): bless, cure wounds, sanctuary</text>
@@ -2051,14 +2051,14 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared: </text>
+      <text>Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): gust, mage hand, message, prestidigitation, ray of frost, shocking grasp</text>
       <text>- 1st level (4 slots): charm person, feather fall, mage armor, thunderwave</text>
       <text>- 2nd level (3 slots): dust devil, gust of wind, invisibility</text>
       <text>- 3rd level (3 slots): fly, gaseous form, lightning bolt</text>
       <text>- 4th level (3 slots): ice storm, storm sphere</text>
-      <text>- 5th level (2 slots): cloudkill, seeming (cast each day) </text>
+      <text>- 5th level (2 slots): cloudkill, seeming (cast each day)</text>
       <text>- 6th level (1 slot): chain lightning</text>
     </trait>
   </monster>
@@ -3997,7 +3997,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared: </text>
+      <text>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): sacred flame, spare the dying, thaumaturgy</text>
       <text>- 1st level (4 slots): command, detect evil and good, detect magic</text>
@@ -4317,17 +4317,17 @@
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
-      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves: </text>
+      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
       <text />
-      <text>- 1st level (4 slots): identify, ray of sickness </text>
+      <text>- 1st level (4 slots): identify, ray of sickness</text>
       <text />
-      <text>- 2nd level (3 slots): hold person, locate object </text>
+      <text>- 2nd level (3 slots): hold person, locate object</text>
       <text />
-      <text>- 3rd level (3 slots): bestow curse, counterspell, lightning bolt </text>
+      <text>- 3rd level (3 slots): bestow curse, counterspell, lightning bolt</text>
       <text />
-      <text>- 4th level (3 slots): phantasmal killer, polymorph </text>
+      <text>- 4th level (3 slots): phantasmal killer, polymorph</text>
       <text />
-      <text>- 5th level (2 slots): contact other plane, scrying </text>
+      <text>- 5th level (2 slots): contact other plane, scrying</text>
       <text />
       <text>- 6th level (1 slot): eyebite</text>
       <text />
@@ -4536,7 +4536,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The arcanaloth&#39;s innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components: </text>
+      <text>The arcanaloth&#39;s innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: alter self, darkness, heat metal, invisibility (self only), magic missile</text>
     </trait>
@@ -4550,7 +4550,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared: </text>
+      <text>The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation</text>
       <text>- 1st level (4 slots): detect magic, identify, shield, Tenser&#39;s floating disk</text>
@@ -4733,7 +4733,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared: </text>
+      <text>The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
       <text>- 1st level (4 slots): detect magic, identify, mage armor-, magic missile</text>
@@ -5211,7 +5211,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list: </text>
+      <text>Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:</text>
       <text />
       <text>- Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp</text>
       <text>- 1st level (4 slots): fog cloud, magic missile, shield, thunderwave</text>
@@ -6353,7 +6353,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The barlgura&#39;s spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components: </text>
+      <text>The barlgura&#39;s spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:</text>
       <text>1/day each: entangle, phantasmal force</text>
       <text>2/day each: disguise self, invisibility (self only)</text>
     </trait>
@@ -6517,14 +6517,14 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Bastian&#39;s innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells: </text>
+      <text>Bastian&#39;s innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:</text>
       <text />
       <text>- At will: produce flame</text>
       <text>- 1/day: burning hands</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells: </text>
+      <text>Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): fire bolt, mage hand, message, prestidigitation, shocking grasp</text>
       <text>- 1st level (4 slots): mage armor, magic missile, shield</text>
@@ -7083,17 +7083,17 @@
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
-      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves: </text>
+      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
       <text />
-      <text>- 1st level (4 slots): identify, ray of sickness </text>
+      <text>- 1st level (4 slots): identify, ray of sickness</text>
       <text />
-      <text>- 2nd level (3 slots): hold person, locate object </text>
+      <text>- 2nd level (3 slots): hold person, locate object</text>
       <text />
-      <text>- 3rd level (3 slots): bestow curse, counterspell, lightning bolt </text>
+      <text>- 3rd level (3 slots): bestow curse, counterspell, lightning bolt</text>
       <text />
-      <text>- 4th level (3 slots): phantasmal killer, polymorph </text>
+      <text>- 4th level (3 slots): phantasmal killer, polymorph</text>
       <text />
-      <text>- 5th level (2 slots): contact other plane, scrying </text>
+      <text>- 5th level (2 slots): contact other plane, scrying</text>
       <text />
       <text>- 6th level (1 slot): eyebite</text>
       <text />
@@ -7429,7 +7429,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): acid splash, blade ward, light, mending, mold earth</text>
       <text>- 1st level (4 slots): earth tremor, expeditious retreat, shield</text>
@@ -7666,13 +7666,13 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components: </text>
+      <text>Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:</text>
       <text />
       <text>- 3/day each: fog cloud, levitate</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list: </text>
+      <text>Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:</text>
       <text />
       <text>- Cantrips (at will): light, mage hand, prestidigitation</text>
       <text>- 1st level (4 slots): detect magic, identify, magic missile, shield</text>
@@ -8401,7 +8401,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared: </text>
+      <text>The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mending, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): command, shield of faith</text>
@@ -8449,7 +8449,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared: </text>
+      <text>The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, minor illusion, ray of frost</text>
       <text>- 1st level (4 slots): charm person, sleep</text>
@@ -9294,7 +9294,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The cambion&#39;s spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components: </text>
+      <text>The cambion&#39;s spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:</text>
       <text>3/day each: alter self, command, detect magic</text>
       <text>1/day: plane shift (self only)</text>
     </trait>
@@ -10726,7 +10726,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The giant&#39;s innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components: </text>
+      <text>The giant&#39;s innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic, fog cloud, light</text>
       <text>3/day each: feather fall, fly, misty step, telekinesis</text>
@@ -11217,7 +11217,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The couatl&#39;s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components: </text>
+      <text>The couatl&#39;s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:</text>
       <text />
       <text>At will: detect evil and good, detect magic, detect thoughts</text>
       <text>3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield</text>
@@ -11585,7 +11585,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): chill touch, mage hand, minor illusion, prestidigitation, ray of frost</text>
       <text>- 1st level (4 slots): expeditious retreat, ice knife, magic missile, shield</text>
@@ -11692,7 +11692,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared: </text>
+      <text>The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:</text>
       <text />
       <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): command, inflict wounds, shield of faith</text>
@@ -11901,7 +11901,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The dao&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+      <text>The dao&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: detect evil and good, detect magic, stone shape</text>
       <text>3/day each: passwall, move earth, tongues</text>
       <text>1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone</text>
@@ -12445,7 +12445,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared: </text>
+      <text>The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:</text>
       <text>- 1st level (4 slots): command, compelled duel, searing smite</text>
       <text>- 2nd level (3 slots): hold person, magic weapon</text>
       <text>- 3rd level (3 slots): dispel magic, elemental weapon</text>
@@ -12516,7 +12516,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The slaad&#39;s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components: </text>
+      <text>The slaad&#39;s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image</text>
       <text>2/day each: fear, fireball, fly, tongues</text>
@@ -12685,7 +12685,7 @@
       <name>Innate Spellcasting</name>
       <text>The wight&#39;s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:</text>
       <text />
-      <text>At will: detect magic, disguise self, mage armor </text>
+      <text>At will: detect magic, disguise self, mage armor</text>
       <text />
       <text>1/day each:fear, hold person, misty step</text>
     </trait>
@@ -12761,7 +12761,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The gnome&#39;s innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components: </text>
+      <text>The gnome&#39;s innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: nondetection (self only)</text>
       <text>1/day each: blindness/deafness, blur, disguise self</text>
     </trait>
@@ -13364,7 +13364,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The deva&#39;s spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components: </text>
+      <text>The deva&#39;s spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:</text>
       <text>At will: detect evil and good</text>
       <text>1/day each: commune, raise dead</text>
     </trait>
@@ -13755,7 +13755,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The djinni&#39;s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+      <text>The djinni&#39;s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect evil and good, detect magic, thunderwave 3/day each: create food and water (can create wine instead of water), tongues, wind walk</text>
       <text>1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift</text>
@@ -14381,7 +14381,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list: </text>
+      <text>Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:</text>
       <text />
       <text>- Cantrips (at will): fire bolt, prestidigitation, shocking grasp</text>
       <text>- 1st level (4 slots): longstrider, magic missile, shield, thunderwave</text>
@@ -14690,7 +14690,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The drider&#39;s innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: </text>
+      <text>The drider&#39;s innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:</text>
       <text>At will: dancing lights</text>
       <text>1/day each: darkness, faerie fire</text>
     </trait>
@@ -14785,7 +14785,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The drider&#39;s innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: </text>
+      <text>The drider&#39;s innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:</text>
       <text>At will: dancing lights</text>
       <text>1/day each: darkness, faerie fire</text>
     </trait>
@@ -14803,7 +14803,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list: </text>
+      <text>The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list:</text>
       <text />
       <text>- Cantrips (at will): poison spray, thaumaturgy</text>
       <text>- 1st level (4 slots): bane, detect magic, sanctuary</text>
@@ -14971,7 +14971,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components: </text>
+      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: dancing lights</text>
       <text>1/day each: darkness, faerie fire</text>
     </trait>
@@ -15069,7 +15069,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components: </text>
+      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: dancing lights</text>
       <text>1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
@@ -15166,13 +15166,13 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components: </text>
+      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: dancing lights</text>
       <text>1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared: </text>
+      <text>The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost</text>
       <text>- 1st level (4 slots): mage armor, magic missile, shield, witch bolt</text>
@@ -15273,13 +15273,13 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 15. She can innately cast the following spells, requiring no material components: </text>
+      <text>The drow&#39;s spellcasting ability is Charisma (spell save DC 15. She can innately cast the following spells, requiring no material components:</text>
       <text>At will: dancing lights</text>
       <text>1/day each: darkness, faerie fire, levitate (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared: </text>
+      <text>The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy</text>
       <text>- 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness</text>
@@ -15378,7 +15378,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared: </text>
+      <text>The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</text>
       <text />
       <text>- Cantrips (at will): druidcraft, produce flame, shillelagh</text>
       <text>- 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave</text>
@@ -15447,7 +15447,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The dryad&#39;s innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components: </text>
+      <text>The dryad&#39;s innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: druidcraft</text>
       <text>3/day each: entangle, goodberry</text>
@@ -16675,7 +16675,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The efreeti&#39;s innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+      <text>The efreeti&#39;s innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic</text>
       <text>3/day: enlarge/reduce, tongues</text>
@@ -16746,7 +16746,7 @@
     </action>
     <trait>
       <name>Creature Sense</name>
-      <text>The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature. as well as each one&#39;s intelligence score, but can&#39;t sense anything else about it. A creature protected by a mind blank spell. a nondetection spell, or similar magic can&#39;t be perceived in this manner. </text>
+      <text>The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature. as well as each one&#39;s intelligence score, but can&#39;t sense anything else about it. A creature protected by a mind blank spell. a nondetection spell, or similar magic can&#39;t be perceived in this manner.</text>
     </trait>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
@@ -16885,7 +16885,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared: </text>
+      <text>Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:</text>
       <text />
       <text>- Cantrips (at will): druidcraft, guidance, poison spray, produce flame</text>
       <text>- 1st level (4 slots): animal friendship, faerie fire, healing word, jump, thunderwave</text>
@@ -17009,7 +17009,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The empyrean&#39;s innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+      <text>The empyrean&#39;s innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: greater restoration, pass without trace, water breathing, water walk</text>
       <text>1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)</text>
     </trait>
@@ -17315,7 +17315,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): control flames, create bonfire, fire bolt, light, minor illusion</text>
       <text>- 1st level (4 slots): burning hands, expeditious retreat, mage armor</text>
@@ -17531,7 +17531,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard&#39;s spell list: </text>
+      <text>The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard&#39;s spell list:</text>
       <text />
       <text>- Cantrips (at will): light, mage hand, shocking grasp</text>
       <text>- 1st Level (4 slots): charm person, magic missile</text>
@@ -18426,7 +18426,7 @@
     </trait>
     <trait>
       <name>Spellcasting (Human Form Only)</name>
-      <text>The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells: </text>
+      <text>The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells:</text>
       <text />
       <text>- Cantrips (at will): chill touch, eldritch blast, mage hand</text>
       <text>- 1st level: armor of Agathys, expeditious retreat, hex</text>
@@ -18487,7 +18487,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell: </text>
+      <text>The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:</text>
       <text>- Cantrips (at will): gust, light, message, ray of frost</text>
       <text>- 1st level (2 slots): expeditious retreat, feather fall</text>
     </trait>
@@ -19199,7 +19199,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared: </text>
+      <text>The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand</text>
       <text>- 1st level (3 slots): magic missile, shield</text>
@@ -19248,7 +19248,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): control flames, fire bolt, friends, light, minor illusion</text>
       <text>- 1st level (4 slots): burning hands, color spray, mage armor</text>
@@ -20089,7 +20089,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list: </text>
+      <text>Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:</text>
       <text />
       <text>- Cantrips (at will): light, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): command, cure wounds, healing word, sanctuary</text>
@@ -20219,7 +20219,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared: </text>
+      <text>Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mending, resistance, shape water</text>
       <text />
@@ -20406,17 +20406,17 @@
     </action>
     <action>
       <name>Eye Rays</name>
-      <text>The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it: </text>
+      <text>The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:</text>
       <text />
-      <text>1. Devour Magic Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth&#39;s next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls. </text>
+      <text>1. Devour Magic Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth&#39;s next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.</text>
       <text />
-      <text>2. Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one. </text>
+      <text>2. Enervation Ray: The targeted creature must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.</text>
       <text />
-      <text>3. Pushing Ray: The targeted creature must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet directly away from the gauth and have its speed halved until the start of the gauth&#39;s next turn. </text>
+      <text>3. Pushing Ray: The targeted creature must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet directly away from the gauth and have its speed halved until the start of the gauth&#39;s next turn.</text>
       <text />
-      <text>4. Fire Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage. </text>
+      <text>4. Fire Ray: The targeted creature must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.</text>
       <text />
-      <text>5. Paralyzing Ray: The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. </text>
+      <text>5. Paralyzing Ray: The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <text />
       <text>6. Sleep Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.</text>
     </action>
@@ -20471,15 +20471,15 @@
     </action>
     <action>
       <name>Eye Rays</name>
-      <text>The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it: </text>
+      <text>The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:</text>
       <text />
-      <text>7. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer&#39;s next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls. </text>
+      <text>7. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer&#39;s next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.</text>
       <text />
-      <text>2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer&#39;s next turn. </text>
+      <text>2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer&#39;s next turn.</text>
       <text />
-      <text>3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage. </text>
+      <text>3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.</text>
       <text />
-      <text>4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. </text>
+      <text>4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.</text>
       <text>	If the target is an object weighing 10 pounds or less that isn&#39;t being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.</text>
     </action>
     <trait>
@@ -22801,7 +22801,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The githyanki&#39;s innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components: </text>
+      <text>The githyanki&#39;s innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text>3/day each: jump, misty step, nondetection (self only), tongues</text>
@@ -22879,7 +22879,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The githyanki&#39;s innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components: </text>
+      <text>The githyanki&#39;s innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text>3/day each: jump, misty step, nondetection (self only)</text>
@@ -22956,7 +22956,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The githzerai&#39;s innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components: </text>
+      <text>The githzerai&#39;s innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text>3/day each: feather fall, jump, see invisibility, shield</text>
@@ -23037,7 +23037,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The githzerai&#39;s innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components: </text>
+      <text>The githzerai&#39;s innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text>3/day each: feather fall, jump, see invisibility, shield</text>
@@ -23133,7 +23133,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The glabrezu&#39;s spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components: </text>
+      <text>The glabrezu&#39;s spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:</text>
       <text>At will: darkness, detect magic, dispel magic</text>
       <text>1/day each: confusion, fly, power word stun</text>
     </trait>
@@ -24332,7 +24332,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The slaad&#39;s innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components: </text>
+      <text>The slaad&#39;s innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image</text>
       <text>2/day each: fear, fly, fireball, tongues</text>
@@ -24743,7 +24743,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The hag&#39;s innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components: </text>
+      <text>The hag&#39;s innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: dancing lights, minor illusion, vicious mockery</text>
     </trait>
@@ -24758,7 +24758,7 @@
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
-      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves: </text>
+      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
       <text />
       <text>- 1st level (4 slots): identify, ray of sickness</text>
       <text>- 2nd level (3 slots): hold person, locate object</text>
@@ -24839,7 +24839,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The slaad&#39;s innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components: </text>
+      <text>The slaad&#39;s innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic, detect thoughts, mage hand</text>
       <text>2/day each: fear, invisibility (self only)</text>
@@ -25333,7 +25333,7 @@
       <text>Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.</text>
       <text>	A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
       <text />
-      <text>Orange. The poisoned creature is frightened of its allies. </text>
+      <text>Orange. The poisoned creature is frightened of its allies.</text>
       <text />
       <text>Gold. The poisoned creature is charmed and can speak Grung.</text>
     </trait>
@@ -25393,7 +25393,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The grung is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It knows the following ranger spells: </text>
+      <text>The grung is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It knows the following ranger spells:</text>
       <text />
       <text>1st level (4 slots): cure wounds, jump</text>
       <text />
@@ -25410,7 +25410,7 @@
       <text>Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.</text>
       <text>	A creature poisoned by a grung can suffer an additional effect that varies depending on the grung&#39;s skin color. This effect lasts until the creature is no longer poisoned by the grung.</text>
       <text />
-      <text>Red. The poisoned creature must use its action to eat if food is within reach. </text>
+      <text>Red. The poisoned creature must use its action to eat if food is within reach.</text>
     </trait>
   </monster>
   <monster>
@@ -25561,7 +25561,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared: </text>
+      <text>The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mending, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): command, cure wounds, shield of faith</text>
@@ -25676,7 +25676,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared: </text>
+      <text>The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, minor illusion, prestidigitation</text>
       <text>- 1st level (4 slots): detect magic, identify, shield</text>
@@ -27050,7 +27050,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): blade ward, gust, light, prestidigitation, shocking grasp</text>
       <text>- 1st level (4 slots): featherfall, shield, witch bolt</text>
@@ -27209,7 +27209,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): blade ward, gust, light, prestidigitation</text>
       <text>- 1st level (4 slots): feather fall, jump, thunderwave</text>
@@ -27704,7 +27704,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared: </text>
+      <text>The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, prestidigitation, ray of frost</text>
       <text />
@@ -27748,7 +27748,7 @@
     </legendary>
     <legendary>
       <name>Tentacles</name>
-      <text>The illithilich makes one attack with its tentacles. </text>
+      <text>The illithilich makes one attack with its tentacles.</text>
     </legendary>
     <legendary>
       <name>Extract Brain (Costs 2 Actions)</name>
@@ -27897,7 +27897,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Imix&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components: </text>
+      <text>Imix&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>- At will: fireball, wall of fire</text>
       <text>- 3/day each: fire storm, haste, teleport</text>
@@ -28482,7 +28482,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Iymrith&#39;s innate spellcasting ability is Charisma (spell save DC 20).  Iymrith&#39;s stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components: </text>
+      <text>Iymrith&#39;s innate spellcasting ability is Charisma (spell save DC 20).  Iymrith&#39;s stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>1/day: counterspell, detect magic, ice storm, stone shape, teleport</text>
     </trait>
@@ -29844,7 +29844,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared: </text>
+      <text>The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): guidance, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): detect magic, sanctuary, shield of faith</text>
@@ -29991,7 +29991,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared: </text>
+      <text>The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): sacred flame, thaumaturgy</text>
       <text>- 1st level (3 slots): bane, shield of faith</text>
@@ -30329,7 +30329,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared: </text>
+      <text>The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, prestidigitation, ray of frost</text>
       <text>- 1st level (4 slots): detect magic, magic missile, shield, thunderwave</text>
@@ -30725,7 +30725,7 @@
     </trait>
     <trait>
       <name>Spellcasting (Lizardfolk Form Only)</name>
-      <text>The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared: </text>
+      <text>The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:</text>
       <text />
       <text>- Cantrips (at will): druidcraft, produce flame, thorn whip</text>
       <text>- 1st Level (4 slots): entangle, fog cloud</text>
@@ -30925,7 +30925,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared: </text>
+      <text>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
       <text>- 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
@@ -31454,7 +31454,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The marid&#39;s innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+      <text>The marid&#39;s innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink</text>
       <text>3/day each: tongues, water breathing, water walk</text>
@@ -32214,7 +32214,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The mezzoloth&#39;s innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components: </text>
+      <text>The mezzoloth&#39;s innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>2/day each: darkness, dispel magic</text>
       <text>1/day: cloudkill</text>
@@ -32345,7 +32345,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The mind flayer&#39;s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components: </text>
+      <text>The mind flayer&#39;s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: detect thoughts, levitate</text>
       <text>1/day each: dominate monster, plane shift (self only)</text>
@@ -32405,14 +32405,14 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The mind flayer&#39;s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components: </text>
+      <text>The mind flayer&#39;s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: detect thoughts, levitate</text>
       <text>1/day each: dominate monster, plane shift (self only)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared: </text>
+      <text>The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp</text>
       <text>- 1st level (4 slots): detect magic, disguise self, shield, sleep</text>
@@ -32477,7 +32477,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components: </text>
+      <text>The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: guidance, mage hand, vicious mockery, true strike</text>
       <text />
@@ -32720,13 +32720,13 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Miraj&#39;s innate spellcasting ability is Constitution (spell save DC 14). He can innately cast the following spell, requiring no material components: </text>
+      <text>Miraj&#39;s innate spellcasting ability is Constitution (spell save DC 14). He can innately cast the following spell, requiring no material components:</text>
       <text />
       <text>- 1/day: pass without trace</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells: </text>
+      <text>Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): acid splash, blade ward, friends, light, message, mold earth</text>
       <text>- 1st level (4 slots): chromatic orb, mage armor, magic missile</text>
@@ -33328,7 +33328,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared: </text>
+      <text>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): command, guiding bolt, shield of faith</text>
@@ -34445,14 +34445,14 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Nezznar can innately cast the following spells, requiring no material components: </text>
+      <text>Nezznar can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>- At will: dancing lights</text>
       <text>- 1/day each: darkness, faerie fire (save DC 12)</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard&#39;s spell list: </text>
+      <text>Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard&#39;s spell list:</text>
       <text />
       <text>- Cantrips (at will): mage hand, ray of frost, shocking grasp</text>
       <text>- 1st Level (4 slots): mage armor, magic missile, shield</text>
@@ -34511,7 +34511,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The hag&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components: </text>
+      <text>The hag&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic, magic missile</text>
       <text>2/day each: plane shift (self only), ray of enfeeblement, sleep</text>
@@ -34533,7 +34533,7 @@
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
-      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves: </text>
+      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
       <text />
       <text>- 1st level (4 slots): identify, ray of sickness</text>
       <text>- 2nd level (3 slots): hold person, locate object</text>
@@ -34834,7 +34834,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The nycaloth&#39;s innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components: </text>
+      <text>The nycaloth&#39;s innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: darkness, detect magic, dispel magic, invisibility (self only), mirror image</text>
     </trait>
@@ -35107,7 +35107,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Ogremoch&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components: </text>
+      <text>Ogremoch&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
       <text />
       <text />
       <text>- At will: meld into stone, move earth, wall of stone</text>
@@ -35193,7 +35193,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Olhydra&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She can innately cast the following spells, requiring no material components: </text>
+      <text>Olhydra&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>- At will: wall of ice</text>
       <text>- 3/day: ice storm</text>
@@ -35277,7 +35277,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): chill touch, mage hand</text>
       <text>- 1st level (4 slots): fog cloud, mage armor, thunderwave</text>
@@ -35340,7 +35340,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The oni&#39;s innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components: </text>
+      <text>The oni&#39;s innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: darkness, invisibility</text>
       <text>1/day each: charm person, cone of cold, gaseous form, sleep</text>
@@ -35410,15 +35410,15 @@
       <name>Spellcasting</name>
       <text>The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): acid splash, friends, mage hand, poison spray </text>
+      <text>Cantrips (at will): acid splash, friends, mage hand, poison spray</text>
       <text />
-      <text>1st level (4 slots): charm person, detect magic, magic missile, ray of sickness </text>
+      <text>1st level (4 slots): charm person, detect magic, magic missile, ray of sickness</text>
       <text />
-      <text>2nd level (3 slots): detect thoughts, Melf&#39;s acid arrow, suggestion </text>
+      <text>2nd level (3 slots): detect thoughts, Melf&#39;s acid arrow, suggestion</text>
       <text />
-      <text>3rd level (3 slots):fear, slow, stinking cloud </text>
+      <text>3rd level (3 slots):fear, slow, stinking cloud</text>
       <text />
-      <text>4th level (3 slots): confusion, Evard&#39;s evard&#39;s black tentacles </text>
+      <text>4th level (3 slots): confusion, Evard&#39;s evard&#39;s black tentacles</text>
       <text />
       <text>5th level (1 slot): cloudkill.</text>
     </trait>
@@ -35660,7 +35660,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared: </text>
+      <text>The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): guidance, resistance, thaumaturgy</text>
       <text>- 1st level (4 slots): bless, command</text>
@@ -36054,7 +36054,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared: </text>
+      <text>Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): chill touch, minor illusion, prestidigitation, shocking grasp</text>
       <text>- 1st level (4 slots): false life, mage armor, magic missile, ray of sickness</text>
@@ -36742,7 +36742,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list: </text>
+      <text>Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:</text>
       <text />
       <text>- Cantrips (at will): druidcraft, guidance, poison spray</text>
       <text>- 1st level (4 slots): cure wounds, entangle, healing word, thunderwave</text>
@@ -37036,7 +37036,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The pit fiend&#39;s spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components: </text>
+      <text>The pit fiend&#39;s spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:</text>
       <text>At will: detect magic, fireball</text>
       <text>3/day each: hold monster, wall of fire</text>
     </trait>
@@ -37087,7 +37087,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The pixie&#39;s innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component: </text>
+      <text>The pixie&#39;s innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:</text>
       <text />
       <text>At will: druidcraft</text>
       <text>1/day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep</text>
@@ -37163,7 +37163,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The planetar&#39;s spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components: </text>
+      <text>The planetar&#39;s spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:</text>
       <text>At will: detect evil and good, invisibility (self only)</text>
       <text>3/day each: blade barrier, dispel evil and good, flame strike, raise dead</text>
       <text>1/day each: commune, control weather, insect plague</text>
@@ -37479,7 +37479,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared: </text>
+      <text>The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): light, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): cure wounds, guiding bolt, sanctuary</text>
@@ -37919,7 +37919,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The quaggoth&#39;s innate spellcasting ability is Wisdom (spell save DC 11 ). The quaggoth can innately cast the following spells, requiring no components: </text>
+      <text>The quaggoth&#39;s innate spellcasting ability is Wisdom (spell save DC 11 ). The quaggoth can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: feather fall, mage hand (the hand is invisible)</text>
       <text>1/day each: cure wounds, enlarge/reduce, heat metal, mirror image</text>
@@ -38293,7 +38293,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The rakshasa&#39;s innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components: </text>
+      <text>The rakshasa&#39;s innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect thoughts, disguise self, mage hand, minor illusion</text>
       <text>3/day each: charm person, detect magic, invisibility, major image, suggestion</text>
@@ -38394,7 +38394,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list: </text>
+      <text>Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:</text>
       <text />
       <text>- Cantrips (at will): fire bolt, minor illusion, prestidigitation, shocking grasp</text>
       <text>- 1st level (4 slots): chromatic orb, color spray, mage armor, magic missile</text>
@@ -39884,7 +39884,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared: </text>
+      <text>The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): guidance, thaumaturgy</text>
       <text>- 1st level (4 slots): bless, detect magic, guiding bolt</text>
@@ -40228,7 +40228,7 @@
     </trait>
     <trait>
       <name>Shared Spellcasting (Coven Only)</name>
-      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves: </text>
+      <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
       <text />
       <text>- 1st level (4 slots): identify, ray of sickness</text>
       <text>- 2nd level (3 slots): hold person, locate object</text>
@@ -40868,7 +40868,7 @@
       <name>Spellcasting</name>
       <text>Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): light, prestidigitation, ray of frost </text>
+      <text>Cantrips (at will): light, prestidigitation, ray of frost</text>
       <text />
       <text>1st level (2 slots): color spray, magic missile, shield, sleep.</text>
     </trait>
@@ -40983,14 +40983,14 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Shoalar&#39;s innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells: </text>
+      <text>Shoalar&#39;s innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:</text>
       <text />
       <text>- At will: shape water</text>
       <text>- 1/day: create or destroy water</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells: </text>
+      <text>Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): acid splash, chill touch, friends, prestidigitation, ray of frost</text>
       <text>- 1st level (4 slots): disguise self, mage armor, magic missile</text>
@@ -41606,7 +41606,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): blade ward, light, message, ray of frost, shocking grasp</text>
       <text>- 1st level (4 slots): feather fall, mage armor, witch bolt</text>
@@ -41863,7 +41863,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The solar&#39;s spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components: </text>
+      <text>The solar&#39;s spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:</text>
       <text>At will: detect evil and good, invisibility (self only)</text>
       <text>3/day each: blade barrier, dispel evil and good, resurrection</text>
       <text>1/day each: commune, control weather</text>
@@ -42270,7 +42270,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared: </text>
+      <text>The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, minor illusion, ray of frost</text>
       <text>- 1st level (4 slots): charm person, detect magic, sleep</text>
@@ -42665,7 +42665,7 @@
     </description>
     <action>
       <name>Fling</name>
-      <text>The giant tries to throw a Small or Medium creature within 10 feet of it. The target must succeed on a DC 17 Dexterity saving throw or be hurled up to 60 feet horizontally in a direction of the giant&#39;s choice. and land prone, taking 1d6 bludgeoning damage for every 10 feet it was thrown. </text>
+      <text>The giant tries to throw a Small or Medium creature within 10 feet of it. The target must succeed on a DC 17 Dexterity saving throw or be hurled up to 60 feet horizontally in a direction of the giant&#39;s choice. and land prone, taking 1d6 bludgeoning damage for every 10 feet it was thrown.</text>
     </action>
     <action>
       <name>Rolling Rock</name>
@@ -42913,7 +42913,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: </text>
+      <text>The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): acid splash, blade ward, light, mending, mold earth</text>
       <text>- 1st level (4 slots): expeditious retreat, false life, shield</text>
@@ -43009,7 +43009,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The giant&#39;s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components: </text>
+      <text>The giant&#39;s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: detect magic, feather fall, levitate, light</text>
       <text>3/day each: control weather, water breathing</text>
@@ -43209,7 +43209,7 @@
     </trait>
     <trait>
       <name>Vampire Weaknesses</name>
-      <text>Strahd has the following flaws. </text>
+      <text>Strahd has the following flaws.</text>
       <text>	Forbiddance: He can&#39;t enter a residence without an invitation from one of the occupants.</text>
       <text>	Harmed by Running Water: He takes 20 acid damage if he ends his turn in running water.</text>
       <text>	Stake to the Heart: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.</text>
@@ -43282,7 +43282,7 @@
     </action>
     <trait>
       <name>Loathsome Limbs</name>
-      <text>Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it: </text>
+      <text>Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:</text>
       <text />
       <text>1-8: One leg is severed from the zombie if it has any legs left.</text>
       <text />
@@ -44146,11 +44146,11 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list: </text>
+      <text>Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:</text>
       <text />
       <text>- Cantrips (at will): guidance, resistance, thaumaturgy</text>
       <text>- 1st level (4 slots): command, cure wounds, healing word, inflict wounds</text>
-      <text>- 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear) </text>
+      <text>- 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear)</text>
       <text>- 3rd level (3 slots): dispel magic, mass healing word, sending</text>
       <text>- 4th level (3 slots): death ward, freedom of movement</text>
       <text>- 5th level (1 slot): insect plague</text>
@@ -44383,19 +44383,19 @@
       <name>Spellcasting</name>
       <text>Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost </text>
+      <text>Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost</text>
       <text />
       <text>1st level (4 slots): detect magic, magic missile, shield, unseen servant-</text>
       <text />
-      <text>2nd level (3 slots): detect thoughts, flaming sphere,- mirror image, scorching ray </text>
+      <text>2nd level (3 slots): detect thoughts, flaming sphere,- mirror image, scorching ray</text>
       <text />
       <text>3rd level (3 slots): counterspell, dispel magic, fireball</text>
       <text />
       <text>4th level (3 slots): dimension door,- Evard&#39;s black tentacles-</text>
       <text />
-      <text>5th level (3 slots): cloudkill,- scrying </text>
+      <text>5th level (3 slots): cloudkill,- scrying</text>
       <text />
-      <text>6th level (1 slot): circle of death </text>
+      <text>6th level (1 slot): circle of death</text>
       <text>-Conjuration spell of 1st level or higher.</text>
     </trait>
     <trait>
@@ -44811,7 +44811,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>The thri-kreen&#39;s innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components: </text>
+      <text>The thri-kreen&#39;s innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: mage hand (the hand is invisible)</text>
       <text>2/day each: blur, magic weapon</text>
@@ -44925,7 +44925,7 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells: </text>
+      <text>Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): friends, gust, light, message, ray of frost</text>
       <text>- 1st level (4 slots): expeditious retreat, feather fall, jump</text>
@@ -45204,15 +45204,15 @@
       <name>Spellcasting</name>
       <text>The transmuter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The transmuter has the following wizard spells prepared:</text>
       <text />
-      <text>Cantrips (at will): light, mending, prestidigitation, ray of frost </text>
+      <text>Cantrips (at will): light, mending, prestidigitation, ray of frost</text>
       <text />
       <text>1st level (4 slots): chromatic orb, expeditious retreat-, mage armor</text>
       <text />
-      <text>2nd level (3 slots): alter self-, hold person, knock- </text>
+      <text>2nd level (3 slots): alter self-, hold person, knock-</text>
       <text />
       <text>3rd level (3 slots): blink-, fireball, slow-</text>
       <text />
-      <text>4th level (3 slots): polymorph-, stoneskin </text>
+      <text>4th level (3 slots): polymorph-, stoneskin</text>
       <text />
       <text>5th level (1 slot): telekinesis-</text>
       <text />
@@ -45831,7 +45831,7 @@
     </trait>
     <trait>
       <name>Variant: Loathsome Limbs</name>
-      <text>Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it: </text>
+      <text>Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:</text>
       <text>1-10: Nothing else happens.</text>
       <text>11-14: One leg is severed from the troll if it has any legs left.</text>
       <text>15- 18: One arm is severed from the troll if it has any arms left.</text>
@@ -46086,7 +46086,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The ultroloth&#39;s innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components: </text>
+      <text>The ultroloth&#39;s innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion</text>
       <text>3/day each: dimension door, fear, wall of fire</text>
@@ -46226,7 +46226,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The unicorn&#39;s innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components: </text>
+      <text>The unicorn&#39;s innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:</text>
       <text />
       <text>At will: detect evil and good, druidcraft, pass without trace</text>
       <text>1/day each: calm emotions, dispel evil and good, entangle</text>
@@ -46300,7 +46300,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). </text>
+      <text>The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).</text>
       <text />
       <text>- At Will: dancing lights, message, mage hand, thaumaturgy</text>
       <text>- 1/day: augury, bestow curse, cordon of arrows, detect magic, hex, prayer of healing, speak with dead, spirit guardians</text>
@@ -46388,7 +46388,7 @@
     </trait>
     <trait>
       <name>Vampire Weaknesses</name>
-      <text>The vampire has the following flaws: </text>
+      <text>The vampire has the following flaws:</text>
       <text>Forbiddance. The vampire can&#39;t enter a residence without an invitation from one of the occupants.</text>
       <text>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.</text>
       <text>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire&#39;s heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.</text>
@@ -46465,7 +46465,7 @@
     </trait>
     <trait>
       <name>Vampire Weaknesses</name>
-      <text>The vampire has the following flaws: </text>
+      <text>The vampire has the following flaws:</text>
       <text>Forbiddance. The vampire can&#39;t enter a residence without an invitation from one of the occupants.</text>
       <text>Harmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water.</text>
       <text>Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.</text>
@@ -46552,7 +46552,7 @@
     </trait>
     <trait>
       <name>Vampire Weaknesses</name>
-      <text>The vampire has the following flaws: </text>
+      <text>The vampire has the following flaws:</text>
       <text>Forbiddance. The vampire can&#39;t enter a residence without an invitation from one of the occupants.</text>
       <text>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.</text>
       <text>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire&#39;s heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.</text>
@@ -46560,7 +46560,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared: </text>
+      <text>The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:</text>
       <text />
       <text>- Cantrips (at will): mage hand, prestidigitation, ray of frost</text>
       <text>- 1st level (4 slots): comprehend languages, fog cloud, sleep</text>
@@ -46657,7 +46657,7 @@
     </trait>
     <trait>
       <name>Vampire Weaknesses</name>
-      <text>The vampire has the following flaws: </text>
+      <text>The vampire has the following flaws:</text>
       <text>Forbiddance. The vampire can&#39;t enter a residence without an invitation from one of the occupants.</text>
       <text>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.</text>
       <text>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire&#39;s heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.</text>
@@ -46885,7 +46885,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells: </text>
+      <text>Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells:</text>
       <text />
       <text>- Cantrips (at will): chill touch, fire bolt, friends, mage hand, message, produce flame, thaumaturgy</text>
       <text>- 1st level (4 slots): burning hands, chromatic orb, hellish rebuke, shield</text>
@@ -47551,7 +47551,7 @@
       <text />
       <text>3rd level (3 slots): beacon of hope, crusader&#39;s mantle, dispel magic, revivify, spirit guardians, water wall</text>
       <text />
-      <text>4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin </text>
+      <text>4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin</text>
       <text />
       <text>5th level (1 slot): flame strike, mass cure wounds, hold monster</text>
     </trait>
@@ -47889,7 +47889,7 @@
     </legendary>
     <legendary>
       <name>Weapon Attack</name>
-      <text>The warlord makes a weapon attack. </text>
+      <text>The warlord makes a weapon attack.</text>
     </legendary>
     <legendary>
       <name>Command Ally</name>
@@ -48812,7 +48812,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared: </text>
+      <text>Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): guidance, light, mending, shillelagh, thaumaturgy</text>
       <text>- 1st Level (4 slots): animal friendship, cure wounds, healing word, inflict wounds, speak with animals</text>
@@ -48987,7 +48987,7 @@
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells: </text>
+      <text>Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:</text>
       <text />
       <text>- Cantrips (at will): friends, prestidigitation, vicious mockery</text>
       <text>- 1st level (4 slots): disguise self, dissonant whispers, thunderwave</text>
@@ -49651,12 +49651,12 @@
     </action>
     <trait>
       <name>Possession (Recharges after a rest</name>
-      <text>The yakfolk attempts to magically possess a humanoid or giant. The yakfolk must touch the target throughout a short rest or the attempt fails. At the end of the rest, the target must succeed a DC 12 Con saving throw or be possessed by the yakfolk, which disappears with everything its carrying and wearing. Until the possession ends, the target is incapacitated, loses control of its body, and it unaware of its surroundings. The yakfolk now controls the body and cannot be targeted by any attack, spell, or other effect, and it retains its alignment, its Intelligence, Wisdom, and Charisma scores; and its proficiencies. It otherwise uses the target&#39;s statistics, except the target&#39;s knowledge, class features, feats, and proficiencies. </text>
+      <text>The yakfolk attempts to magically possess a humanoid or giant. The yakfolk must touch the target throughout a short rest or the attempt fails. At the end of the rest, the target must succeed a DC 12 Con saving throw or be possessed by the yakfolk, which disappears with everything its carrying and wearing. Until the possession ends, the target is incapacitated, loses control of its body, and it unaware of its surroundings. The yakfolk now controls the body and cannot be targeted by any attack, spell, or other effect, and it retains its alignment, its Intelligence, Wisdom, and Charisma scores; and its proficiencies. It otherwise uses the target&#39;s statistics, except the target&#39;s knowledge, class features, feats, and proficiencies.</text>
       <text>The possession lats until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as dispel evil and good spell. When the possession ends, the yakfolk appears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well and its body does not reappear.</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>The yakfolk is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared: </text>
+      <text>The yakfolk is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared:</text>
       <text />
       <text>- Cantrips (at will): light, mending, sacred flame, thaumaturgy</text>
       <text>- 1st level (4 slots): bane, command, cure wounds, sanctuary</text>
@@ -49718,7 +49718,7 @@
     </action>
     <trait>
       <name>Possession (Recharges after a rest</name>
-      <text>The yakfolk attempts to magically possess a humanoid or giant. The yakfolk must touch the target throughout a short rest or the attempt fails. At the end of the rest, the target must succeed a DC 12 Con saving throw or be possessed by the yakfolk, which disappears with everything its carrying and wearing. Until the possession ends, the target is incapacitated, loses control of its body, and it unaware of its surroundings. The yakfolk now controls the body and cannot be targeted by any attack, spell, or other effect, and it retains its alignment, its Intelligence, Wisdom, and Charisma scores; and its proficiencies. It otherwise uses the target&#39;s statistics, except the target&#39;s knowledge, class features, feats, and proficiencies. </text>
+      <text>The yakfolk attempts to magically possess a humanoid or giant. The yakfolk must touch the target throughout a short rest or the attempt fails. At the end of the rest, the target must succeed a DC 12 Con saving throw or be possessed by the yakfolk, which disappears with everything its carrying and wearing. Until the possession ends, the target is incapacitated, loses control of its body, and it unaware of its surroundings. The yakfolk now controls the body and cannot be targeted by any attack, spell, or other effect, and it retains its alignment, its Intelligence, Wisdom, and Charisma scores; and its proficiencies. It otherwise uses the target&#39;s statistics, except the target&#39;s knowledge, class features, feats, and proficiencies.</text>
       <text>The possession lats until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as dispel evil and good spell. When the possession ends, the yakfolk appears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well and its body does not reappear.</text>
     </trait>
   </monster>
@@ -49786,7 +49786,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Yan-C-Bin&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components: </text>
+      <text>Yan-C-Bin&#39;s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>- At will: gust of wind, invisibility, lightning bolt</text>
       <text>- 2/day each: chain lightning, cloudkill, haste</text>
@@ -50186,7 +50186,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The yochlol&#39;s spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components: </text>
+      <text>The yochlol&#39;s spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:</text>
       <text>At will: detect thoughts, web</text>
       <text>1/day: dominate person</text>
     </trait>
@@ -51695,7 +51695,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Abomination Form Only)</name>
-      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 15). The yuan_ti can innately cast the following spells, requiring no material components: </text>
+      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 15). The yuan_ti can innately cast the following spells, requiring no material components:</text>
       <text>At will: animal friendship (snakes only)</text>
       <text>3/day: suggestion</text>
       <text>1/day: fear</text>
@@ -51917,7 +51917,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Yuan_ti Form Only)</name>
-      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components: </text>
+      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: animal friendship (snakes only)</text>
       <text>3/day: suggestion</text>
@@ -51928,7 +51928,7 @@
     </trait>
     <trait>
       <name>Malison Type</name>
-      <text>The yuan_ti has one of the following types: </text>
+      <text>The yuan_ti has one of the following types:</text>
       <text />
       <text>Type 1: Human body with snake head</text>
       <text>Type 2: Human head and body with snakes for arms</text>
@@ -51983,7 +51983,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Yuan_ti Form Only)</name>
-      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components: </text>
+      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: animal friendship (snakes only)</text>
       <text>3/day: suggestion</text>
@@ -51994,7 +51994,7 @@
     </trait>
     <trait>
       <name>Malison Type</name>
-      <text>The yuan_ti has one of the following types: </text>
+      <text>The yuan_ti has one of the following types:</text>
       <text />
       <text>Type 1: Human body with snake head</text>
       <text>Type 2: Human head and body with snakes for arms</text>
@@ -52064,7 +52064,7 @@
     </trait>
     <trait>
       <name>Innate Spellcasting (Yuan_ti Form Only)</name>
-      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components: </text>
+      <text>The yuan_ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: animal friendship (snakes only)</text>
       <text>3/day: suggestion</text>
@@ -52075,7 +52075,7 @@
     </trait>
     <trait>
       <name>Malison Type</name>
-      <text>The yuan_ti has one of the following types: </text>
+      <text>The yuan_ti has one of the following types:</text>
       <text />
       <text>Type 1: Human body with snake head</text>
       <text>Type 2: Human head and body with snakes for arms</text>
@@ -52387,7 +52387,7 @@
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>The yuan-ti&#39;s spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components: </text>
+      <text>The yuan-ti&#39;s spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:</text>
       <text />
       <text>At will: animal friendship (snakes only)</text>
       <text>3/day each: poison spray, suggestion</text>
@@ -52444,7 +52444,7 @@
       <name>Spellcasting</name>
       <text>Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:</text>
       <text />
-      <text>Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp </text>
+      <text>Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp</text>
       <text />
       <text>1st level (4 slots): burning hands, chromatic orb, mage armor</text>
     </trait>

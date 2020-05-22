@@ -14,95 +14,95 @@
         Roamers at heart, centaurs love open spaces and the freedom to travel. As much as they can, centaurs run. They race the wind, hooves thundering and tails streaming behind them.
         In the sprawling city of Ravnica, where "open road" seems like a contradiction and "open plain" is sheer nonsense, centaurs nevertheless retain a love of wide spaces and the freedom to travel. As much as they can, centaurs run—in wide plazas, spacious parks, and expanses of rubble and ruin. They race the wind, hooves thundering and tails streaming behind them, until the next wall looms in their path and brings them to a stop.
         Source: Guildmasters&#39; Guide to Ravnica p. 15
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Centaurs mature and age at about the same rate as humans.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Centaurs are inclined toward neutrality. Those who join the Selesnya are more often neutral good, while those who join the Gruul are typically chaotic neutral.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Fey</name>
       <text>
         Your creature type is fey, rather than humanoid.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Charge</name>
       <text>
         If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hooves</name>
       <text>
         Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Equine Build</name>
       <text>
         You count as one size larger when determining your carrying capacity and the weight you can push or drag.
         In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Survivor</name>
       <text>
         You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Nature&#39;s Cavalry</name>
       <text>
         Centaurs have humanoid upper bodies, displaying all the human variety of skin tones and features. In size, they are comparable to a human rider mounted on a horse, and they fill similar roles—as cavalry, messengers, outriders, and scouts.
         Centaurs&#39; ears are slightly pointed, but their faces are more wide and square than those of elves. Below the waist, they have the bodies of horses, with coats tending toward brown shades (chestnut or bay) and darker tails.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Nature and Community</name>
       <text>
         Centaurs have a strong sense of the interconnectedness of the natural world, and they celebrate family and community as microcosms of that greater connection. The birth of a foal is always cause for festivities. At the same time, centaurs revere the traditions of the past, preserving old ways and keeping alive the legends of ancestral heroes. They feel a close kinship with wild animals, perhaps because of their own hybrid nature, and delight in the feeling of running alongside herds and packs of beasts.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Nature&#39;s Cavalry</name>
       <text>
         Centaurs have the upper bodies, down to the waist, of muscular humans, displaying all the human variety of skin tones and features. Their ears are slightly pointed, but their faces are wider and squarer than those of elves. Below the waist, they have the bodies of small horses, with a similar range of coloration—from various shades of chestnut or bay to dappled or even zebra-like striped patterns. Most centaurs style their hair and their tails in a similar way. Selesnya centaurs favor long, flowing hair. Gruul centaurs cut their hair in rough, spiky styles.
         The upper bodies of centaurs are comparable to human torsos in size, and their lower equine bodies average about 4 feet tall at the withers. Though they are smaller than a human rider mounted on a horse, they fill similar roles as cavalry warriors, messengers, outriders, and scouts.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Affinity for Nature</name>
       <text>
         Centaurs have an affinity for the natural world. Among the guilds that share that affinity, centaurs favor the rubblebelts of the Gruul Clans and the wide plazas of the Selesnya Conclave over the undercity tunnels of the Golgari and the laboratories of the Simic.
         Centaurs celebrate life and growth, and the birth of a foal is always cause for festivities. At the same time, they revere the traditions of the past, and among both the Gruul and the Selesnya they are voices of memory and history, preserving old ways and keeping alive the legends of ancestral heroes. They feel a close kinship with wild animals, perhaps because of their own horse-like bodies, and delight in the feeling of running alongside herds and packs of other beasts.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Clans and Community</name>
       <text>
         Centaurs sense the interconnectedness of the natural world. Thus, they celebrate family and community as microcosms of that greater connection. Among the Gruul, they have a strong clan identity, and Selesnya centaurs are fiercely loyal to their individual communities as well as the guild as a whole. Their love of history and tradition also means that centaurs are more likely than most other Ravnicans to join the same guild that their parents did.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Centaur Names</name>
@@ -110,7 +110,7 @@
         Centaurs&#39; given names are passed down through family lines. The name bestowed on a new foal is typically the name of the most recently deceased family member of the same gender, keeping alive the memory—and, the centaurs believe, some shard of the spirit—of the departed. Centaurs don&#39;t use family names, but they wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottoes, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.
         &#183; Male Names: Bonmod, Boruvo, Chodi, Drozan, Kozim, Milosh, Ninos, Oleksi, Orval, Radovas, Radom, Rostis, Svetyos, Tomis, Trijiro, Volim, Vlodim, Yarog
         &#183; Female Names: Daiva, Dunja, Elnaya, Galisnya, Irinya, Kotyali, Lalya, Litisia, Madya, Mira, Nedja, Nikya, Ostani, Pinya, Rada, Raisya, Stasolya, Tatna, Zhendoya, Zoria
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -125,56 +125,56 @@
       <text>
         Whether sniveling in fear, cackling with mad laughter, or snarling in a fury, goblins are wretched and inconsequential—at least in the eyes of most of Ravnica&#39;s other folk. In their own minds, though, they are content to lurk in the shadows only until they fully come into their own and receive the recognition they believe they deserve. They are entitled to some credit for their tenacity, agility, crafty ingenuity, and dumb luck, all of which has enabled them to survive in a world overrun with creatures larger and more powerful than they are.
         Source: Guildmasters&#39; Guide to Ravnica p. 16
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Goblins reach adulthood around age 8. They age noticeably faster than humans, and though few goblins live to old age, the most cautious rarely live longer than 60 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most of the goblins of Ravnica are chaotic, with no inclination toward good or evil.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Fury of the Small</name>
       <text>
         When you damage a creature with an attack or a spell and the creature&#39;s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can&#39;t use it again until you finish a short or long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
       <text>
         You can take the Disengage or Hide action as a bonus action on each of your turns.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Goblin. In Ravnica, Goblin is a simplistic language with a limited vocabulary and fluid rules of grammar, unsuited for any sophisticated conversation.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Small and Wiry</name>
       <text>
         Standing around 3 feet tall and covered in warty green or red skin, goblins have huge noses and ears. Their wiry bodies are surprisingly strong, and their mouths are full of sharp, crooked teeth.
         Most goblins are bald, either by heredity or by choice, but a few boast shocks of red or black hair. Their arms and legs are elongated in proportion to their small bodies, and their fingers and toes are also long and slender. Many goblins prefer to go unshod to leave their toes exposed for climbing.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Unfettered Emotion</name>
@@ -182,14 +182,14 @@
         Creatures of raw impulse, goblins are found among guilds that value that quality, particularly the Izzet (where they typically serve as attendants for researchers), the Gruul (in camps that form hapless buffers between the clans and civilized regions), the Rakdos (putting their love of explosions to good use), and occasionally the Boros (if they discover a well of discipline and courage within themselves, or find themselves unable to resist the shininess of Boros weapons and armor). Many goblins are guildless and make their way as members of street gangs.
         Sometimes driven by wild mood swings, goblins have an inclination toward destruction, which can take a playful form but is often anything but. Some goblins clobber things, others like to light them on fire, and many love to blow things up.
         Goblins have an outrageous sense of humor, usually expressed through mischievous pranks. The malicious among them find pleasure in the misfortune of others and tend to cackle maniacally whenever they&#39;re amused. They can act with apparent randomness, sometimes just to confuse and befuddle others.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Goblin Names</name>
       <text>
         The Goblin language is fond of certain sounds, and goblin names tend to repeat those sounds to form what can sound like nonsense words. A goblin&#39;s name gives no indication of gender.
         &#183; Goblin Names: Azzinax, Babolax, Blixanix, Crixizix, Dazzaz, Estrix, Finizix, Juzba, Kaluzax, Lyzaxa, Mizzix, Myznar, Nixispix, Paxizaz, Ravixiz, Stixil, Sunnix, Tozinox, Uxivozi, Vazozav, Wexiny, Zizzix
-      </text>
+</text>
     </trait>
   </race>
 
@@ -340,7 +340,7 @@
       If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as detect thoughts or modify memory), you can transform the thoughts or memories you read, rather than your own, into a thought strand.
       Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)
       Source: Guildmasters&#39; Guide to Ravnica p. 47
-    </text>
+</text>
   </spell>
   <spell>
     <name>Blindness/Deafness&#42;</name>
@@ -390,75 +390,75 @@
         Humanoid elephants, loxodons are often oases of calm in the busy streets of Ravnica. They hum or chant in their sonorous tones and move slowly or sit in perfect stillness. Provoked to action, loxodons are holy terrors—bellowing with rage, trumpeting and flapping their ears. Their still wisdom and their furious strength—as well as their fierce loyalty and unwavering conviction—are tremendous assets to their guilds.
         The humanoid elephants called loxodons are often oases of calm in the busy streets of Ravnica. They hum or chant in sonorous tones and move slowly or sit in perfect stillness. If provoked to action, loxodons are true terrors—bellowing with rage, trumpeting and flapping their ears. Their serene wisdom, fierce loyalty, and unwavering conviction are tremendous assets to their guilds.
         Source: Guildmasters&#39; Guide to Ravnica p. 17
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Loxodons physically mature at the same rate as humans, but they live about 450 years. They highly value the weight of wisdom and experience and are considered young until they reach the age of 60.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most loxodons are lawful, believing in the value of a peaceful, ordered life. They also tend toward good.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Loxodons stand between 7 and 8 feet tall. Their massive bodies weigh between 300 and 400 pounds. Your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Powerful Build</name>
       <text>
         You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Loxodon Serenity</name>
       <text>
         You have advantage on saving throws against being charmed or frightened.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Natural Armor</name>
       <text>
         You have thick, leathery skin. When you aren&#39;t wearing armor, your AC is 12 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield&#39;s benefits apply as normal while you use your natural armor.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Trunk</name>
       <text>
         You can grasp things with your trunk, and you can use it as a snorkel. It has a reach of 5 feet, and it can lift a number of pounds equal to five times your Strength score. You can use it to do the following simple tasks: lift, drop, hold, push, or pull an object or a creature; open or close a door or a container; grapple someone; or make an unarmed strike. Your DM might allow other simple tasks to be added to that list of options.
         Your trunk can&#39;t wield weapons or shields or do anything that requires manual precision, such as using tools or magic items or performing the somatic components of a spell.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Keen Smell</name>
       <text>
         Thanks to your sensitive trunk, you have advantage on Wisdom (Perception), Wisdom (Survival), and Intelligence (Investigation) checks that involve smell.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Loxodon.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Lumbering Giants</name>
       <text>
         Loxodons tower above most other humanoids, standing over seven feet tall. They have the heads—trunks, tusks, ears, and faces—of elephants, and hulking humanoid bodies covered by thick, leathery skin. Their hands have four thick digits, and their feet are the flat, ovalshaped feet of elephants.
         Like that of an elephant, a loxodon&#39;s trunk is a useful appendage that supplements the hands. In addition to providing a keen sense of smell, the trunk can be used to lift and carry even heavy objects, and the two finger-like protrusions at the tip are capable of delicate manipulation. The trunk can be used to carry both food and liquid to the mouth and can even act as a snorkel.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Gifted Stoneworkers</name>
       <text>
         Loxodons are tireless, patient artisans, with an unrivaled intuition about their craft. While they make nurturing spiritual leaders, their gift at stonework is so natural that they are often at a loss when it comes to imparting their knowledge to others. Among the Selesnya, it primarily falls to them to build the guild&#39;s magnificent cathedral-like arboretum structures.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Relentlessly Loyal</name>
@@ -466,7 +466,7 @@
         Loxodons believe in the value of community and life, and thus are most often found in the Selesnya Conclave. Some who stress the benefits of order have been known to join the Orzhov Syndicate or the Azorius Senate.
         Loxodons believe that the members of a group have a responsibility to look out for each other. Once they have joined a guild or bonded with other individuals in any capacity, they devote themselves to maintaining that bond. They coordinate their efforts and are often willing to sacrifice themselves for the sake of the group. They expect the same loyalty and commitment from the other members of their communities and can be severe in their disappointment when their trust is betrayed.
         The primary difference among loxodons who join different guilds is their sense of the size of the communities they belong to. For loxodons in the Selesnya Conclave, the community is the world and all living beings in it, all valuable, all meant to live in harmony, and all interdependent. For Azorius loxodons, community primarily means the society of sentient races, who need law and order in order to function together. For those in the Orzhov Syndicate, community means the syndicate, with its interests taking priority over those of any other group.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Loxodon Names</name>
@@ -474,7 +474,7 @@
         A loxodon&#39;s name includes overtones of sound, produced in a loxodon&#39;s resonant nasal chambers, that indicate status, family connection, and community role. Since most members of other races can&#39;t hear or distinguish these tones, let alone produce them, loxodons often translate them into titles, such as Hierarch, Revered, Grandmother, Healer, or Saint.
         &#183; Male Names: Bayul, Berov, Brooj, Chedumov, Dobrun, Droozh, Golomov, Heruj, Ilromov, Kel, Nikoom, Ondros, Radomov, Svetel, Tamuj, Throom, Vasool
         &#183; Female Names: Ajj, Boja, Dancu, Dooja, Elyuja, Fanoor, Irij, Jasoo, Katrun, Lyooda, Mayja, Radu, Shuja, Soofya, Totoor, Verij, Vesmova, Yoolna, Zarij, Zoorja
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -490,76 +490,76 @@
         These traits are also suitable for minotaurs in other D&amp;D worlds where these people have avoided the demonic influence of Baphomet.
         The minotaurs of Ravnica are strong in body, dedication, and courage. They are at home on the battlefield, willing to fight for their various causes. They combine a burning fury in battle with keen tactics that make them excellent commanders as well as valuable shock troops.
         Source: Guildmasters&#39; Guide to Ravnica p. 18
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Minotaurs enter adulthood at around the age of 17 and can live up to 150 years.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most minotaurs who join the Boros Legion lean toward lawful alignments, while those associated with the Cult of Rakdos or the Gruul Clans tend toward chaotic alignments.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Horns</name>
       <text>
         Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Goring Rush</name>
       <text>
         Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hammering Horns</name>
       <text>
         Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Imposing Presence</name>
       <text>
         You have proficiency in one of the following skills of your choice: Intimidation or Persuasion.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and Minotaur.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Horns and Hooves</name>
       <text>
         Minotaurs are barrel-chested humanoids with heads resembling those of bulls. Their horns range in size from about 1 foot long to great, curling weapons easily three times that length. They often ornament their horns with metal rings or sheathe them in metal to protect them from damage.
         Manes of shaggy fur extend down minotaurs&#39; necks and powerful backs, and males have long tufts of hair on their chins and cheeks. Their legs end in heavy, cloven hooves. Minotaurs are born with long, tufted tails, but minotaurs of the Ordruun clan (and some others) have their tails docked as part of a coming-of-age ceremony; they find the heavy armor of the Boros legion much more comfortable without a long tail in the way.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Strength and Zeal</name>
       <text>
         Minotaurs are zealous and love battle. They are found among the Gruul Clans, but the minotaurs of the Ordruun family line, long associated with the Boros Legion, are much better known and respected. Boros minotaurs choose the precision of the legion over the fury of the pack.
         Minotaurs tend to vent their outrage through violence, but they aren&#39;t generally quick to anger. They are passionate, loving their friends and partners fiercely, and they laugh loud and long at good jokes.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Family and Guild</name>
       <text>
         Minotaur legends describe a small pantheon of heroes—perhaps they were once thought of as gods—who established the minotaurs&#39; place in the world. Every minotaur in Ravnica claims descent from one of these heroes. The Ordruun line is the most prominent, with thousands of members descended from an ancient hero who is said to have taught minotaurs the arts of war. Other important family lines include the Kharran line (primarily associated with the Gruul Scab clan), the Drendaa line (found scattered among the Gruul Clans), and the Tazgral line (divided between the Boros and the Gruul, with a significant number in the Rakdos as well).
         Since each family line has so many members, minotaurs don&#39;t usually find it helpful to connect the name of the line to their personal names; even though Commander Grozdan of the Boros Legion&#39;s Kamen Fortress is a prominent member of the Ordruun line, he would never call himself Grozdan Ordruun the way a human would.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Minotaur Names</name>
@@ -567,7 +567,7 @@
         The legends that recount the deeds of ancient minotaur heroes are full of other names as well: those of the retainers, allies, lovers, servants, enemies, and others who played roles, however small, in the lives of the heroes. Almost every minotaur name is drawn from that long list of minor characters of legend, so that those folk are never forgotten.
         &#183; Male Names: Alovnek, Brogmir, Brozhdar, Dornik, Drakmir, Drazhan, Grozdan, Kalazmir, Klattic, Melislek, Nirikov, Prezhlek, Radolak, Rugilar, Sarovnek, Svarakov, Trovik, Vraslak, Yarvem
         &#183; Female Names: Akra, Bolsa, Cica, Dakka, Drakisla, Eleska, Enka, Irnaya, Jaska, Kalka, Makla, Noraka, Pesha, Raisha, Sokali, Takyat, Vrokya, Veska, Yelka, Zarka, Zoka
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -583,37 +583,37 @@
         The Simic Combine uses magic to fuse different life forms together. In recent years, they have extended this research to humanoid subjects, magically transferring the traits of various animals into humans, elves, and vedalken. The goal of the so-called Guardian Project is to build a Simic army of superior soldiers, perfectly adapted to a variety of combat situations. These hyper-evolved specimens are called Simic hybrids, though they sometimes call themselves guardians.
         The Simic Combine uses magic to fuse different life forms together. In recent years, the Simic Combine has extended this research to humanoid subjects, magically transferring the traits of various animals into humans, elves, and vedalken. The goal of the Guardian Project is to build a Simic army of soldiers perfectly adapted to a variety of combat situations. These hyper-evolved specimens are called Simic hybrids, though they sometimes refer to themselves as guardians.
         Source: Guildmasters&#39; Guide to Ravnica p. 20
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Hybrids begin their lives as adult humans, elves, or vedalken. They age at a slightly accelerated rate, so their maximum life spans are probably reduced somewhat. The Guardian Project has not been operating long enough to observe the full effect of this phenomenon.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Most hybrids share the generally neutral outlook of the Simic Combine. They are more interested in scientific research and the standing of their guild than in moral or ethical questions. Those who leave the Combine, however, often do so because their philosophical outlook and alignment are more in line with a different guild&#39;s.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Your size is Medium, within the normal range of your humanoid base race.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>
         You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common and your choice of Elvish or Vedalken.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Animal Enhancement</name>
@@ -627,7 +627,7 @@
         &#183; Grappling Appendage: You have two special appendages growing alongside your arms. Choose whether they&#39;re both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can&#39;t precisely manipulate anything and can&#39;t wield weapons, magic items, or other specialized equipment.
         &#183; Carapace: Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you&#39;re not wearing heavy armor.
         &#183; Acid Spit: As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Consitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Extensive Adaptation</name>
@@ -635,26 +635,26 @@
         Simic hybrids share many of the characteristics of their original race, including their basic physical form. Human hybrids are the most versatile, filling a variety of roles. Agile elf hybrids retain the ability to see in darkness, making them ideal as spies, scouts, and infiltrators. And vedalken hybrids possess the same calculating intellect as other vedalken, making them superior tacticians, strategists, and spellcasters.
         Hybrids&#39; biological enhancements can change their appearance drastically. All hybrids possess some physical characteristics of animals, mostly aquatic and reptilian creatures. These include crab claws, squid tentacles, wings that look like mays or fins, translucent or camouflaged skin, or sharklike maws filled with sharp teeth.
         Hybrids are the product of Simic magic. It&#39;s not impossible for a hybrid to leave the Simic Combine and join another guild, but the Simic would consider the hybrid a deserter and the new guild might never fully welcome a hybrid who could easily be a Simic spy.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Hybrid Names</name>
       <text>
         A hybrid usually bears the name given by their human, elf, or vedalken parents. But some hybrids assume a new name after their transformation, a name chosen by themselves or by those who transformed them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Extensive Adaptation</name>
       <text>
         A hybrid&#39;s biological enhancements can change its appearance drastically, though most hybrids retain their basic physical form. All are augmented with characteristics of animals, mostly aquatic, reptilian, or amphibian creatures. These include crab claws, squid tentacles, wings or fins like those of manta rays, translucent or camouflaged skin, or shark-like maws filled with sharp teeth.
         Hybrids are the product of Simic magic. It&#39;s not impossible for a hybrid to leave the Simic Combine and join another guild, but the Simic would consider the individual a deserter. And the new guild might never fully welcome a hybrid who could easily be a Simic spy.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Simic Hybrid Names</name>
       <text>
         A hybrid usually bears the name given by their human, elf, or vedalken parents. Some hybrids assume a new name after their transformation—a name chosen personally or by those who transformed them.
-      </text>
+</text>
     </trait>
   </race>
   <race>
@@ -671,64 +671,64 @@
         Nothing is perfect. Vedalken not only believe this fact, they rejoice in it. Every imperfection is a chance for improvement, and progress is an endless march toward a state of perfection that can never be reached. This viewpoint leads vedalken to pursue their work with delighted enthusiasm, never deterred by setbacks and excited by every opportunity for improvement.
         Vedalken are tall and slender, standing almost a head taller than humans on average but weighing about the same. Their hairless skin comes in a range of shades of blue. Their eyes are darker shades of blue or violet. They lack external ears, their noses are broad and flat, and they are partially amphibious.
         Source: Guildmasters&#39; Guide to Ravnica p. 21
-      </text>
+</text>
     </trait>
     <trait>
       <name>Age</name>
       <text>
         Vedalken mature slower than humans do, reaching maturity around age 40. Their life span is typically 350 years, with some living to the age of 500.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Alignment</name>
       <text>
         Vedalken are usually lawful and non-evil.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Size</name>
       <text>
         Tall and slender, Vedalken stand 6 to 6½ feet tall on average and usually weigh less than 200 pounds. Your size is Medium.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Vedalken Dispassion</name>
       <text>
         You have advantage on all Intelligence, Wisdom, and Charisma saving throws.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Tireless Precision</name>
       <text>
         You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand.  You are also proficient with one tool of your choice.
         Whenever you make an ability check with the chosen skill or tool, roll a d4 and add the number rolled to the check&#39;s total.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Partially Amphibious</name>
       <text>
         By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you&#39;ve reached that limit, you can&#39;t use this trait again until you finish a long rest.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>
         You can speak, read, and write Common, Vedalken, and one other language of your choice.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Cool Rationality</name>
       <text>
         Vedalken are tall and slender, standing almost a head taller than humans on average but weighing about the same. Their hairless skin covers a range of shades of blue, from pale sky blue through bright azure to deep indigo, almost purple. Their eyes are darker shades of blue or violet. They lack external ears, and their noses are broad and flat.
         As a rule, vedalken are gregarious in conversation. However, they are private concerning their personal lives, and they tend to engage more with ideas than with people. They form close friendships based on mutual interests or compelling disagreements, and their interactions focus on their thoughts about those issues rather than their feelings about them. To members of other races, vedalken often appear cold, even emotionless. That assessment isn&#39;t fair—they feel emotion every bit as vividly as other races, but they are skilled at not displaying it. Cool rationality guides their actions, they make and follow careful plans, and they are patient enough to do nothing at all when the ideal outcome relies on inaction.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Reasoning toward Perfection</name>
       <text>
         Their curious intellects and rational minds incline vedalken strongly toward membership in the Azorius Senate, the Simic Combine, and (less often) the Izzet League. Whatever their guild affiliation, they put their intelligence to use in crafting and improving things: laws, procedures, and magical sciences.
         Vedalken believe that the path toward the impossible goal of perfection is built with bricks of education, careful deliberation, and controlled experimentation. (Their desire for close control to prevent disastrous mistakes makes them generally less inclined toward the Izzet League, where explosive mistakes are celebrated.) Some vedalken direct their energy toward perfecting themselves, including by means of Simic bioengineering or through extensive study, while others focus on perfecting society through the careful crafting and application of laws.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Vedalken Names</name>
@@ -736,7 +736,7 @@
         Vedalken are given names at birth, but usually choose new names for themselves as part of their transition into adulthood. They rarely use family names.
         &#183; Male Names: Aglar, Bellin, Dallid, Firellan, Kavin, Koplony, Lomar, Mathvan, Modar, Nebun, Nhillosh, Nitt, Otrovac, Ovlan, Pelener, Rill, Trivaz, Uldin, Yolov, Zataz
         &#183; Female Names: Azi, Barvisa, Brazia, Direll, Fainn, Griya, Hallia, Katrille, Kovel, Lilla, Mirela, Morai, Nedress, Ossya, Pierenn, Roya, Sestri, Triel, Uzana, Yaraghiya, Zlovol
-      </text>
+</text>
     </trait>
   </race>
 
@@ -752,13 +752,13 @@
         &#183; Languages: Two of your choice
         &#183; Equipment: An Azorius insignia, a scroll containing the text of a law important to you, a Ink (1-ounce bottle), a ink pen, a set of fine clothes, and a belt pouch containing 10 gp (Azorius-minted 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 33
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Legal Authority</name>
       <text>
         You have the authority to enforce the laws of Ravnica, and that status inspires a certain amount of respect and even fear in the populace. People mind their manners in your presence and avoid drawing your attention; they assume you have the right to be wherever you are. Showing your Azorius insignia gets you an audience with anyone you want to talk to (though it might cause more problems than it solves when you&#39;re dealing with incorrigible lawbreakers). If you abuse this privilege, though, you can get in serious trouble with your superiors and even be stripped of your position.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Azorius Guild Spells</name>
@@ -774,7 +774,7 @@
         5th | dominate person
 
         Your magic often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy. If you cast ensnaring strike, for example, the vines created by the spell might appear as rune-inscribed glowing bands that wrap around the target and hold it in place.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -813,7 +813,7 @@
         4 | I was traumatized by witnessing a crime as a child.
         5 | I&#39;m incapable of deception.
         6 | I wish I had joined the Boros, but I fear they&#39;d never accept me.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -841,14 +841,14 @@
         8 | I was ridiculed once in a Rakdos performance; the performer was impressed with my good humor about it and now does me occasional favors.
         9 | I have a fanatical Selesnya cousin who keeps trying to recruit me and everyone else in the family.
         10 | While growing up, I was bullied by a brat who&#39;s now a hybrid in the Simic Combine.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         As a member of the Azorius Senate, you are probably engaged in the work of law enforcement (even if your background involved the legislative or judicial aspects of the senate&#39;s activities). Legislative aides and judges&#39; clerks find little reason to venture beyond the Azorius guildhalls, but soldiers and lawmages patrol the streets daily.
         An Azorius soldier or lawmage is a force for order, charged with fighting crime on the streets—and in the halls of power. You might spend your time foiling thefts, putting a stop to Orzhov extortion, rooting out Dimir spies, or hunting down Golgari assassins. Perhaps you take your orders from a precognitive mage (or you are one yourself) who receives unpredictable and cryptic visions of future crimes that you and your allies must try to prevent.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -863,13 +863,13 @@
         &#183; Languages: Choose one of Celestial, Draconic, Goblin, or Minotaur
         &#183; Equipment: A Boros insignia, a feather from an angel&#39;s wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of common clothes, and a belt pouch containing 2 gp (Boros-minted 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 40
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Legion Station</name>
       <text>
         You have an established place in the hierarchy of the Boros Legion. You can requisition simple equipment for temporary use, and you can gain access to any Boros garrison in Ravnica, where you can rest in safety and receive the attention of medics. You are also paid a salary of 1 gp (a Boros-minted 1-zino coin) per week, which (combined with free lodging in your garrison) enables you to maintain a poor lifestyle between adventures.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Boros Guild Spells</name>
@@ -885,7 +885,7 @@
         5th | flame strike
 
         Your magic often features dramatic bursts of flame or radiance. When you cast beneficial spells on your allies, they appear momentarily surrounded with halos of bright fire.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -924,7 +924,7 @@
         4 | I trust the chain of command more than anything—more even than my closest friends.
         5 | I&#39;m slow to trust members of other guilds.
         6 | I&#39;ve been known to turn a blind eye to injustice, with the help of a modest bribe.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -952,14 +952,14 @@
         8 | A Rakdos blood witch seems to enjoy harassing me.
         9 | I tried to recruit a friend who ended up joining the Selesnya.
         10 | I keep running into a particular Simic biomancer, and I enjoy the arguments that inevitably result.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         As a member of the Boros Legion, you are subject to the orders of your superior officers. You go where the angels tell you to go, and you do what they command you to do, to the best of your ability. If you enjoy some measure of independence, it&#39;s either because you have proven yourself capable of working without close supervision or because you&#39;re a rebellious sort who is willing to disobey orders now and face the consequences later.
         As a soldier on the street, you are tasked with bringing dangerous threats like the Rakdos and the Gruul in line. You might contend with Rakdos performances gone horribly out of control, Gruul raids on outlying neighborhoods, shipments of rot-infested vegetation from the Golgari undercity, and violent uprisings among the guildless. At the same time, you might have to worry about Dimir spies infiltrating your leadership, overzealous or corrupt Azorius senators abusing the law at the expense of justice, Izzet experiments leveling city blocks, and Simic creations that break out of laboratories and wreak havoc through the Tenth District.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -975,7 +975,7 @@
         &#183; Languages: One of your choice
         &#183; Equipment: A Dimir insignia, three small knives, a set of dark-colored common clothes, and the starting equipment of the background described in this chapter for your secondary guild
         Source: Guildmasters&#39; Guide to Ravnica p. 46
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: False Identity</name>
@@ -992,7 +992,7 @@
         6 | I don&#39;t like what this guild stands for and want to destroy it from within.
         7 | I secretly wish I could leave the Dimir and join this guild, but there is no escaping the Dimir.
         8 | I chose this guild at random or on a lark.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Dimir Guild Spells</name>
@@ -1008,7 +1008,7 @@
         5th | modify memory
 
         Your magic is meant to be subtle and undetectable, but it might pull shadows or clouds of mist around you as you cast your spells. Using the encode thoughts cantrip described below, you can turn a creature&#39;s thoughts (including your own) into a thought strand that others can potentially read, share, or steal. These thought strands are treated as valuable currency among the Dimir.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1047,7 +1047,7 @@
         4 | I have a particular vice that puts all my secrets at risk if I&#39;m not careful.
         5 | I&#39;m pretty sure I&#39;ve done something horrible that I can&#39;t remember because of the guild&#39;s mind magic.
         6 | I put too much trust in the people who give me orders.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1063,14 +1063,14 @@
         6 | I didn&#39;t discover the identity of my guild contact until after we had begun a romantic relationship.
         7 | My superior maintains an elaborate identity as a young street urchin... unless it&#39;s all a lie, and I&#39;m being sent on ridiculous missions by a twisted child.
         8 | My sibling and I both get telepathic orders from a mysterious contact, and I&#39;m starting to question the authenticity of my sibling&#39;s orders.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         As a Dimir adventurer, you are a member of the guild&#39;s network of spies, thieves, assassins, and mind mages that lurks behind the facade of the public guild. On the surface, House Dimir presents the appearance of a network of couriers, investigators, media reporters, and archivists, dealing in information and spreading news. But you and your peers trade in secrets. You use secret symbols, runes, and signals to surreptitiously communicate with other Dimir agents, often in plain sight.
         Like any good spy, you have multiple identities: your true face as an agent of House Dimir; a guildless identity; and a role as a member of another guild. Within that secondary guild, you might already be on a mission for House Dimir, assigned to spy on the guild, collect information about a person, or recruit another spy from the ranks of the guild. Or that guild could be a launching point for your real mission. Perhaps, for example, you were ordered to infiltrate the Azorius in hopes of gaining access to a notorious inmate in an Azorius prison.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1085,13 +1085,13 @@
         &#183; Languages: Choose one of Elvish, Giant, or Kraul
         &#183; Equipment: A Golgari insignia, a poisoner&#39;s kit, a pet beetle or spider, a set of common clothes, and a belt pouch containing 10 gp worth of mixed coins
         Source: Guildmasters&#39; Guide to Ravnica p. 53
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Undercity Paths</name>
       <text>
         You know hidden, underground pathways that you can use to bypass crowds, obstacles, and observation as you move through the city. When you aren&#39;t in combat, you and companions you lead can travel between any two locations in the city twice as fast as your speed would normally allow. The paths of the undercity are haunted by dangers that rarely brave the light of the surface world, so your journey isn&#39;t guaranteed to be safe.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Golgari Guild Spells</name>
@@ -1107,7 +1107,7 @@
         5th | cloudkill, insect plague
 
         Golgari magic is often accompanied by a sickly green glow and a rotting stench.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1146,7 +1146,7 @@
         4 | I don&#39;t bother to couch my opinions in flattering words.
         5 | I can&#39;t help but pocket any trinket or coin I come across, no matter how worthless.
         6 | I&#39;m convinced that I&#39;m better and stronger than members of other guilds, isolated as they are from the realities of life and death.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1174,7 +1174,7 @@
         8 | I found a baby beast and sold it to a Rakdos wrangler who remains grateful to me.
         9 | A Selesnya druid and I share an interest in the same garden, and we have enjoyable arguments there.
         10 | I regularly pick up refuse from beneath a Simic laboratory, and sometimes I talk to the researcher who dumps it there.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
@@ -1183,7 +1183,7 @@
         A classic adventuring role for a member of the Golgari involves crawling through dungeon-like environments—the sewers and ancient vaults of the undercity—in search of treasures left behind by the dead. Sometimes you might be sent to find a specific item believed lost in a dangerous part of the undercity. At other times, you could be asked to collect samples of a specific fungus, retrieve a body floating in the muck of the sewers, or bring back whatever booty you can to help fill the swarm&#39;s coffers.
         You might gain enough renown to become a member of the Ochran, assigned to a variety of tasks concerning thievery, assassination, or the protection of important figures in your guild. You might steal something because the guild needs it, or because its loss will bring harm to another guild, hastening that group&#39;s decline. You could be assigned to kill an outspoken and active enemy of the Golgari, such as an overzealous Boros captain whose raids into the undercity have approached dangerously close to the swarm&#39;s inner sanctum. Or you could serve as a bodyguard to one of Guildmaster Jarad&#39;s high chancellors, escorting this figure through the undercity while being ready to intervene at a moment&#39;s notice if things go wrong.
         The shamans of the Golgari use their magic to accelerate the cycle of decay and regrowth. You might be sent to spread spores throughout an area that the Golgari want to claim as their territory or to convince the inhabitants of such a territory to abandon it. You might also contend with the ever-present threat of hostile monsters encroaching into Golgari-controlled regions.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1198,13 +1198,13 @@
         &#183; Languages: Choose one of Draconic, Giant, Goblin, or Sylvan
         &#183; Equipment: A Gruul insignia, a hunting trap, an herbalism kit, the skull of a boar, a beast-hide cloak, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 60
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Rubblebelt Refuge</name>
       <text>
         You are intimately familiar with areas of the city that most people shun: ruined neighborhoods where wurms rampaged, overgrown parks that no hand has tended in decades, and the vast, sprawling rubblebelts of broken terrain that civilized folk have long abandoned. You can find a suitable place for you and your allies to hide or rest in these areas. In addition, you can find food and fresh water in these areas for yourself and up to five other people each day.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Gruul Guild Spells</name>
@@ -1220,7 +1220,7 @@
         5th | destructive wave
 
         Fueled by the fire of rage burning in your heart, your magic is almost always accompanied by fiery effects, such as flames smoldering behind your eyes or dancing over your hands.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1259,7 +1259,7 @@
         4 | I&#39;m so convinced of my superiority over soft, civilized people that I&#39;ll take great risks to prove it.
         5 | I&#39;m easily manipulated by people I find attractive.
         6 | I&#39;m not actually all that angry.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1287,7 +1287,7 @@
         8 | A close friend left our clan and joined the Cult of Rakdos.
         9 | A distant relative is trying to recruit me into the Selesnya Conclave.
         10 | I stopped a Simic biomancer from trapping wild beasts to perform vile experiments on them.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
@@ -1295,7 +1295,7 @@
         In service of a simple goal, you have a simple part to play: Fight. Unleash your rage. Flatten buildings and defeat those who stand in your way. Be Gruul, in your own way.
         You will frequently be summoned to participate in a raid your clan is launching against the city or against a group of its defenders. Your clan leader might also send you on a special mission, though it would almost certainly still qualify as a raid. You might join a small group of Gruul warriors on a dangerous charge deep into the settled streets to plunder a certain location, retrieve an item stolen from your clan, or assault a Boros garrison.
         Sometimes your objective might be more esoteric. With prophecies of the return of Ilharg the Raze-Boar spreading like wildfire among the Gruul druids, you might be asked to carry out some task that the druids believe will speed his coming. Such a task might involve collecting a sacred relic held in an Orzhov vault or collecting sacrifices for a grand ceremony in the Raze-Boar&#39;s honor.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1310,14 +1310,14 @@
         &#183; Languages: Choose one of Draconic, Goblin, or Vedalken
         &#183; Equipment: An Izzet insignia, one set of artisan&#39;s tools, the charred and twisted remains of a failed experiment, a hammer, a block and tackle, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 66
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Urban Infrastructure</name>
       <text>
         The popular conception of the Izzet League is based on mad inventions, dangerous experiments, and explosive blasts. Much of that perception is accurate, but the league is also involved with mundane tasks of construction and architecture—primarily in crafting the infrastructure that allows Ravnicans to enjoy running water, levitating platforms, and other magical and technological wonders.
         You have a basic knowledge of the structure of buildings, including the stuff behind the walls. You can also find blueprints of a specific building in order to learn the details of its construction. Such blueprints might provide knowledge of entry points, structural weaknesses, or secret spaces. Your access to such information isn&#39;t unlimited. If obtaining or using the information gets you in trouble with the law, the guild can&#39;t shield you from the repercussions.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Izzet Guild Spells</name>
@@ -1335,7 +1335,7 @@
         Your spells tend to be loud, flashy, or explosive, even when the effect is unremarkable. For example, when you open the portal of a rope trick spell, the portal might be outlined by harmless, showy sparkles.
         If you use an arcane focus, it probably takes the form of an intricate device that could include metal gauntlets, glass canisters, copper tubing, and leather straps attaching it to your body. The mizzium apparatus described in chapter 5 is a magical version of this gear.
         The chaos bolt spell is a favorite of Izzet spellcasters because of its unpredictable nature.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1374,7 +1374,7 @@
         4 | I tend to ignore sleep for days when I&#39;m conducting research, often at the expense of my own health and safety.
         5 | I&#39;m convinced there&#39;s not a soul in Ravnica, except maybe the great Niv-Mizzet, who can match my boundless intellect.
         6 | I&#39;m incapable of admitting a flaw in my logic.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1402,13 +1402,13 @@
         8 | I have a cousin in the Cult of Rakdos, and we get along quite well.
         9 | A former attendant from the same laboratory ran off to join the Selesnya, and we get into a big argument every time we run into each other.
         10 | I compare notes and techniques with a Simic scientist over lunch sometimes.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         Whatever your role in the Izzet League, you are expected to contribute to its research in some way. That contribution might involve participating in tests, whether as an assistant, a researcher, or a subject. You might be one of the soldiers who protects a laboratory, or a laborer responsible for lifting heavy pieces of equipment into place. Everyone&#39;s contribution matters, even if the Izzet know that some matter more than others.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1423,13 +1423,13 @@
         &#183; Languages: Two of your choice
         &#183; Equipment: An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of fine clothes, and a belt pouch containing 1 pp (an Orzhov-minted 10-zino coin)
         Source: Guildmasters&#39; Guide to Ravnica p. 72
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Leverage</name>
       <text>
         You can exert leverage over one or more individuals below you in the guild&#39;s hierarchy and demand their help as needs warrant. For example, you can have a message carried across a neighborhood, procure a short carriage ride without paying, or have others clean up a bloody mess you left in an alley. The DM decides if your demands are reasonable and if there are subordinates available to fulfill them. As your status in the guild improves, you gain influence over more people, including ones in greater positions of power.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Orzhov Guild Spells</name>
@@ -1445,7 +1445,7 @@
         5th | geas
 
         Your magic tends to manifest as swirling shadows, brilliant light, or sometimes the momentary appearance of shadowy spirit forms. Your spells might draw the blood of your enemies, or even directly touch their souls.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1484,14 +1484,14 @@
         4 | I am convinced that I am far more important than anyone else is willing to acknowledge.
         5 | I have little respect for anyone who isn&#39;t wealthy.
         6 | I&#39;ll take any opportunity to steal from wealthier people, even for worthless trinkets.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         The structure of the Orzhov Syndicate means that you are always doing the bidding of someone higher up the ladder than you are. Ultimately, your role in the guild is defined by whatever the people (and spirits) above you decide for you.
         For most of your career, you can expect to engage in some aspect of the day-to-day criminal operations of the guild. That can mean throwing your weight around to enforce the will of the guild or using religious authority to extort offerings from the people. But it can also mean doing various errands for your superiors, from bearing messages to carrying out assassinations.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1507,7 +1507,7 @@
         &#183; Languages: Choose either Abyssal or Giant
         &#183; Equipment: A Rakdos insignia, a musical instrument (one of your choice), a costume clothes, a hooded lantern made of wrought iron, a 10-foot length of chain with sharply spiked links, a tinderbox, 10 torch, a set of common clothes, a belt pouch containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice
         Source: Guildmasters&#39; Guide to Ravnica p. 79
-      </text>
+</text>
     </trait>
     <trait>
       <name>A Flair for the Dramatic</name>
@@ -1522,13 +1522,13 @@
         6 | Noise musician
         7 | Nightmare clown
         8 | Master of ceremonies
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Fearsome Reputation</name>
       <text>
         People recognize you as a member of the Cult of Rakdos, and they&#39;re careful not to draw your anger or ridicule. You can get away with minor criminal offenses, such as refusing to pay for food at a restaurant or breaking down a door at a local shop, if no legal authorities witness the crime. Most people are too daunted by you to report your wrongdoing to the Azorius.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Rakdos Guild Spells</name>
@@ -1544,7 +1544,7 @@
         5th | dominate person
 
         Your magic often produces a flashy spectacle, wreathing you or your targets in a mixture of harmless flame and shadowy shapes. When you manipulate an opponent&#39;s mind, a flaming symbol of Rakdos might momentarily appear like a mask over the target&#39;s face.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1583,7 +1583,7 @@
         4 | I resent the rich and powerful.
         5 | When I&#39;m angry, I lash out in violence.
         6 | There&#39;s no such thing as too much pleasure.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1611,14 +1611,14 @@
         8 | Roll an additional Rakdos contact; you can decide if the contact is an ally or a rival.
         9 | A Selesnya healer attends my performances regularly.
         10 | A Simic biomancer provides mutant monsters to add a taste of the bizarre to our shows.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         The Cult of Rakdos encourages independent action on the part of its members. Its goal is fomenting chaos, and it firmly believes in putting its own house in disorder before carrying that mission into the larger city. So your role is to execute your vision of grand satire and disruptive performance art, as you aspire to outdo your guild mates and attract the attention of Rakdos himself.
         You work as part of a troupe, with your artistic talents used in service to a ringmaster&#39;s vision. But your performance is your own, and no one expects you to follow a script. In fact, if you go through a performance without doing something you haven&#39;t done before, you&#39;re clearly not trying hard enough.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1633,14 +1633,14 @@
         &#183; Languages: Choose one of Elvish, Loxodon, or Sylvan
         &#183; Equipment: A Selesnya insignia, a healer&#39;s kit, robes, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 86
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Conclave&#39;s Shelter</name>
       <text>
         As a member of the Selesnya Conclave, you can count on your guild mates to provide shelter and aid. You and your companions can find a place to hide or rest in any Selesnya enclave in the city, unless you have proven to be a danger to them. The members of the enclave will shield you from the law or anyone else searching for you, though they will not risk their lives in this effort.
         In addition, as a guild member you can receive free healing and care at a Selesnya enclave, though you must provide any material components needed for spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Selesnya Guild Spells</name>
@@ -1656,7 +1656,7 @@
         5th | awaken, commune with nature
 
         Members of the Selesnya Conclave refer to their magic as "doruvati," a Sylvan word meaning "gift." When you use these gifts of Mat&#39;Selesnya, graceful swirls of green and silver light dance in the air around you, and phantasmal green leaves might waft through the air. A sensation of gentle warmth and the smell of spring flowers or autumn leaves might accompany your spells.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1695,7 +1695,7 @@
         4 | I have a fierce temper that doesn&#39;t reflect the inner calm I seek.
         5 | I&#39;m convinced that everyone else in the conclave has a deeper connection to the Worldsoul than I do.
         6 | I&#39;m trying to atone for the life of crime I led before I joined the Selesnya, but I find it hard to give up my bad habits.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1723,14 +1723,14 @@
         8 | At a time of terrible grief in my life, a Rakdos performer made a mockery of my pain, leaving me with mixed feelings of sadness and humor.
         9 | Roll an additional Selesnya contact; you can decide if the contact is an ally or a rival.
         10 | I have a sibling in the Simic Combine, and we argue every time we see each other.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         Although the guild teaches the importance of subjugating the individual will to the good of the conclave, it also celebrates the diversity of individuals, in the same sense that a field that produces different crops is healthier than one that yields a single crop. That principle applies to your skills as an adventurer. As long as your efforts are directed toward advancing the goals of the guild rather than your private agenda, you&#39;re allowed to put your talents to work in your unique way.
         That said, you must never lose sight of the fact that you are part of a larger community. That includes the whole guild, of course, but your ties to community start with your vernadi (enclave) and its voda (dryad leader). The dryads want to know what you&#39;re doing and what purpose it serves, and they act to curtail your actions—or even expel you from the guild—if they determine that you aren&#39;t serving Selesnya&#39;s best interests.
-      </text>
+</text>
     </trait>
   </background>
   <background>
@@ -1744,7 +1744,7 @@
         &#183; Languages: Two of your choice
         &#183; Equipment: A Simic insignia, a set of common clothes, a book of research notes, an ink pen, a Ink (1-ounce bottle), a oil (flask) (made from blubber), a acid (vial) (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt pouch containing 10 gp (Azorius 1-zino coins)
         Source: Guildmasters&#39; Guide to Ravnica p. 93
-      </text>
+</text>
     </trait>
     <trait>
       <name>Clades and Projects</name>
@@ -1757,14 +1757,14 @@
         4 | Guardian Project, focused on creating guard monsters and super soldiers
         5 | Crypsis Project, focused on intelligence and counterintelligence
         6 | Independent research in a new area
-      </text>
+</text>
     </trait>
     <trait>
       <name>Feature: Researcher</name>
       <text>
         When you attempt to learn or recall a magical or scientific fact, if you don&#39;t know that information, you know where and from whom you can obtain it. Usually, this information comes from a Simic laboratory, or sometimes from an Izzet facility, a library, a university, or an independent scholar or other learned person or creature. Knowing where the information can be found doesn&#39;t automatically enable you to learn it; you might need to offer bribes, favors, or other incentives to induce people to reveal their secrets.
         Your DM might rule that the knowledge you seek is secreted away in an inaccessible place, or that it simply can&#39;t be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Simic Guild Spells</name>
@@ -1780,7 +1780,7 @@
         5th | creation
 
         When your magic causes physical alterations in yourself or others, the result often displays the characteristics of fish, amphibians, or other water-dwelling creatures. Blue-green eddies of magical energy sometimes accompany your spellcasting, forming spirals that reflect the mathematical perfection of nature.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1819,7 +1819,7 @@
         4 | I&#39;m supremely confident in my ability to adapt to any situation and handle any danger.
         5 | I&#39;ll take any risk to earn recognition for my scientific brilliance.
         6 | I have a tendency to take shortcuts in my research and any other tasks I have to complete.
-      </text>
+</text>
     </trait>
     <trait>
       <name>Contacts</name>
@@ -1847,14 +1847,14 @@
         8 | A Rakdos ringmaster has taken an interest in my research which, come to think of it, might make a nice sideshow act.
         9 | I left the Selesnya—and a lover—behind when I joined the Simic.
         10 | Roll an additional Simic contact; you can decide if the contact is an ally or a rival.
-      </text>
+</text>
     </trait>
     <trait>
       <name>How Do I Fit In?</name>
       <text>
         As a Simic adventurer, your mission likely aligns with the Adaptationist philosophy; the disagreements and tensions among the guilds will soon erupt into open conflict, and your guild needs your help to ensure that the Simic survive. That help might come in the form of defending against Golgari incursions into Simic zonots or shielding Simic research from Azorius intrusion. It could also involve more subtle, diplomatic work to maintain balance among the guilds, or subterfuge aimed at undermining another guild&#39;s grab for power.
         Self-improvement is also an important part of your mission. Anything you can do to make yourself more capable—whether learning a new spell or adopting a new hybridizing mutation—gives the Simic a stronger weapon in its arsenal. The combine must change to survive, and that means individual members of the guild must grow and adapt as well.
-      </text>
+</text>
     </trait>
   </background>
 

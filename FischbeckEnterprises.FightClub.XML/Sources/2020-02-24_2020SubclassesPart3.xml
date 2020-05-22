@@ -6,13 +6,13 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Artificer Specialist: Armorer (UA)</name>
-        <text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer&#39;s magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.  </text>
+        <text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer&#39;s magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
         <name>Tools of the Trade (Armorer (UA))</name>
-        <text>You gain proficiency with heavy armor. You also gain proficiency with smith&#39;s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice. </text>
+        <text>You gain proficiency with heavy armor. You also gain proficiency with smith&#39;s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -25,7 +25,7 @@
           &#183; If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
           &#183; You can use the power armor as a spellcasting focus for your artificer spells.
           &#183; The power armor attaches to you and can&#39;t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
-        </text>
+</text>
         <text />
         <text>The armor continues to be power armor until you doff it, you don another suit of armor, or you die.</text>
         <text />
@@ -42,7 +42,7 @@
           9th hypnotic pattern, lightning bolt
           13th fire shield, greater invisibility
           17th passwall, wall of force
-        </text>
+</text>
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
       <feature optional="YES">
@@ -117,7 +117,7 @@
           4 A collection of maps bound in an ebony cover
           5 A crystal that projects starry patterns when placed before a light
           6 Tempered glass disks that align to depict constellations
-        </text>
+</text>
         <text />
         <text>If you lose your map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.</text>
         <text>You can cast the augury and guiding bolt spells without expending a spell slot and without preparing the spell, provided you use the star map as the spellcasting focus. You can cast a spell from the map in this way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.</text>
@@ -174,7 +174,7 @@
         <name>Ranger Archtype: Fey Wanderer (UA)</name>
         <text>As a Fey Wanderer, you guard the border between the Feywild and the Material Plane, guiding the lost out of the Feywild and preventing dangerous fey from damaging the Material Plane. Your experience with both domains makes you an exceptional negotiator between inhabitants of these worlds, as you understand both humanoid mindsets and the wiles of the fey courts.</text>
         <text>Fey Wanderers possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.</text>
-        <text>Feywild Gifts </text>
+        <text>Feywild Gifts</text>
         <text>
           d6 Gift
           1 Illusory butterflies flutter around you whileyou take a short or long rest.
@@ -183,7 +183,7 @@
           4 Your shadow dances while no one is looking directly at it.
           5 Delicate horns or antlers sprout from your head.
           6 Your skin and hair change color to match the season at each dawn.
-        </text>
+</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -198,7 +198,7 @@
           9th dispel magic
           13th banishment
           17th mislead
-        </text>
+</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -237,7 +237,7 @@
           its turns, ending the effect on itself on a
           successful save.
           &#183; The creature takes 3d10 psychic damage.
-        </text>
+</text>
         <text />
         <text>Source: Unearthed Arcana: 2020 Subclasses Pt3</text>
       </feature>
@@ -361,8 +361,8 @@
     <classes>Artificer (Armorer)</classes>
     <level>4</level>
     <ritual>NO</ritual>
-    <text>Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet, You can end the spell early by using an action to dismiss it. </text>
-    <text>    The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage. </text>
+    <text>Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet, You can end the spell early by using an action to dismiss it.</text>
+    <text>    The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.</text>
     <text>    In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.</text>
     <text />
     <text>Source: Player&#39;s Handbook, p. 242</text>

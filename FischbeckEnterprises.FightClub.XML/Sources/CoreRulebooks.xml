@@ -1553,7 +1553,7 @@
     <text />
     <text>
       Wretched: You live in inhumane conditions. With  no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the goad graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
-    </text>
+</text>
     <text />
     <text>Source: Player&#39;s Handbook, p. 157</text>
   </item>
@@ -4525,7 +4525,7 @@
     <text>Venturing deep under the mountains, deeper than any dwarf had ever delved, the young prince came to the blazing heart of a great volcano. With the aid of Moradin, the dwarven god of creation, he first crafted four great tools: the Brutal Pick, the Earthheart Forge, the Anvil of Songs, and the Shaping Hammer. With them, he forged the Axe of the Dwarvish Lords.</text>
     <text>Armed with the artifact, the prince returned to the dwarf clans and brought peace. His axe ended grudges and answered slights. The clans became allies, and they threw back their enemies and enjoyed an era of prosperity. This young dwarf is remembered as the First King. When he became old, he passed the weapon, which had become his badge of office, to his heir. The rightful inheritors passed the axe on for many generations.</text>
     <text>Later, in a dark era marked by treachery and wickedness, the axe was lost in a bloody civil war fomented by greed for its power and the status it bestowed. Centuries later, the dwarves still search for the axe, and many adventurers have made careers of chasing after rumors and plundering old vaults to find it.</text>
-    <text> </text>
+    <text></text>
     <text>Magic Weapon: The Axe of the Dwarvish Lords is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. The axe also functions as a belt of dwarvenkind, a dwarven thrower, and a sword of sharpness.</text>
     <text />
     <text>Random Properties: The axe has the following randomly determined properties:</text>
@@ -27400,10 +27400,10 @@
       <name>Entertainer Routines</name>
       <text>A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll 1d10 to define your expertise as an entertainer.</text>
       <text />
-      <text>1.Actor </text>
+      <text>1.Actor</text>
       <text>2.Dancer</text>
       <text>3.Fire-eater</text>
-      <text>4.Jester </text>
+      <text>4.Jester</text>
       <text>5.Juggler</text>
       <text>6 Instrumentalist</text>
       <text>7.Poet</text>
@@ -59885,7 +59885,7 @@
       <text>
         Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can&#39;t regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-      </text>
+</text>
       <text />
       <text>Poisoned:</text>
       <text>&#8226; A poisoned creature has disadvantage on attack rolls and ability checks.</text>
@@ -59896,7 +59896,7 @@
       <text>
         Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.
 
-      </text>
+</text>
       <attack>Claw|14|2d8+8</attack>
     </action>
     <action>
@@ -59904,7 +59904,7 @@
       <text>
         Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
 
-      </text>
+</text>
       <attack>Mace|14|2d6+8+6d6</attack>
     </action>
     <action>

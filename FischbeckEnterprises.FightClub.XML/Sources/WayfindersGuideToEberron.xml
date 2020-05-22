@@ -398,7 +398,7 @@
         <weight>1</weight>
         <text>An armblade is a weapon designed to integrate with the forearm of a warforged. If you&#39;re a warforged, you can attach an armblade by attuning to it. An attached armblade cannot be disarmed or removed from you against your will, but while the weapon is attached you cannot use that hand for other actions. You can spend one minute to end the attunement and remove the armblade. An armblade isn&#39;t inherently considered to be a magic weapon for purposes of overcoming damage resistance. However, any sort of magical melee weapon could be created as an armblade, so you could acquire a vicious armblade or a vorpal armblade.</text>
         <text />
-        <text>    You gain a +1 bonus to attack and damage rolls made with this magic weapon. </text>
+        <text>    You gain a +1 bonus to attack and damage rolls made with this magic weapon.</text>
         <text>    You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The dagger can&#39;t be used this way again until the next dawn.</text>
         <text />
         <text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.</text>
@@ -1535,8 +1535,8 @@
         <weight>2</weight>
         <text>An armblade is a weapon designed to integrate with the forearm of a warforged. If you&#39;re a warforged, you can attach an armblade by attuning to it. An attached armblade cannot be disarmed or removed from you against your will, but while the weapon is attached you cannot use that hand for other actions. You can spend one minute to end the attunement and remove the armblade. An armblade isn&#39;t inherently considered to be a magic weapon for purposes of overcoming damage resistance. However, any sort of magical melee weapon could be created as an armblade, so you could acquire a vicious armblade or a vorpal armblade.</text>
         <text />
-        <text>    You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you throw it, its normal and long ranges both increase by 30 feet (included in range). and it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately. </text>
-        <text>Curse: This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with remove curse or similar magic, you are unwilling to part with the weapon, keeping it within reach at all times. In addition, you have disadvantage on attack rolls made with weapons other than this one. </text>
+        <text>    You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you throw it, its normal and long ranges both increase by 30 feet (included in range). and it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately.</text>
+        <text>Curse: This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with remove curse or similar magic, you are unwilling to part with the weapon, keeping it within reach at all times. In addition, you have disadvantage on attack rolls made with weapons other than this one.</text>
         <text>    Whenever you roll a 1 on an attack roll using this weapon, the weapon bends or flies to hit you in the back. Make a new attack roll with advantage against your own AC. If the result is a hit, you take damage as if you had attacked yourself with the spear.</text>
         <text />
         <text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.</text>
@@ -3572,8 +3572,8 @@
         <weight>3</weight>
         <text>An armblade is a weapon designed to integrate with the forearm of a warforged. If you&#39;re a warforged, you can attach an armblade by attuning to it. An attached armblade cannot be disarmed or removed from you against your will, but while the weapon is attached you cannot use that hand for other actions. You can spend one minute to end the attunement and remove the armblade. An armblade isn&#39;t inherently considered to be a magic weapon for purposes of overcoming damage resistance. However, any sort of magical melee weapon could be created as an armblade, so you could acquire a vicious armblade or a vorpal armblade.</text>
         <text />
-        <text>    You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you throw it, its normal and long ranges both increase by 30 feet (included in range). and it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately. </text>
-        <text>Curse: This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with remove curse or similar magic, you are unwilling to part with the weapon, keeping it within reach at all times. In addition, you have disadvantage on attack rolls made with weapons other than this one. </text>
+        <text>    You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you throw it, its normal and long ranges both increase by 30 feet (included in range). and it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately.</text>
+        <text>Curse: This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with remove curse or similar magic, you are unwilling to part with the weapon, keeping it within reach at all times. In addition, you have disadvantage on attack rolls made with weapons other than this one.</text>
         <text>    Whenever you roll a 1 on an attack roll using this weapon, the weapon bends or flies to hit you in the back. Make a new attack roll with advantage against your own AC. If the result is a hit, you take damage as if you had attacked yourself with the spear.</text>
         <text />
         <text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.</text>
@@ -5208,7 +5208,7 @@
         <weight>6</weight>
         <text>The double scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long blade on either end. Forged with techniques honed over tens of thousands of years, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result the double scimitar is an expensive weapon, but few people ever have an opportunity to purchase one. If you&#39;re an elf, your blade could have a long and storied history. If you&#39;re not an elf, you might have stolen the weapon from a fallen foe or received it from a dying Valenar ally. If you work with your DM to create the story behind your double scimitar, you can start with the weapon at 1st level in place of a martial weapon normally granted by your class. However, it can be dangerous for a non-elf to carry a double scimitar. Valenar may demand its return or challenge you to prove that you&#39;re worthy to wield it.</text>
         <text />
-        <text>    Special: When you take the attack action and make a two-handed attack with a double-bladed scimitar, you can use a bonus action to make a melee attack with the blade at the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon&#39;s damage die for this attack is a d4, and it deals slashing damage. </text>
+        <text>    Special: When you take the attack action and make a two-handed attack with a double-bladed scimitar, you can use a bonus action to make a melee attack with the blade at the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon&#39;s damage die for this attack is a d4, and it deals slashing damage.</text>
         <text>    You can use a bonus action to speak this magic sword&#39; command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</text>
         <text />
         <text>Two-Handed: This weapon requires two hands when you attack with it.</text>
@@ -5613,7 +5613,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take fire damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take fire damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -5648,7 +5648,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take radiant damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take radiant damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -5759,7 +5759,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take acid or poison damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take acid or poison damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -5770,7 +5770,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take lightning or thunder damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take lightning or thunder damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -5859,7 +5859,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take necrotic damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take necrotic damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -5935,7 +5935,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take psychic damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take psychic damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -5985,7 +5985,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take cold damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take cold damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -6045,7 +6045,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take force damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take force damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>
@@ -6169,7 +6169,7 @@
         <magic>1</magic>
         <detail>common (requires attunement)</detail>
         <weight>3</weight>
-        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take psychic damage, reduce it by 1d4. </text>
+        <text>An orb of shielding is made from crystal or stone aligned to one of the planes. While you are holding the orb, it shields you from a particular type of energy. Any time you take psychic damage, reduce it by 1d4.</text>
         <text />
         <text>Source: Wayfinder&#39;s Guide to Eberron, Chapter 5</text>
         <roll>1d4</roll>

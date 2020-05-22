@@ -463,7 +463,7 @@
 
       Proficiency: simple, spear
       Source: Custom item in World of Koreth, OneNote - Warren Fischbeck
-    </text>
+</text>
     <type>M</type>
     <magic>1</magic>
     <weight>4.0</weight>
@@ -1101,7 +1101,7 @@
         <name>Order of the Lycan: Hybrid Transformation Mastery</name>
         <text>At 18th level, you have wrestled your inner predator and mastered it. You can now use your hybrid transformation feature three times between rests.</text>
         <text>You also gain the Blood Curse of the Howl for your blood malediction feature. This does not count against your blood curses known.</text>
-        <text>Blood Curse of the Howl. As an action, you howl at a creature within 30 feet, chilling their blood and stunning them with fear. If the target creature can hear you, they must succeed on a Wisdom saving throw (DC equals 8 + your proficiency bonus + your Wisdom modifier) or be stunned until the end of your next turn. </text>
+        <text>Blood Curse of the Howl. As an action, you howl at a creature within 30 feet, chilling their blood and stunning them with fear. If the target creature can hear you, they must succeed on a Wisdom saving throw (DC equals 8 + your proficiency bonus + your Wisdom modifier) or be stunned until the end of your next turn.</text>
         <text>AMPLIFY: This curse affects every creature within 15 feet of you.</text>
         <text>Your unarmed strikes damage increases from 1d6 to 1d8.</text>
       </feature>
@@ -1188,7 +1188,7 @@
         <text>
           Saving Throws: Some of your trick shots require your targets to make a saving throw to resist the trick shot&#39;s effect.  The saving throw DC is calculated as follows:
           Trick Shot save DC = 8 + your proficiency bonus + Dexterity Modifier
-        </text>
+</text>
         <text />
         <text>Source: Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
@@ -1249,8 +1249,8 @@
         <text>	That power is a mixed blessing. Like the mythical creature, you can invoke fiery energy and gain the ability to cheat death itself. This power comes at a cost. The fire within you seethes, demanding to be unleashed. You sometimes find yourself absentmindedly feeding fires. You can&#39;t bear to allow a fire to sputter out. You feel most comfortable while holding a lit torch or sitting in front of a campfire.</text>
         <text>	More importantly, this gift comes with no special protection from fire. You are as vulnerable as any other creature to fiery magic, including your own. Phoenix sorcerers can use their powers to pull themselves back from the brink of death, and all too often their own, rash nature or reliance on destructive magic is what puts them there in the first place.</text>
         <text>	Such sorcerers are wanderers by necessity. The volatile nature of their magic makes other folk nervous. If a fire breaks out in town, a phoenix sorcerer had best flee, whether guilty or not. Fire is a dangerous force, and phoenix sorcerers have a reputation (deserved or not) for reckless behavior, confident that the essence of the phoenix can save them.</text>
-        <text>	 </text>
-        <text>Phoenix Soul Quirks </text>
+        <text>	</text>
+        <text>Phoenix Soul Quirks</text>
         <text>1 &#8212; You absentmindedly ignite small fires that quickly sputter out.</text>
         <text>2 &#8212; You cackle like a fiend when you unleash your fire spells.</text>
         <text>3 &#8212; You admire fire, even if it burns your friends.</text>
@@ -1275,11 +1275,11 @@
         <name>Sorcerous Origin: Phoenix Sorcery (UA): Mantle of Flame (Phoenix Sorcery (UA))</name>
         <text>Starting at 1st level, you can unleash the phoenix fire that blazes within you.</text>
         <text>	As a bonus action, you magically wreathe yourself in swirling fire, as your eyes glow like hot coals. For 1 minute, you gain the following benefits:</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; You shed bright light in a 30-foot radius and dim light for an additional 30 feet.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; Any creature takes fire damage equal to your Charisma modifier if it hits you with a melee attack from within 5 feet of you or if it touches you.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; Whenever you roll fire damage on your turn, the roll gains a bonus to equal to your Charisma modifier.</text>
         <text>	Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
         <text>	</text>
@@ -1312,11 +1312,11 @@
         <text>When you choose this origin at 1st level, you learn the secret of infusing your spells with a watery curse.</text>
         <text>	When you hit a creature with a cantrip&#39;s attack or when a creature fails a saving throw against your cantrip, you can curse the target until the end of your next turn or until you curse a different creature with this feature.</text>
         <text>	Once per turn when you cast a spell, you can trigger the curse if that spell deals cold or lightning damage to the cursed target or forces it to move. Doing so subjects the target to the appropriate additional effect below, and then the curse ends if the spell isn&#39;t a cantrip (you choose the effect to use if more than one effect applies):</text>
-        <text>	 </text>
+        <text>	</text>
         <text>Cold Damage: If the affected target takes cold damage from your spell, the target&#39;s speed is also reduced by 15 feet until the end of your next turn. If the spell already reduces the target&#39;s speed, use whichever reduction is greater.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>Lightning Damage: If the affected target takes lightning damage from your spell, the target takes additional lightning damage equal to your Charisma modifier.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>Forced Movement; If the target is moved by your spell, increase the distance it is moved by 15 feet.</text>
         <text>	</text>
         <text>Source: Unearthed Arcana: Sorcerer, p. 3</text>
@@ -1346,7 +1346,7 @@
       <feature optional="YES">
         <name>Sorcerous Origin: Stone Sorcery (UA): Metal Magic (Stone Sorcery (UA))</name>
         <text>Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a sorcerer spell of 1st level or higher, you can select the spell from the following list of spells, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>1st &#8212; compelled duel</text>
         <text>1st &#8212; searing smite</text>
         <text>1st &#8212; thunderous smite</text>
@@ -1437,11 +1437,11 @@
       <feature optional="YES">
         <name>Sorcerous Origin: Phoenix Sorcery (UA): Form of the Phoenix (Phoenix Sorcery (UA))</name>
         <text>At 18th level, you finally master the spark of fire that dances within you. While under the effect of your Mantle of Flame feature, you gain additional benefits:</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; You have a flying speed of 40 feet and can hover.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; You have resistance to all damage.</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; If you use your Phoenix Spark, that feature deals an extra 20 fire damage to each creature.</text>
         <text>	</text>
         <text>Source: Unearthed Arcana: Sorcerer, p. 2</text>
@@ -1452,11 +1452,11 @@
       <feature optional="YES">
         <name>Sorcerous Origin: Sea Sorcery (UA): Water Soul (Sea Sorcery (UA))</name>
         <text>Starting at 18th level, your being is altered by the power of the sea. You gain the following benefits:</text>
-        <text>	 </text>
+        <text>	</text>
         <text>&#8226; You no longer need to eat, drink, or sleep.</text>
-        <text>	 </text>
-        <text>&#8226; A critical hit against you becomes a normal hit. </text>
-        <text>	 </text>
+        <text>	</text>
+        <text>&#8226; A critical hit against you becomes a normal hit.</text>
+        <text>	</text>
         <text>&#8226; You have resistance to bludgeoning, piercing, and slashing damage.</text>
         <text>	</text>
         <text>Source: Unearthed Arcana: Sorcerer, p. 3</text>
@@ -1508,7 +1508,7 @@
           &#183; Add the finesse property to the customized item if it doesn&#39;t have it.
           &#183; Remove the heavy condition if the customized item has it.
           &#183; Add a +1 to damage rolls.
-        </text>
+</text>
         <text />
         <text>Source: Custom subclass in World of Koreth, OneNote - Warren Fischbeck</text>
       </feature>
@@ -1896,7 +1896,7 @@
     <range>60 feet</range>
     <components>V</components>
     <duration>Instantaneous</duration>
-    <text>A creature of your choice that you can see within range regains hit points equal to 1d4+your spellcasting ability modifier. This spell has no effect on undead or constructs. </text>
+    <text>A creature of your choice that you can see within range regains hit points equal to 1d4+your spellcasting ability modifier. This spell has no effect on undead or constructs.</text>
     <text />
     <text>At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.</text>
     <text />
@@ -1982,27 +1982,27 @@
     <proficiency>Athletes,Animal Handling</proficiency>
     <trait>
       <name>Description</name>
-      <text>A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on). </text>
+      <text>A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).</text>
       <text>    As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart &#8212; in a chaste sort of devotion. (This person could be your bond.)</text>
     </trait>
     <trait>
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
-      <text> </text>
+      <text></text>
       <text>Skills: Athletes, Animal Handling</text>
-      <text> </text>
+      <text></text>
       <text>Tools: one type of gaming set</text>
     </trait>
     <trait>
       <name>Reduced stabling</name>
       <text>	As a guild-knight, you are familiar with traveling within the Lendarth Empire. In any town within its boarders, you can use your standing the Merchants Guild for a reduced rate for stabling, -10% to the cost.  Also, in any settlement that has a guild house, you can stay there for free.  You start with 10 renown within the merchants guild.</text>
-      <text> </text>
+      <text></text>
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
       <name>Guild Renown</name>
       <text>	As a guild-knight, you start with 10 renown within the merchants guild.</text>
-      <text> </text>
+      <text></text>
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
@@ -2013,72 +2013,72 @@
       <name>Personality Trait</name>
       <text>Choose or randomly determine</text>
       <text />
-      <text> </text>
-      <text>1. My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. </text>
-      <text> </text>
-      <text>2. The common folk love me for my kindness and generosity. </text>
-      <text> </text>
-      <text>3. No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses. </text>
-      <text> </text>
-      <text>4. I take great pains to always look my best and follow the latest fashions. </text>
-      <text> </text>
-      <text>5. I don&apos;t like to get my hands dirty, and I won&apos;t be caught dead in unsuitable accommodations. </text>
-      <text> </text>
-      <text>6. Despite my noble birth, I do not place myself above other folk. We all have the same blood. </text>
-      <text> </text>
-      <text>7. My favor, once lost, is lost forever. </text>
-      <text> </text>
+      <text></text>
+      <text>1. My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.</text>
+      <text></text>
+      <text>2. The common folk love me for my kindness and generosity.</text>
+      <text></text>
+      <text>3. No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.</text>
+      <text></text>
+      <text>4. I take great pains to always look my best and follow the latest fashions.</text>
+      <text></text>
+      <text>5. I don&apos;t like to get my hands dirty, and I won&apos;t be caught dead in unsuitable accommodations.</text>
+      <text></text>
+      <text>6. Despite my noble birth, I do not place myself above other folk. We all have the same blood.</text>
+      <text></text>
+      <text>7. My favor, once lost, is lost forever.</text>
+      <text></text>
       <text>8. If you do me an injury, I will crush you, ruin your name, and salt your fields.</text>
     </trait>
     <trait>
       <name>Ideal</name>
       <text>Choose or randomly determine</text>
       <text />
-      <text> </text>
-      <text>1. Respect: Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good). </text>
-      <text> </text>
-      <text>2. Responsibility: It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful). </text>
-      <text> </text>
-      <text>3. Independence: I must prove that I can handle myself without the coddling of my family. (Chaotic). </text>
-      <text> </text>
-      <text>4. Power: If I can attain more power, no one will tell me what to do. (Evil). </text>
-      <text> </text>
-      <text>5. Family: Blood runs thicker than water. (Any). </text>
-      <text> </text>
+      <text></text>
+      <text>1. Respect: Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good).</text>
+      <text></text>
+      <text>2. Responsibility: It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful).</text>
+      <text></text>
+      <text>3. Independence: I must prove that I can handle myself without the coddling of my family. (Chaotic).</text>
+      <text></text>
+      <text>4. Power: If I can attain more power, no one will tell me what to do. (Evil).</text>
+      <text></text>
+      <text>5. Family: Blood runs thicker than water. (Any).</text>
+      <text></text>
       <text>6. Noble Obligation: It is my duty to protect and care for the people beneath me. (Good).</text>
     </trait>
     <trait>
       <name>Bond</name>
       <text>Choose or randomly determine</text>
       <text />
-      <text> </text>
-      <text>1. I will face any challenge to win the approval of my family. </text>
-      <text> </text>
-      <text>2. My house&apos;s alliance with another noble family must be sustained at all costs. </text>
-      <text> </text>
-      <text>3. Nothing is more important than the other members of my family. </text>
-      <text> </text>
-      <text>4. I am in love with the heir of a family that my family despises. </text>
-      <text> </text>
-      <text>5. My loyalty to my sovereign is unwavering. </text>
-      <text> </text>
+      <text></text>
+      <text>1. I will face any challenge to win the approval of my family.</text>
+      <text></text>
+      <text>2. My house&apos;s alliance with another noble family must be sustained at all costs.</text>
+      <text></text>
+      <text>3. Nothing is more important than the other members of my family.</text>
+      <text></text>
+      <text>4. I am in love with the heir of a family that my family despises.</text>
+      <text></text>
+      <text>5. My loyalty to my sovereign is unwavering.</text>
+      <text></text>
       <text>6. The common folk must see me as a hero of the people.</text>
     </trait>
     <trait>
       <name>Flaw</name>
       <text>Choose or randomly determine</text>
       <text />
-      <text> </text>
-      <text>1. I secretly believe that everyone is beneath me. </text>
-      <text> </text>
-      <text>2. I hide a truly scandalous secret that could ruin my family forever. </text>
-      <text> </text>
-      <text>3. I too often hear veiled insults and threats in every word addressed to me, and I&apos;m quick to anger. </text>
-      <text> </text>
-      <text>4. I have an insatiable desire for carnal pleasures. </text>
-      <text> </text>
-      <text>5. In fact, the world does revolve around me. </text>
-      <text> </text>
+      <text></text>
+      <text>1. I secretly believe that everyone is beneath me.</text>
+      <text></text>
+      <text>2. I hide a truly scandalous secret that could ruin my family forever.</text>
+      <text></text>
+      <text>3. I too often hear veiled insults and threats in every word addressed to me, and I&apos;m quick to anger.</text>
+      <text></text>
+      <text>4. I have an insatiable desire for carnal pleasures.</text>
+      <text></text>
+      <text>5. In fact, the world does revolve around me.</text>
+      <text></text>
       <text>6. By my words and actions, I often bring shame to my family.</text>
     </trait>
   </background>
@@ -2111,13 +2111,13 @@
     <trait>
       <name>House of Mere Renown</name>
       <text>As a member of House of Mere, you start with 10 renown within the House of Mere.</text>
-      <text> </text>
+      <text></text>
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
       <name>The Watchers Renown</name>
       <text>As a member of The Watchers, you start with 10 renown within The Watchers.</text>
-      <text> </text>
+      <text></text>
       <text>Source: World of Koreth, OneNote</text>
     </trait>
     <trait>
@@ -2125,15 +2125,15 @@
       <text>Choose or randomly determine</text>
       <text />
       <text />
-      <text>1.I am always polite and respectful. I let my actions speak for themselves </text>
+      <text>1.I am always polite and respectful. I let my actions speak for themselves</text>
       <text />
       <text>3.I am haunted by my past having seen the murder of a close friend or family member and it is the one case I always needed to solve but have not been able to.</text>
       <text />
-      <text>4.I am quick to judge and slow to vindicate </text>
+      <text>4.I am quick to judge and slow to vindicate</text>
       <text />
       <text>5.I can be very persuasive and am able to ask questions where others might not be able to.</text>
       <text />
-      <text>6.I have a quirky personality that seems to take others off their guard. </text>
+      <text>6.I have a quirky personality that seems to take others off their guard.</text>
       <text />
       <text>7.My sense of humor is considered by most to be awkward</text>
       <text />
@@ -2146,11 +2146,11 @@
       <text />
       <text>1.Hope: my job is to speak for the victim (good)</text>
       <text />
-      <text>2.Dedicated: Once I start an investigation, until told to do so, I do not quit, not matter where it leads. (Lawful) </text>
+      <text>2.Dedicated: Once I start an investigation, until told to do so, I do not quit, not matter where it leads. (Lawful)</text>
       <text />
       <text>3.Nation: My city, nation, or people are all that matter (any)</text>
       <text />
-      <text>4.Mercenary: When I do investigations, I expect answers immediately (Any) </text>
+      <text>4.Mercenary: When I do investigations, I expect answers immediately (Any)</text>
       <text />
       <text>5.Eloquent: I use my words to sway others to give me answers. (good)</text>
       <text />
@@ -2163,11 +2163,11 @@
       <text />
       <text>1.To this day an unsolved case will always leave me haunted and bother me.</text>
       <text />
-      <text>2.Through the might of my personality I will solve an investigation or puzzle </text>
+      <text>2.Through the might of my personality I will solve an investigation or puzzle</text>
       <text />
       <text>3.It is my right to believe what I will, just try and stop me.</text>
       <text />
-      <text>4.I need to prove my worth to my fellow sheriffs. </text>
+      <text>4.I need to prove my worth to my fellow sheriffs.</text>
       <text />
       <text>5.Someone I cared for died under suspicious circumstances. I will find out what happened to them and bring their killer to justice.</text>
       <text />
@@ -2180,11 +2180,11 @@
       <text />
       <text>1.I always over exaggerate my abilities.</text>
       <text />
-      <text>2.I cannot bear to let those I care for out of my sight. </text>
+      <text>2.I cannot bear to let those I care for out of my sight.</text>
       <text />
       <text>3.I took a bribe to tank an investigation and I would do anything to keep it secret.</text>
       <text />
-      <text>4.I have little respect for those that are of “low” intelligence/race. </text>
+      <text>4.I have little respect for those that are of “low” intelligence/race.</text>
       <text />
       <text>5.I always enjoy a good mug of ale ... or five to cover up my past.</text>
       <text />
