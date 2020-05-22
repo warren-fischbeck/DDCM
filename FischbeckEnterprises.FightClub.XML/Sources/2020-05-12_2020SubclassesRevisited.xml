@@ -538,4 +538,121 @@
 	<name>Cone Of Cold</name>
 	<classes>Warlock (Genie - Marid)</classes>
   </spell>
+  <spell>
+    <name>Intellect Fortress</name>
+    <classes>Bard,Sorcerer, Wizard</classes>
+    <level>4</level>
+    <ritual>NO</ritual>
+    <text>For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as advantage on Intelligence, Wisdom, and Charisma saving throws.</text>
+    <text />
+    <text>At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them</text> 
+	<text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+    <components>V</components>
+    <duration>Concentration, up to 1 hour</duration>
+    <range>30 feet</range>
+    <time>1 action</time>
+    <school>A</school>
+  </spell> 
+  <spell>
+    <name>Mind Sliver</name>
+    <classes>Sorcerer, Warlock, Wizard</classes>
+    <level>0</level>
+    <ritual>NO</ritual>
+    <text>You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must make an Intelligence saving throw. Unless the saving throw is successful, the target takes 1d6 psychic damage, and the first time it makes a saving throw before the end of your next turn, it must roll a d4 and subtract the number rolled from the save.</text>
+	<text>This spell’s damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
+    <text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+    <components>V</components>
+    <duration>1 round</duration>
+    <range>60 feet</range>
+    <time>1 action</time>
+    <school>E</school>
+  </spell> 
+  <spell>
+    <name>Mind Thrust</name>
+    <classes>Sorcerer, Warlock, Wizard</classes>
+    <level>2</level>
+    <ritual>NO</ritual>
+    <text>You thrust a lance of psychic disruption into the mind of one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can’t take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell’s other effects.</text> 
+	<text>At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them. </text>
+    <text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+    <components>V</components>
+    <duration>1 round</duration>
+    <range>90 feet</range>
+    <time>1 action</time>
+    <school>E</school>
+  </spell> 
+  
+  <feat>
+    <name>Metabolic Control</name>
+    <prerequisite>Prerequisite: Psionic Talent feature or Wild Talent feat</prerequisite>
+    <text>Prerequisite: Psionic Talent feature or Wild Talent feat </text>
+	<text />
+	<text>You have refined psionic control over your body’s functions. You gain the following benefits:</text> 
+	<text>• Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20. </text>
+	<text>• If your Psionic Talent die is available, you can take an action to channel your psionic power to nourish yourself for the next 24 hours, as if you consumed sufficient food and water for a day. When you take this action, your Psionic Talent die decreases by one die size.</text> 
+	<text>• If your Psionic Talent die is available, you can meditate for 1 minute, at the end of which you gain the benefits of finishing a short rest, and your Psionic Talent die decreases by one die size. You can’t meditate in this way again until you finish a long rest.</text>
+    <text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+  </feat>  
+  <feat>
+    <name>Telekinetic</name>
+    <prerequisite>Prerequisite: Psionic Talent feature or Wild Talent feat</prerequisite>
+    <text>Prerequisite: Psionic Talent feature or Wild Talent feat </text>
+	<text />
+	<text>You learn to move things with your mind. You gain the following benefits: </text>
+	<text>• Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.  </text>
+	<text>• You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.  </text>
+	<text>• As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, roll your Psionic Talent die, and the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved toward you or away from you a number of feet equal to 5 times the number you rolled. A creature can willingly fail this save. </text>
+    <text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+  </feat>  
+  <feat>
+    <name>Telepathic</name>
+    <prerequisite>Prerequisite: Psionic Talent feature or Wild Talent feat</prerequisite>
+    <text>Prerequisite: Psionic Talent feature or Wild Talent feat </text>
+	<text />
+	<text>You awaken the ability to mentally connect with others. You gain the following benefits: </text>
+	<text>• Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</text> 
+	<text>• You can speak telepathically to any creature you can see within 30 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically. </text>
+	<text>• If your Psionic Talent die is available, you can cast the detect thoughts spell, requiring no components. When you start casting the spell, your Psionic Talent die decreases by one die size. Your spellcasting ability for the spell is the ability increased by this feat.</text>
+    <text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+  </feat>  
+  <feat>
+    <name>Tower of Iron Will</name>
+    <prerequisite>Prerequisite: Psionic Talent feature or Wild Talent feat</prerequisite>
+    <text>Prerequisite: Psionic Talent feature or Wild Talent feat </text>
+	<text />
+	<text>Your mind’s defenses are formidable. After you or another creature you can see within 30 feet of you fails a saving throw, you can use your reaction to roll your Psionic Talent die and add the number rolled to the saving throw, potentially causing it to succeed.</text>
+    <text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+  </feat>  
+  <feat>
+    <name>Wild Talent</name>
+	<text>You awaken to your psionic potential, which enhances your mind or body. Increase one ability score of your choice by 1, to a maximum of 20, to represent this enhancement. 
+	You also harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6. </text>
+	<text />
+	<text>Psionic Talent Options</text>
+	<text>You can use your Psionic Talent die in the following ways: </text>
+	<text />
+	<text>Psi-Boosted Ability</text>
+	<text>When you make an ability check with the ability increased by this feat, you can roll your Psionic Talent die and add the number rolled to the check. You can choose to do so before or after rolling the d20, but before you know whether the check succeeded or failed. </text>
+	<text />
+	<text>Psi-Guided Strike</text>
+	<text>Once on each of your turns when you hit with an attack roll that uses the ability increased by this feat, you can roll your Psionic Talent die after you make the damage roll and then replace one of the damage dice with the number rolled on the Psionic Talent die. </text>
+	<text />
+	<text>Changing the Die’s Size</text>
+	<text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest. </text>
+	<text>Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6. </text>
+	<text>Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12). </text>
+	<text>If you have a Psionic Talent die from another source, such as a class feature, you don’t get more than one die; use only the one with the largest starting size.</text> 
+	<text />
+	<text>Psi Replenishment</text>
+	<text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.</text>
+	<text />
+    <text>Source: Unearthed Arcana: Psionic Options</text>
+  </feat>  
 </compendium>
