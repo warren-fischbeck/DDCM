@@ -7,7 +7,7 @@
       <feature optional="YES">
         <name>Martial Archetype: Psi Knight (UA)</name>
         <text>Awake to the psionic power within, a Psi Knight is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such knights, as do some of the most disciplined high elves. In the world of Athas, renowned gladiators in the arenas of the Sorcerer-Kings are often Psi Knights, and in Eberron, the psionic kalashtar view membership in this knighthood as a special honor. </text>
-		<text>As a Psi Knight, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind’s power as both weapon and shield.</text>
+		<text>As a Psi Knight, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind&#39;s power as both weapon and shield.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -16,21 +16,28 @@
       <feature optional="YES">
         <name>Martial Archetype: Psi Knight (UA): Psionic Talent (Psi Knight (UA))</name>
         <text>3rd-level Psi Knight feature</text>
+        <text />
         <text>You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6. </text>
+        <text />
 		<text>Psionic Talent Options</text>
 		<text>You can use your Psionic Talent die in the following ways: </text>
+        <text />
 		<text>Protective Field</text>
 		<text>When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to roll your Psionic Talent die and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force. </text>
+        <text />
 		<text>Psi-Powered Leap</text>
 		<text>When you make a high or long jump, you can roll your Psionic Talent die and extend the distance of the jump, up to a number of feet equal to twice the number rolled plus twice your Intelligence modifier (minimum of 1 extra foot). This extra distance costs you only 1 foot of movement. </text>
+        <text />
 		<text>Telekinetic Strike</text>
 		<text>You can propel your attacks with telekinetic force. Once on each of your turns, immediately after you deal damage to a target within 30 feet of you with a weapon attack, you can roll your Psionic Talent die and also deal force damage to the target equal to the number rolled. </text>
-		<text>Changing the Die’s Size</text>
-		<text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest. </text>
+        <text />
+		<text>Changing the Die&#39;s Size</text>
+		<text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it&#39;s a d4 and you roll a 4, it becomes unusable until you finish a long rest. </text>
 		<text>Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6.</text>
 		<text>Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12). </text>
+        <text />
 		<text>Psi Replenishment</text>
-		<text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest. </text>
+		<text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can&#39;t use Psi Replenishment again until you finish a long rest. </text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -39,9 +46,12 @@
       <feature optional="YES">
         <name>Martial Archetype: Psi Knight (UA): Telekinetic Adept (Psi Knight (UA))</name>
         <text>7th-level Psi Knight feature</text>
+        <text />
         <text>You have mastered new ways to use your telekinesis: </text>
+        <text />
 		<text>Psionic Thrust</text>
-		<text>When you deal damage to a target with the Telekinetic Strike of your Psionic Talent, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. Unless the save succeeds, you can knock the target prone or move it up to 10 feet in any direction horizontally. 
+		<text>When you deal damage to a target with the Telekinetic Strike of your Psionic Talent, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. Unless the save succeeds, you can knock the target prone or move it up to 10 feet in any direction horizontally. </text>
+        <text />
 		<text>Telekinetic Movement</text>
 		<text>If your Psionic Talent die is available, you can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. When you take this action, your Psionic Talent die decreases by one die size.</text>
         <text />
@@ -52,6 +62,7 @@
       <feature optional="YES">
         <name>Martial Archetype: Psi Knight (UA): Psi-Enhanced Metabolism (Psi Knight (UA))</name>
         <text>10th-level Psi Knight feature</text>
+        <text />
         <text>The psionic energy flowing through you has bolstered your mind and body. You have resistance to poison and psychic damage, and you are immune to the poisoned condition.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -61,8 +72,9 @@
       <feature optional="YES">
         <name>Martial Archetype: Psi Knight (UA): Bulwark of Force (Psi Knight (UA))</name>
         <text>15th-level Psi Knight feature</text>
-        <text>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you’re incapacitated. </text>
-		<text>Once you use this feature, you can’t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text />
+        <text>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you&#39;re incapacitated. </text>
+		<text>Once you use this feature, you can&#39;t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -71,6 +83,7 @@
       <feature optional="YES">
         <name>Martial Archetype: Psi Knight (UA): Telekinetic Master (Psi Knight (UA))</name>
         <text>18th-level Psi Knight feature</text>
+        <text />
         <text>Your ability to move creatures and objects with your mind is matched by few. If your Psionic Talent die is available, you can cast the telekinesis spell, requiring no components. Your spellcasting ability for the spell is Intelligence. When you cast this spell, your Psionic Talent die decreases by one die size.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -94,6 +107,7 @@
       <feature optional="YES">
         <name>Roguish Archetype: Phantom (UA): Whispers of the Dead (Phantom (UA))</name>
         <text>3rd-level Phantom feature</text>
+        <text />
         <text>Echoes of those who have died begin to cling to you. Whenever you finish a short or long rest, you can gain one skill or tool proficiency of your choice, as a ghostly presence shares its knowledge with you. This proficiency lasts until you use this feature again.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -103,6 +117,7 @@
       <feature optional="YES">
         <name>Roguish Archetype: Phantom (UA): Wails from the Grave (Phantom (UA))</name>
         <text>3rd-level Phantom feature</text>
+        <text />
         <text>As you nudge someone closer to the grave, you can cause deathly wails to be heard near them. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes psychic damage equal to the roll&#39;s total, as wails of the dead sound around them for a moment.</text>
 		<text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
         <text />
@@ -113,6 +128,7 @@
       <feature optional="YES">
         <name>Roguish Archetype: Phantom (UA): Tokens of the Departed (Phantom (UA))</name>
         <text>9th-level Phantom feature</text>
+        <text />
         <text>When a life ends in your presence, you&#39;re able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you open your free hand and a Tiny trinket appears there, a soul trinket. The DM chooses the trinket&#39;s form or has you roll on the Trinkets table in the Player&#39;s Handbook to determine it.</text> 
 		<text>While the soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, as your vitality is enhanced by the life essence within the object. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can&#39;t create one while at your maximum.</text>
 		<text>As an action, you can destroy one of your soul trinkets, no matter where it&#39;s located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It&#39;s under no obligation to be truthful, and it answers as concisely as possible, eager to be free.</text>
@@ -122,7 +138,6 @@
         <text>2 | You gain one skill or tool proficiency of your choice.</text>
         <text>3 | You gain proficiency with one saving throw of your choice.</text>
         <text />
-        <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
     </autolevel>
@@ -130,6 +145,7 @@
       <feature optional="YES">
         <name>Roguish Archetype: Phantom (UA): Ghost Walk (Phantom (UA))</name>
         <text>13th-level Phantom feature</text>
+        <text />
         <text>You can now phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.</text>
 		<text>You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.</text>
         <text />
@@ -140,6 +156,7 @@
       <feature optional="YES">
         <name>Roguish Archetype: Phantom (UA): Death Knell (Phantom (UA))</name>
         <text>17th-level Phantom feature</text>
+        <text />
         <text>When you use your Wails from the Grave feature, you can now deal the psychic damage to both the first and the second creature.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -153,8 +170,8 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA)</name>
-        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves’ tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves’ guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy. </text>
-		<text>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King’s rule. </text>
+        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves&#39; tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves&#39; guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy. </text>
+		<text>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King&#39;s rule. </text>
 		<text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psionic adepts and spent years learning how to manifest your power.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -164,19 +181,25 @@
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA): Psionic Talent (Soulknife (UA))</name>
         <text>3rd-level Soulknife feature</text>
+        <text />
         <text>You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6. </text>
+        <text />
 		<text>Psionic Talent Options</text>
 		<text>You can use your Psionic Talent die in the following ways: </text>
+        <text />
 		<text>Psi-Bolstered Knack</text>
 		<text>When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success. </text>
+        <text />
 		<text>Psychic Whispers</text>
-		<text>You can use your psychic abilities to establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other. </text>
-		<text>Changing the Die’s Size</text>
-		<text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest. </text>
+		<text>You can use your psychic abilities to establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can&#39;t use this telepathy if it can&#39;t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don&#39;t need to speak a common language to understand each other. </text>
+        <text />
+		<text>Changing the Die&#39;s Size</text>
+		<text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it&#39;s a d4 and you roll a 4, it becomes unusable until you finish a long rest. </text>
 		<text>Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6. </text>
 		<text>Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12). </text>
+        <text />
 		<text>Psi Replenishment</text>
-		<text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.</text>
+		<text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can&#39;t use Psi Replenishment again until you finish a long rest.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -185,6 +208,7 @@
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA): Psychic Blades (Soulknife (UA))</name>
         <text>3rd-level Soulknife feature</text>
+        <text />
         <text>You can manifest your psionic power as shimmering blades of psychic energy. When you are about to make a melee or ranged weapon attack against a creature, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. </text>
 		<text>After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.</text>
         <text />
@@ -195,9 +219,12 @@
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA): Soul Blades (Soulknife (UA))</name>
         <text>9th-level Soulknife feature</text>
+        <text />
         <text>Your Psychic Blades are now an expression of your psi-suffused soul, giving you finer control over them in the following ways: </text>
+        <text />
 		<text>Homing Strikes</text>
 		<text>If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.</text> 
+        <text />
 		<text>Psychic Teleportation</text>
 		<text>If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.</text>
         <text />
@@ -208,8 +235,9 @@
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA): Psychic Veil (Soulknife (UA))</name>
         <text>13th-level Soulknife feature</text>
+        <text />
         <text>You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes or until you dismiss this effect (no action required). This invisibility ends if you deal damage to a creature or if you force a creature to make a saving throw. </text>
-		<text>Once you use this feature, you can’t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+		<text>Once you use this feature, you can&#39;t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -218,8 +246,9 @@
       <feature optional="YES">
         <name>Roguish Archetype: Soulknife (UA): Rend Mind (Soulknife (UA))</name>
         <text>17th-level Soulknife feature</text>
-        <text>You can sweep your Psychic Blades directly through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.</text> 
-		<text>Once you use this feature, you can’t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text />
+        <text>You can sweep your Psychic Blades directly through a creature&#39;s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.</text> 
+		<text>Once you use this feature, you can&#39;t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
@@ -248,6 +277,7 @@
       <feature optional="YES">
         <name>Otherworldly Patron: The Genie (UA): Expanded Spell List (The Genie (UA))</name>
         <text>1st-level Genie feature</text>
+        <text />
         <text>The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron&#39;s kind: dao, djinni, efreeti, or marid.</text>
         <text />
         <text>Spell Level | Genie Spells          | Dao Spells      | Djinni Spells       | Efreeti Spells| Marid Spells</text>
@@ -265,6 +295,7 @@
       <feature optional="YES">
         <name>Otherworldly Patron: The Genie (UA): Genie&#39;s Vessel (The Genie (UA))</name>
         <text>1st-level Genie feature</text>
+        <text />
         <text>Your patron gifts you a magical vessel that grants you a measure of the genie&#39;s power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie&#39;s Vessel table</text>
         <text />
         <text>d6 | Vessel</text>
@@ -276,6 +307,7 @@
         <text>6 | Ornate lantern</text>
         <text />
         <text>While you are touching the vessel, you can use it in the following ways:</text>
+        <text />
 		<text>Bottled Respite</text>
 		<text>As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is comfortably appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel&#39;s former space. Once you enter the vessel, you can&#39;t enter again until you finish a long rest.</text> 
 		<text />
@@ -290,6 +322,7 @@
       <feature optional="YES">
         <name>Otherworldly Patron: The Genie (UA): Elemental Gift (The Genie (UA))</name>
         <text>6th-level Genie feature</text>
+        <text />
         <text>You begin to take on characteristics of your patron&#39;s kind. You now have resistance to a damage type determined by your patron&#39;s kind: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</text>
 		<text>In addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
         <text />
@@ -300,6 +333,7 @@
       <feature optional="YES">
         <name>Otherworldly Patron: The Genie (UA): Sanctuary Vessel (The Genie (UA))</name>
         <text>10th-level Genie feature</text>
+        <text />
         <text>When you enter your Genie&#39;s Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.</text>
 		<text>As a bonus action, you can eject any number of creatures from the vessel, and everyone is ejected if you leave or the vessel is destroyed.</text> 
 		<text>In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.</text>
@@ -311,6 +345,7 @@
       <feature optional="YES">
         <name>Otherworldly Patron: The Genie (UA): Limited Wish (The Genie (UA))</name>
         <text>14th-level Genie feature</text>
+        <text />
         <text>You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie&#39;s Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class&#39;s spell list, and you don&#39;t need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.</text>
 		<text>Once you use this feature, you can&#39;t use it again until you finish 1d4 long rests.</text>
         <text />
@@ -338,6 +373,7 @@
 		<text>&#183; The quill doesn&#39;t require ink. When you write with it, it produces ink in a color of your choice on the writing surface.</text>
 		<text>&#183; The gold and time you must spend to copy a spell into your spellbook are halved if you use the quill for the transcription.</text>
 		<text>&#183; You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.</text>
+        <text />
 		<text>This quill disappears if you create another one or if you die.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -347,11 +383,13 @@
       <feature optional="YES">
         <name>Arcane Tradition: Order of Scribes (UA): Awakened Spellbook (Order of Scribes (UA))</name>
         <text>2nd-level Order of Scribes feature</text>
+        <text />
         <text>Using specially prepared inks and ancient incantations passed down by your wizardly order, you have awakened an arcane sentience within your spellbook.</text>
 		<text>While you are holding the book, it grants you the following benefits:</text>
 		<text>&#183; You can use the book as a spellcasting focus for your wizard spells.</text>
 		<text>&#183; When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with the damage type of another spell in your spellbook, as your spellbook magically alters the spell&#39;s formula for this casting.</text>
 		<text>&#183; When you cast a wizard spell as a ritual, you can use the spell&#39;s normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can&#39;t do so again until you finish a long rest.</text>
+        <text />
 		<text>If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you&#39;re attuned. At the end of the rest, your spellbook&#39;s consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.</text>
         <text />
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
@@ -361,6 +399,7 @@
       <feature optional="YES">
         <name>Arcane Tradition: Order of Scribes (UA): Master Scrivener (Order of Scribes (UA))</name>
         <text>6th-level Order of Scribes feature</text>
+        <text />
         <text>Whenever you finish a long rest, you can create one magic scroll by touching your Wizardly Quill to a blank piece of paper or parchment and causing one spell from your Awakened Spellbook to be copied onto the scroll. The spellbook must be within 5 feet of you when you make the scroll.</text> 
 		<text>The chosen spell must be of 1st or 2nd level and must have a casting time of 1 action. Once in the scroll, the spell&#39;s power is enhanced, counting as one level higher than normal. You can cast the spell from the scroll by reading it as an action. The scroll is unintelligible to anyone else, and the spell vanishes from the scroll when you cast it or when you finish your next long rest.</text>
 		<text>You are also adept at crafting spell scrolls, which are described in chapter 7 of the Dungeon Master&#39;s Guide. The gold and time you must spend to make such a scroll are halved if you use your Wizardly Quill.</text>
@@ -372,6 +411,7 @@
       <feature optional="YES">
         <name>Arcane Tradition: Order of Scribes (UA): Manifest Mind (Order of Scribes (UA))</name>
         <text>10th-level Order of Scribes feature</text>
+        <text />
         <text>You are now able to conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral construct, hovering in an unoccupied space of your choice within 60 feet of you. This presence is intangible and doesn&#39;t occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice). The spectral mind has a number of hit points equal to your wizard level plus your Intelligence modifier, and it uses your Armor Class and saving throw modifiers.</text>
 		<text>While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet. As an action, you can hear and see using the its senses, instead of your own, until your concentration ends (as if concentrating on a spell).</text>
 		<text>Whenever you cast a wizard spell on your turn, you can cast it as if you were in the spectral mind&#39;s space, instead of your own, using its senses. You can do so a number of times per day equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
@@ -384,6 +424,7 @@
       <feature optional="YES">
         <name>Arcane Tradition: Order of Scribes (UA): One with the Word (Order of Scribes (UA))</name>
         <text>14th-level Order of Scribes feature</text>
+        <text />
         <text>Your connection to your Awakened Spellbook has become so profound that your soul has become entwined with it. While you are holding the book and its spectral mind is manifest, you can take an action to cause the two of you to teleport, swapping places. You can teleport in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
 		<text>Moreover, if you die but at least one spell remains in your Awakened Spellbook, you can return to life 1 minute later within 5 feet of the book. You revive with 1 hit point. Then roll 3d6. The book loses spells of your choice that have a combined spell level equal to that roll or higher. For example, if the roll&#39;s total is 9, spells vanish from the book that have a combined level of at least 9, which could mean one 9th-level spell, three 3rd-level spells, or some other combination.</text>
 		<text>Thereafter, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. The only way to restore your ability to cast one of the lost spells is through the wish spell, which can restore one spell to the book per casting.</text>
@@ -392,8 +433,6 @@
       </feature>
     </autolevel>
   </class>
-
-
   
   <spell>
 	<name>detect evil and good</name>
