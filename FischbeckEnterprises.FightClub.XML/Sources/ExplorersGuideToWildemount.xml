@@ -91,7 +91,7 @@
       This volatile alchemical powder comes in a small pouch. When ignited by an open flame or a fuse, the powder explodes. Each creature within 5 feet of the exploding pouch must make a DC 13 Dexterity saving throw, taking 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
       A character can bind multiple pouches of blasting powder together so they explode at the same time. Each additional pouch increases the damage by 1d6 (maximum of 10d6) and the blast radius by 5 feet (maximum of 20 feet).
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
     <roll>3d6</roll>
     <roll>1d6</roll>
     <roll>10d6</roll>
@@ -105,7 +105,7 @@
     <text>
       This bitter chartreuse concoction is distilled from a fungus native to the Blightshore badlands. The sickly green liqueur harbors potent psychedelic properties. Provided it is neither a construct nor undead, a creature subjected to a dose of blight ichor gains advantage on Intelligence and Wisdom checks, as well as vulnerability to psychic damage, for 1 hour. For each dose of blight ichor consumed, the creature must succeed on a DC 15 Constitution saving throw or become poisoned for 1d6 hours and suffer the effects of a confusion spell for 1 minute. An undead creature subjected to a dose of blight ichor gains advantage on all Dexterity checks and is immune to the frightened condition for 1 hour.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
     <roll>1d6</roll>
   </item>
   <item>
@@ -121,7 +121,7 @@
       You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra 1d6 necrotic damage to creatures that aren&#39;t constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.
       This axe is forged from a dark, rust-colored metal and once belonged to the goliath barbarian Grog Strongjaw of Vox Machina.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d6</roll>
   </item>
   <item>
@@ -134,7 +134,7 @@
       This translucent, bubble-like sphere has a slightly tacky outer surface, and you gain the item&#39;s benefits only while wearing it over your head like a helmet.
       The bubble contains 1 hour of breathable air. The bubble regains all its expended air daily at dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
   </item>
   <item>
     <name>Brooch of Living Essence</name>
@@ -145,7 +145,7 @@
     <text>
       While wearing this nondescript brooch, spells and anything else that would detect or reveal your creature type treat you as humanoid, and those that would reveal your alignment treat it as neutral.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
   </item>
   <item>
     <name>Butcher&#39;s Bib</name>
@@ -158,7 +158,7 @@
       &#183; Once per turn when you roll damage for a melee attack with a weapon, you can reroll the weapon&#39;s damage dice. If you do so, you must use the second total.
       &#183; Your weapon attacks that deal slashing damage score a critical hit on a roll of 19 or 20 on the d20.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
   </item>
   <item>
     <name>Coin of Delving</name>
@@ -169,7 +169,7 @@
     <text>
       This scintillating copper coin sheds dim light in a 5-foot radius. If dropped a distance greater than 5 feet, the coin issues a melodious ringing sound when it hits a surface. Any creature that can hear the chime can determine the distance the coin dropped based on the tone.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
   </item>
   <item>
     <name>Danoth&#39;s Visor</name>
@@ -188,7 +188,7 @@
       &#183; You automatically detect illusions you can see and automatically succeed on saving throws against them. In addition, you see a bright aura around any creature that isn&#39;t in its true form.
       &#183; As an action, you can cast the antimagic field spell from the visor. This property can&#39;t be used again until the next dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Dispelling Stone</name>
@@ -199,7 +199,7 @@
     <text>
       This smooth, rainbow-colored, egg-shaped stone can be thrown up to 30 feet and explodes in a 10-foot-radius sphere of magical energy on impact, destroying the stone. Any active spell of 5th level or lower in the sphere ends.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
   </item>
   <item>
     <name>Duskcrusher</name>
@@ -216,7 +216,7 @@
       While the radiant head is active, you gain a +2 bonus to attack and damage rolls made with this magic weapon, and attacks with the weapon deal radiant damage instead of bludgeoning damage. An undead creature hit by the weapon takes an extra 1d8 radiant damage.
       While you are holding Duskcrusher and its radiant head is active, you can use an action to cast the sunbeam spell (save DC 15) from the weapon, and this action can&#39;t be used again until the next dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -228,7 +228,7 @@
     <text>
       This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater&#39;s senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Ersatz Eye</name>
@@ -239,7 +239,7 @@
     <text>
       This artificial eye replaces a real one that was lost or removed. While the ersatz eye is embedded in your eye socket, it can&#39;t be removed by anyone other than you, and you can see through the tiny orb as though it were a normal eye.
       Source: Xanathar&#39;s Guide to Everything p. 137, Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Explosive Seed</name>
@@ -250,7 +250,7 @@
     <text>
       This acorn-sized sphere of brass contains a small amount of blasting powder and a clockwork trigger. An explosive seed can be thrown up to 30 feet as an action, detonating on impact. Each creature within 5 feet of the exploding seed must make a DC 10 Dexterity saving throw, taking 1d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -263,7 +263,7 @@
       These leather-framed goggles feature purple crystal lenses. While wearing the goggles, you have advantage on Intelligence (Arcana) checks made to reveal information about a creature or object you can see.
       In addition, you can cast the identify spell using the googles. Once you do so, you can&#39;t do so again until the next dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Grimoire Infinitus</name>
@@ -282,7 +282,7 @@
       &#183; You can now use your Arcane Recovery feature twice between long rests, rather than once.
       &#183; When you prepare wizard spells using the grimoire as your spellbook, the number of spells you can prepare increases by 1 again.
       Source: Explorer&#39;s Guide to Wildemount p. 271
-</text>
+    </text>
   </item>
   <item>
     <name>Grovelthrash</name>
@@ -313,7 +313,7 @@
       &#183; As an action, you can use the warhammer to cast one of the following spells from it (save DC 17): earthquake, meld into stone, or stone shape. Once a spell has been cast using the warhammer, that spell can&#39;t be cast from the warhammer again until the next dawn.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 275
-</text>
+    </text>
     <roll>2d6</roll>
     <roll>1d6</roll>
   </item>
@@ -340,7 +340,7 @@
       &#183; While you are transformed by an effect that replaces any of your game statistics with those of another creature, your bonus to melee attack and damage rolls increases by 1 (to +3).
       &#183; When you cast the polymorph spell using this armor, you can transform into a guardian wolf (see the accompanying stat block).
       Source: Explorer&#39;s Guide to Wildemount p. 271
-</text>
+    </text>
   </item>
   <item>
     <name>Hunter&#39;s Coat</name>
@@ -355,7 +355,7 @@
       The coat has 3 charges. When you hit a creature with an attack and that creature doesn&#39;t have all its hit points, you can expend 1 charge to deal an extra 1d10 necrotic damage to the target. The coat regains 1d3 expended charges daily at dawn.
       The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
     <roll>1d10</roll>
     <roll>1d3</roll>
   </item>
@@ -377,7 +377,7 @@
       &#183; As a bonus action, you can touch the key to a floor, wall, or ceiling that is no more than 5 feet thick and cause a magical opening to appear in the surface. When you create the opening, you choose its length and width, up to 10 feet for each dimension. The opening lasts until the key passes through it to the other side, at which point it disappears (if a creature is in the opening when the doorway closes, the creature is safely shunted to the nearest unoccupied space). The key can&#39;t be used to create another opening until the next dawn.
       &#183; While holding the key, you can use an action to cast one of the following spells from it: dimension door, gaseous form, or mislead. Once a spell has been cast using the key, it can&#39;t be used to cast that spell again until the next dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 272
-</text>
+    </text>
   </item>
   <item>
     <name>Lash of Shadows</name>
@@ -409,7 +409,7 @@
       &#183; The weapon gains a new poison option called Cockatrice Tears. A creature that fails the saving throw against this poison begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 276
-</text>
+    </text>
     <roll>3d6</roll>
   </item>
   <item>
@@ -425,7 +425,7 @@
       If the original d20 roll has advantage or disadvantage, the creature rolls its d20 after advantage or disadvantage has been applied to the original roll.
       Soul Snare: If a follower of the Luxon who has undergone a ritual of consecution dies within 100 miles of a Luxon Beacon, their soul is ensnared by it. This soul will be reincarnated within the body of a random humanoid baby developing within 100 miles of the beacon.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Mace of the Black Crown</name>
@@ -456,7 +456,7 @@
       &#183; You have resistance to fire damage while you hold this weapon.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 276
-</text>
+    </text>
     <roll>1d6</roll>
     <roll>2d6</roll>
     <roll>3d6</roll>
@@ -472,7 +472,7 @@
       Beasts of burden are common throughout Xhorhas, and often horses and other riding animals are the best or only option. For those who require speed and have a little more coin to spend, the best option is often a moorbounder. However, moorbounders that haven&#39;t undergone proper training or established bonds of trust with their masters tend to attack and even eat their riders.
       Moorbounders can cost anywhere from 300 to 500 gp each. They&#39;re often cheaper and more abundant in towns on the wastes than in cities like Rosohna.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Muroosa Balm</name>
@@ -484,7 +484,7 @@
       This paste made from the muroosa bush is known to help prevent sunburn, but it is also a fire retardant. After spending 1 minute applying a quarter pint of muroosa balm to your skin, you gain resistance against fire damage for 1 hour.
       A dose of muroosa balm sufficient for treating sunburn costs 1 gp.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Needle of Mending</name>
@@ -500,7 +500,7 @@
       This weapon is a magic dagger disguised as a sewing needle. When you hold it and use a bonus action to speak its command word, it transforms into a dagger or back into a needle.
       You gain a +1 bonus to attack and damage rolls made with the dagger. While holding it, you can use an action to cast the mending cantrip from it.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Nightfall Pearl</name>
@@ -511,7 +511,7 @@
     <text>
       Used to summon night, this 6-inch-diameter, jet-black orb is cold to the touch. You can spend 10 minutes to activate it, causing the area within 10 miles of it at the moment of activation to become night even if it is daytime. This night lasts for 24 hours, until you cancel it as an action, or until your attunement to the pearl ends. Once used, the pearl can&#39;t be used again for 24 hours.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Olisuba Leaf</name>
@@ -522,7 +522,7 @@
     <text>
       These dried leaves of the Olisuba tree, when steeped to make a tea, can help a body recover from strenuous activity. If you drink a dose of Olisuba tea during a long rest, your exhaustion level is reduced by 2 instead of 1 at the end of that long rest.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Orb of the Veil</name>
@@ -537,7 +537,7 @@
       &#183; You have advantage on Wisdom checks to find hidden doors and paths.
       Curse: The orb is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the orb, keeping it on your person at all times. All nonmagical flames within 30 feet of you automatically extinguish, and fire damage dealt by you is halved.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Potion of Maximum Power</name>
@@ -549,7 +549,7 @@
       The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.
       This glowing purple liquid smells of sugar and plum, but it has a muddy taste.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Potion of Possibility</name>
@@ -563,7 +563,7 @@
       If the original d20 roll has advantage or disadvantage, you roll your d20 after advantage or disadvantage has been applied to the original roll.
       While you have one or more Fragments of Possibility from this potion, you can&#39;t gain another Fragment of Possibility from any source.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Pride Silk</name>
@@ -574,7 +574,7 @@
     <text>
       The hearty silk unique to the region has long been a point of pride with the locals. When processed and woven properly, the resulting cloth is pride silk: an extremely flexible material with the durability of tanned leather. Pride silk has become a favorite cloth for use on military ship sails, war banners, and other utilitarian applications, but has also gained popularity in affluent circles. High-end clothing made from pride silk is both fashionable and protective, leading many nobles and wealthy merchants to seek full outfits and formal gowns made with it. The tailors skilled enough to create such outfits are few and far between, so while pride silk might be expensive as a raw material, outfits made of the cloth are prohibitively expensive for most common folk.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Pride Silk Outfit</name>
@@ -585,7 +585,7 @@
     <text>
       An outfit made of pride silk weighs 4 pounds and costs 500 gp. If you aren&#39;t wearing armor, your base Armor Class is 11 + your Dexterity modifier while wearing it.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Prosthetic Limb</name>
@@ -597,7 +597,7 @@
       This artificial limb replaces a hand, arm, foot, leg, or similar appendage that was lost or removed. While the prosthetic is attached and attuned to you, it functions identically to the body part it is replacing. You can detach or reattach it as an action, and it can&#39;t be removed by anyone else.
       If you have multiple prosthetic limbs, they count as a single magic item with regard to the number of magic items you can attune to.
       Source: Eberron: Rising from the Last War p. 278, Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Reincarnation Dust</name>
@@ -608,7 +608,7 @@
     <text>
       When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the reincarnate spell had been cast on the remains.
       Source: Explorer&#39;s Guide to Wildemount p. 268
-</text>
+    </text>
   </item>
   <item>
     <name>Ring of Obscuring</name>
@@ -619,7 +619,7 @@
     <text>
       This band of iron resembles a skull and is cold to the touch. It has 3 charges and regains 1d3 expended charges daily at dawn. As an action while wearing the ring, you can expend 1 of its charges to cast the fog cloud spell from it, with the following changes: the cloud is centered on you when it first appears, and the spell lasts for 1 minute (no concentration required).
       Source: Explorer&#39;s Guide to Wildemount p. 269
-</text>
+    </text>
     <roll>1d3</roll>
   </item>
   <item>
@@ -631,7 +631,7 @@
     <text>
       If you die while wearing this gray crystal ring, you vanish and reappear in an unoccupied space within 5 feet of the space you left (or the nearest unoccupied space). You have a number of hit points equal to 3d6 + your Constitution modifier. If your hit point maximum is lower than the number of hit points you regain, your hit point maximum rises to a similar amount. If you have any levels of exhaustion, reduce your level of exhaustion by 1. Once the ring is used, it turns to dust and is destroyed.
       Source: Explorer&#39;s Guide to Wildemount p. 269
-</text>
+    </text>
     <roll>3d6</roll>
   </item>
   <item>
@@ -644,7 +644,7 @@
       This adamantine rod is tipped with a glowing crystalline eye. The rod has 3 charges and regains all its expended charges daily at dawn.
       When a creature you can see within 60 feet of you damages you while you are holding this rod, you can use your reaction to expend 1 of the rod&#39;s charges to force the creature to make a DC 13 Dexterity saving throw. The creature takes 2d10 lightning damage on a failed save, or half as much damage on a successful one.
       Source: Explorer&#39;s Guide to Wildemount p. 269
-</text>
+    </text>
     <roll>2d10</roll>
   </item>
   <item>
@@ -676,7 +676,7 @@
       &#183; When you reduce a creature to 0 hit points with an attack from the spear, you can regain hit points equal to the damage you dealt with the attack. This property can&#39;t be used again until the next dawn.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 277
-</text>
+    </text>
     <roll>1d8</roll>
     <roll>2d8</roll>
     <roll>8d6</roll>
@@ -712,7 +712,7 @@
       &#183; While holding the weapon in dim light or darkness, you can use a bonus action to teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. This property can&#39;t be used again until the next dawn.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 277
-</text>
+    </text>
   </item>
   <item>
     <name>Skyship</name>
@@ -732,7 +732,7 @@
       Soothsalts are derived from a naturally occurring crystalline substance discovered throughout the wilds of the Miskath Strand. The crimson crystals have been mined from cavernous veins like those in the mouth of the Miskath Pit and found within smaller geode formations near sites ravaged by the Calamity. Soothsalts are consumed orally in lozenge-sized doses, and frequent users can be identified by the telltale crimson stain around their mouths. A creature subjected to a dose of soothsalts gains advantage on all Intelligence checks for 1d4 hours.
       For each dose of soothsalts consumed, the creature must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion—an effect which is cumulative with multiple doses.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
     <roll>1d4</roll>
   </item>
   <item>
@@ -747,7 +747,7 @@
       While holding the bottle, you can cast the spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The bottle becomes empty once the spell is cast.
       If you&#39;re holding the empty bottle when you see a creature casting a spell within 60 feet of you, you can open the bottle as a reaction in an attempt to interrupt the spell. If the creature is casting a spell of 3rd level or lower, the spell has no effect, and it is stored in the bottle. If it is casting a spell of 4th level or higher, make an Intelligence check. The DC equals 10 + the spell&#39;s level. On a success, the spell has no effect, and it is stored in the bottle.
       Source: Explorer&#39;s Guide to Wildemount p. 269
-</text>
+    </text>
   </item>
   <item>
     <name>Staff of Dunamancy</name>
@@ -763,7 +763,7 @@
       While holding the staff, you can use an action to expend 2 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: fortune&#39;s favor (2 charges), pulse wave (3 charges), or gravity sinkhole (4 charges).
       New Possibility: If you are holding the staff and fail a saving throw against a spell that targets only you, you can turn your failed save into a successful one. This property can&#39;t be used again until the next dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
     <roll>1d6+4</roll>
   </item>
   <item>
@@ -778,7 +778,7 @@
     <text>
       This gray-and-cerulean staff is topped with a small dragon claw carved from ivory. While holding the staff, you gain a +1 bonus to spell attack rolls. Whenever you score a critical hit with a spell attack, the target takes an extra 3d6 radiant damage.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
     <roll>3d6</roll>
   </item>
   <item>
@@ -803,7 +803,7 @@
       &#183; Your Storm Avatar&#39;s lightning strike deals 5d6 lightning damage (instead of 3d6).
       &#183; You can cast the control weather spell from the girdle. This property can&#39;t be used again until the next dawn.
       Source: Explorer&#39;s Guide to Wildemount p. 273
-</text>
+    </text>
     <roll>3d6</roll>
     <roll>4d6</roll>
     <roll>5d6</roll>
@@ -839,7 +839,7 @@
       &#183; When you use your reaction to deal psychic damage to a creature that hits you with a melee attack, the amount of psychic damage increases to 2d6.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 278
-</text>
+    </text>
     <roll>1d6</roll>
     <roll>2d6</roll>
   </item>
@@ -852,7 +852,7 @@
     <text>
       This thick marsh root tastes bitter but is thought to aid digestive health. When you use an action to consume a dose, you gain advantage on saving throws against the effects of poisonous or toxic substances for 8 hours.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Verminshroud</name>
@@ -874,7 +874,7 @@
       &#183; Your teeth become razor-sharp natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. You can make this attack as a bonus action. When you bite a creature and deal damage to it, the creature must succeed on a DC 17 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success.
       &#183; When you cast the polymorph spell using the Verminshroud, you can transform into a giant scorpion.
       Source: Explorer&#39;s Guide to Wildemount p. 273
-</text>
+    </text>
     <roll>1d6</roll>
   </item>
   <item>
@@ -886,7 +886,7 @@
     <text>
       This clockwork device resembles a metal crab the size of a dinner plate. Every action used to wind up the device allows it to operate for 1 minute, to a maximum of 10 minutes. While operational, the item uses the accompanying Vox Seeker stat block. This automaton is under the DM&#39;s control. A vox seeker reduced to 0 hit points is destroyed.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Will of the Talon</name>
@@ -925,7 +925,7 @@
       &#183; The saving throw DC for the war pick&#39;s Frightful Presence property increases to 17.
       Betrayer Artifact Properties: The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See "Artifact Properties" in chapter 7 of the Dungeon Master&#39;s Guide for more information.
       Source: Explorer&#39;s Guide to Wildemount p. 279
-</text>
+    </text>
     <roll>3d6</roll>
     <roll>4d6</roll>
     <roll>5d6</roll>
@@ -939,7 +939,7 @@
     <text>
       A dark blue oil can be extracted from the rare fruit of the willowshade plant. A creature can use its action to apply the oil to another creature that has been petrified for less than 1 minute, causing the petrified condition on that creature to end at the start of what would be that creature&#39;s next turn.
       Source: Explorer&#39;s Guide to Wildemount
-</text>
+    </text>
   </item>
   <item>
     <name>Wreath of the Prism</name>
@@ -958,7 +958,7 @@
       &#183; You can affect creatures of challenge rating 15 or lower with the wreath.
       &#183; The save DC of the wreath&#39;s spell increases to 17.
       Source: Explorer&#39;s Guide to Wildemount p. 274
-</text>
+    </text>
   </item>
   <item>
     <name>Acheron Blade Double-Bladed Scimitar</name>
@@ -974,7 +974,7 @@
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can&#39;t be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it&#39;s immune to the frightened condition. Once you use this property, you can&#39;t do so again until the next dusk.
       Source: Explorer&#39;s Guide to Wildemount p. 265, Wayfinder&#39;s Guide to Eberron p. 74
-</text>
+    </text>
     <roll>1d4</roll>
     <roll>2d4</roll>
     <roll>1d4+4</roll>
@@ -992,7 +992,7 @@
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can&#39;t be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it&#39;s immune to the frightened condition. Once you use this property, you can&#39;t do so again until the next dusk.
       Source: Explorer&#39;s Guide to Wildemount p. 265
-</text>
+    </text>
     <roll>1d4+4</roll>
   </item>
   <item>
@@ -1009,7 +1009,7 @@
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can&#39;t be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it&#39;s immune to the frightened condition. Once you use this property, you can&#39;t do so again until the next dusk.
       Source: Explorer&#39;s Guide to Wildemount p. 265
-</text>
+    </text>
     <roll>1d4+4</roll>
   </item>
   <item>
@@ -1025,7 +1025,7 @@
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can&#39;t be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it&#39;s immune to the frightened condition. Once you use this property, you can&#39;t do so again until the next dusk.
       Source: Explorer&#39;s Guide to Wildemount p. 265
-</text>
+    </text>
     <roll>1d4+4</roll>
   </item>
   <item>
@@ -1041,7 +1041,7 @@
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can&#39;t be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it&#39;s immune to the frightened condition. Once you use this property, you can&#39;t do so again until the next dusk.
       Source: Explorer&#39;s Guide to Wildemount p. 265
-</text>
+    </text>
     <roll>1d4+4</roll>
   </item>
   <item>
@@ -1057,7 +1057,7 @@
       Dark Blessing: While holding the sword, you can use an action to give yourself 1d4 + 4 temporary hit points. This property can&#39;t be used again until the next dusk.
       Disheartening Strike: When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it&#39;s immune to the frightened condition. Once you use this property, you can&#39;t do so again until the next dusk.
       Source: Explorer&#39;s Guide to Wildemount p. 265
-</text>
+    </text>
     <roll>1d4+4</roll>
   </item>
   <item>
@@ -1074,7 +1074,7 @@
       Acheron Blade Scimitar
       Acheron Blade Shortsword
       Source: Explorer&#39;s Guide to Wildemount p. 265
-</text>
+    </text>
   </item>
   <item>
     <name>Corpse Slayer Battleaxe</name>
@@ -1089,7 +1089,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1105,7 +1105,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1120,7 +1120,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1136,7 +1136,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1152,7 +1152,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1168,7 +1168,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Wayfinder&#39;s Guide to Eberron p. 74
-</text>
+    </text>
     <roll>1d4</roll>
     <roll>2d4</roll>
     <roll>1d8</roll>
@@ -1185,7 +1185,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1200,7 +1200,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1215,7 +1215,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1230,7 +1230,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1245,7 +1245,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1260,7 +1260,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1276,7 +1276,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1292,7 +1292,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1308,7 +1308,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1324,7 +1324,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1340,7 +1340,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1356,7 +1356,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1372,7 +1372,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1388,7 +1388,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1405,7 +1405,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1422,7 +1422,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1438,7 +1438,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1453,7 +1453,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1468,7 +1468,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1483,7 +1483,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1498,7 +1498,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1513,7 +1513,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1529,7 +1529,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1544,7 +1544,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1559,7 +1559,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1575,7 +1575,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1590,7 +1590,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1605,7 +1605,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1621,7 +1621,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1638,7 +1638,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1655,7 +1655,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1670,7 +1670,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1686,7 +1686,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1701,7 +1701,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1718,7 +1718,7 @@
       You gain a +1 bonus to attack and damage rolls made with this magic weapon.
       When you hit an undead creature with an attack using this weapon, the attack deals an extra 1d8 damage of the weapon&#39;s type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
     <roll>1d8</roll>
   </item>
   <item>
@@ -1770,7 +1770,7 @@
       Corpse Slayer Whip
       Corpse Slayer Yklwa
       Source: Explorer&#39;s Guide to Wildemount p. 266
-</text>
+    </text>
   </item>
   <item>
     <name>Dancing Double-Bladed Scimitar</name>
@@ -1787,7 +1787,7 @@
       After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
       Found On: Magic Item Table H
       Source: Dungeon Master&#39;s Guide p. 161, Wayfinder&#39;s Guide to Eberron p. 74
-</text>
+    </text>
     <roll>1d4</roll>
     <roll>2d4</roll>
   </item>
@@ -1803,7 +1803,7 @@
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Chain Mail</name>
@@ -1819,7 +1819,7 @@
       The wearer has disadvantage on Stealth (Dexterity) checks.
       If the wearer has a Strength score lower than 13, their speed is reduced by 10 feet.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Chain Shirt</name>
@@ -1833,7 +1833,7 @@
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Half Plate Armor</name>
@@ -1848,7 +1848,7 @@
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       The wearer has disadvantage on Stealth (Dexterity) checks.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Hide Armor</name>
@@ -1862,7 +1862,7 @@
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Leather Armor</name>
@@ -1876,7 +1876,7 @@
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Padded Armor</name>
@@ -1891,7 +1891,7 @@
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       The wearer has disadvantage on Stealth (Dexterity) checks.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Plate Armor</name>
@@ -1907,7 +1907,7 @@
       The wearer has disadvantage on Stealth (Dexterity) checks.
       If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Ring Mail</name>
@@ -1922,7 +1922,7 @@
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       The wearer has disadvantage on Stealth (Dexterity) checks.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Scale Mail</name>
@@ -1937,7 +1937,7 @@
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       The wearer has disadvantage on Stealth (Dexterity) checks.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Spiked Armor</name>
@@ -1952,7 +1952,7 @@
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       The wearer has disadvantage on Stealth (Dexterity) checks.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Splint Armor</name>
@@ -1968,7 +1968,7 @@
       The wearer has disadvantage on Stealth (Dexterity) checks.
       If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor Studded Leather Armor</name>
@@ -1982,7 +1982,7 @@
       You have a +1 bonus to AC while wearing this armor, which shimmers softly.
       If you die while wearing the armor, it is destroyed, and each celestial, fey, and fiend with 30 feet of you must succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it is already there.
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Last Stand Armor</name>
@@ -2005,7 +2005,7 @@
       Last Stand Armor Splint Armor
       Last Stand Armor Studded Leather Armor
       Source: Explorer&#39;s Guide to Wildemount p. 267
-</text>
+    </text>
   </item>
   <item>
     <name>Battleaxe of Certain Death</name>
@@ -2019,7 +2019,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Blowgun of Certain Death</name>
@@ -2033,7 +2033,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Club of Certain Death</name>
@@ -2046,7 +2046,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Dagger of Certain Death</name>
@@ -2060,7 +2060,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Dart of Certain Death</name>
@@ -2074,7 +2074,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Double-Bladed Scimitar of Certain Death</name>
@@ -2088,7 +2088,7 @@
       Special: If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270, Wayfinder&#39;s Guide to Eberron p. 74
-</text>
+    </text>
     <roll>1d4</roll>
     <roll>2d4</roll>
   </item>
@@ -2103,7 +2103,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Glaive of Certain Death</name>
@@ -2116,7 +2116,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Greataxe of Certain Death</name>
@@ -2129,7 +2129,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Greatclub of Certain Death</name>
@@ -2142,7 +2142,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Greatsword of Certain Death</name>
@@ -2155,7 +2155,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Halberd of Certain Death</name>
@@ -2168,7 +2168,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Hand Crossbow of Certain Death</name>
@@ -2182,7 +2182,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Handaxe of Certain Death</name>
@@ -2196,7 +2196,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Heavy Crossbow of Certain Death</name>
@@ -2210,7 +2210,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Hooked Shortspear of Certain Death</name>
@@ -2224,7 +2224,7 @@
       On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder&#39;s Strength modifier + the wielder&#39;s proficiency bonus.
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Javelin of Certain Death</name>
@@ -2238,7 +2238,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Lance of Certain Death</name>
@@ -2252,7 +2252,7 @@
       Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren&#39;t mounted.
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Light Crossbow of Certain Death</name>
@@ -2266,7 +2266,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Light Hammer of Certain Death</name>
@@ -2280,7 +2280,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Light Repeating Crossbow of Certain Death</name>
@@ -2295,7 +2295,7 @@
       This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action.
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Longbow of Certain Death</name>
@@ -2310,7 +2310,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Longsword of Certain Death</name>
@@ -2324,7 +2324,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Mace of Certain Death</name>
@@ -2337,7 +2337,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Maul of Certain Death</name>
@@ -2350,7 +2350,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Morningstar of Certain Death</name>
@@ -2363,7 +2363,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Net of Certain Death</name>
@@ -2376,7 +2376,7 @@
       Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Pike of Certain Death</name>
@@ -2389,7 +2389,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Quarterstaff of Certain Death</name>
@@ -2403,7 +2403,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Rapier of Certain Death</name>
@@ -2416,7 +2416,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Scimitar of Certain Death</name>
@@ -2429,7 +2429,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Shortbow of Certain Death</name>
@@ -2443,7 +2443,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Shortsword of Certain Death</name>
@@ -2456,7 +2456,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Sickle of Certain Death</name>
@@ -2469,7 +2469,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Sling of Certain Death</name>
@@ -2483,7 +2483,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Spear of Certain Death</name>
@@ -2498,7 +2498,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Trident of Certain Death</name>
@@ -2513,7 +2513,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>War Pick of Certain Death</name>
@@ -2526,7 +2526,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Warhammer of Certain Death</name>
@@ -2540,7 +2540,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Whip of Certain Death</name>
@@ -2553,7 +2553,7 @@
     <text>
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Yklwa of Certain Death</name>
@@ -2568,7 +2568,7 @@
       A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing.
       When you damage a creature with an attack using this magic weapon, the target can&#39;t regain hit points until the start of your next turn.
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
   <item>
     <name>Weapon of Certain Death</name>
@@ -2619,7 +2619,7 @@
       Whip of Certain Death
       Yklwa of Certain Death
       Source: Explorer&#39;s Guide to Wildemount p. 270
-</text>
+    </text>
   </item>
 
 
@@ -2639,13 +2639,13 @@
       <name>Incisive Sense</name>
       <text>
         You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
-</text>
+      </text>
     </trait>
     <trait>
       <name>Blessing of the Moon Weaver</name>
       <text>
         You know the light cantrip. When you reach 3rd level, you can cast the sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn&#39;t require material components. Wisdom is your spellcasting ability for these spells.
-</text>
+      </text>
     </trait>
     <trait>
       <name>Age</name>
@@ -2894,8 +2894,14 @@
         <name>Martial Archetype: Echo Knight</name>
         <text>A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.</text>
         <text />
-        <text>Manifest Echo</text>
+        <text>Source: Explorer&#39;s Guide to Wildemount p. 0</text>
+      </feature>
+    </autolevel>
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Martial Archetype: Echo Knight: Manifest Echo (Echo Knight)</name>
         <text>3rd-level Echo Knight feature</text>
+        <text />
         <text>You can use a bonus action to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a bonus action, until you manifest another echo, or until you&#39;re incapacitated.</text>
         <text>Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all conditions. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.</text>
         <text>You can use the echo in the following ways:</text>
@@ -2903,8 +2909,14 @@
         <text>&#183; When you take the Attack action on your turn, any attack you make with that action can originate from your space or the echo&#39;s space. You make this choice for each attack.</text>
         <text>&#183; When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the echo&#39;s space.</text>
         <text />
-        <text>Unleash Incarnation</text>
+        <text>Source: Explorer&#39;s Guide to Wildemount p. 0</text>
+      </feature>
+    </autolevel>
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Martial Archetype: Echo Knight: Unleash Incarnation (Echo Knight)</name>
         <text>3rd-level Echo Knight feature</text>
+        <text />
         <text>You can heighten your echo&#39;s fury. Whenever you take the Attack action, you can make one additional melee attack from the echo&#39;s position.</text>
         <text>You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
         <text />
@@ -5107,7 +5119,7 @@
       <text>
         Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.
         A drow wearing a chain shirt +1 and carrying a shortsword +1 has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks.
-</text>
+      </text>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
@@ -5188,7 +5200,7 @@
       <text>
         Necrotic Breath.The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) necrotic damage on a failed save, or half as much damage on a successful one.
         Paralyzing Breath.The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-</text>
+      </text>
     </action>
     <action>
       <name>Change Shape</name>
