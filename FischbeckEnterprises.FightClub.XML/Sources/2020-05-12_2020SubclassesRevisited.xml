@@ -68,6 +68,86 @@
       </feature>
     </autolevel>
   </class>
+
+  <class>
+    <name>Rogue</name>
+
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Roguish Archetype: Soulknife (UA)</name>
+        <text>Most assassins strike with physical weapons, and many burglars and spies use thieves’ tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves’ guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy. </text>
+		<text>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King’s rule. </text>
+		<text>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psionic adepts and spent years learning how to manifest your power.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Roguish Archetype: Soulknife (UA): Psionic Talent (Soulknife (UA))</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6. </text>
+		<text>Psionic Talent Options</text>
+		<text>You can use your Psionic Talent die in the following ways: </text>
+		<text>Psi-Bolstered Knack</text>
+		<text>When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success. </text>
+		<text>Psychic Whispers</text>
+		<text>You can use your psychic abilities to establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other. </text>
+		<text>Changing the Die’s Size</text>
+		<text>If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest. </text>
+		<text>Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on a d4, the die then becomes a d6. </text>
+		<text>Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12). </text>
+		<text>Psi Replenishment</text>
+		<text>As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="3">
+      <feature optional="YES">
+        <name>Roguish Archetype: Soulknife (UA): Psychic Blades (Soulknife (UA))</name>
+        <text>3rd-level Soulknife feature</text>
+        <text>You can manifest your psionic power as shimmering blades of psychic energy. When you are about to make a melee or ranged weapon attack against a creature, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. </text>
+		<text>After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="9">
+      <feature optional="YES">
+        <name>Roguish Archetype: Soulknife (UA): Soul Blades (Soulknife (UA))</name>
+        <text>9th-level Soulknife feature</text>
+        <text>Your Psychic Blades are now an expression of your psi-suffused soul, giving you finer control over them in the following ways: </text>
+		<text>Homing Strikes</text>
+		<text>If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.</text> 
+		<text>Psychic Teleportation</text>
+		<text>If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="13">
+      <feature optional="YES">
+        <name>Roguish Archetype: Soulknife (UA): Psychic Veil (Soulknife (UA))</name>
+        <text>13th-level Soulknife feature</text>
+        <text>You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 10 minutes or until you dismiss this effect (no action required). This invisibility ends if you deal damage to a creature or if you force a creature to make a saving throw. </text>
+		<text>Once you use this feature, you can’t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="17">
+      <feature optional="YES">
+        <name>Roguish Archetype: Soulknife (UA): Rend Mind (Soulknife (UA))</name>
+        <text>17th-level Soulknife feature</text>
+        <text>You can sweep your Psychic Blades directly through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.</text> 
+		<text>Once you use this feature, you can’t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+  </class>
+
   <class>
     <name>Warlock</name>
     <autolevel level="1">
@@ -94,7 +174,7 @@
         <text />
         <text>Spell Level | Genie Spells          | Dao Spells      | Djinni Spells       | Efreeti Spells| Marid Spells</text>
         <text>        1st | detect evil and good  | sanctuary       | thunderwave         | burning hands | fog cloud</text>
-        <text>        2nd | phantasmal force      | spike growth    | gust of wind        | scorching ray |blur</text>
+        <text>        2nd | phantasmal force      | spike growth    | gust of wind        | scorching ray | blur</text>
         <text>        3rd | create food and water | meld into stone | wind wall           | fireball      | sleet storm</text>
         <text>        4th | phantasmal killer     | stone shape     | greater invisiblity | fire shield   | control water</text>
         <text>        5th | creation              | wall of stone   | seeming             | flame strike  | cone of cold</text>
@@ -159,5 +239,186 @@
         <text>Source: Unearthed Arcana: Subclasses Revisited</text>
       </feature>
     </autolevel>
-  </class>  
+  </class> 
+
+  <class>
+    <name>Wizard</name>
+
+    <autolevel level="2">
+      <feature optional="YES">
+        <name>Arcane Tradition: Order of Scribes (UA)</name>
+        <text>Magic of the book—that&#39;s what many spellcasters call wizardry. The name is apt, given how much time wizards spend poring over their spellbooks, penning theories about the nature of magic, and exploring the farthest recesses of libraries. It&#39;s rare to see a wizard traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.</text>
+		<text>Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries in tomes and scrolls so that wizardry can flourish. And while every wizard values their spellbook, a scribe in the Order of Scribes dedicates themself to magically awakening their book, turning it into a trusted companion. All wizards study their spellbooks, but a wizardly scribe talks to theirs!</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="2">
+      <feature optional="YES">
+        <name>Arcane Tradition: Order of Scribes (UA): Wizardly Quill (Order of Scribes (UA))</name>
+        <text>As a bonus action, you can magically create a Tiny quill in your free hand. The magic quill has the following properties:</text>
+		<text>&#183; The quill doesn&#39;t require ink. When you write with it, it produces ink in a color of your choice on the writing surface.</text>
+		<text>&#183; The gold and time you must spend to copy a spell into your spellbook are halved if you use the quill for the transcription.</text>
+		<text>&#183; You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.</text>
+		<text>This quill disappears if you create another one or if you die.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="2">
+      <feature optional="YES">
+        <name>Arcane Tradition: Order of Scribes (UA): Awakened Spellbook (Order of Scribes (UA))</name>
+        <text>2nd-level Order of Scribes feature</text>
+        <text>Using specially prepared inks and ancient incantations passed down by your wizardly order, you have awakened an arcane sentience within your spellbook.</text>
+		<text>While you are holding the book, it grants you the following benefits:</text>
+		<text>&#183; You can use the book as a spellcasting focus for your wizard spells.</text>
+		<text>&#183; When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with the damage type of another spell in your spellbook, as your spellbook magically alters the spell&#39;s formula for this casting.</text>
+		<text>&#183; When you cast a wizard spell as a ritual, you can use the spell&#39;s normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can&#39;t do so again until you finish a long rest.</text>
+		<text>If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you&#39;re attuned. At the end of the rest, your spellbook&#39;s consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="6">
+      <feature optional="YES">
+        <name>Arcane Tradition: Order of Scribes (UA): Master Scrivener (Order of Scribes (UA))</name>
+        <text>6th-level Order of Scribes feature</text>
+        <text>Whenever you finish a long rest, you can create one magic scroll by touching your Wizardly Quill to a blank piece of paper or parchment and causing one spell from your Awakened Spellbook to be copied onto the scroll. The spellbook must be within 5 feet of you when you make the scroll.</text> 
+		<text>The chosen spell must be of 1st or 2nd level and must have a casting time of 1 action. Once in the scroll, the spell&#39;s power is enhanced, counting as one level higher than normal. You can cast the spell from the scroll by reading it as an action. The scroll is unintelligible to anyone else, and the spell vanishes from the scroll when you cast it or when you finish your next long rest.</text>
+		<text>You are also adept at crafting spell scrolls, which are described in chapter 7 of the Dungeon Master&#39;s Guide. The gold and time you must spend to make such a scroll are halved if you use your Wizardly Quill.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="10">
+      <feature optional="YES">
+        <name>Arcane Tradition: Order of Scribes (UA): Manifest Mind (Order of Scribes (UA))</name>
+        <text>10th-level Order of Scribes feature</text>
+        <text>You are now able to conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral construct, hovering in an unoccupied space of your choice within 60 feet of you. This presence is intangible and doesn&#39;t occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice). The spectral mind has a number of hit points equal to your wizard level plus your Intelligence modifier, and it uses your Armor Class and saving throw modifiers.</text>
+		<text>While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet. As an action, you can hear and see using the its senses, instead of your own, until your concentration ends (as if concentrating on a spell).</text>
+		<text>Whenever you cast a wizard spell on your turn, you can cast it as if you were in the spectral mind&#39;s space, instead of your own, using its senses. You can do so a number of times per day equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+		<text>As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects. The spectral mind stops manifesting if it is ever more than 300 feet away from you, if it drops to 0 hit points, if you die, or if you dismiss it as a bonus action.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+    <autolevel level="14">
+      <feature optional="YES">
+        <name>Arcane Tradition: Order of Scribes (UA): One with the Word (Order of Scribes (UA))</name>
+        <text>14th-level Order of Scribes feature</text>
+        <text>Your connection to your Awakened Spellbook has become so profound that your soul has become entwined with it. While you are holding the book and its spectral mind is manifest, you can take an action to cause the two of you to teleport, swapping places. You can teleport in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+		<text>Moreover, if you die but at least one spell remains in your Awakened Spellbook, you can return to life 1 minute later within 5 feet of the book. You revive with 1 hit point. Then roll 3d6. The book loses spells of your choice that have a combined spell level equal to that roll or higher. For example, if the roll&#39;s total is 9, spells vanish from the book that have a combined level of at least 9, which could mean one 9th-level spell, three 3rd-level spells, or some other combination.</text>
+		<text>Thereafter, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. The only way to restore your ability to cast one of the lost spells is through the wish spell, which can restore one spell to the book per casting.</text>
+        <text />
+        <text>Source: Unearthed Arcana: Subclasses Revisited</text>
+      </feature>
+    </autolevel>
+  </class>
+
+
+  
+  <spell>
+	<name>detect evil and good</name>
+	<classes>Warlock (Genie)</classes>
+  </spell>
+  <spell>
+	<name>phantasmal force</name>
+	<classes>Warlock (Genie)</classes>
+  </spell>
+  <spell>
+	<name>create food and water</name>
+	<classes>Warlock (Genie)</classes>
+  </spell>
+  <spell>
+	<name>phantasmal killer</name>
+	<classes>Warlock (Genie)</classes>
+  </spell>
+  <spell>
+	<name>creation</name>
+	<classes>Warlock (Genie)</classes>
+  </spell>
+  <spell>
+	<name>wish</name>
+	<classes>Warlock (Genie)</classes>
+  </spell>
+  <spell>
+	<name>sanctuary</name>
+	<classes>Warlock (Genie - Dao)</classes>
+  </spell>
+  <spell>
+	<name>spike growth</name>
+	<classes>Warlock (Genie - Dao)</classes>
+  </spell>
+  <spell>
+	<name>meld into stone</name>
+	<classes>Warlock (Genie - Dao)</classes>
+  </spell>
+  <spell>
+	<name>stone shape</name>
+	<classes>Warlock (Genie - Dao)</classes>
+  </spell>
+  <spell>
+	<name>wall of stone</name>
+	<classes>Warlock (Genie - Dao)</classes>
+  </spell>
+  <spell>
+	<name>thunderwave</name>
+	<classes>Warlock (Genie - Djinni)</classes>
+  </spell>  
+  <spell>
+	<name>gust of wind</name>
+	<classes>Warlock (Genie - Djinni)</classes>
+  </spell>
+  <spell>
+	<name>wind wall</name>
+	<classes>Warlock (Genie - Djinni)</classes>
+  </spell>
+  <spell>
+	<name>greater invisiblity</name>
+	<classes>Warlock (Genie - Djinni)</classes>
+  </spell>
+  <spell>
+	<name>seeming</name>
+	<classes>Warlock (Genie - Djinni)</classes>
+  </spell>
+  <spell>
+	<name>burning hands</name>
+	<classes>Warlock (Genie - Efreeti)</classes>
+  </spell>
+  <spell>
+	<name>scorching ray</name>
+	<classes>Warlock (Genie - Efreeti)</classes>
+  </spell>
+  <spell>
+	<name>fireball</name>
+	<classes>Warlock (Genie - Efreeti)</classes>
+  </spell>
+  <spell>
+	<name>fire shield</name>
+	<classes>Warlock (Genie - Efreeti)</classes>
+  </spell>
+  <spell>
+	<name>flame strike</name>
+	<classes>Warlock (Genie - Efreeti)</classes>
+  </spell>
+  <spell>
+	<name>fog cloud</name>
+	<classes>Warlock (Genie - Marid)</classes>
+  </spell>
+  <spell>
+	<name>blur</name>
+	<classes>Warlock (Genie - Marid)</classes>
+  </spell>
+  <spell>
+	<name>sleet storm</name>
+	<classes>Warlock (Genie - Marid)</classes>
+  </spell>
+  <spell>
+	<name>control water</name>
+	<classes>Warlock (Genie - Marid)</classes>
+  </spell>
+  <spell>
+	<name>cone of cold</name>
+	<classes>Warlock (Genie - Marid)</classes>
+  </spell>
 </compendium>

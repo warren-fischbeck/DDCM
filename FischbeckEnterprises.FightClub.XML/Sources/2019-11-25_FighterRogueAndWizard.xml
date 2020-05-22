@@ -89,6 +89,7 @@
       </feature>
     </autolevel>
   </class>
+  <!--
   <class>
     <name>Rogue</name>
 
@@ -153,6 +154,7 @@
       </feature>
     </autolevel>
   </class>
+  -->
   <class>
     <name>Wizard</name>
 

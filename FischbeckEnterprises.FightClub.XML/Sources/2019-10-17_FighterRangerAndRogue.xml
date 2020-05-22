@@ -390,6 +390,7 @@
       </feature>
     </autolevel>
   </class>
+  <!--
   <class>
     <name>Rogue</name>
 
@@ -467,4 +468,5 @@
       </feature>
     </autolevel>
   </class>
+  -->
 </compendium>

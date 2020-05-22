@@ -244,6 +244,7 @@
       </feature>
     </autolevel>
   </class>
+  <!--
   <class>
     <name>Warlock</name>
 
@@ -342,4 +343,5 @@
       </feature>
     </autolevel>
   </class>
+  -->
 </compendium>
