@@ -2195,4 +2195,226 @@
       <text>6.I speak for the First Lord of Fronteers and make sure everyone knows it.</text>
     </trait>
   </background>
+
+
+  <feat>
+    <name>Boon of Advancement</name>
+	<text>Choose a class that you already have levels in, you gain one of the subclass features that you do not already possess.  The subclass feature must be the lowest leveled ability that you don't already possess for that subclass.</text>
+	<text />
+	<text>You can take this Boon multiple times.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Custom Character Boon World of Koreth, OneNote - Warren Fischbeck</text>
+  </feat>  
+  <feat>
+    <name>Boon of Combat Prowess</name>
+	<text>When you miss with a melee weapon attack, you can choose to hit instead.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Dimensional Travel</name>
+	<text>As an action, you can cast the misty step spell, without using a spell slot or any components.  Once you do so, you can't use this boon again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Fate</name>
+	<text>When another creature that you can see within 60 feet of you makes an ability check, an attack roll, or a saving throw, you can roll a d10 and apply the result as a bonus or penalty to the roll.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Fortitude</name>
+	<text>Your hit point maximum increases by 40.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of High Magic</name>
+	<text>You gain one 9th-level spell slot, provided that you already have one.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Immortality</name>
+	<text>You stop aging.  You are immune to any effect that would age you, and you can't die from old age.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Invincibility</name>
+	<text>When you take damage from any source, you can reduce that damage to 0.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Irresistible Offense</name>
+	<text>You can bypass the damage resistances of any creature.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Luck</name>
+	<text>You can add a d10 roll to any ability check, attack roll, or saving throw you make.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Magic Resistance</name>
+	<text>You have  advantage on saving throws against spells and other magical effects.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Peerless Aim</name>
+	<text>You can give yourself a +20 bonus to a ranged attack roll you make.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Perfect Health</name>
+	<text>You are immune to all diseases and poisons, and you have advantage on Constitution saving throws.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Planar Travel</name>
+	<text>When you gain this boon, choose a plane of existence other than the Material Plane.  You can now use an action to cast the plane shift spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Quick Casting</name>
+	<text>Choose one of your spells of 1st through 3rd level that has a casting time of 1 action.  That spell's casting time is now 1 bonus action for you.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Recovery</name>
+	<text>You can use a bonus action to regain a number of hit points equal to half your hit point maximum.  Once you use this boon, you can't use it again until you finish a long rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Resilience</name>
+	<text>You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Skill Proficiency</name>
+	<text>You gain proficiency in all skills.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Speed</name>
+	<text>Your walking speed increases by 30 feet.</text>
+	<text>In addition, you can use a bonus action to take the Dash or Disengage action.  Once you do so, you can't do so again until you finish a short rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Spell Mastery</name>
+	<text>Choose one 1st-level sorcerer, warlock, or wizard spell that you can cast.  You can now cast that spell at its lowest level without expending a spell slot.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Spell Recall</name>
+	<text>You can cast any spell you know or have prepared without expending a spell slot.  Once you do so, you can't use this boon again until you finish a long rest.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of the Fire Soul</name>
+	<text>You have immunity to fire damage.  You can also cast burning hand (save DC15) at will, without using a spell slot or any components.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of the Night Spirit</name>
+	<text>While completely in an area of dim light or darkness, you can become invisible as an action.  You remain invisible until you take an action or a reaction.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of the Stormborn</name>
+	<text>You have immunity to lightning and thunder damage.  You can also cast thunderwave (save DC 15) at will, without using a spell slot or any components.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of the Unfettered</name>
+	<text>You have advantage on ability checks made to resist being grappled.  In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Truesight</name>
+	<text>You have truesight out to a range of 60 feet.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+  <feat>
+    <name>Boon of Undetectability</name>
+	<text>You gain a +10 bonus to Dexterity (Stealth) checks, and you can't be detected or targeted by divination magic, including scrying sensors.</text>
+	<text />
+	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
+	<text />
+    <text>Source: Dungeon Master&#39;s Guide P.232</text>
+  </feat>  
+ 
 </compendium>
