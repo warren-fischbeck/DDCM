@@ -19,10 +19,10 @@
         <text>Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
         <text />
         <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
-        <text>- (a) scale mail or (b) leather armor</text>
-        <text>- (a) two shortswords or (b) two simple melee weapons</text>
-        <text>- (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
-        <text>- A longbow and a quiver of 20 arrows</text>
+        <text>&#45; (a) scale mail or (b) leather armor</text>
+        <text>&#45; (a) two shortswords or (b) two simple melee weapons</text>
+        <text>&#45; (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack</text>
+        <text>&#45; A longbow and a quiver of 20 arrows</text>
         <text />
         <text>Alternatively, you may start with 5d10 x 4 gp and choose your own equipment.</text>
         <text />
@@ -37,25 +37,25 @@
         <name>Natural Explorer</name>
         <text>You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:</text>
         <text />
-        <text>- You ignore difficult terrain.</text>
+        <text>&#45; You ignore difficult terrain.</text>
         <text />
-        <text>- You have advantage on initiative rolls.</text>
+        <text>&#45; You have advantage on initiative rolls.</text>
         <text />
-        <text>- On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</text>
+        <text>&#45; On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</text>
         <text />
         <text>	In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:</text>
         <text />
-        <text>- Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
+        <text>&#45; Difficult terrain doesn&#39;t slow your group&#39;s travel.</text>
         <text />
-        <text>- Your group can&#39;t become lost except by magical means.</text>
+        <text>&#45; Your group can&#39;t become lost except by magical means.</text>
         <text />
-        <text>- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
+        <text>&#45; Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</text>
         <text />
-        <text>- If you are traveling alone, you can move stealthily at a normal pace.</text>
+        <text>&#45; If you are traveling alone, you can move stealthily at a normal pace.</text>
         <text />
-        <text>- When you forage, you find twice as much food as you normally would.</text>
+        <text>&#45; When you forage, you find twice as much food as you normally would.</text>
         <text />
-        <text>- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
+        <text>&#45; While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</text>
       </feature>
       <slots>0,0,0,0,0,0</slots>
     </autolevel>
@@ -242,13 +242,13 @@
         <text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated.</text>
         <text>	You undergo the following changes while in your guardian form:</text>
         <text />
-        <text>- Your size becomes Large, unless you were larger.</text>
+        <text>&#45; Your size becomes Large, unless you were larger.</text>
         <text />
-        <text>- Any speed you have becomes 5 feet, unless the speed was lower.</text>
+        <text>&#45; Any speed you have becomes 5 feet, unless the speed was lower.</text>
         <text />
-        <text>- Your reach increases by 5 feet.</text>
+        <text>&#45; Your reach increases by 5 feet.</text>
         <text />
-        <text>- You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.</text>
+        <text>&#45; You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.</text>
       </feature>
       <feature optional="YES">
         <name>Primeval Guardian: Piercing Thorns</name>

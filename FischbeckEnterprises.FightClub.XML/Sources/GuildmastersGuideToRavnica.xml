@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <!-- Races -->
+ <!-- Races -->
   <race>
     <name>Centaur</name>
     <size>M</size>
@@ -193,7 +193,7 @@
     </trait>
   </race>
 
-  <!-- Classes -->
+ <!-- Classes -->
   <class>
     <name>Cleric</name>
     <autolevel level="1">
@@ -324,7 +324,7 @@
     </autolevel>
   </class>
 
-  <!-- Spells -->
+ <!-- Spells -->
   <spell>
     <name>Encode Thoughts</name>
     <level>0</level>
@@ -375,7 +375,7 @@
     <classes>Druid (Circle of Spores)</classes>
   </spell>
 
-  <!-- Races -->
+ <!-- Races -->
 
   <race>
     <name>Loxodon</name>
@@ -740,7 +740,7 @@
     </trait>
   </race>
 
-  <!-- Backgrounds -->
+ <!-- Backgrounds -->
   <background>
     <name>Azorius Functionary</name>
     <proficiency>Insight, Intimidation</proficiency>
@@ -1858,7 +1858,7 @@
     </trait>
   </background>
 
-  <!-- Monsters -->
+ <!-- Monsters -->
   <monster>
     <name>Flying Horror</name>
     <size>M</size>
@@ -2071,7 +2071,7 @@
       <name>Maddening Presence</name>
       <text>The horror targets one creature it can see within 30 feet of it. If the target can see or hear the horror, the target must make a DC 17 Wisdom saving throw. On a failed saving throw, the target becomes paralyzed until the end of its next turn. If a creature&#39;s saving throw is successful, the creature is immune to the horror&#39;s Maddening Presence for the next 24 hours.</text>
     </action>
-    <!-- <description>Horrors and Madness:
+   <!-- <description>Horrors and Madness:
             Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master&#39;s Guide.
             Whenever a character fails a saving throw against the flying horror&#39;s Frightening Screech, the shadow horror&#39;s claw attack, or the skittering horror&#39;s Maddening Presence, note that fact. At the end of the encounter, have each character who failed at least one of those saving throws make a DC 13 Wisdom saving throw. On a successful save, nothing happens. On a failed save, a character gains a form of madness from the Dungeon Master&#39;s Guide, with the severity depending on how many of the saving throws that character failed during the encounter, as shown on the Madness Severity table.
             Failed Saves | Madness
@@ -4550,7 +4550,7 @@
     <senses>truesight 120 ft.</senses>
     <action>
       <name>Quarterstaff</name>
-      <text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.</text>
+      <text>Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 2 (1d6 &#45; 1) bludgeoning damage, or 3 (1d8 &#45; 1) bludgeoning damage if used with two hands.</text>
       <attack>Quarterstaff|1|1d6-1</attack>
     </action>
     <action>

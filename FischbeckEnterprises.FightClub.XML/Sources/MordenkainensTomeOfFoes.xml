@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <!-- Items -->
+ <!-- Items -->
   <item>
     <name>Greater Silver Sword</name>
     <type>M</type>
@@ -35,7 +35,7 @@
   </item>
 
 
-  <!-- Races -->
+ <!-- Races -->
   <race>
     <name>Dwarf, Duergar</name>
     <size>M</size>
@@ -635,7 +635,7 @@
     </trait>
   </race>
 
-  <!-- Feats -->
+ <!-- Feats -->
   <feat>
     <name>Svirfneblin Magic</name>
     <prerequisite>Gnome (deep gnome)</prerequisite>
@@ -647,7 +647,7 @@
     <text>Mordenkainen&#39;s Tome of Foes, p. 114</text>
   </feat>
 
-  <!-- Monsters -->
+ <!-- Monsters -->
   <monster>
     <name>Abyssal Wretch</name>
     <size>M</size>

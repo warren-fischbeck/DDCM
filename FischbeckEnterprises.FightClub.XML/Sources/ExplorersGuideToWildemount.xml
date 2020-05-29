@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <!-- Items -->
+ <!-- Items -->
   <item>
     <name>Amulet of the Drunkard</name>
     <type>W</type>
@@ -2623,7 +2623,7 @@
   </item>
 
 
-  <!-- Races -->
+ <!-- Races -->
   <race>
     <name>Elf (Pallid)</name>
     <size>M</size>
@@ -2885,7 +2885,7 @@
   </race>
 
 
-  <!-- Classes -->
+ <!-- Classes -->
   <class>
     <name>Fighter</name>
 
@@ -3061,7 +3061,7 @@
   </class>
 
 
-  <!-- Backgrounds -->
+ <!-- Backgrounds -->
   <background>
     <name>Augen Trust (Spy)</name>
     <proficiency>Deception, Stealth</proficiency>
@@ -3135,7 +3135,7 @@
       <text />
       <text>1. I&apos;m trying to pay off an old debt I owe to a generous benefactor.</text>
       <text />
-      <text>2. My ill - gotten gains go to support my family.</text>
+      <text>2. My ill &#45; gotten gains go to support my family.</text>
       <text />
       <text>3. Something important was taken from me, and I aim to steal it back.</text>
       <text />
@@ -3508,7 +3508,7 @@
     </trait>
   </background>
 
-  <!-- Spells -->
+ <!-- Spells -->
   <spell>
     <name>Dark Star</name>
     <level>8</level>
@@ -3789,7 +3789,7 @@
     <text>Source: Explorer&#39;s Guide to Wildemount p. 190</text>
   </spell>
 
-  <!-- Monsters -->
+ <!-- Monsters -->
   <monster>
     <name>Aeorian Absorber</name>
     <size>L</size>

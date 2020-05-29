@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <!-- Classes -->
+ <!-- Classes -->
   <class>
     <name>Artificer</name>
 
@@ -1208,7 +1208,7 @@
         <text>When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.</text>
         <text />
         <text>Seeking Spell:</text>
-        <text>When you cast a spell that requires you to make a spell attack roll or that forces a target to make a Dexterity saving throw, you can spend 1 sorcery point to ignore the effects of half- and three-quarters cover against targets of the spell.</text>
+        <text>When you cast a spell that requires you to make a spell attack roll or that forces a target to make a Dexterity saving throw, you can spend 1 sorcery point to ignore the effects of half&#45; and three-quarters cover against targets of the spell.</text>
         <text />
         <text>Unerring Spell:</text>
         <text>If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the attack roll. You must use the result of the second roll.</text>
@@ -1405,8 +1405,8 @@
     </autolevel>
   </class>
 
-  <!-- Spells -->
-  <!-- Maneuvers -->
+ <!-- Spells -->
+ <!-- Maneuvers -->
   <spell>
     <name>Commander&#39;s Strike</name>
     <classes>Superior Technique</classes>
@@ -1563,7 +1563,7 @@
     <text />
     <text>Source: Unearthed Arcana: Class Feature Variants</text>
   </spell>
-  <!-- Invocations -->
+ <!-- Invocations -->
   <spell>
     <name>Invocation: Bond of the Talisman</name>
     <level>0</level>
@@ -1707,7 +1707,7 @@
     <text />
     <text>Source: Unearthed Arcana: Class Feature Variants</text>
   </spell>
-  <!-- Cantrips -->
+ <!-- Cantrips -->
   <spell>
     <name>Acid Splash</name>
     <classes>Druid</classes>
@@ -1716,7 +1716,7 @@
     <name>Primal Savagery</name>
     <classes>Sorcerer</classes>
   </spell>
-  <!-- 1st -->
+ <!-- 1st -->
   <spell>
     <name>Cause Fear</name>
     <classes>Bard, Cleric</classes>
@@ -1757,7 +1757,7 @@
     <name>Wrathful Smite</name>
     <classes>Cleric</classes>
   </spell>
-  <!-- 2nd -->
+ <!-- 2nd -->
   <spell>
     <name>Aid</name>
     <classes>Bard, Ranger</classes>
@@ -1822,7 +1822,7 @@
     <name>Warding Bond</name>
     <classes>Paladin, Ranger</classes>
   </spell>
-  <!-- 3rd -->
+ <!-- 3rd -->
   <spell>
     <name>Animate dead</name>
     <classes>Warlock</classes>
@@ -1887,7 +1887,7 @@
     <name>Wall of Sand</name>
     <classes>Druid</classes>
   </spell>
-  <!-- 4th -->
+ <!-- 4th -->
   <spell>
     <name>Aura of Life</name>
     <classes>Cleric</classes>
@@ -1916,7 +1916,7 @@
     <name>Phantasmal Killer</name>
     <classes>Bard</classes>
   </spell>
-  <!-- 5th -->
+ <!-- 5th -->
   <spell>
     <name>Awaken</name>
     <classes>Ranger</classes>
@@ -1973,7 +1973,7 @@
     <name>Wall of Light</name>
     <classes>Cleric</classes>
   </spell>
-  <!-- 6th -->
+ <!-- 6th -->
   <spell>
     <name>Create Homunculus</name>
     <classes>Warlock</classes>
@@ -2002,7 +2002,7 @@
     <name>Tenser&#39;s Transformation</name>
     <classes>Bard</classes>
   </spell>
-  <!-- 7th -->
+ <!-- 7th -->
   <spell>
     <name>Power Word Pain</name>
     <classes>Bard</classes>
@@ -2019,7 +2019,7 @@
     <name>Symbol</name>
     <classes>Druid</classes>
   </spell>
-  <!-- 8th -->
+ <!-- 8th -->
   <spell>
     <name>Abi-Dalzim&#39;s Horrid Wilting</name>
     <classes>Warlock</classes>
@@ -2040,7 +2040,7 @@
     <name>Maze</name>
     <classes>Bard</classes>
   </spell>
-  <!-- 9th -->
+ <!-- 9th -->
   <spell>
     <name>Foresight</name>
     <classes>Sorcerer</classes>
@@ -2070,7 +2070,7 @@
     <classes>Warlock</classes>
   </spell>
 
-  <!-- Monsters -->
+ <!-- Monsters -->
   <monster>
     <name>Beast of the Air</name>
     <size>S</size>

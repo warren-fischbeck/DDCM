@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-    <!-- Races -->
+   <!-- Races -->
     <race>
         <name>Tortle</name>
         <size>M</size>
@@ -46,7 +46,7 @@
         </trait>
     </race>
     
-    <!-- Monsters -->
+   <!-- Monsters -->
     <monster>
         <name>Decapus</name>
         <size>L</size>

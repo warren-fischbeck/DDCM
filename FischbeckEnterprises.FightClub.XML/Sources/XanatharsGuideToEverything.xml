@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <!-- Items -->
+ <!-- Items -->
   <item>
     <name>Unbreakable Arrow</name>
     <type>A</type>
@@ -1013,7 +1013,7 @@
     <text>Source: Xanathar&#39;s Guide to Everything, p. 140</text>
   </item>
 
-  <!-- Classes -->
+ <!-- Classes -->
   <class>
     <name>Barbarian</name>
 
@@ -3424,7 +3424,7 @@
     </autolevel>
   </class>
 
-  <!-- Feats -->
+ <!-- Feats -->
   <feat>
     <name>Bountiful Luck</name>
     <prerequisite>Halfling</prerequisite>
@@ -3790,7 +3790,7 @@
     <text>Source: Xanathar&#39;s Guide to Everything, p. 75</text>
   </feat>
 
-  <!-- Spells -->
+ <!-- Spells -->
   <spell>
     <name>Abi-Dalzim&#39;s Horrid Wilting</name>
     <level>8</level>
@@ -4548,7 +4548,7 @@
     <text />
     <text>&#8226;You gain 10 temporary hit points.</text>
     <text>&#8226;You make Constitution saving throws with advantage.</text>
-    <text>&#8226;You make Dexterity- and Wisdom-based attack rolls with advantage.</text>
+    <text>&#8226;You make Dexterity&#45; and Wisdom-based attack rolls with advantage.</text>
     <text>&#8226;While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.</text>
     <text />
     <text>Source: Xanathar&#39;s Guide to Everything, p. 157</text>
@@ -5236,7 +5236,7 @@
     <text>You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.</text>
     <text>If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.</text>
     <text />
-    <text>At Higher Levels: When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5th- or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.</text>
+    <text>At Higher Levels: When you cast this spell using a 3rd&#45; or 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5th&#45; or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.</text>
     <text />
     <text>Source: Xanathar&#39;s Guide to Everything, p. 164</text>
   </spell>
@@ -6183,7 +6183,7 @@
     <text>Source: Xanathar&#39;s Guide to Everything, p. 57</text>
   </spell>
 
-  <!-- Monsters -->
+ <!-- Monsters -->
   <monster>
     <name>Hound of Ill Omen</name>
     <size>M</size>

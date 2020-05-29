@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-    <!-- Spells -->
+   <!-- Spells -->
     <spell>
         <name>Flock of Familiars</name>
         <level>2</level>
@@ -64,7 +64,7 @@
     </spell>
 
     
-    <!-- Monsters -->
+   <!-- Monsters -->
     <monster>
         <name>Brain in a Jar</name>
         <size>M</size>
