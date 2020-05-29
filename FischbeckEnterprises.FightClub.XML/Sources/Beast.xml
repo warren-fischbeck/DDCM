@@ -24722,7 +24722,60 @@
     </slots>
     <spells>dancing lights, minor illusion, vicious mockery, identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
     <environment>Forest, Hill, Swamp</environment>
-    <description>None given.</description>
+    <description>Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts. 
+	
+	Faces of Evil
+	Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy. 
+	All hags possess magical powers, and some have an affinity for spellcasting. They can alter their forms or curse their foes, and their arrogance inspires them to view their magic as a challenge to the magic of the gods, whom they blaspheme at every opportunity. claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth. 
+	
+	Monstrous Motherhood
+	Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother. 
+	Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror. 
+	
+	Dark Bargains
+	Arrogant to a fault, hags believe themselves to be the most cunning of creatures, and they treat all others as inferior. Even so, a hag is open to dealing with mortals as long as those mortals show the proper respect and deference. Over their long lives, hags accumulate much knowledge of local lore, dark creatures, and magic, which they are pleased to sell. 
+	Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dearespecially if the thing lost diminishes or negates the knowledge gained through the bargain. 
+	
+	A Foul Nature
+	Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, s uppurating flesh. Attractive creatures evoke disgust in a hag, which might "help" such creatures by disfiguring or transforming them. 
+	This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke. 
+	
+	Dark Sorority
+	Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags- as long as the oath isn't given with the fingers crossed.  
+	Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson. 
+	
+	Dark Lairs
+	Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.   
+	
+	HAG COVENS
+	---------------------------------------- 
+	When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power. 
+	A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. 
+	
+	Shared Spellcasting
+	While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves: 
+	1st level (4 slots): identify, ray of sickness 
+	2nd level (3 slots): hold person, locate object 
+	3rd level (3 slots): bestow curse, counterspell, lightning bolt 
+	4th level (3 slots): phantasmal killer, polymorph 
+	5th level (2 slots): contact other plane, scrying 
+	6th level (1 slot): eye bite 
+	
+	For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 +the hag's Intelligence modifier, and the spell attack bonus is 4 +the hag's Intelligence modifier. 
+	
+	Hag Eye
+	A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours. 
+	A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.  
+	
+	GREEN HAG 
+	---------------------------------
+	The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts. 
+	
+	Obsession with Tragedy
+	Green hags revel in the failings and tragedies of other creatures. They derive joy from bringing people low and seeing hope turn into despair, not just for individuals but also for whole nations. 
+	
+	Covens
+	A green hag that is part of a coven (see the "Hag Covens" sidebar) has a challenge rating of 5 (1,800 XP).</description>
     <action>
       <name>Claws</name>
       <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.</text>
@@ -24959,7 +25012,17 @@
     <spells>
     </spells>
     <environment>Forest, Underdark</environment>
-    <description>None given.</description>
+    <description>The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak. 
+	
+	Passive Predators
+	Gricks rarely hunt. Instead, they drag their rubbery bodies to places where creatures regularly pass, lurking out of sight amid rocky rubble and debris, squeezing into burrows, holes, or crevices, climbing up to ledges, or coiling a round stalactites to drop on unwary prey. A grick consumes virtually anything that moves except for other gricks. It targets the nearest prey, grabbing a fall en creature with its tentacles and dragging it off to eat alone. 
+	
+	Roving Ambushers
+	Gricks remain in an area until the food supply dwindles, often because sentient creatures become aware of their presence and plot alternate routes a round their lairs. When prey is scarce in the Underdark, gricks venture aboveground to hunt in the wilderness, lurking in trees or on cliff-side ledges. 
+	A grick pack is often led by a single well-fed, oversized alpha around which the others congregate. 
+	
+	Spoils of Slaughter
+	Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these telltale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.</description>
     <action>
       <name>Multiattack</name>
       <text>The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.</text>
@@ -25015,7 +25078,17 @@
     <spells>
     </spells>
     <environment>Forest, Underdark</environment>
-    <description>None given.</description>
+    <description>The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak. 
+	
+	Passive Predators
+	Gricks rarely hunt. Instead, they drag their rubbery bodies to places where creatures regularly pass, lurking out of sight amid rocky rubble and debris, squeezing into burrows, holes, or crevices, climbing up to ledges, or coiling a round stalactites to drop on unwary prey. A grick consumes virtually anything that moves except for other gricks. It targets the nearest prey, grabbing a fall en creature with its tentacles and dragging it off to eat alone. 
+	
+	Roving Ambushers
+	Gricks remain in an area until the food supply dwindles, often because sentient creatures become aware of their presence and plot alternate routes a round their lairs. When prey is scarce in the Underdark, gricks venture aboveground to hunt in the wilderness, lurking in trees or on cliff-side ledges. 
+	A grick pack is often led by a single well-fed, oversized alpha around which the others congregate. 
+	
+	Spoils of Slaughter
+	Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these telltale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.</description>
     <action>
       <name>Multiattack</name>
       <text>The grick makes two attacks: one with its tail and one with its tentacles. If it hits with its tentacles, the grick can make one beak attack against the same target.</text>
@@ -25076,7 +25149,19 @@
     <spells>
     </spells>
     <environment>Arctic, Coastal, Grassland, Hill, Mountain</environment>
-    <description>None given.</description>
+    <description>Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace. 
+	
+	Horse Eaters
+	Griffons hunt in small prides, flying high over plains and forests near their rocky cliff-side aeries. Herd animals and horses are the prey they crave above all others, though they also hunt and kill hippogriffs. When it spots horses, a griffon screeches to alert its pride mates, which descend quickly toward their prey. 
+	Those riding or herding horses dread the griffon's piercing cry, preparing themselves for the bloody fight that inevitably follows. A griffon ignores a horse's rider when possible, and a rider that abandons its mount, or a herder that releases one or two horses, can escape unharmed while the griffon targets its chosen prey.  Riders who attempt to protect their horses attract the full fury of an attacking griffon. 
+	
+	Sky Dweliers
+	Griffons lair in high rocky clifftop aeries, building their nests from sticks, leaves, and the bones of their prey. Once griffons establish a territory, they remain in that area until the food supply has been exhausted. 
+	Aggressive and territorial, griffons engage in brutal aerial combat to defend their aeries, tearing and shredding the wings of flying intruders to send them spiraling to the ground. Creatures that climb to a griffon's lair are plucked from the cliffs and eaten, or are knocked from the heights to go tumbling to their deaths. 
+	
+	Trained Mounts
+	A griffon raised from an egg can be trained to serve as a mount. However, such training is time consuming, expensive (mostly for the ample food the creature requires), and dangerous. Expert trainers well versed in the griffon's legendary ferocity are typically the only ones able to raise these creatures safely. 
+	Once trained, a griffon is a fierce and loyal steed. It bonds with one master for life, fighting to the death to protect that rider. A griffon mount retains its ravenous appetite for horseflesh, and a wise master ensures that a griffon remains satiated with other prey when passing through civilized lands.</description>
     <action>
       <name>Multiattack</name>
       <text>The griffon makes two attacks: one with its beak and one with its claws.</text>
@@ -25130,7 +25215,19 @@
     <spells>
     </spells>
     <environment>Underdark</environment>
-    <description>None given.</description>
+    <description>The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago. 
+	
+	Debased Cultists
+	The empire of the mind flayers once spread across many worlds, enslaving countless races. Among those were human cultures whose high priests the mind flayers subverted using their insidious powers of thought control. Those leaders gradually turned the faiths of their followers toward the illithids, which they worshiped as blasphemous deities. 
+	Over time, the rituals of these enslaved humans created fervent cannibal cults that regarded the brain eating of the mind flayers as a holy sacrament. The illithids commanded their worshipers to abduct other sentient creatures to be sacrificed. After the victims' brains had been consumed, the mind flayers gave the lifeless bodies to the cultists. 
+	
+	Blind Hunters
+	When the rule of the mind flayers crumbled, their cults faced constant warfare from their enemies, the same creatures that had once been their victims. The cults fled into the Underdark domains of their illithid gods. Over generations in that lightless realm, the cultists learned to rely on their other senses for survival. In time, their eyes withered away and eyelids sealed, leaving only covered eye sockets behind. 
+	A grimlock's ears prick up at the faintest footfall or whisper echoing down stone passageways. It can speak in tones too low for most other humanoids to hear. The odors of sweat, flesh, and blood awaken its hunger, and it can track by such scents like a bloodhound. To enhance their senses, grim locks leave trails of blood, piles of dung, or the viscera of slain prey in places far from their lairs. When intruders pass through those areas, they carry the foul scents with them, wa rning the grimlocks of their approach. 
+	For most creatures, blindness is an enormous hindrance. For a grimlock with its other heightened senses, sightlessness is a boon. A grimlock isn't fooled by visual illusions or misperceptions. It is fearless as it stalks prey. 
+	
+	Endless War
+	Grimlocks still venerate the mind flayers, serving them whenever possible. Grimlocks also recall the war in which they were driven underground. To them, it has never ended. They continue to return to the surface world to abduct captives for their illithid masters.</description>
     <action>
       <name>Spiked Bone Club</name>
       <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.</text>
@@ -25825,7 +25922,44 @@
     <spells>
     </spells>
     <environment>coastal,forest,grassland,hill,mountain</environment>
-    <description>None given.</description>
+    <description>When a dragon in polymorphed form mates with another creature, the union sometimes produces halfdragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon. 
+	
+	Draconic Nature
+	Half-dragons are incapable of having natural born offspring. Those that wish to propagate must find other ways to do so, almost always involving magic. By way of compensation, halfdragons are blessed with long life. Barring unforeseen misfortune, a typical half-dragon's life expectancy is twice that of its nondraconic line, so that a half-dragon human might live more than a century and a half. 
+	Half-dragons inherit personality traits common to their draconic heritage, so that half-gold dragons are often shy and secretive, while half-copper dragons are impish and playful. Half-green dragons are deceitful, while half-white dragons are often dim-witted brutes. 
+	These traits are tempered by a half-dragon's other lineage, but greed, arrogance, and paranoia are qualities that even good-aligned half-dragons often possess.
+	
+	HALF-DRAGON TEMPLATE 
+	----------------------------
+	A beast, humanoid, giant, or monstrosity can become a half-dragon. When a creature becomes a half-dragon, it retains all its statistics except as noted below. 
+	
+	Senses
+	The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet. 
+	
+	Resistances
+	The half-dragon gains resistance to a type of damage based on its color. 
+	Color                  Damage Resistance
+	Black or copper        Acid
+	Blue or bronze         Lightning
+	Brass, gold, or red    Fire
+	Green                  Poison
+	Silver or white        Cold
+	
+	Languages
+	The half-dragon speaks Draconic in addition to any other languages it knows. 
+	
+	New Action:
+	Breath Weapon
+	The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions. 
+	
+	Size                  Breath Weapon 
+	Large or smaller      As a wyrmling
+	Huge                  As a young dragon
+	Gargantuan            As an adult dragon     
+	
+	SAMPLE HALF-DRAGON 
+	--------------------------------
+	Here the half-dragon template has been applied to a human veteran to create a half-red dragon veteran. Splint armor has been replaced with plate.</description>
     <action>
       <name>Multiattack</name>
       <text>The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.</text>
@@ -25889,7 +26023,23 @@
     <spells>
     </spells>
     <environment>Coastal, Forest, Hill, Mountain</environment>
-    <description>None given.</description>
+    <description>Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume. A harpy combines the body, legs, and wings of a vulture with the torso, arms, and head of a human. 
+	Its wicked talons and bone club make it a formidable threat in combat, and its eyes reflect the absolute evil of its soul. 
+	
+	Divine Curse
+	Long ago, an elf wandering a forest heard birdsong so pure and wholesome that she was moved to tears. Following the music, she came upon a clearing where stood a handsome elf youth who had also paused to hear the bird's song. This was Fenmarel Mestarine, a reclusive elf god. His divine presence stole her heart as he fled, vanishing into the woods as if he was never there. 
+	Though the elf searched the woods and called for her stranger, she found no sign of his passage. Driven ot despair by her longing, she begged the gods to help her. Aerdrie Faenya, elf goddess of the sky, heard the elf's cries and was moved to her aid. She appeared as the bird whose song had entranced the outcast god, then taught that song of beauty and seduction to the elf.
+	When her singing failed to draw Fenmarel Mestarine to her side, the elf cursed the gods, invoking a dreadful power and transforming her into the first harpy. The curse worked its magic on the elf's spirit as well as her body, turning her desire for love into a hunger for flesh, even as her beautiful song continued to draw creatures to her deadly embrace. 
+	
+	Harpy Song
+	To hear a harpy's song is to hear music more beautiful than anything else in the world. A traveler that succumbs to the entrancing effect of that singing is compelled to blunder toward its source. A harpy sometimes charms victims before it attacks, but a more effective use of its song is to lure prey over cliffs, into bogs and quicksand, or into deadly pits. Creatures trapped or incapacitated then become easy targets for the harpy's wrath. 
+	
+	Sadistic Cowards
+	Harpies haunt bleak coastal cliffs and other places hazardous to non-flying creatures. Harpies have no interest in a fair fight, and they never attack unless they have a clear advantage. If a fight turns against a harpy, it lacks the cunning to adapt and will flee and go hungry rather than risk straight-up combat. 
+	When they attack, harpies play with their food, delighting in the "music" their victims make as they scream. A harpy takes its time dismembering a helpless foe and can spend days torturing a victim before the merciful end. 
+	
+	Gruesome Collectors
+	Harpies take shiny baubles, valuable objects, and other trophies from their victims, sometimes fighting with each other for the right to claim the choicest prizes. When no valuable objects can be found, a harpy takes hair, bones, or body parts to line its nest. A harpy's lair is usually hidden in remote ruins, where adventurers can discover valuable treasure and magic hidden beneath foul piles of offal. </description>
     <action>
       <name>Multiattack</name>
       <text>The harpy makes two attacks: one with its claws and one with its club.</text>
@@ -25993,7 +26143,14 @@
     <spells>
     </spells>
     <environment>Mountain, Underdark</environment>
-    <description>None given.</description>
+    <description>Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions. 
+	
+	Burning Hunger
+	Hell hounds hunt in packs, feeding on any creature that appears edible. They avoid potentially dangerous foes in favor of targeting the weakest prey with their savage bite and fiery breath, demonstrating a relentless determination as they pursue that prey to the bitter end. 
+	When hell hounds feed, the flesh they consume stokes the infernal fires that burn within them. When a hell hound dies, that fire consumes the creature's remains in a billowing eruption of smoke and blazing embers, leaving nothing behind but scorched tufts of black fur. 
+	
+	Evil to the Core
+	Hell hounds are smarter than mundane beasts, and their lawful nature makes them good at following orders. However, a hell hound's evil disposition means that the creature can't be trained to be anything other than a ruthless killer. If a hell hound isn't allowed to indulge its malevolent hunger, it quickly abandons or turns against its master.</description>
     <action>
       <name>Bite</name>
       <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.</text>
@@ -34491,7 +34648,72 @@
     </slots>
     <spells>detect magic, magic missile, plane shift, ray of enfeeblement, sleep, identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
     <environment>coastal,forest,grassland,hill,mountain</environment>
-    <description>None given.</description>
+    <description>Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts. 
+	
+	Faces of Evil
+	Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy. 
+	All hags possess magical powers, and some have an affinity for spellcasting. They can alter their forms or curse their foes, and their arrogance inspires them to view their magic as a challenge to the magic of the gods, whom they blaspheme at every opportunity. claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth. 
+	
+	Monstrous Motherhood
+	Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother. 
+	Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror. 
+	
+	Dark Bargains
+	Arrogant to a fault, hags believe themselves to be the most cunning of creatures, and they treat all others as inferior. Even so, a hag is open to dealing with mortals as long as those mortals show the proper respect and deference. Over their long lives, hags accumulate much knowledge of local lore, dark creatures, and magic, which they are pleased to sell. 
+	Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dearespecially if the thing lost diminishes or negates the knowledge gained through the bargain. 
+	
+	A Foul Nature
+	Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, s uppurating flesh. Attractive creatures evoke disgust in a hag, which might "help" such creatures by disfiguring or transforming them. 
+	This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke. 
+	
+	Dark Sorority
+	Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags- as long as the oath isn't given with the fingers crossed.  
+	Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson. 
+	
+	Dark Lairs
+	Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.   
+	
+	HAG COVENS
+	---------------------------------------- 
+	When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power. 
+	A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. 
+	
+	Shared Spellcasting
+	While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves: 
+	1st level (4 slots): identify, ray of sickness 
+	2nd level (3 slots): hold person, locate object 
+	3rd level (3 slots): bestow curse, counterspell, lightning bolt 
+	4th level (3 slots): phantasmal killer, polymorph 
+	5th level (2 slots): contact other plane, scrying 
+	6th level (1 slot): eye bite 
+	
+	For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 +the hag's Intelligence modifier, and the spell attack bonus is 4 +the hag's Intelligence modifier. 
+	
+	Hag Eye
+	A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours. 
+	A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.  
+	
+	NIGHT HAG 
+	---------------------------------
+	Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals. 
+	Night hags were once creatures of the Feywild, but their foulness saw them exiled to Hades long ago, where they degenerated into fiends. The night hags have long since spread across the Lower Planes. 
+	
+	Soulmongers
+	While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. 
+	The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades. 
+	
+	Covens
+	A night hag that is part of a coven (see the "Hag Covens" sidebar) has a challenge rating of 7 (2,900 XP). 
+	
+	NIGHT HAG ITEMS
+	------------------------------- 
+	A night hag carries two very rare magic items that she must craft for herself If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort. 
+	
+	Heartstone
+	This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days. 
+	
+	Soul Bag
+	When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh . A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</description>
     <action>
       <name>Claws (Hag Form Only)</name>
       <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.</text>
@@ -40197,7 +40419,60 @@
     </slots>
     <spells>identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
     <environment>Coastal, Underwater</environment>
-    <description>None given.</description>
+    <description>Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts. 
+	
+	Faces of Evil
+	Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy. 
+	All hags possess magical powers, and some have an affinity for spellcasting. They can alter their forms or curse their foes, and their arrogance inspires them to view their magic as a challenge to the magic of the gods, whom they blaspheme at every opportunity. claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth. 
+	
+	Monstrous Motherhood
+	Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother. 
+	Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror. 
+	
+	Dark Bargains
+	Arrogant to a fault, hags believe themselves to be the most cunning of creatures, and they treat all others as inferior. Even so, a hag is open to dealing with mortals as long as those mortals show the proper respect and deference. Over their long lives, hags accumulate much knowledge of local lore, dark creatures, and magic, which they are pleased to sell. 
+	Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dearespecially if the thing lost diminishes or negates the knowledge gained through the bargain. 
+	
+	A Foul Nature
+	Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, s uppurating flesh. Attractive creatures evoke disgust in a hag, which might "help" such creatures by disfiguring or transforming them. 
+	This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke. 
+	
+	Dark Sorority
+	Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags- as long as the oath isn't given with the fingers crossed.  
+	Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson. 
+	
+	Dark Lairs
+	Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.   
+	
+	HAG COVENS
+	---------------------------------------- 
+	When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power. 
+	A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. 
+	
+	Shared Spellcasting
+	While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves: 
+	1st level (4 slots): identify, ray of sickness 
+	2nd level (3 slots): hold person, locate object 
+	3rd level (3 slots): bestow curse, counterspell, lightning bolt 
+	4th level (3 slots): phantasmal killer, polymorph 
+	5th level (2 slots): contact other plane, scrying 
+	6th level (1 slot): eye bite 
+	
+	For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 +the hag's Intelligence modifier, and the spell attack bonus is 4 +the hag's Intelligence modifier. 
+	
+	Hag Eye
+	A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours. 
+	A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.  
+	
+	SEA HAG 
+	---------------------------------
+	Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters. Beauty drives a sea hag to fits of anger. When confronted with something beautiful, the hag might simply attack it or deface it. If something beautiful gives hope, a sea hag wants it to cause despair. If it inspires courage, the sea hag wants it to cause fear. 
+	
+	Ugly Inside and Out
+	Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag's hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll's. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best. 
+	
+	Covens
+	A sea hag that is part of a coven (see the "Hag Covens" sidebar) has a challenge rating of 4 (1,100 XP). </description>
     <action>
       <name>Claws</name>
       <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.</text>
