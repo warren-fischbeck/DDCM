@@ -141,7 +141,7 @@ foreach($Spell in $SpellData)
         $newSpell = $XMLSpellData.AppendChild($newSpellElement)  
             
             $newSpellName = $xmlFile.CreateElement("name")
-                $newSpellName.InnerXml = "$($name)"
+                $newSpellName.InnerXml = "$($Spell.name)"
                 $newSpellName.Attributes.Append($newNameAttribute) | Out-Null
                 $newSpell.AppendChild($newSpellName) | Out-Null
 
