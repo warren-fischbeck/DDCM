@@ -825,7 +825,7 @@ class NPCXML
     }
 }
 
-[NPC] $nPC = [NPC]::new("Non-Combat", "human")
-$npc.NPCName = "Gealin Nigh"
-$nPC.AddLevel(5)
+[NPC] $nPC = [NPC]::new("Rouge", "Gnome")
+$npc.NPCName = "Yeth Suibhne"
+$nPC.AddLevel(15)
 $nPC.Save()
