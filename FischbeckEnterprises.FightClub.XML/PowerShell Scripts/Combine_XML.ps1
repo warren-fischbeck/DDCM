@@ -386,12 +386,41 @@ Function Create-XMLFile
                                 $TraitName = $xmlFile.CreateElement("name"); $TraitName.InnerXml = $sourceItem[$i].trait[$a].name; $item.AppendChild($TraitName) | Out-Null
                                 $TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $sourceItem[$i].trait[$a].text; $item.AppendChild($TraitText) | Out-Null
                         }
-                        for($a = 0; $a -lt $sourceItem[$i].action.Count; $a++)
+                        if($sourceItem[$i].action.Count -ne $null)
+                        {
+                            for($a = 0; $a -lt $sourceItem[$i].action.Count; $a++)
+                            {
+                                $item = $xmlFile.CreateElement("action"); $newMonster.AppendChild($item) | Out-Null 
+                                    $TraitName = $xmlFile.CreateElement("name"); $TraitName.InnerXml = $sourceItem[$i].action[$a].name; $item.AppendChild($TraitName) | Out-Null
+                                    foreach($text in $sourceItem[$i].action[$a].text)
+                                    {
+                                        #$TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $sourceItem[$i].action[$a].text; $item.AppendChild($TraitText) | Out-Null
+                                        #$text
+                                        $TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $text; $item.AppendChild($TraitText) | Out-Null
+                                    }
+                                    foreach($attack in $sourceItem[$i].action[$a].attack)
+                                    {
+                                        #$TraitAttack = $xmlFile.CreateElement("attack"); $TraitAttack.InnerXml = $sourceItem[$i].action[$a].attack; $item.AppendChild($Traitattack) | Out-Null
+                                        $TraitAttack = $xmlFile.CreateElement("attack"); $TraitAttack.InnerXml = $attack; $item.AppendChild($Traitattack) | Out-Null
+                                    }
+                            }
+                        }
+                        else
                         {
                             $item = $xmlFile.CreateElement("action"); $newMonster.AppendChild($item) | Out-Null 
-                                $TraitName = $xmlFile.CreateElement("name"); $TraitName.InnerXml = $sourceItem[$i].action[$a].name; $item.AppendChild($TraitName) | Out-Null
-                                $TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $sourceItem[$i].action[$a].text; $item.AppendChild($TraitText) | Out-Null
-                                $TraitAttack = $xmlFile.CreateElement("attack"); $TraitAttack.InnerXml = $sourceItem[$i].action[$a].attack; $item.AppendChild($Traitattack) | Out-Null
+                            $TraitName = $xmlFile.CreateElement("name"); $TraitName.InnerXml = $sourceItem[$i].action.name; $item.AppendChild($TraitName) | Out-Null
+                            foreach($text in $sourceItem[$i].action.text)
+                            {
+                                #$TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $sourceItem[$i].action[$a].text; $item.AppendChild($TraitText) | Out-Null
+                                #$text
+                                $TraitText = $xmlFile.CreateElement("text"); $TraitText.InnerXml = $text; $item.AppendChild($TraitText) | Out-Null
+                            }
+                            foreach($attack in $sourceItem[$i].action.attack)
+                            {
+                                #$TraitAttack = $xmlFile.CreateElement("attack"); $TraitAttack.InnerXml = $sourceItem[$i].action[$a].attack; $item.AppendChild($Traitattack) | Out-Null
+                                $TraitAttack = $xmlFile.CreateElement("attack"); $TraitAttack.InnerXml = $attack; $item.AppendChild($Traitattack) | Out-Null
+                            }
+
                         }
                         for($a = 0; $a -lt $sourceItem[$i].reaction.Count; $a++)
                         {
