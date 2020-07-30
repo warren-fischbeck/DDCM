@@ -881,7 +881,7 @@
     <name>Alkilith</name>
     <size>M</size>
     <type>fiend</type>
-    <alignment>chaotic evil </alignment>
+    <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>157 (15d8+90)</hp>
     <speed>40 ft.</speed>
@@ -938,7 +938,7 @@
     <name>Allip</name>
     <size>M</size>
     <type>undead</type>
-    <alignment>neutral evil </alignment>
+    <alignment>neutral evil</alignment>
     <ac>13 ()</ac>
     <hp>40 (9d8)</hp>
     <speed>0 ft., fly 40 ft. (hover)</speed>
@@ -7888,7 +7888,7 @@
     <name>Sacred Statue</name>
     <size>L</size>
     <type>construct</type>
-    <alignment>as the eidolon&#39;s alignment</alignment>
+    <alignment>unaligned</alignment>
     <ac>19 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
     <speed>25 ft.</speed>

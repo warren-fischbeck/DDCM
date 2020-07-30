@@ -48495,7 +48495,7 @@
     <name>Duodrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>11 (2d8+2)</hp>
     <speed>30 ft.</speed>
@@ -57867,7 +57867,7 @@
     <name>Monodrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>5 (1d8+1)</hp>
     <speed>30 ft., fly 30 ft.</speed>
@@ -59602,7 +59602,7 @@
     <name>Pentadrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>32 (5d10+5)</hp>
     <speed>40 ft.</speed>
@@ -60500,7 +60500,7 @@
     <name>Quadrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>22 (4d8+4)</hp>
     <speed>30 ft., fly 30 ft.</speed>
@@ -64680,7 +64680,7 @@
     <name>Tridrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>16 (3d8+3)</hp>
     <speed>30 ft.</speed>

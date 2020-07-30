@@ -15102,7 +15102,7 @@
     <name>Ras Nsi</name>
     <size>M</size>
     <type>monstrosity</type>
-    <alignment>yuan-ti), neutral evil</alignment>
+    <alignment>neutral evil</alignment>
     <ac>15 (bracers of defense)</ac>
     <hp>127 (17d8+51)</hp>
     <speed>30 ft.</speed>
@@ -16191,55 +16191,6 @@
       <name>Claw</name>
       <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage</text>
       <attack>Claw|6|2d8+3</attack>
-    </action>
-    <spells></spells>
-    <slots></slots>
-  </monster>
-  <monster>
-    <name>Sea Lion</name>
-    <size>L</size>
-    <type>beast</type>
-    <alignment>unaligned</alignment>
-    <ac>16 (natural armor)</ac>
-    <hp>15 (2d10+4)</hp>
-    <speed>15 ft., swim 30 ft.</speed>
-    <str>17</str>
-    <dex>10</dex>
-    <con>14</con>
-    <int>5</int>
-    <wis>10</wis>
-    <cha>12</cha>
-    <save>Dex +2, Con +4</save>
-    <skill>Athletics +5, Perception +2</skill>
-    <resist></resist>
-    <vulnerable></vulnerable>
-    <immune></immune>
-    <conditionImmune></conditionImmune>
-    <senses></senses>
-    <passive>12</passive>
-    <languages></languages>
-    <cr>1/2</cr>
-    <trait>
-      <name>Source</name>
-      <text>Ghosts of Saltmarsh, p. 252</text>
-    </trait>
-    <trait>
-      <name>Hold Breath</name>
-      <text>The sea lion can hold its breath for 15 minutes.</text>
-    </trait>
-    <action>
-      <name>Multiattack</name>
-      <text>The sea lion makes three attacks: one bite attack and two claw attacks.</text>
-    </action>
-    <action>
-      <name>Bite</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.</text>
-      <attack>Bite|5|1d8+3</attack>
-    </action>
-    <action>
-      <name>Claws</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) slashin damage, and the target is pushed up to 5 feet away from the sea lion.</text>
-      <attack>Claws|5|1d4+3</attack>
     </action>
     <spells></spells>
     <slots></slots>

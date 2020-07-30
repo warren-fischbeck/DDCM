@@ -1139,7 +1139,7 @@
     <name>Oak Truestrike</name>
     <size>M</size>
     <type>humanoid</type>
-    <alignment>Neutral Good Neutral Evil</alignment>
+    <alignment>Neutral Good</alignment>
     <ac>15 (studded leather armor)</ac>
     <hp>32 (5d8+10)</hp>
     <speed>walk 30 ft.</speed>

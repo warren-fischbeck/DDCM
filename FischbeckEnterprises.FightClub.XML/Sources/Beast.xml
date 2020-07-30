@@ -11988,7 +11988,7 @@
     <name>Darathra Shendrel</name>
     <size>M</size>
     <type>humanoid(Illuskan humanoid)</type>
-    <alignment>lawfull good</alignment>
+    <alignment>lawful good</alignment>
     <ac>14 (breastplate)</ac>
     <hp>52 (8d8+16)</hp>
     <speed>30 ft.</speed>
@@ -16294,7 +16294,7 @@
     <name>Duodrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>Unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>11 (2d8+2)</hp>
     <speed>30 ft.</speed>
@@ -17020,7 +17020,7 @@
     <name>Empyrean</name>
     <size>H</size>
     <type>celestial</type>
-    <alignment>chaotic good (75%) or neutral evil (25%)</alignment>
+    <alignment>chaotic good</alignment>
     <ac>22 (natural armor)</ac>
     <hp>313 (19d12+190)</hp>
     <speed>50 ft., fly 50 ft., swim 50 ft.</speed>
@@ -33117,7 +33117,7 @@
     <name>Monodrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>5 (1d8+1)</hp>
     <speed>30 ft., fly 30 ft.</speed>
@@ -36809,7 +36809,7 @@
     <name>Pentadrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>32 (5d10+5)</hp>
     <speed>40 ft.</speed>
@@ -37967,7 +37967,7 @@
     <name>Quadrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>22 (4d8+4)</hp>
     <speed>30 ft., fly 30 ft.</speed>
@@ -40589,79 +40589,6 @@
     <trait>
       <name>Water Breathing</name>
       <text>The sea horse can breathe only underwater.</text>
-    </trait>
-  </monster>
-  <monster>
-    <name>Sea Lion</name>
-    <size>L</size>
-    <type>monstrosity</type>
-    <alignment>unaligned</alignment>
-    <ac>15 (natural armor)</ac>
-    <hp>90 (12d10+24)</hp>
-    <speed>10 ft., swim 40 ft.</speed>
-    <init>2</init>
-    <str>17</str>
-    <dex>15</dex>
-    <con>15</con>
-    <int>3</int>
-    <wis>12</wis>
-    <cha>8</cha>
-    <save>
-    </save>
-    <skill>Perception +4, Stealth +5</skill>
-    <vulnerable>
-    </vulnerable>
-    <resist>
-    </resist>
-    <immune>
-    </immune>
-    <conditionImmune>
-    </conditionImmune>
-    <senses>
-    </senses>
-    <passive>14</passive>
-    <languages>
-    </languages>
-    <cr>5</cr>
-    <slots>
-    </slots>
-    <spells>
-    </spells>
-    <environment>Coastal, Underwater</environment>
-    <description>None given.</description>
-    <action>
-      <name>Multiattack</name>
-      <text>The sea lion makes three attacks: one bite attack and two claw attacks.</text>
-    </action>
-    <action>
-      <name>Bite</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.</text>
-      <attack>Bite|6|2d8+3</attack>
-    </action>
-    <action>
-      <name>Claw</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage</text>
-      <attack>Claw|6|2d8+3</attack>
-    </action>
-    <trait>
-      <name>Source</name>
-      <text>tales from the yawning portal,  page 242</text>
-    </trait>
-    <trait>
-      <name>Amphibious</name>
-      <text>The sea lion can breathe air and water.</text>
-    </trait>
-    <trait>
-      <name>Keen Smell</name>
-      <text>The sea lion has advantage on Wisdom (Perception) checks that rely on smell.</text>
-    </trait>
-    <trait>
-      <name>Pack Tactics</name>
-      <text>The sea lion has advantage on an attack roll against a creature if at least one of the sea lion&#39;s allies is within 5 feet of the creature and the ally isn&#39;t incapacitated.</text>
-    </trait>
-    <trait>
-      <name>Swimming Leap</name>
-      <text>With a 10-foot swimming start, the sea lion can long jump out of or across the water up to 25 feet.</text>
     </trait>
   </monster>
   <monster>
@@ -45881,7 +45808,7 @@
     <name>Tridrone</name>
     <size>M</size>
     <type>construct</type>
-    <alignment>construct</alignment>
+    <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>16 (3d8+3)</hp>
     <speed>30 ft.</speed>
@@ -52382,94 +52309,6 @@
       <text>Type 1: Human body with snake head</text>
       <text>Type 2: Human head and body with snakes for arms</text>
       <text>Type 3: Human head and upper body with a serpentine lower body instead of legs</text>
-    </trait>
-  </monster>
-  <monster>
-    <name>Yuan-ti Mind Whisperer</name>
-    <size>M</size>
-    <type>monstrosity</type>
-    <alignment>neutral evil</alignment>
-    <ac>14 (natural armor)</ac>
-    <hp>71 (13d8+13)</hp>
-    <speed>30 ft.</speed>
-    <init>2</init>
-    <str>16</str>
-    <dex>14</dex>
-    <con>13</con>
-    <int>14</int>
-    <wis>12</wis>
-    <cha>16</cha>
-    <save>Wis +4, Cha +5</save>
-    <skill>Deception +5, Stealth +4</skill>
-    <vulnerable>
-    </vulnerable>
-    <resist>
-    </resist>
-    <immune>poison</immune>
-    <conditionImmune>poisoned</conditionImmune>
-    <senses>darkvision 120 ft. (penetrates magical darkness)</senses>
-    <passive>12</passive>
-    <languages>Abyssal, Common, Draconic</languages>
-    <cr>4</cr>
-    <slots>
-    </slots>
-    <spells>animal friendship, suggestion, eldritch blast, friends, message, minor illusion, poison spray, prestidigitation, charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, illusory script</spells>
-    <environment>desert</environment>
-    <description>None given.</description>
-    <action>
-      <name>Multiattack (Yuan-ti Form Only)</name>
-      <text>The yuan-ti makes one bite attack and one scimitar attack.</text>
-    </action>
-    <action>
-      <name>Bite</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.</text>
-      <attack>Bite|5|1d4+3+2d6</attack>
-    </action>
-    <action>
-      <name>Scimitar (Yuan-ti Form Only)</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.</text>
-      <attack>Scimitar|5|1d6+3</attack>
-    </action>
-    <trait>
-      <name>Shapechanger</name>
-      <text>The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn&#39;t transformed. If it dies, it stays in its current form.</text>
-    </trait>
-    <trait>
-      <name>Innate Spellcasting (Yuan-ti Form Only)</name>
-      <text>The yuan-ti&#39;s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:</text>
-      <text />
-      <text>At will: animal friendship (snakes only)</text>
-      <text />
-      <text>3/day: suggestion</text>
-    </trait>
-    <trait>
-      <name>Magic Resistance</name>
-      <text>The yuan-ti has advantage on saving throws against spells and other magical effects.</text>
-    </trait>
-    <trait>
-      <name>Mind Fangs (2/Day)</name>
-      <text>The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.</text>
-      <attack>Mind Fangs| |3d10</attack>
-    </trait>
-    <trait>
-      <name>Spellcasting (Yuan-ti Form Only)</name>
-      <text>The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:</text>
-      <text />
-      <text>Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll),friends, message, minor illusion, poison spray, prestidigitation</text>
-      <text />
-      <text>1st-3rd level (2 3rd-level slots): charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, illusory script</text>
-    </trait>
-    <trait>
-      <name>Sseth&#39;s Blessing</name>
-      <text>When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.</text>
-    </trait>
-    <trait>
-      <name>Variant: Chameleon Skin</name>
-      <text>The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.</text>
-    </trait>
-    <trait>
-      <name>Variant: Shed Skin (1/Day)</name>
-      <text>The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.</text>
     </trait>
   </monster>
   <monster>
