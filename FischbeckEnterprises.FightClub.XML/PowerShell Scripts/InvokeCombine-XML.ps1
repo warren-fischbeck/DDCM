@@ -30,6 +30,7 @@ class BeastXML
                 "any evil alignment",
                 "any non-lawful alignment",
                 "any chaotic alignment",
+                "neutral evil (50%) lawful evil (50%)",
                 "neutral good (50%) or neutral evil (50%)")]
     [string] $Alignment
 
@@ -506,25 +507,6 @@ class ActionTraitLegendary
 }
 
 $beast = $null
-
-<#
-[xml] $content = Get-Content C:\Users\wfischbeck\source\repos\warren-fischbeck\DDCM\FischbeckEnterprises.FightClub.XML\Sources\Beast.xml
-[xml] $core = Get-Content C:\Users\wfischbeck\source\repos\warren-fischbeck\DDCM\FischbeckEnterprises.FightClub.XML\Sources\CoreRulebooks.xml
-
-$beasts = $content.compendium.monster
-foreach($b in $beasts)
-{
-    [BeastXML] $beast = [BeastXML]::new($b)
-    $beast.CreateXML($xmlFile)
-}
-$beasts = $core.compendium.monster
-foreach($b in $beasts)
-{
-    [BeastXML] $beast = [BeastXML]::new($b)
-    $beast.CreateXML($xmlFile)
-}
-#>
-
 ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren-fischbeck\DDCM\FischbeckEnterprises.FightClub.XML\Sources\"))
 {
     [xml] $content = Get-Content -Path $Files.FullName
@@ -537,5 +519,6 @@ ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren
     }
 }
 
+$xmlFile.compendium.monster | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 Write-Host "A total of $($xmlFile.compendium.monster.Count) monsters"
 $xmlFile.Save("$($env:OneDriveConsumer)\Documents\Dungeon & Dragons\xml_Sheets\Complete\_NewComplete.xml")

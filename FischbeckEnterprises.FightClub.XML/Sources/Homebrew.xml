@@ -2196,7 +2196,241 @@
     </trait>
   </background>
 
+  <monster>
+    <name>Goblin, Moonclaw Tribe</name>
+    <size>S</size>
+    <type>humanoid</type>
+    <alignment>neutral evil</alignment>
+    <ac>15 (leather armor, shield)</ac>
+    <hp>11 (3d6)</hp>
+    <speed>30 ft.</speed>
+    <str>8</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>8</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Stealth +6</skill>
+    <resist></resist>
+    <vulnerable></vulnerable>
+    <immune></immune>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <passive>9</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1/2</cr>
+    <trait>
+      <name>Source</name>
+      <text>Custom monster in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    </trait>
+    <trait>
+      <name>Nimble Escape</name>
+      <text>The goblin can take the Disengage or Hide action as a bonus action on each of its turns.</text>
+    </trait>
+    <action>
+      <name>Scimitar</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.</text>
+      <attack>|4|1d6+2</attack>
+    </action>
+    <action>
+      <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage.</text>
+      <attack>|4|1d6+2</attack>
+    </action>
+    <spells></spells>
+    <slots></slots>
+    <environment>forest, grassland, hill, underdark</environment>
+    <description>
+      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#45; sometimes overwhelming&#45; numbers. They crave power and regularly abuse whatever authority they obtain.
 
+      Goblinoids
+      Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
+
+      Malicious Glee
+      Motivated by greed and malice, goblins can&#39;t help but celebrate the few times they have the upper hand. They dance, caper with sheer joy when victory is theirs. Once their revels have ended, goblins delight in the torment of other creatures and embrace all manner of wickedness.
+
+      Leaders and Followers
+      Goblins are ruled by the strongest or smartest among them. A goblin boss might command a single lair, while a goblin king or queen (who is nothing more than a glorified goblin boss) rules hundreds of goblins, spread out among multiple lairs to ensure the tribe&#39;s survival. Goblin bosses are easily ousted, and many goblin tribes are taken over by hobgoblin warlords or bugbear chiefs .
+
+      Challenging Lairs
+      Goblins festoon their lairs with alarms designed to signal the arrival of intruders. Those lairs are a lso riddled with narrow tunnels and bolt-holes that human-sized creatures can&#39;t navigate, but which goblins can crawl through with ease, a llowing them to flee or to circle around and s urprise their enemies. Rat Keepers and Wolf Riders. Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
+
+      Worshipers of Maglubiyet
+      Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet&#39;s army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One&#39;s eternal tyranny even more than death.
+    </description>	
+  </monster>
+  <monster>
+    <name>Goblin Elite, Moonclaw Tribe</name>
+    <size>S</size>
+    <type>humanoid</type>
+    <alignment>neutral evil</alignment>
+    <ac>17 (chain shirt, shield)</ac>
+    <hp>14 (4d6)</hp>
+    <speed>30 ft.</speed>
+    <str>12</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>8</wis>
+    <cha>8</cha>
+    <save></save>
+    <skill>Stealth +6</skill>
+    <resist></resist>
+    <vulnerable></vulnerable>
+    <immune></immune>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <passive>9</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1/2</cr>
+    <trait>
+      <name>Source</name>
+      <text>Custom monster in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    </trait>
+    <trait>
+      <name>Nimble Escape</name>
+      <text>The goblin can take the Disengage or Hide action as a bonus action on each of its turns.</text>
+    </trait>
+    <action>
+      <name>Shortsword</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.</text>
+      <attack>Shortsword|4|1d6+2</attack>
+    </action>
+    <action>
+      <name>Shortbow</name>
+      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage.</text>
+      <attack>Shortbow|4|1d6+2</attack>
+    </action>
+    <reaction>
+      <name>Petrifiction</name>
+      <text>A secret ritual unique to the Moonclaw tribe.  When the goblin is reduced to 0 hitpoints but not killed outright, it can use its reaction to become petrified.  At the beginning of its next turn it explodes. Each creature in a 15-foot radius must make a Dexterity saving throw with a DC of 11.  A target takes 2d6 fire damage and 2d6 bludgeoning damage on a failed save or half as much on a successful one.</text>
+      <attack>Explosive|0|2d6+2d6</attack>
+    </reaction>
+    <spells></spells>
+    <slots></slots>
+    <environment>forest, grassland, hill, underdark</environment>
+     <description>
+      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#45; sometimes overwhelming&#45; numbers. They crave power and regularly abuse whatever authority they obtain.
+
+      Goblinoids
+      Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
+
+      Malicious Glee
+      Motivated by greed and malice, goblins can&#39;t help but celebrate the few times they have the upper hand. They dance, caper with sheer joy when victory is theirs. Once their revels have ended, goblins delight in the torment of other creatures and embrace all manner of wickedness.
+
+      Leaders and Followers
+      Goblins are ruled by the strongest or smartest among them. A goblin boss might command a single lair, while a goblin king or queen (who is nothing more than a glorified goblin boss) rules hundreds of goblins, spread out among multiple lairs to ensure the tribe&#39;s survival. Goblin bosses are easily ousted, and many goblin tribes are taken over by hobgoblin warlords or bugbear chiefs .
+
+      Challenging Lairs
+      Goblins festoon their lairs with alarms designed to signal the arrival of intruders. Those lairs are a lso riddled with narrow tunnels and bolt-holes that human-sized creatures can&#39;t navigate, but which goblins can crawl through with ease, a llowing them to flee or to circle around and s urprise their enemies. Rat Keepers and Wolf Riders. Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
+
+      Worshipers of Maglubiyet
+      Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet&#39;s army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One&#39;s eternal tyranny even more than death.
+	  
+	  Petrifiction
+	  &#42; A secret ritual unique to the Moonclaw tribe.  When the goblin is reduced to 0 hitpoints but not killed outright, it can use its reaction to become petrified.
+	  &#42; A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a sold inanimate substance (usually stone.)  Its weight increases by a factor of ten, and it ceases aging.
+	  &#42; The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surrounds.
+	  &#42; Attack rolls against the creature have advantage.
+	  &#42; The creature automatically fails Strength and Dexterity saving throws.
+	  &#42; The creature has resistance to all damage.
+	  &#42; The creature is immune to poison and disease, although a poison or desease already in its seytem is suspended, not neutralized.
+	  
+	  Incapacitated
+	  &#42; An incapacitated creature can't take actions or reactions.
+    </description>
+ </monster>
+  <monster>
+    <name>Goblin Boss, MoonClaw Tribe</name>
+    <size>S</size>
+    <type>humanoid</type>
+    <alignment>neutral evil</alignment>
+    <ac>18 (breastplate, shield)</ac>
+    <hp>21 (6d6)</hp>
+    <speed>30 ft.</speed>
+    <str>14</str>
+    <dex>14</dex>
+    <con>10</con>
+    <int>10</int>
+    <wis>8</wis>
+    <cha>10</cha>
+    <save></save>
+    <skill>Stealth +6</skill>
+    <resist></resist>
+    <vulnerable></vulnerable>
+    <immune></immune>
+    <conditionImmune></conditionImmune>
+    <senses>darkvision 60 ft.</senses>
+    <passive>9</passive>
+    <languages>Common, Goblin</languages>
+    <cr>1</cr>
+    <trait>
+      <name>Source</name>
+      <text>Custom monster in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    </trait>
+    <trait>
+      <name>Nimble Escape</name>
+      <text>The goblin can take the Disengage or Hide action as a bonus action on each of its turns.</text>
+    </trait>
+    <action>
+      <name>Multiattack</name>
+      <text>The goblin makes two attacks with its scimitar. The second attack has disadvantage.</text>
+    </action>
+    <action>
+      <name>Scimitar</name>
+      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.</text>
+      <attack>Scimitar|4|1d6+2</attack>
+    </action>
+    <action>
+      <name>Javelin</name>
+      <text>Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6+2) piercing damage.</text>
+      <attack>Javelin|2|1d6+2</attack>
+    </action>
+    <reaction>
+      <name>Redirect Attack</name>
+      <text>When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead.</text>
+    </reaction>
+    <reaction>
+      <name>Petrifiction</name>
+      <text>A secret ritual unique to the Moonclaw tribe.  When the goblin is reduced to 0 hitpoints but not killed outright, it can use its reaction to become petrified.  At the beginning of its next turn it explodes. Each creature in a 15-foot radius must make a Dexterity saving throw with a DC of 11.  A target takes 2d6 fire damage and 2d6 bludgeoning damage on a failed save or half as much on a successful one.</text>
+      <attack>Explosive|0|2d6+2d6</attack>
+    </reaction>
+	<spells></spells>
+    <slots></slots>
+    <environment>forest, grassland, hill, underdark</environment>
+    <description>
+      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#45; sometimes overwhelming&#45; numbers. They crave power and regularly abuse whatever authority they obtain.
+
+      Goblinoids
+      Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
+
+      Malicious Glee
+      Motivated by greed and malice, goblins can&#39;t help but celebrate the few times they have the upper hand. They dance, caper with sheer joy when victory is theirs. Once their revels have ended, goblins delight in the torment of other creatures and embrace all manner of wickedness.
+
+      Leaders and Followers
+      Goblins are ruled by the strongest or smartest among them. A goblin boss might command a single lair, while a goblin king or queen (who is nothing more than a glorified goblin boss) rules hundreds of goblins, spread out among multiple lairs to ensure the tribe&#39;s survival. Goblin bosses are easily ousted, and many goblin tribes are taken over by hobgoblin warlords or bugbear chiefs .
+
+      Challenging Lairs
+      Goblins festoon their lairs with alarms designed to signal the arrival of intruders. Those lairs are a lso riddled with narrow tunnels and bolt-holes that human-sized creatures can&#39;t navigate, but which goblins can crawl through with ease, a llowing them to flee or to circle around and s urprise their enemies. Rat Keepers and Wolf Riders. Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
+
+      Worshipers of Maglubiyet
+      Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet&#39;s army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One&#39;s eternal tyranny even more than death.
+	  
+	  Petrifiction
+	  &#42; A secret ritual unique to the Moonclaw tribe.  When the goblin is reduced to 0 hitpoints but not killed outright, it can use its reaction to become petrified.
+	  &#42; A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a sold inanimate substance (usually stone.)  Its weight increases by a factor of ten, and it ceases aging.
+	  &#42; The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surrounds.
+	  &#42; Attack rolls against the creature have advantage.
+	  &#42; The creature automatically fails Strength and Dexterity saving throws.
+	  &#42; The creature has resistance to all damage.
+	  &#42; The creature is immune to poison and disease, although a poison or desease already in its seytem is suspended, not neutralized.
+	  
+	  Incapacitated
+	  &#42; An incapacitated creature can't take actions or reactions.
+    </description>
+  </monster>
+  
   <feat>
     <name>Boon of Advancement</name>
     <prerequisite>20th level</prerequisite>

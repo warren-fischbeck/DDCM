@@ -39048,65 +39048,6 @@
     </action>
   </monster>
   <monster>
-    <name>Redcap</name>
-    <size>S</size>
-    <type>fey</type>
-    <alignment>chaotic evil</alignment>
-    <ac>13 (natural armor)</ac>
-    <hp>45 (6d6+24)</hp>
-    <speed>25 ft.</speed>
-    <init>1</init>
-    <str>18</str>
-    <dex>13</dex>
-    <con>18</con>
-    <int>10</int>
-    <wis>12</wis>
-    <cha>9</cha>
-    <save>
-    </save>
-    <skill>Athletics +6, Perception +3</skill>
-    <vulnerable>
-    </vulnerable>
-    <resist>
-    </resist>
-    <immune>
-    </immune>
-    <conditionImmune>
-    </conditionImmune>
-    <senses>darkvision 60 ft.</senses>
-    <passive>13</passive>
-    <languages>Common, Sylvan</languages>
-    <cr>3</cr>
-    <slots>
-    </slots>
-    <spells>
-    </spells>
-    <environment>Forest, Hill, Swamp</environment>
-    <description>None given.</description>
-    <action>
-      <name>Multiattack</name>
-      <text>The redcap makes three attacks with its wicked sickle.</text>
-    </action>
-    <action>
-      <name>Wicked Sickle</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4+4) slashing damage.</text>
-      <attack>Wicked Sickle|6|2d4+4</attack>
-    </action>
-    <action>
-      <name>Ironbound Pursuit</name>
-      <text>The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (3d10+4) bludgeoning damage and be knocked prone.</text>
-      <attack>Kick| |3d10+4</attack>
-    </action>
-    <trait>
-      <name>Iron Boots</name>
-      <text>While moving, the redcap has disadvantage on Dexterity (Stealth) checks.</text>
-    </trait>
-    <trait>
-      <name>Outsize Strength</name>
-      <text>While grappling, the redcap is considered to be Medium. Also, wielding a heavy weapon doesn&#39;t impose disadvantage on its attack rolls.</text>
-    </trait>
-  </monster>
-  <monster>
     <name>Reef Shark</name>
     <size>M</size>
     <type>beast</type>
