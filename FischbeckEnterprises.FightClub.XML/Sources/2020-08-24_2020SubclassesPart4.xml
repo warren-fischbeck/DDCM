@@ -151,4 +151,45 @@
       </feature>
     </autolevel>
 	</class>
+	
+	<spell>
+		<name>Bane</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>False Life</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Blindness/Deafness</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Bane</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Phantom Steed</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Death Ward</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Greater Invisibility</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Antilife Shell</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Cloud Kill</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
+	<spell>
+		<name>Bane</name>
+		<classes>Warlock (The Undead)</classes>
+	</spell>
 </compendium>
