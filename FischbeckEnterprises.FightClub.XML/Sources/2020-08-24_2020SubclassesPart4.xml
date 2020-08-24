@@ -165,7 +165,7 @@
 		<classes>Warlock (The Undead)</classes>
 	</spell>
 	<spell>
-		<name>Bane</name>
+		<name>Phantasmal Force</name>
 		<classes>Warlock (The Undead)</classes>
 	</spell>
 	<spell>
@@ -185,11 +185,11 @@
 		<classes>Warlock (The Undead)</classes>
 	</spell>
 	<spell>
-		<name>Cloud Kill</name>
+		<name>Cloudkill</name>
 		<classes>Warlock (The Undead)</classes>
 	</spell>
 	<spell>
-		<name>Bane</name>
+		<name>Speak with Dead</name>
 		<classes>Warlock (The Undead)</classes>
 	</spell>
 </compendium>
