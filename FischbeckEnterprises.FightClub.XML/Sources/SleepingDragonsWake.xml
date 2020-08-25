@@ -31,12 +31,12 @@
         </trait>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 22 (3d10 + 6) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. 22 (3d10 + 6) piercing damage.</text>
             <attack>Bite|9|3d10+6</attack>
         </action>
         <description>A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
             The giant shark skeleton doesn&#39;t require air, food, drink, or sleep. The shark has had skeletal feet attached by some demented necromancer.
-            Source: Sleeping Dragon&#39;s Wake</description>
+            Source&#58; Sleeping Dragon&#39;s Wake</description>
         <environment></environment>
     </monster>
     <monster>
@@ -77,21 +77,21 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>Lhammaruntosz can use her Frightful Presence. She then makes three attacks: one with her bite and two with her claws.</text>
+            <text>Lhammaruntosz can use her Frightful Presence. She then makes three attacks&#58; one with her bite and two with her claws.</text>
         </action>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +12 to hit, reach 10 ft., one target. 18 (2d10 + 7) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +12 to hit, reach 10 ft., one target. 18 (2d10 + 7) piercing damage.</text>
             <attack>Bite|12|2d10+7</attack>
         </action>
         <action>
             <name>Claw</name>
-            <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +12 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage.</text>
             <attack>Claw|12|2d6+7</attack>
         </action>
         <action>
             <name>Tail</name>
-            <text>Melee Weapon Attack: +12 to hit, reach 15 ft., one target. 16 (2d8 + 7) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +12 to hit, reach 15 ft., one target. 16 (2d8 + 7) bludgeoning damage.</text>
             <attack>Tail|12|2d8+7</attack>
         </action>
         <action>
@@ -132,7 +132,7 @@
         </legendary>
         <legendary>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
+            <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects&#58;</text>
             <text>&#183; The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.</text>
             <text>&#183; A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.</text>
         </legendary>
@@ -146,23 +146,23 @@
         </legendary>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Lhammaruntosz&#39;s spellcasting ability is Charisma (spell save DC 17). She can innately cast the following spells, requiring no material components:</text>
-            <text>1/day each: create food and water, detect thoughts, fog cloud, speak with animals</text>
+            <text>Lhammaruntosz&#39;s spellcasting ability is Charisma (spell save DC 17). She can innately cast the following spells, requiring no material components&#58;</text>
+            <text>1/day each&#58; create food and water, detect thoughts, fog cloud, speak with animals</text>
         </trait>
         <trait>
             <name>Spellcasting</name>
-            <text>Lhammaruntosz is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 17; +9 to hit with spell attacks). She has the following sorcerer spells prepared:</text>
-            <text>Cantrips (at will): light, mage hand, mending</text>
-            <text>&#183; 1st level (4 slots): charm person, detect magic, expeditious retreat, sleep</text>
-            <text>&#183; 2nd level (3 slots): darkness, invisibility, suggestion</text>
-            <text>&#183; 3rd level (3 slots): dispel magic, protection from energy</text>
-            <text>&#183; 4th level (2 slots): dimension door, stoneskin</text>
+            <text>Lhammaruntosz is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 17; +9 to hit with spell attacks). She has the following sorcerer spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; light, mage hand, mending</text>
+            <text>&#183; 1st level (4 slots)&#58; charm person, detect magic, expeditious retreat, sleep</text>
+            <text>&#183; 2nd level (3 slots)&#58; darkness, invisibility, suggestion</text>
+            <text>&#183; 3rd level (3 slots)&#58; dispel magic, protection from energy</text>
+            <text>&#183; 4th level (2 slots)&#58; dimension door, stoneskin</text>
         </trait>
         <slots>4, 3, 3, 2</slots>
         <spells>create food and water, detect thoughts, fog cloud, speak with animals, light, mage hand, mending, charm person, detect magic, expeditious retreat, sleep, darkness, invisibility, suggestion, dispel magic, protection from energy, dimension door, stoneskin</spells>
         <description>Lhammaruntosz, a bronze dragon with the ability to heal quickly, spent decades defending Leilon and the surrounding area as the captain of the Scaly Eye, a fleet that battled pirates and other threats. To honor her deeds, the Swords of Leilon constructed the Bronze Shrine, a massive temple to Bahamut, god of metallic dragons, in a cliff overlooking the sea. The shrine&#39;s face is carved in Lhammaruntosz&#39;s likeness and includes quarters for the rest of the Scaly Eye and a magic statue of Bahamut, which the dragon can use to commune with the deity.
             In recent decades Lhammaruntosz has retreated inside the shrine, becoming reclusive due to a attack by a disguised demon which has driven her mad. She leaves on rare occasions to hunt for food, returning as soon as possible. Members of the Scaly Eye still live within the Bronze Shrine, as Lhammaruntosz has ordered them to stay on as her guardians.
-            Source: Sleeping Dragon&#39;s Wake</description>
+            Source&#58; Sleeping Dragon&#39;s Wake</description>
         <environment></environment>
     </monster>
 </compendium>

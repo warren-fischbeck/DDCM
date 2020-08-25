@@ -52,28 +52,28 @@
         </action>
         <action>
             <name>Claws</name>
-            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
             <attack>Claws|6|1d4+2</attack>
         </action>
         <action>
             <name>Club</name>
-            <text>Melee Weapon Attack: +6 to hit (+8 to hit with shillelagh), reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.</text>
+            <text>Melee Weapon Attack&#58; +6 to hit (+8 to hit with shillelagh), reach 5 ft., one target. 5 (1d6 + 2) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.</text>
             <attack>Club|6|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Amble is a 12th-level spellcaster. Their spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). Amble has the following druid spells prepared:</text>
-            <text>Cantrips (at will): guidance, mending, shape water, shillelagh</text>
-            <text>&#183; 1st level (4 slots): absorb elements, cure wounds, entangle, speak with animals</text>
-            <text>&#183; 2nd level (3 slots): darkvision, hold person, lesser restoration, moonbeam</text>
-            <text>&#183; 3rd level (3 slots): conjure animals, dispel magic, water breathing</text>
-            <text>&#183; 4th level (3 slots): charm monster, freedom of movement</text>
-            <text>&#183; 5th level (2 slots): greater restoration, mass cure wounds</text>
-            <text>&#183; 6th level (1 slots): conjure fey</text>
+            <text>Amble is a 12th-level spellcaster. Their spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). Amble has the following druid spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; guidance, mending, shape water, shillelagh</text>
+            <text>&#183; 1st level (4 slots)&#58; absorb elements, cure wounds, entangle, speak with animals</text>
+            <text>&#183; 2nd level (3 slots)&#58; darkvision, hold person, lesser restoration, moonbeam</text>
+            <text>&#183; 3rd level (3 slots)&#58; conjure animals, dispel magic, water breathing</text>
+            <text>&#183; 4th level (3 slots)&#58; charm monster, freedom of movement</text>
+            <text>&#183; 5th level (2 slots)&#58; greater restoration, mass cure wounds</text>
+            <text>&#183; 6th level (1 slots)&#58; conjure fey</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1</slots>
         <spells>guidance, mending, shape water, shillelagh, absorb elements, cure wounds, entangle, speak with animals, darkvision, hold person, lesser restoration, moonbeam, conjure animals, dispel magic, water breathing, charm monster, freedom of movement, greater restoration, mass cure wounds, conjure fey</spells>
-        <description>Source: Locathah Rising p. 15</description>
+        <description>Source&#58; Locathah Rising p. 15</description>
         <environment></environment>
     </monster>
     <monster>
@@ -122,12 +122,12 @@
         </action>
         <action>
             <name>Claw</name>
-            <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 16). Until the grapple ends, Gar can&#39;t attack other creatures with his claw.</text>
+            <text>Melee Weapon Attack&#58; +8 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 16). Until the grapple ends, Gar can&#39;t attack other creatures with his claw.</text>
             <attack>Claw|8|2d6+3</attack>
         </action>
         <action>
             <name>Wave</name>
-            <text>Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one target. 9 (1d6 + 6) piercing damage or 10 (1d8 + 6) piercing damage when used with two hands. If Gar scores a critical hit with this weapon, the target takes extra necrotic damage equal to half its hit point maximum.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +11 to hit, reach 5 ft. or range 20/60 ft., one target. 9 (1d6 + 6) piercing damage or 10 (1d8 + 6) piercing damage when used with two hands. If Gar scores a critical hit with this weapon, the target takes extra necrotic damage equal to half its hit point maximum.</text>
             <attack>Wave|11|1d6+6</attack>
         </action>
         <action>
@@ -164,21 +164,21 @@
         </legendary>
         <trait>
             <name>Spellcasting</name>
-            <text>Gar is a 13th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). He has the following druid spells prepared:</text>
-            <text>Cantrips (at will): frostbite, mending, resistance, shape water, thunderclap&#42;</text>
-            <text>&#183; 1st level (4 slots): create or destroy water, charm person, cure wounds, thunderwave</text>
-            <text>&#183; 2nd level (3 slots): darkvision, hold person, mirror image&#42;, misty step&#42;, pass without trace, protection from poison</text>
-            <text>&#183; 3rd level (3 slots): conjure animals, dispel magic, tidal wave, water breathing&#42;, water walk&#42;</text>
-            <text>&#183; 4th level (3 slots): charm monster, control water&#42;, dominate beast, freedom of movement&#42;, watery sphere</text>
-            <text>&#183; 5th level (2 slots): conjure elemental&#42;, maelstrom, scrying&#42;, tree stride</text>
-            <text>&#183; 6th level (1 slots): heal</text>
-            <text>&#183; 7th level (1 slots): plane shift</text>
+            <text>Gar is a 13th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). He has the following druid spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; frostbite, mending, resistance, shape water, thunderclap&#42;</text>
+            <text>&#183; 1st level (4 slots)&#58; create or destroy water, charm person, cure wounds, thunderwave</text>
+            <text>&#183; 2nd level (3 slots)&#58; darkvision, hold person, mirror image&#42;, misty step&#42;, pass without trace, protection from poison</text>
+            <text>&#183; 3rd level (3 slots)&#58; conjure animals, dispel magic, tidal wave, water breathing&#42;, water walk&#42;</text>
+            <text>&#183; 4th level (3 slots)&#58; charm monster, control water&#42;, dominate beast, freedom of movement&#42;, watery sphere</text>
+            <text>&#183; 5th level (2 slots)&#58; conjure elemental&#42;, maelstrom, scrying&#42;, tree stride</text>
+            <text>&#183; 6th level (1 slots)&#58; heal</text>
+            <text>&#183; 7th level (1 slots)&#58; plane shift</text>
             <text>scrying&#42;, tree stride</text>
             <text>&#42;Circle spells don&#39;t count against spells prepared.</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1, 1</slots>
         <spells>frostbite, mending, resistance, shape water, thunderclap, create or destroy water, charm person, cure wounds, thunderwave, darkvision, hold person, mirror image, misty step, pass without trace, protection from poison, conjure animals, dispel magic, tidal wave, water breathing, water walk, charm monster, control water, dominate beast, freedom of movement, watery sphere, conjure elemental, maelstrom, scrying, tree stride, heal, plane shift</spells>
-        <description>Source: Locathah Rising p. 18</description>
+        <description>Source&#58; Locathah Rising p. 18</description>
         <environment></environment>
     </monster>
     <monster>
@@ -215,14 +215,14 @@
         </action>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +12 to hit, reach 5 ft., one target. 20 (3d8 + 7) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +12 to hit, reach 5 ft., one target. 20 (3d8 + 7) piercing damage.</text>
             <attack>Bite|12|3d8+7</attack>
             <text>If the target is a Medium or smaller creature grappled by the kraken, that creature is swallowed and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken&#39;s turns. One Medium or two smaller creatures can be swallowed at the same time.</text>
             <text>If the kraken takes 35 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in spaces within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.</text>
         </action>
         <action>
             <name>Tentacle</name>
-            <text>Melee Weapon Attack: +12 to hit, reach 20 ft., one target. 17 (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 20). Until the grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.</text>
+            <text>Melee Weapon Attack&#58; +12 to hit, reach 20 ft., one target. 17 (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 20). Until the grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.</text>
             <attack>Tentacle|12|3d6+7</attack>
         </action>
         <action>
@@ -233,7 +233,7 @@
             <name>Lightning Strike</name>
             <text>The kraken magically create a bolt of lightning, which can strike a target the kraken can see within 90 feet of it. The target must make a DC 18 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.</text>
         </action>
-        <description>Source: Locathah Rising p. 21</description>
+        <description>Source&#58; Locathah Rising p. 21</description>
         <environment></environment>
     </monster>
     <monster>
@@ -266,27 +266,27 @@
         </trait>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or ranged 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +4 to hit, reach 5 ft. or ranged 20/60 ft., one target. 3 (1d4 + 1) piercing damage.</text>
             <attack>Dagger|4|1d4+1</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Shoalar&#39;s innate spellcasting ability is Constitution (spell save DC 14, +6 to hit with spell attacks). He can innately cast the following spells:</text>
-            <text>At will: shape water</text>
-            <text>1/day: create or destroy water</text>
+            <text>Shoalar&#39;s innate spellcasting ability is Constitution (spell save DC 14, +6 to hit with spell attacks). He can innately cast the following spells&#58;</text>
+            <text>At will&#58; shape water</text>
+            <text>1/day&#58; create or destroy water</text>
         </trait>
         <trait>
             <name>Spellcasting</name>
-            <text>Shoalar is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:</text>
-            <text>Cantrips (at will): acid splash, chill touch, light, prestidigitation, ray of frost</text>
-            <text>&#183; 1st level (4 slots): disguise self, mage armor, shield</text>
-            <text>&#183; 2nd level (3 slots): hold person, misty step</text>
-            <text>&#183; 3rd level (2 slots): lightning bolt, tidal wave</text>
-            <text>&#183; 4th level (1 slots): watery sphere</text>
+            <text>Shoalar is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells&#58;</text>
+            <text>Cantrips (at will)&#58; acid splash, chill touch, light, prestidigitation, ray of frost</text>
+            <text>&#183; 1st level (4 slots)&#58; disguise self, mage armor, shield</text>
+            <text>&#183; 2nd level (3 slots)&#58; hold person, misty step</text>
+            <text>&#183; 3rd level (2 slots)&#58; lightning bolt, tidal wave</text>
+            <text>&#183; 4th level (1 slots)&#58; watery sphere</text>
         </trait>
         <slots>4, 3, 2, 1</slots>
         <spells>shape water, create or destroy water, acid splash, chill touch, light, prestidigitation, ray of frost, disguise self, mage armor, shield, hold person, misty step, lightning bolt, tidal wave, watery sphere</spells>
-        <description>Source: Locathah Rising p. 23</description>
+        <description>Source&#58; Locathah Rising p. 23</description>
         <environment></environment>
     </monster>
     <monster>
@@ -319,7 +319,7 @@
         </trait>
         <action>
             <name>Thunderous Touch</name>
-            <text>Melee Spell Attack: +5 to hit, reach 5 ft., one creature. 27 (5d10) thunder damage.</text>
+            <text>Melee Spell Attack&#58; +5 to hit, reach 5 ft., one creature. 27 (5d10) thunder damage.</text>
             <attack>Thunderous Touch|5|5d10</attack>
         </action>
         <action>
@@ -328,13 +328,13 @@
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Whymsee&#39;s spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
-            <text>At will: command, create or destroy water</text>
-            <text>3/day each: control water, darkness, water breathing, water walk</text>
-            <text>1/day each: call lightning, Evard&#39;s black tentacles</text>
+            <text>Whymsee&#39;s spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; command, create or destroy water</text>
+            <text>3/day each&#58; control water, darkness, water breathing, water walk</text>
+            <text>1/day each&#58; call lightning, Evard&#39;s black tentacles</text>
         </trait>
         <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard&#39;s black tentacles</spells>
-        <description>Source: Locathah Rising p. 20</description>
+        <description>Source&#58; Locathah Rising p. 20</description>
         <environment>coastal, underwater</environment>
     </monster>
     <monster>
@@ -367,7 +367,7 @@
         </trait>
         <action>
             <name>Thunderous Touch</name>
-            <text>Melee Spell Attack: +5 to hit, reach 5 ft., one creature. 27 (5d10) thunder damage.</text>
+            <text>Melee Spell Attack&#58; +5 to hit, reach 5 ft., one creature. 27 (5d10) thunder damage.</text>
             <attack>Thunderous Touch|5|5d10</attack>
         </action>
         <action>
@@ -376,13 +376,13 @@
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Fhenimore&#39;s spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</text>
-            <text>At will: command, create or destroy water</text>
-            <text>3/day each: control water, darkness, water breathing, water walk</text>
-            <text>1/day each: call lightning, Evard&#39;s black tentacles</text>
+            <text>Fhenimore&#39;s spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; command, create or destroy water</text>
+            <text>3/day each&#58; control water, darkness, water breathing, water walk</text>
+            <text>1/day each&#58; call lightning, Evard&#39;s black tentacles</text>
         </trait>
         <spells>command, create or destroy water, control water, darkness, water breathing, water walk, call lightning, Evard&#39;s black tentacles</spells>
-        <description>Source: Locathah Rising p. 20</description>
+        <description>Source&#58; Locathah Rising p. 20</description>
         <environment>coastal, underwater</environment>
     </monster>
 </compendium>

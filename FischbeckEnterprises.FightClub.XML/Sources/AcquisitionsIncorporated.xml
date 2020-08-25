@@ -13,7 +13,7 @@
       <text>
         The verdan owe their existence to chaos. Descended and transformed from a large clan of goblins and hobgoblins, those who became the verdan were simply living their lives, doing goblinoid things. But then passing through the shadow of That-Which-Endures changed them forever. Now the newest race to call Faerûn home, the verdan do their best to find their way in an unfamiliar world.
         Reality is a descent into chaos punctuated by brief flashes of order, whence we arose and so imagine it to be the norm rather than a distant outlier. That-Which-Endures held entropy back for a mere instant, and the Verdan emerged. I&#39;m sorry, was that the question?
-        Source: Acquisitions Incorporated p. 72
+        Source&#58; Acquisitions Incorporated p. 72
 </text>
     </trait>
     <trait>
@@ -104,7 +104,7 @@
       <text>
         The oldest verdan names spring from goblinoid traditions, but more recent names reflect the character of the different cultures these folk have encountered since coming out into the sunlight. When a group of verdan live near dwarves, they might take on more dwarven-sounding names, only to change those names when they wander into a human area. A verdan is also not hesitant to change their name as their physical appearance changes—or, indeed, whenever the mood strikes them.
         Verdan make no differentiation between male, female, and family names, and often eschew family names altogether.
-        &#183; Verdan Names: Bronn, Crahma, Dolar, Dreeda, Duglee, Gruvald, Hulm, Jeal, Kalo, Klesh, Korm, Lathi, Ovlig, Paracii, Pils, Praet, Promul, Reezni, Rin, Shylk, Slyra, Sollo, Stalsii, Stromvo, Stussa, Syrkart, Takat, Toit, Tubyna, Varr, Veriga, Wraq, Wural, Wurxee
+        &#183; Verdan Names&#58; Bronn, Crahma, Dolar, Dreeda, Duglee, Gruvald, Hulm, Jeal, Kalo, Klesh, Korm, Lathi, Ovlig, Paracii, Pils, Praet, Promul, Reezni, Rin, Shylk, Slyra, Sollo, Stalsii, Stromvo, Stussa, Syrkart, Takat, Toit, Tubyna, Varr, Veriga, Wraq, Wural, Wurxee
 </text>
     </trait>
     <trait>
@@ -125,15 +125,15 @@
         Your family name strikes fear and admiration in the hearts of the common folk—but that&#39;s got nothing to do with you. Songs and stories celebrating the adventuring exploits of your famous parent are widely known. Kids across the land grew up wishing they were you. But being the child of a famous adventurer wasn&#39;t all hugs and kisses.
         You seldom saw your celebrity-adventurer parent, and when they were around, it was all about them and tales of slaying this demon or vanquishing that dragon. All too often, you&#39;d be woken out of a sound sleep by someone standing outside your home screaming about the latest threat to the town, the region, or the world.
         In the end, all you have to show for your lineage is your name. Most of the family&#39;s money went for consumables, from potions of healing and spell scrolls to copious amounts of dwarven ale. And everyone expects you to swing a sword or sling spells like your famous forebear, making it doubly hard for you to prove yourself.
-        &#183; Skill Proficiencies: Perception, Performance
-        &#183; Tool Proficiencies: Disguise kit
-        &#183; Languages: Two of your choice
-        &#183; Equipment: Disguise kit, a set of fine clothes, and a belt pouch containing 30 gp.
-        Source: Acquisitions Incorporated p. 48
+        &#183; Skill Proficiencies&#58; Perception, Performance
+        &#183; Tool Proficiencies&#58; Disguise kit
+        &#183; Languages&#58; Two of your choice
+        &#183; Equipment&#58; Disguise kit, a set of fine clothes, and a belt pouch containing 30 gp.
+        Source&#58; Acquisitions Incorporated p. 48
 </text>
     </trait>
     <trait>
-      <name>Feature: Name Dropping</name>
+      <name>Feature&#58; Name Dropping</name>
       <text>
         You know and have met any number of powerful people across the land—and some of them might even remember you. You might be able to wrangle minor assistance from a major figure in the campaign, at the DM&#39;s discretion. Additionally, the common folk treat you with deference, and your heritage and the stories you tell might be good for a free meal or a place to sleep.
 </text>
@@ -186,15 +186,15 @@
       <text>
         Maybe you come from a long line of merchants. Perhaps you were an entrepreneur. Regardless, your ventures ended poorly. Whether it was because of outside influences, bad luck, or simply because your business acumen was weak, you lost everything.
         With failure, however, comes experience. You&#39;re free of that old life, having made some connections and learned your lessons. Prepared to pursue the life of an adventurer, your insight into the world of commerce brought you into the sphere of Acquisitions Incorporated—and a franchise just might be in your future.
-        &#183; Skill Proficiencies: Investigation, Persuasion
-        &#183; Tool Proficiencies: One type of artisan&#39;s tools
-        &#183; Languages: Any one of your choice
-        &#183; Equipment: One set of artisan&#39;s tools, merchant&#39;s scale, a set of fine clothes, and a belt pouch containing 10 gp
-        Source: Acquisitions Incorporated p. 49
+        &#183; Skill Proficiencies&#58; Investigation, Persuasion
+        &#183; Tool Proficiencies&#58; One type of artisan&#39;s tools
+        &#183; Languages&#58; Any one of your choice
+        &#183; Equipment&#58; One set of artisan&#39;s tools, merchant&#39;s scale, a set of fine clothes, and a belt pouch containing 10 gp
+        Source&#58; Acquisitions Incorporated p. 49
 </text>
     </trait>
     <trait>
-      <name>Feature: Supply Chain</name>
+      <name>Feature&#58; Supply Chain</name>
       <text>
         From your time as a merchant, you retain connections with wholesalers, suppliers, and other merchants and entrepreneurs. You can call upon these connections when looking for items or information.
 </text>
@@ -246,15 +246,15 @@
       <name>Description</name>
       <text>
         All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you&#39;re a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you&#39;re up, sometimes you&#39;re down. But the thing about gambling is that someone is always willing to take a bet.
-        &#183; Skill Proficiencies: Deception, Insight
-        &#183; Tool Proficiencies: One gaming set
-        &#183; Languages: Any one of your choice
-        &#183; Equipment: One gaming set, a lucky charm, a set of fine clothes, and a belt pouch containing 15 gp
-        Source: Acquisitions Incorporated p. 49
+        &#183; Skill Proficiencies&#58; Deception, Insight
+        &#183; Tool Proficiencies&#58; One gaming set
+        &#183; Languages&#58; Any one of your choice
+        &#183; Equipment&#58; One gaming set, a lucky charm, a set of fine clothes, and a belt pouch containing 15 gp
+        Source&#58; Acquisitions Incorporated p. 49
 </text>
     </trait>
     <trait>
-      <name>Feature: Never Tell Me the Odds</name>
+      <name>Feature&#58; Never Tell Me the Odds</name>
       <text>
         Odds and probability are your bread and butter. During downtime activities that involve games of chance or figuring odds on the best plan, you can get a solid sense of which choice is likely the best one and which opportunities seem too good to be true, at the DM&#39;s determination.
 </text>
@@ -308,15 +308,15 @@
         Sure, accidents happen. But they seem to happen an awful lot when Acquisitions Incorporated operatives are on the scene. Naturally, nothing ever happens when there are no witnesses left behind. But sometimes one casualty is left a little less than dead, just waiting to discover what a lucky break that accident actually was.
         You were a victim of a legal incident that was ostensibly the fault of Acquisitions Incorporated. At least that&#39;s what the local magistrate said. But before a final ruling could be handed down, Acquisitions Incorporated offered you a job! Don&#39;t know how to swing a sword? They promised to teach you! Think you have what it takes to sling spells? They&#39;ve got masters who&#39;ll have you throwing fire in no time!
         With the promise of untold treasures and realms of magic and mystery just a dungeon away, you left your old life behind. Now a world of adventure is yours. Just initial here and sign here and here. Absolve Acq Inc of all former claims, and acknowledge you understand past outcomes don&#39;t guarantee future results.
-        &#183; Skill Proficiencies: Medicine, Persuasion
-        &#183; Tool Proficiencies: One type of artisan&#39;s tools
-        &#183; Languages: Any one of your choice
-        &#183; Equipment: One set of artisan&#39;s tools, fine clothes, 20 gp
-        Source: Acquisitions Incorporated p. 50
+        &#183; Skill Proficiencies&#58; Medicine, Persuasion
+        &#183; Tool Proficiencies&#58; One type of artisan&#39;s tools
+        &#183; Languages&#58; Any one of your choice
+        &#183; Equipment&#58; One set of artisan&#39;s tools, fine clothes, 20 gp
+        Source&#58; Acquisitions Incorporated p. 50
 </text>
     </trait>
     <trait>
-      <name>Feature: Legalese</name>
+      <name>Feature&#58; Legalese</name>
       <text>
         Your experience with your local legal system has given you a firm knowledge of the ins and outs of that system. Even when the law is not on your side, you can use complex terms like ex injuria jus non oritur and cogitationis poenam nemo patitur to frighten people into thinking you know what you&#39;re talking about. With common folks who don&#39;t know any better, you might be able to intimidate or deceive to get favors or special treatment.
 </text>
@@ -369,15 +369,15 @@
       <text>
         You were an intern at a rival of Acquisitions Incorporated, and you gained a healthy respect for not just the job and the franchising opportunities, but for the ruthless and efficient way Acquisitions Incorporated goes about its business. Why deal with the rest, when you can work for the best?
         Perhaps the rival did not treat you as well as you were hoping, or you washed out of that organization. Maybe you hope to leverage the knowledge you gained there for an advantage at Acquisitions Incorporated. Either way, you&#39;re now bringing your talents to the company, ready to put your skills to use.
-        &#183; Skill Proficiencies: History, Investigation
-        &#183; Tool Proficiencies: One type of artisan&#39;s tools
-        &#183; Languages: Any one of your choice
-        &#183; Equipment: One set of artisan&#39;s tools, a ledger from your previous employer containing a small piece of useful information, a set of fine clothes, and a belt pouch containing 10 gp
-        Source: Acquisitions Incorporated p. 51
+        &#183; Skill Proficiencies&#58; History, Investigation
+        &#183; Tool Proficiencies&#58; One type of artisan&#39;s tools
+        &#183; Languages&#58; Any one of your choice
+        &#183; Equipment&#58; One set of artisan&#39;s tools, a ledger from your previous employer containing a small piece of useful information, a set of fine clothes, and a belt pouch containing 10 gp
+        Source&#58; Acquisitions Incorporated p. 51
 </text>
     </trait>
     <trait>
-      <name>Feature: Inside Informant</name>
+      <name>Feature&#58; Inside Informant</name>
       <text>
         You have connections to your previous employer or other groups you dealt with during your previous employment. You can communicate with your contacts, gaining information at the DM&#39;s discretion.
 </text>
@@ -436,9 +436,9 @@
     <classes>Bard, Sorcerer, Wizard, Warlock</classes>
     <text>Do you need to squeeze a few more gold pieces out of a merchant as you try to sell that weird octopus statue you liberated from the chaos temple? Do you need to downplay the worth of some magical assets when the tax collector stops by? Distort value has you covered.</text>
       <text>You cast this spell on an object no more than 1 foot on a side, doubling the object&#39;s perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence (Investigation) check against your spell save DC.</text>
-      <text>At Higher Levels:</text>
+      <text>At Higher Levels&#58;</text>
      <text>When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.</text>
-      <text>Source: Acquisitions Incorporated p. 75</text>
+      <text>Source&#58; Acquisitions Incorporated p. 75</text>
   </spell>
   <spell>
     <name>Fast Friends</name>
@@ -453,9 +453,9 @@
     <text>When you need to make sure something gets done, you can&#39;t rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.</text>
       <text>You can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature&#39;s normal activities and desires, the creature can make another Wisdom saving throw to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.</text>
       <text>When the spell ends, the creature knows it was charmed by you.</text>
-      <text>At Higher Levels:</text>
+      <text>At Higher Levels&#58;</text>
       <text>When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.</text>
-      <text>Source: Acquisitions Incorporated p. 75</text>
+      <text>Source&#58; Acquisitions Incorporated p. 75</text>
   </spell>
   <spell>
     <name>Gift of Gab</name>
@@ -470,7 +470,7 @@
     <text> When I met Jim Darkmagic, I wondered how he got anything done in that outfit. I have since learned that most of his talents involve standing and talking. His outfit is perfect for that.</text>
       <text>Jim Darkmagic is said to have invented this spell, originally calling it I said what?! Have you ever been talking to the local monarch and accidentally mentioned how their son looks like your favorite hog from when you were growing up on the family farm? We&#39;ve all been there! But rather than being beheaded for an honest slip of the tongue, you can pretend it never happened—by ensuring that no one knows it happened.</text>
       <text>When you cast this spell, you skillfully reshape the memories of listeners in your immediate area, so that each creature of your choice within 5 feet of you forgets everything you said within the last 6 seconds. Those creatures then remember that you actually said the words you speak as the verbal component of the spell.</text>
-      <text>Source: Acquisitions Incorporated p. 76</text>
+      <text>Source&#58; Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
     <name>Incite Greed</name>
@@ -484,7 +484,7 @@
     <classes>Cleric, Wizard, Warlock</classes>
     <text>When you cast this spell, you present the gem used as the material component and choose any number of creatures within range that can see you. Each target must succeed on a Wisdom saving throw or be charmed by you until the spell ends, or until you or your companions do anything harmful to it. While charmed in this way, a creature can do nothing but use its movement to approach you in a safe manner. While an affected creature is within 5 feet of you, it cannot move, but simply stares greedily at the gem you present.</text>
       <text>At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.</text>
-      <text>Source: Acquisitions Incorporated p. 76</text>
+      <text>Source&#58; Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
     <name>Jim&#39;s Glowing Coin</name>
@@ -497,7 +497,7 @@
     <duration>1 minute</duration>
     <classes>Wizard</classes>
     <text>Of the many tactics employed by master magician and renowned adventurer Jim Darkmagic, the old glowing coin trick is a time-honored classic. When you cast the spell, you hurl the coin that is the spell&#39;s material component to any spot within range. The coin lights up as if under the effect of a light spell. Each creature of your choice that you can see within 30 feet of the coin must succeed on a Wisdom saving throw or be distracted for the duration. While distracted, a creature has disadvantage on Wisdom (Perception) checks and initiative rolls.</text>
-     <text>Source: Acquisitions Incorporated p. 76</text>
+     <text>Source&#58; Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
     <name>Jim&#39;s Magic Missile</name>
@@ -513,9 +513,9 @@
       <text>Any apprentice wizard can cast a boring old magic missile. Sure, it always strikes its target. Yawn. Do away with the drudgery of your grandfather&#39;s magic with this improved version of the spell, as used by Jim Darkmagic!</text>
       <text>You create three twisting, whistling, hypoallergenic, gluten-free darts of magical force. Each dart targets a creature of your choice that you can see within range. Make a ranged spell attack for each missile. On a hit, a missile deals 2d4 force damage to its target.</text>
       <text>If the attack roll scores a critical hit, the target of that missile takes 5d4 force damage instead of you rolling damage twice for a critical hit. If the attack roll for any missile is a 1, all missiles miss their targets and blow up in your face, dealing 1 force damage per missile to you.</text>
-      <text>At Higher Levels:</text>
+      <text>At Higher Levels&#58;</text>
       <text>When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.</text>
-      <text>Source: Acquisitions Incorporated p. 76</text>
+      <text>Source&#58; Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
     <name>Motivational Speech</name>
@@ -529,9 +529,9 @@
     <classes>Bard, Cleric</classes>
     <text> I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?</text>
       <text>You address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary hit points and has advantage on Wisdom saving throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.</text>
-      <text>At Higher Levels:</text>
+      <text>At Higher Levels&#58;</text>
       <text>At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 5 for each slot level above 3rd.</text>
-      <text>Source: Acquisitions Incorporated p. 77</text>
+      <text>Source&#58; Acquisitions Incorporated p. 77</text>
   </spell>
 
  <!-- Monsters -->
@@ -569,7 +569,7 @@
     </action>
     <action>
       <name>Tentacle</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 15 ft., one target. 11 (2d6 + 4) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained. The chaos quadrapod can grapple no more than two targets at a time.</text>
+      <text>Melee Weapon Attack&#58; +6 to hit, reach 15 ft., one target. 11 (2d6 + 4) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained. The chaos quadrapod can grapple no more than two targets at a time.</text>
       <attack>Tentacle|6|2d6+4</attack>
     </action>
     <action>
@@ -578,7 +578,7 @@
     </action>
     <description>
       A cluster of four suckered tentacles with a pulsing mass of ethereal light as its central body, the chaos quadrapod is a creature of the Far Realm, and it channels the anarchic power of that plane as it destroys all in its path. The quadrapod ambulates by flinging its mucus-covered tentacles out and dragging itself along, creating a horrid slurping sound as it advances relentlessly toward its prey.
-      Source: Acquisitions Incorporated p. 209
+      Source&#58; Acquisitions Incorporated p. 209
     </description>
     <environment></environment>
   </monster>
@@ -612,7 +612,7 @@
     </trait>
     <action>
       <name>Bite</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 7 (1d10 + 2) piercing damage.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 7 (1d10 + 2) piercing damage.</text>
       <attack>Bite|4|1d10+2</attack>
     </action>
     <action>
@@ -622,7 +622,7 @@
     <description>
       These intricately crafted constructs are typically made to reflect the forms of the metallic dragons. Plated in brass, bronze, copper, or faux gold and silver, they are often taken for fine draconic statues at first glance. A clockwork dragon makes a formidable guardian or defender, with its advanced intellect allowing it to be programmed with a wide range of orders, as well as being capable of wholly independent reactions to potential threats.
       Though most clockwork dragons have a breath weapon that deals fire damage, some might be constructed to deal acid, cold, or lightning damage, depending on their makers&#39; whims.
-      Source: Acquisitions Incorporated p. 209
+      Source&#58; Acquisitions Incorporated p. 209
     </description>
     <environment></environment>
   </monster>
@@ -656,12 +656,12 @@
     </trait>
     <action>
       <name>Fist</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage.</text>
       <attack>Fist|5|1d8+3</attack>
     </action>
     <action>
       <name>Acid Squirt</name>
-      <text>Ranged Weapon Attack: +5 to hit, range 20/40 ft., one target. 7 (1d8 + 3) acid damage.</text>
+      <text>Ranged Weapon Attack&#58; +5 to hit, range 20/40 ft., one target. 7 (1d8 + 3) acid damage.</text>
       <attack>Acid Squirt|5|1d8+3</attack>
     </action>
     <action>
@@ -679,7 +679,7 @@
       This beer is delicious. But did the spigot really have to be placed in that spot?
       A keg robot is a stout wood-and-metal construct, vaguely reminiscent of a dwarf wearing a horned helm and possessing a barrel for a body. These constructs are another achievement of the Heuristic Arcane Research and Development (HARD) department of Acquisitions Incorporated. These devices have a number of practical purposes, including the ability to be filled with a variety of substances of use to an adventuring party. Specific models are nominally named for their primary function, including "ambulatory fermenter," "mobile alchemical dispensary," and so forth. But their prominent use as portable beer dispensers has placed the name "keg robot" firmly into public consciousness.
       A keg robot can hold up to three different kinds of liquid in its body cavity, from water and other potables to alchemical substances and lamp oil. Its individual storage compartments can leak, providing drinkable liquids with a unique but mostly safe flavor. These constructs have a rudimentary intellect that allows them to operate independently and discern friend from foe-and which sometimes causes them to operate with a crass sense of humor that has never been fully explained.
-      Source: Acquisitions Incorporated p. 212
+      Source&#58; Acquisitions Incorporated p. 212
     </description>
     <environment></environment>
   </monster>
@@ -725,7 +725,7 @@
     </action>
     <action>
       <name>Dagger</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
       <attack>Dagger|4|1d4+2</attack>
     </action>
     <action>
@@ -740,7 +740,7 @@
       I&#39;m going to give you a piece of advice. Don&#39;t trust Acquisitions Incorporated. And never, ever, ever trust Omin Dran. Wait, that&#39;s two pieces of advice. You owe me.
       Sometimes a goblin can&#39;t catch a break. First, you fall in with a cult that works for the release of a death god. Then you get taken prisoner by a group of sociopathic adventurers who end up letting you die after you save their sorry lives. One minute, you&#39;re a dead goblin named Splug. And then you&#39;re alive again, and it seems like a really good idea to play up the drama of resurrection with a cool new name-and a master plan for cold, cold revenge against those who betrayed you.
       Every once in a while, the (accidentally) capricious and (totally unintentionally) self-centered nature of an Acquisitions Incorporated franchise might incur some collateral damage among followers, hirelings, and staff. When that happens, the collateral damage sometimes inspires some collateral damage of its own. No one is entirely sure how many times Splugoth the Returned has actually returned from the dead. But as the point goblin for the group known as the Six (see "Factions and Rivals" in chapter 3), he&#39;s made vengeance against Acq Inc and Omin Dran his life&#39;s work. And then the work of his next life. And the one after that.
-      Source: Acquisitions Incorporated p. 213
+      Source&#58; Acquisitions Incorporated p. 213
     </description>
     <environment></environment>
   </monster>
@@ -778,16 +778,16 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The ancient deep crow makes three attacks: one with its mandibles and two with its claws.</text>
+      <text>The ancient deep crow makes three attacks&#58; one with its mandibles and two with its claws.</text>
     </action>
     <action>
       <name>Mandibles</name>
-      <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 17 (2d10 + 6) piercing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the ancient deep crow can&#39;t use its mandibles on another target.</text>
+      <text>Melee Weapon Attack&#58; +11 to hit, reach 10 ft., one target. 17 (2d10 + 6) piercing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the ancient deep crow can&#39;t use its mandibles on another target.</text>
       <attack>Mandibles|11|2d10+6</attack>
     </action>
     <action>
       <name>Claw</name>
-      <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 13 (2d6 + 6) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +11 to hit, reach 5 ft., one target. 13 (2d6 + 6) slashing damage.</text>
       <attack>Claw|11|2d6+6</attack>
     </action>
     <action>
@@ -811,14 +811,14 @@
     </legendary>
     <legendary>
       <name>Regional Effects</name>
-      <text>The region containing an ancient deep crow&#39;s lair is transformed by the creature&#39;s presence, which creates one or more of the following effects:</text>
+      <text>The region containing an ancient deep crow&#39;s lair is transformed by the creature&#39;s presence, which creates one or more of the following effects&#58;</text>
       <text>&#183; Supernatural shadow turns all bright light to dim light in underground regions within 6 miles of the lair.</text>
       <text>&#183; Intermittent, echoing caws can be heard coming from all directions within 6 miles of the lair.</text>
       <text>&#183; Subterranean beasts within 1 mile of the ancient deep crow&#39;s lair serve as the creature&#39;s eyes and ears, alerting it to the presence of intruders and making it all but impossible to surprise the ancient deep crow. If the ancient deep crow dies, these effects fade immediately.</text>
     </legendary>
     <description>
       So little is known of the deep crows that even less is known of their monstrous leviathan cousins, the ancient deep crows. Whether these gargantuan specimens are elder deep crows grown to great size or some higher form that holds lesser deep crows in thrall remains to be determined. Ideally by someone else. Seriously, stay away from these things.
-      Source: Acquisitions Incorporated p. 211
+      Source&#58; Acquisitions Incorporated p. 211
     </description>
     <environment></environment>
   </monster>
@@ -860,16 +860,16 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The deep crow makes three attacks: one with its mandibles and two with its claws.</text>
+      <text>The deep crow makes three attacks&#58; one with its mandibles and two with its claws.</text>
     </action>
     <action>
       <name>Mandibles</name>
-      <text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. 16 (2d10 + 5) piercing damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the deep crow can&#39;t use its mandibles on another target.</text>
+      <text>Melee Weapon Attack&#58; +9 to hit, reach 10 ft., one target. 16 (2d10 + 5) piercing damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the deep crow can&#39;t use its mandibles on another target.</text>
       <attack>Mandibles|9|2d10+5</attack>
     </action>
     <action>
       <name>Claw</name>
-      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) slashing damage.</text>
       <attack>Claw|9|2d6+5</attack>
     </action>
     <description>
@@ -879,9 +879,9 @@
       Deep crows live alone for an unknown length of years, emerging from the lair only to hunt, to look for potential threats, and to mate. Mating is a once-in-a-lifetime urge that sees each deep crow involved in the pairing produce a cluster of four to eight eggs. Incubation lasts a year, followed by a year during which the fledgling deep crows stay close by their parent&#39;s side. The young then set out to establish lairs of their own.
       Unknown and Inscrutable
       The mindset of these intelligent yet alien creatures is a mystery, but some who have encountered them relate that they are quick to hold a grudge. For years. Of even greater importance, they can teach their chicks to harbor the same resentments, instilling a cross-generational hatred of chosen foes that can last for centuries.
-      A Deep Crow&#39;s Lair:
+      A Deep Crow&#39;s Lair&#58;
       Deep crows and ancient deep crows roost in places both deep and warm, favoring sites with access to exposed lava. The spires of volcanic rock the creatures prize as roosts are common in such places, whose ambient warmth provides constant temperature regulation for the creature&#39;s eggs.
-      Source: Acquisitions Incorporated p. 210
+      Source&#58; Acquisitions Incorporated p. 210
     </description>
     <environment></environment>
   </monster>
@@ -919,12 +919,12 @@
     </action>
     <action>
       <name>Greatsword</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage. Whenever Donaar rolls a 1 or 2 on a damage die, he can reroll the die and must use the new roll.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage. Whenever Donaar rolls a 1 or 2 on a damage die, he can reroll the die and must use the new roll.</text>
       <attack>Greatsword|5|2d6+3</attack>
     </action>
     <action>
       <name>Whip</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 10 ft., one target. 5 (1d4 + 3) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 10 ft., one target. 5 (1d4 + 3) slashing damage.</text>
       <attack>Whip|5|1d4+3</attack>
     </action>
     <action>
@@ -933,9 +933,9 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Donaar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He has the following paladin spells prepared:</text>
-      <text>&#183; 1st level (4 slots): command, compelled duel, cure wounds, wrathful smite</text>
-      <text>&#183; 2nd level (2 slots): aid, branding smite, lesser restoration, warding bond, zone of truth</text>
+      <text>Donaar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He has the following paladin spells prepared&#58;</text>
+      <text>&#183; 1st level (4 slots)&#58; command, compelled duel, cure wounds, wrathful smite</text>
+      <text>&#183; 2nd level (2 slots)&#58; aid, branding smite, lesser restoration, warding bond, zone of truth</text>
     </trait>
     <slots>4, 2</slots>
     <spells>command, compelled duel, cure wounds, wrathful smite, aid, branding smite, lesser restoration, warding bond, zone of truth</spells>
@@ -945,7 +945,7 @@
       As with his tail, an odd quirk of heritage makes Donaar&#39;s acid breath more of a signature vomiting, giving rise to a driving paranoia that this regurgitation might damage his teeth. As testaments to his obsession with dental hygiene, Donaar named his greatsword Toothbrush and calls his whip Floss. He carries an actual toothbrush (named Percival) and actual floss at all times.
       Those who know Donaar quickly come to recognize that the braggadocio that defines him involves a certain amount of artifice. When the young dragonborn left his clan and family to adventure in foreign climes, he realized that doing so provided the perfect opportunity to reinvent himself for folk who had no idea what he was once like. As such, Donaar has learned that no amount of bravado and compensation is too much-provided he leaves no openings for strangers to call him on it. By the same token, strangers quickly come to realize that reinforcing Donaar&#39;s self-congratulating sense of draconic entitlement makes it remarkably easy to win his favor.
       Despite his easily massaged vanity, the dragonborn sometimes shows the occasional streak of selflessness. Most notably, Donaar serves in his off-hours as parttime godfather to a young dragonborn named Chronaar, who had inadvertently imprinted on Donaar as a parental figure while he watched over her while she was in her egg.
-      Source: Acquisitions Incorporated p. 201
+      Source&#58; Acquisitions Incorporated p. 201
     </description>
     <environment></environment>
   </monster>
@@ -983,7 +983,7 @@
     </trait>
     <action>
       <name>War Lute</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
       <attack>War Lute|4|1d6+2</attack>
     </action>
     <action>
@@ -992,16 +992,16 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Brahma is a 4th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She has the following bard spells prepared:</text>
-      <text>Cantrips (at will): mage hand, message, vicious mockery</text>
-      <text>&#183; 1st level (4 slots): charm person, heroism, illusory script, sleep, unseen servant</text>
-      <text>&#183; 2nd level (3 slots): cloud of daggers, invisibility</text>
+      <text>Brahma is a 4th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She has the following bard spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; mage hand, message, vicious mockery</text>
+      <text>&#183; 1st level (4 slots)&#58; charm person, heroism, illusory script, sleep, unseen servant</text>
+      <text>&#183; 2nd level (3 slots)&#58; cloud of daggers, invisibility</text>
     </trait>
     <slots>4, 3</slots>
     <spells>mage hand, message, vicious mockery, charm person, heroism, illusory script, sleep, unseen servant, cloud of daggers, invisibility</spells>
     <description>Formally a former member of the "B" Team, Brahma Lutier is a gifted cartographer, spy, and troubadour. Tutored in at least the latter of those vocations by Audra Courtier &#40;wife of Propha Dran and co-owner of the Dran and Courtier inn of Red Larch&#41; , Brahma&#39;s specialty is a song of domination that is legendarily difficult to resist.
       Her retirement is said to be connected to a falling out with husband Oak Truestrike, and Brahma has been operating as a solo agent for some time now. Known for a personality that is murderous and cheery in equal part, she utilizes an instrument of dragonborn design in combat. Known as a war lute, this unique item comes replete with hidden storage and powerful weaponry.
-      Source: Acquisitions Incorporated p. 205</description>
+      Source&#58; Acquisitions Incorporated p. 205</description>
     <environment></environment>
   </monster>
   <monster>
@@ -1030,7 +1030,7 @@
     <senses>darkvision 120 ft.</senses>
     <trait>
       <name>Special Equipment</name>
-      <text>K&#39;thriss wears a robe of stars (accounted for in his statistics). The robe allows him to cast the following spells: 6/day: magic missile (7 missiles)</text>
+      <text>K&#39;thriss wears a robe of stars (accounted for in his statistics). The robe allows him to cast the following spells&#58; 6/day&#58; magic missile (7 missiles)</text>
     </trait>
     <trait>
       <name>Awakened Mind</name>
@@ -1042,20 +1042,20 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>K&#39;thriss makes two attacks with his sickle. Sickle. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
+      <text>K&#39;thriss makes two attacks with his sickle. Sickle. Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 4 (1d4 + 2) slashing damage.</text>
       <attack>Multiattack|4|1d4+2</attack>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>K&#39;thriss&#39;s innate spellcasting ability is Charisma (spell save DC 14). He can innately cast the following spells, requiring no material components:</text>
-      <text>At will: dancing lights, disguise self</text>
-      <text>1/day each: darkness, faerie fire</text>
+      <text>K&#39;thriss&#39;s innate spellcasting ability is Charisma (spell save DC 14). He can innately cast the following spells, requiring no material components&#58;</text>
+      <text>At will&#58; dancing lights, disguise self</text>
+      <text>1/day each&#58; darkness, faerie fire</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>K&#39;thriss is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). He regains his expended spell slots when he finishes a short or long rest, and knows the following warlock spells:</text>
-      <text>Cantrips (at will): chill touch, eldritch blast, mending, prestidigitation, thorn whip, vicious mockery</text>
-      <text>&#183; 3rd level (2 slots): dissonant whispers, fly, hex, misty step, sending, shatter</text>
+      <text>K&#39;thriss is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). He regains his expended spell slots when he finishes a short or long rest, and knows the following warlock spells&#58;</text>
+      <text>Cantrips (at will)&#58; chill touch, eldritch blast, mending, prestidigitation, thorn whip, vicious mockery</text>
+      <text>&#183; 3rd level (2 slots)&#58; dissonant whispers, fly, hex, misty step, sending, shatter</text>
     </trait>
     <slots>2</slots>
     <spells>dancing lights, disguise self, darkness, faerie fire, chill touch, eldritch blast, mending, prestidigitation, thorn whip, vicious mockery, dissonant whispers, fly, hex, misty step, sending, shatter</spells>
@@ -1064,10 +1064,10 @@
       The drow warlock K&#39;thriss Drow&#39;b cuts a dashing figure as the worldly representative of the Ur-a ravenous, inscrutable, and largely indifferent elder entity from beyond reality. Tapped into this dark power, the "C" Team&#39;s hoards person sees all existence as a puzzle to unlock, and he is obsessed by the essential lack of meaning and purpose in the structures of so-called "reality." Still, all things considered, he is most often polite and affable. Because after a long adventuring career, he understands that he can&#39;t afford to make more enemies.
       Given his blue skin tone, rumors suggest that K&#39;thriss is of mixed heritage, but no one knows for sure. As a young and doubting adherent of Lolth, he stumbled upon fragments of a relic known as the Black Altar, exposing him to their infinite truths and shocking the drow&#39;s hair jet-black. His matching "beard" is actually a slow-growing colony of inert spores that K&#39;thriss believes makes him look distinguished. Possessed of alarming and asymmetric crystalline eyes, he often wears a blindfold to spare others his visage, seeing through the eyes of his familiar while he does.
       Tentacles play a big part in K&#39;thriss&#39;s spellcasting, whether wrenching him through the sky when he uses magic to fly, or manifesting in dark, suckered form when he casts spells such as thorn whip. And when enemies hear K&#39;thriss whisper the deep truths of the Ur-typically something about how on a geologic time scale, everyone&#39;s desires are meaningless-they remember it.
-      K&#39;thriss&#39;s familiar, Ligotti, is a semisapient remnant of a tentacle attack, spawned by the warlock&#39;s intercessor patron god. Though entirely alien to the material plane (and often appearing in the form of a staff), Ligotti uses the stat block of a poisonous snake with these changes:
+      K&#39;thriss&#39;s familiar, Ligotti, is a semisapient remnant of a tentacle attack, spawned by the warlock&#39;s intercessor patron god. Though entirely alien to the material plane (and often appearing in the form of a staff), Ligotti uses the stat block of a poisonous snake with these changes&#58;
       It has an Intelligence score of 12 (+2).
       It has telepathy out to a range of 30 feet.
-      Source: Acquisitions Incorporated p. 202
+      Source&#58; Acquisitions Incorporated p. 202
     </description>
     <environment></environment>
   </monster>
@@ -1105,25 +1105,25 @@
     </action>
     <action>
       <name>Scimitars</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
       <attack>Scimitars|6|1d6+4</attack>
     </action>
     <action>
       <name>Longbow</name>
-      <text>Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. 8 (1d8 + 4) piercing damage.</text>
+      <text>Ranged Weapon Attack&#58; +6 to hit, range 150/600 ft., one target. 8 (1d8 + 4) piercing damage.</text>
       <attack>Longbow|6|1d8+4</attack>
     </action>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Mo&#770;rg&#230;n&#39;s spellcasting ability is Intelligence. She can innately cast the following spells, requiring no material components:</text>
-      <text>At will: mage hand</text>
+      <text>Mo&#770;rg&#230;n&#39;s spellcasting ability is Intelligence. She can innately cast the following spells, requiring no material components&#58;</text>
+      <text>At will&#58; mage hand</text>
     </trait>
     <trait>
       <name>Spellcasting</name>
-      <text>Mo&#770;rg&#230;n is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following ranger spells prepared:</text>
-      <text>&#183; 1st level (4 slots): alarm, animal friendship, hunter&#39;s mark</text>
-      <text>&#183; 2nd level (3 slots): pass without trace, spike growth</text>
-      <text>&#183; 3rd level (2 slots): conjure animals</text>
+      <text>Mo&#770;rg&#230;n is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following ranger spells prepared&#58;</text>
+      <text>&#183; 1st level (4 slots)&#58; alarm, animal friendship, hunter&#39;s mark</text>
+      <text>&#183; 2nd level (3 slots)&#58; pass without trace, spike growth</text>
+      <text>&#183; 3rd level (2 slots)&#58; conjure animals</text>
     </trait>
     <slots>4, 3, 2</slots>
     <spells>mage hand, alarm, animal friendship, hunter&#39;s mark, pass without trace, spike growth, conjure animals</spells>
@@ -1131,7 +1131,7 @@
       If I had wanted to kill, I would have killed.
       The ranger Mo&#770;rg&#230;n is a renowned tracker and hunter, able to pinpoint-target foes at any range, then vanish into the woods with no one the wiser. Her legendary ability with the longbow and the custom arrows she crafts instills fear into the hearts of her many enemies-and more than a few of her coworkers. Famously, she is the only member of Acquisitions Incorporated known to be paid in advance, lest a missed invoice lead to dire repercussions.
       A child of the forest, Mo&#770;rg&#230;n defends the natural world with singular ferocity and an impressive rate of sustained fire. Her core philosophy is that one should shoot first and then ask no questions later. Because what&#39;s the point of asking questions when the person you&#39;ve shot first is already dead? Still, when the situation calls for it, this protector of the woodlands is equally at home on missions of subterfuge and social interaction in the big city, provided her well-known love of ale, wine, and other intoxicants doesn&#39;t get the better of her.
-      Source: Acquisitions Incorporated p. 199
+      Source&#58; Acquisitions Incorporated p. 199
     </description>
     <environment></environment>
   </monster>
@@ -1173,12 +1173,12 @@
     </action>
     <action>
       <name>Hooked Dagger</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) piercing damage.</text>
       <attack>Hooked Dagger|5|1d4+3</attack>
     </action>
     <action>
       <name>Hand Crossbow</name>
-      <text>Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+      <text>Ranged Weapon Attack&#58; +5 to hit, range 30/120 ft., one target. 6 (1d6 + 3) piercing damage.</text>
       <attack>Hand Crossbow|5|1d6+3</attack>
     </action>
     <reaction>
@@ -1188,7 +1188,7 @@
     <description>
       Oak Truestrike is the "B" Team&#39;s decisionist-and, depending on who you talk to, a reincarnated demigod. (It&#39;s a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter&#39;s charm, he makes good use of it either way.
       Oak becomes a radically different person with each of his reincarnations, flipping between neutral good and neutral evil. His memories of past lives have been fractured by his many deaths, but he spends each new life accounting for the previous life in a karmic-ledger kind of way. His current incarnation embraces the good side. Mostly. Except for that occasional toxic bitterness. Oh, and the misanthropy. Actually, if you end up hating this guy, it&#39;s probably not your fault.
-      Source: Acquisitions Incorporated p. 205
+      Source&#58; Acquisitions Incorporated p. 205
     </description>
     <environment></environment>
   </monster>
@@ -1236,22 +1236,22 @@
     </action>
     <action>
       <name>Foremother (+1 Scimitar)</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
       <attack>Foremother (+1 Scimitar)|6|1d6+4</attack>
     </action>
     <action>
       <name>Longbow</name>
-      <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 7 (1d8 + 3) piercing damage.</text>
+      <text>Ranged Weapon Attack&#58; +5 to hit, range 150/600 ft., one target. 7 (1d8 + 3) piercing damage.</text>
       <attack>Longbow|5|1d8+3</attack>
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Walnut is a 7th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). She has the following druid spells prepared:</text>
-      <text>Cantrips (at will): druidcraft, produce flame, thorn whip</text>
-      <text>&#183; 1st level (4 slots): cure wounds, entangle, thunderwave</text>
-      <text>&#183; 2nd level (3 slots): flame blade, moonbeam, pass without trace</text>
-      <text>&#183; 3rd level (3 slots): call lightning, dispel magic, plant growth</text>
-      <text>&#183; 4th level (1 slots): blight, freedom of movement</text>
+      <text>Walnut is a 7th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). She has the following druid spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; druidcraft, produce flame, thorn whip</text>
+      <text>&#183; 1st level (4 slots)&#58; cure wounds, entangle, thunderwave</text>
+      <text>&#183; 2nd level (3 slots)&#58; flame blade, moonbeam, pass without trace</text>
+      <text>&#183; 3rd level (3 slots)&#58; call lightning, dispel magic, plant growth</text>
+      <text>&#183; 4th level (1 slots)&#58; blight, freedom of movement</text>
     </trait>
     <slots>4, 3, 3, 1</slots>
     <spells>druidcraft, produce flame, thorn whip, cure wounds, entangle, thunderwave, flame blade, moonbeam, pass without trace, call lightning, dispel magic, plant growth, blight, freedom of movement</spells>
@@ -1260,7 +1260,7 @@
       Growing up in an all-female clan of druids, healers, and rangers, Walnut Dankgrass was drawn to the role of protector from her earliest years. Dedicated to Mielikki, the matriarchal clan known as the Enclave Panax Anima defended the unspoiled wild by word and blade (with the latter option more prevalent by far). But when tragedy struck the enclave, Walnut&#39;s clan was destroyed to the last-leaving her with nothing but the all-consuming desire to seek out and destroy those responsible.
       As a guardian of the wild, Walnut has long held an antipathy toward civilization and anything urban. However, understanding that civilization was the source of the evil that destroyed her people, she makes the city her home now. She embraces her role as the "C" Team&#39;s documancer, knowing that the city&#39;s power-and its weaknesses-can be fully gleaned only from within.
       Walnut distrusts most folk she meets, except for those whose bearing reflects the matriarchal structure she was once part of. No matter what shape her struggles take, she knows instinctively that her beliefs are right and true-and that she will follow those beliefs to the bitter end.
-      Source: Acquisitions Incorporated p. 204
+      Source&#58; Acquisitions Incorporated p. 204
     </description>
     <environment></environment>
   </monster>
@@ -1294,25 +1294,25 @@
     </action>
     <action>
       <name>Longsword</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.</text>
       <attack>Longsword|5|1d8+3</attack>
     </action>
     <action>
       <name>Light Crossbow</name>
-      <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 6 (1d8 + 2) piercing damage.</text>
+      <text>Ranged Weapon Attack&#58; +4 to hit, range 80/320 ft., one target. 6 (1d8 + 2) piercing damage.</text>
       <attack>Light Crossbow|4|1d8+2</attack>
     </action>
     <trait>
       <name>Innate Spellcasting (Psionics)</name>
-      <text>Auspicia&#39;s innate spellcasting ability is Intelligence. She can innately cast the following spells, requiring no components:</text>
-      <text>At will: detect thoughts</text>
-      <text>1/day each: augury</text>
+      <text>Auspicia&#39;s innate spellcasting ability is Intelligence. She can innately cast the following spells, requiring no components&#58;</text>
+      <text>At will&#58; detect thoughts</text>
+      <text>1/day each&#58; augury</text>
     </trait>
     <spells>detect thoughts, augury</spells>
     <description>
       The youngest sister of Omin Dran, the half-elf Auspicia Dran had her life torn apart as a child when she was seized by a mysterious creature called the Wandering Crypt. Having spent long years in a kind of dark dream within the crypt, she was saved in the end by her brother Omin&#39;s tireless efforts and the valor of his handpicked "C" Team. Now returned safely to the world-and with the false Auspicia of the crypt&#39;s creation slain-she focuses on trying to discover her own identity and to work through the ongoing complications arising from her ordeal.
       When Auspicia emerged from the Wandering Crypt, she carried within her a growing level of psionic power. She can&#39;t help but read others&#39; minds, but finds that wearing a diamond earring helps tamp that unwitting ability down. This magic has also left her connected to the crypt in a way she doesn&#39;t understand, even as it grants her occasional memories of others still trapped there and an awareness of faraway places. In combat, she manifests an instinctive knowledge of events before they happen, often making use of this ability to bring a fight to a standstill that encourages parley. But she has only just begun to explore her full precognitive potential.
-      Source: Acquisitions Incorporated p. 208
+      Source&#58; Acquisitions Incorporated p. 208
     </description>
     <environment></environment>
   </monster>
@@ -1354,7 +1354,7 @@
     </action>
     <action>
       <name>Maul</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
+      <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
       <attack>Maul|6|2d6+3</attack>
     </action>
     <reaction>
@@ -1363,13 +1363,13 @@
     </reaction>
     <trait>
       <name>Spellcasting</name>
-      <text>Omin is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). He has the following cleric spells prepared:</text>
-      <text>Cantrips (at will): guidance, sacred flame, spare the dying, thaumaturgy</text>
-      <text>&#183; 1st level (4 slots): bless, command, divine favor, shield of faith</text>
-      <text>&#183; 2nd level (3 slots): enhance ability, hold person, magic weapon, silence, spiritual weapon</text>
-      <text>&#183; 3rd level (3 slots): beacon of hope, crusader&#39;s mantle, dispel magic, mass healing word, spirit guardians</text>
-      <text>&#183; 4th level (3 slots): death ward, freedom of movement, locate creature, stoneskin</text>
-      <text>&#183; 5th level (1 slots): dispel evil and good, flame strike, hold monster, greater restoration, legend lore</text>
+      <text>Omin is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). He has the following cleric spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; guidance, sacred flame, spare the dying, thaumaturgy</text>
+      <text>&#183; 1st level (4 slots)&#58; bless, command, divine favor, shield of faith</text>
+      <text>&#183; 2nd level (3 slots)&#58; enhance ability, hold person, magic weapon, silence, spiritual weapon</text>
+      <text>&#183; 3rd level (3 slots)&#58; beacon of hope, crusader&#39;s mantle, dispel magic, mass healing word, spirit guardians</text>
+      <text>&#183; 4th level (3 slots)&#58; death ward, freedom of movement, locate creature, stoneskin</text>
+      <text>&#183; 5th level (1 slots)&#58; dispel evil and good, flame strike, hold monster, greater restoration, legend lore</text>
     </trait>
     <slots>4, 3, 3, 3, 1</slots>
     <spells>guidance, sacred flame, spare the dying, thaumaturgy, bless, command, divine favor, shield of faith, enhance ability, hold person, magic weapon, silence, spiritual weapon, beacon of hope, crusader&#39;s mantle, dispel magic, mass healing word, spirit guardians, death ward, freedom of movement, locate creature, stoneskin, dispel evil and good, flame strike, hold monster, greater restoration, legend lore</spells>
@@ -1377,7 +1377,7 @@
       My duty, first and foremost, is to my shareholders. And I am the only shareholder.
       Ominifis Hereward Dran spent his formative years in the small waystop of Red Larch, where his mother, Prophetess, ran a popular inn and restaurant. In the brief periods of respite afforded by working the family business, Omin and his sisters, Auspicia and Portentia, were wont to wander the hills and trails around town, dreaming of adventure. But adventure of the wrong kind came calling for the trio one day, when an underground ruin they had often explored-actually a creature called the Wandering Crypt-took Auspicia from the world.
       Omin Dran built the organization called Acquisitions Incorporated to facilitate and expand his quest to find his true sister, at least in part. For despite his unprecedented success in establishing the market for franchised adventuring across the Sword Coast and beyond, Omin&#39;s full measure eludes most people. He is known to be a worshiper of Tymora, ruthless in matters of business, feckless in matters of love, and hopeless in games of chance. Omin is also often accused of being one of the Masked Lords of Waterdeep, though this bit of fancy earns little more than a chuckle in response. And even if the rumor were true, Omin would never leverage such a position for greater financial gain and power. Because that would be wrong...
-      Source: Acquisitions Incorporated p. 196
+      Source&#58; Acquisitions Incorporated p. 196
     </description>
     <environment></environment>
   </monster>
@@ -1427,12 +1427,12 @@
     </action>
     <action>
       <name>Staff of the Master (+1 Quarterstaff)</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands.</text>
+      <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands.</text>
       <attack>Staff of the Master (+1 Quarterstaff)|6|1d6+4</attack>
     </action>
     <action>
       <name>Unarmed Strike</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage. Rosie&#39;s unarmed strikes are magical.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage. Rosie&#39;s unarmed strikes are magical.</text>
       <attack>Unarmed Strike|5|1d6+3</attack>
     </action>
     <reaction>
@@ -1441,16 +1441,16 @@
     </reaction>
     <trait>
       <name>Innate Spellcasting</name>
-      <text>Rosie&#39;s innate spellcasting ability is Wisdom (spell save DC 12). She can innately cast the following spells, requiring no material components:</text>
-      <text>At will: minor illusion, sacred flame, thaumaturgy</text>
-      <text>1/day each: command, darkness, darkvision, pass without trace, silence</text>
+      <text>Rosie&#39;s innate spellcasting ability is Wisdom (spell save DC 12). She can innately cast the following spells, requiring no material components&#58;</text>
+      <text>At will&#58; minor illusion, sacred flame, thaumaturgy</text>
+      <text>1/day each&#58; command, darkness, darkvision, pass without trace, silence</text>
     </trait>
     <spells>minor illusion, sacred flame, thaumaturgy, command, darkness, darkvision, pass without trace, silence</spells>
     <description>
       Well, I have this jar of eyeballs...
       Weighing in at just under 30 pounds and with a grandmotherly demeanor befitting her advanced age, Rosie Beestinger is easily mistaken for someone on the wrong side of the "aggressor/victim" relationship. But this is a mix-up that few people make more than once. Patient and studious, Rosie has schooled more than one malcontent with what the halfling refers to as "the sauce"-a whirlwind of kicks and punches to one or the other haunches that can inspire even the toughest half-orc to sprint toward anyplace Rosie isn&#39;t. As an increasing number of folk hear the tales of her prowess, the "C" Team cartographer&#39;s fame among her fellow halflings has become nothing short of legendary. Still, this adoration might be augmented by the sheer number of halflings related to Rosie. She has a daunting number of natural and adopted children, many of whom have followed their mother along the adventuring career track.
       Rosie&#39;s goals have always been more complex than merely seeking after adventure. She has long sought for ultimate meaning in the stars, and to seek justification for her belief that her bonds to her expansive family are reflected in the endless movements and intricate patterns of the sky. However, the Beestinger clan has a less metaphysical reputation in the eyes of many people, as constantly swirling rumors attempt to connect the family to various and nefarious halfling criminal enter prises. Naturally, Rosie knows nothing about any of that. Sure, her nickname is "Grandmother Night," but that probably doesn&#39;t mean anything.
-      Source: Acquisitions Incorporated p. 203
+      Source&#58; Acquisitions Incorporated p. 203
     </description>
     <environment></environment>
   </monster>
@@ -1480,18 +1480,18 @@
     <senses></senses>
     <action>
       <name>Dagger</name>
-      <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <text>Melee or Ranged Weapon Attack&#58; +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|4|1d4+2</attack>
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:</text>
-      <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
-      <text>&#183; 1st level (4 slots): detect magic, mage armor, distort value&#42;</text>
-      <text>&#183; 2nd level (3 slots): gift of gab&#42;, suggestion</text>
-      <text>&#183; 3rd level (3 slots): fast friends&#42;, lightning bolt</text>
-      <text>&#183; 4th level (3 slots): greater invisibility</text>
-      <text>&#183; 5th level (1 slots): cone of cold</text>
+      <text>Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; fire bolt, light, mage hand, prestidigitation</text>
+      <text>&#183; 1st level (4 slots)&#58; detect magic, mage armor, distort value&#42;</text>
+      <text>&#183; 2nd level (3 slots)&#58; gift of gab&#42;, suggestion</text>
+      <text>&#183; 3rd level (3 slots)&#58; fast friends&#42;, lightning bolt</text>
+      <text>&#183; 4th level (3 slots)&#58; greater invisibility</text>
+      <text>&#183; 5th level (1 slots)&#58; cone of cold</text>
       <text>&#42;New spell introduced in chapter 3</text>
     </trait>
     <slots>4, 3, 3, 3, 1</slots>
@@ -1500,7 +1500,7 @@
       Not much is known of the mysterious and aloof majordomo of Acquisitions Incorporated Head Office, the mage known as Flabbergast. It&#39;s said that he hails from Neverwinter, and that his wealthy family helped erect and carve the famous Dolphin Bridge in that city. Although he detests physical labor, Flabbergast is a bit of a bridge builder in his own way, always striving to bring people together and flexing his diplomatic muscles. A pacifist bureaucrat, he abhors violence, and rarely puts his magical prowess on display.
       One thing that is known (though it&#39;s seldom spoken of) is that Flabbergast once worked for Dran Enterprises, and specifically for Portentia Dran. He carries a certain amount of guilt around being complicit in certain Dran Enterprises&#39; dealings, and helped Acquisitions Incorporated on the side even before taking up an official role with the company. Though Head Office certainly trusts him, others might wonder where his true loyalties lie.
       Flabbergast&#39;s familiar, Mister Snibbly, uses the cat stat block.
-      Source: Acquisitions Incorporated p. 200
+      Source&#58; Acquisitions Incorporated p. 200
     </description>
     <environment></environment>
   </monster>
@@ -1534,7 +1534,7 @@
     </trait>
     <action>
       <name>Dagger</name>
-      <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+      <text>Melee or Ranged Weapon Attack&#58; +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
       <attack>Dagger|5|1d4+2</attack>
     </action>
     <action>
@@ -1543,13 +1543,13 @@
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Jim is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). He has the following wizard spells prepared:</text>
-      <text>Cantrips (at will): fire bolt, friends, mage hand, minor illusion, prestidigitation</text>
-      <text>&#183; 1st level (4 slots): disguise self, Jim&#39;s magic missile&#42;, mage armor</text>
-      <text>&#183; 2nd level (3 slots): invisibility, Jim&#39;s glowing coin&#42;</text>
-      <text>&#183; 3rd level (3 slots): incite greed&#42;, fireball</text>
-      <text>&#183; 4th level (3 slots): conjure minor elementals, polymorph</text>
-      <text>&#183; 5th level (1 slots): mislead</text>
+      <text>Jim is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). He has the following wizard spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; fire bolt, friends, mage hand, minor illusion, prestidigitation</text>
+      <text>&#183; 1st level (4 slots)&#58; disguise self, Jim&#39;s magic missile&#42;, mage armor</text>
+      <text>&#183; 2nd level (3 slots)&#58; invisibility, Jim&#39;s glowing coin&#42;</text>
+      <text>&#183; 3rd level (3 slots)&#58; incite greed&#42;, fireball</text>
+      <text>&#183; 4th level (3 slots)&#58; conjure minor elementals, polymorph</text>
+      <text>&#183; 5th level (1 slots)&#58; mislead</text>
       <text>&#42;New spell introduced in chapter 3</text>
     </trait>
     <slots>4, 3, 3, 3, 1</slots>
@@ -1558,7 +1558,7 @@
       Have a magical day!
       James Winifred Darkmagic III is the scion of a mysterious, multiplanar wizarding family. Jim&#39;s arcane pedigree has long preceded him, incorporating equally healthy amounts of magical training and innate eldritch prowess. However, despite a natural talent that could have allowed him to make a name for himself as a court wizard, or perhaps "that strange old man in the village," Jim&#39;s original penchant was not for the magic of scroll or spell, but for the stage.
       As an entertainer and purveyor of the "Jim Darkmagic Experience," the legendary mage can often be found in markets and town squares, performing feats of mundane legerdemain. The renown he has earned for these feats is nearly equaled by the reputation that follows him as chief arcanist (and occasional arsonist) for Acquisitions Incorporated. And although his skills as an adventurer and real wizard remain highly sought after, Jim looks forward to a well-earned retirement, at which point he hopes to become a "real wizard"-by which he means a fake wizard-full time.
-      Source: Acquisitions Incorporated p. 197
+      Source&#58; Acquisitions Incorporated p. 197
     </description>
     <environment></environment>
   </monster>
@@ -1592,22 +1592,22 @@
     </trait>
     <action>
       <name>Shortsword</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
       <attack>Shortsword|4|1d6+2</attack>
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Pendragon is a 4th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:</text>
-      <text>Cantrips (at will): acid splash, light, mage hand, poison spray, shocking grasp</text>
-      <text>&#183; 1st level (4 slots): detect magic, mage armor, magic missile, sleep</text>
-      <text>&#183; 2nd level (3 slots): blindness/deafness, cloud of daggers, scorching ray</text>
+      <text>Pendragon is a 4th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; acid splash, light, mage hand, poison spray, shocking grasp</text>
+      <text>&#183; 1st level (4 slots)&#58; detect magic, mage armor, magic missile, sleep</text>
+      <text>&#183; 2nd level (3 slots)&#58; blindness/deafness, cloud of daggers, scorching ray</text>
     </trait>
     <slots>4, 3</slots>
     <spells>acid splash, light, mage hand, poison spray, shocking grasp, detect magic, mage armor, magic missile, sleep, blindness/deafness, cloud of daggers, scorching ray</spells>
     <description>
       Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team&#39;s attempts to apprehend the wandering bard. An adopted child of the "C" Team&#39;s Rosie Beestinger, Pendragon is his mother&#39;s foil in almost every way-including his goal of wanting to mainstream some of the family&#39;s rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie&#39;s request, things remain cool between the two.
       Pendragon was kicked out of wizarding school as a result of the dark rumors following the Beestinger clan. Now a self-taught mage, he specializes in making use of the dangerous spells and weird trinkets he often comes across in his role as a kind of arcane archaeologist. Seeking out the family feeling that an adventuring group provides keeps him in the "B" Team, even if that unfortunately comes with Oak Truestrike as a kind of father figure.
-      Source: Acquisitions Incorporated p. 206
+      Source&#58; Acquisitions Incorporated p. 206
     </description>
     <environment></environment>
   </monster>
@@ -1645,22 +1645,22 @@
     </action>
     <action>
       <name>Warhammer</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) bludgeoning damage, and the target must succeed on a DC 12 Strength saving throw or be pushed 5 feet.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) bludgeoning damage, and the target must succeed on a DC 12 Strength saving throw or be pushed 5 feet.</text>
       <attack>Warhammer|4|1d8+2</attack>
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Phoenix is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). He has the following cleric spells prepared:</text>
-      <text>Cantrips (at will): guidance, light, mending, sacred flame</text>
-      <text>&#183; 1st level (4 slots): bane, cure wounds, guiding bolt</text>
-      <text>&#183; 2nd level (3 slots): hold person, spiritual weapon</text>
+      <text>Phoenix is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). He has the following cleric spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; guidance, light, mending, sacred flame</text>
+      <text>&#183; 1st level (4 slots)&#58; bane, cure wounds, guiding bolt</text>
+      <text>&#183; 2nd level (3 slots)&#58; hold person, spiritual weapon</text>
     </trait>
     <slots>4, 3</slots>
     <spells>guidance, light, mending, sacred flame, bane, cure wounds, guiding bolt, hold person, spiritual weapon</spells>
     <description>
       The "B" Team hoards person, Phoenix Anvil is a servant of Waukeen and a soft-spoken sort. Really soft. Like, he talks so infrequently that even he might not recognize his own voice. Phoenix comes from the streets, where he grew up a fighter until a job sweeping the steps of a small temple of Waukeen showed him a new path. His hunger for coin as an adventurer is thus guided by his knowledge of what it is to do without.
       More of an object individual than a people person, Phoenix is obsessively dedicated to the franchise&#39;s assets and accounts. Thankfully, he includes his fellow members among those assets, making him fiercely loyal. However, Oak Truestrike is the only team member he&#39;s ever really warmed to, which doesn&#39;t do either of them any good.
-      Source: Acquisitions Incorporated p. 206
+      Source&#58; Acquisitions Incorporated p. 206
     </description>
     <environment></environment>
   </monster>
@@ -1706,17 +1706,17 @@
     </action>
     <action>
       <name>+1 Shortsword</name>
-      <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 9 (1d6 + 6) piercing damage.</text>
+      <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. 9 (1d6 + 6) piercing damage.</text>
       <attack>+1 Shortsword|9|1d6+6</attack>
     </action>
     <action>
       <name>Rapier</name>
-      <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 9 (1d8 + 5) piercing damage.</text>
+      <text>Melee Weapon Attack&#58; +8 to hit, reach 5 ft., one target. 9 (1d8 + 5) piercing damage.</text>
       <attack>Rapier|8|1d8+5</attack>
     </action>
     <action>
       <name>Dagger</name>
-      <text>Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+      <text>Melee or Ranged Weapon Attack&#58; +8 to hit, reach 5 ft. or range 20/60 ft., one target. 7 (1d4 + 5) piercing damage.</text>
       <attack>Dagger|8|1d4+5</attack>
     </action>
     <reaction>
@@ -1727,7 +1727,7 @@
       I know a story about that...
       A product of life on a small-town farm, the rogue known as Viari carries fond memories of those childhood days and his loving family. (Well, except for that thing where his parents insist on thinking of his older brother as the successful one.) But he can be quick to show self-consciousness when talking of where he came from, and he never speaks of the name he bore in that former life After quickly rising in the ranks of Acquisitions Incorporated since joining that august team, Viari has come to head what&#39;s known as the organization&#39;s Stabbing Department. A potent threat in both dueling and earnest debate, he demonstrates an equal flair for planning and forethought, mad combat moves (involving leaping off high places whenever possible), and dark vengeance.
       Viari&#39;s career as an adventurer was nearly cut short during a battle of which the bards still sing. Unleashing a devastating attack with the aptly named Apocalypse Dagger, the rogue destroyed a giant single-handedly&#45; and lost his arm in the process. Although Viari was made bodily whole again in an equally dramatic magical fashion, some of those closest to him have noticed that those miraculous events weigh on him still, perhaps suggesting consequences that only he foresees.
-      Source: Acquisitions Incorporated p. 198
+      Source&#58; Acquisitions Incorporated p. 198
     </description>
     <environment></environment>
   </monster>
@@ -1765,7 +1765,7 @@
     </action>
     <action>
       <name>Shortsword</name>
-      <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) slashing damage.</text>
       <attack>Shortsword|6|1d6+4</attack>
     </action>
     <action>
@@ -1776,7 +1776,7 @@
       Now the owner and driving force behind Dran Enterprises-perhaps Acquisitions Incorporated&#39;s most notable rival in the adventuring-for-profit-and-power biz&#45; Portentia Dran is more than she appears to be. Quite literally. The person known as Portentia is actually a changeling, who took the place of the real Portentia before her fifth year.
       The changeling Portentia can affect a range of dis guises, and has spent long years engaged in a mission of manipulating the members of the Dran family. Years ago, it was Portentia who tricked her sister Auspicia into exploring the depths of the Wandering Crypt. And she would have been successful in arranging for Omin to be claimed by that creature as well if he hadn&#39;t fled immediately in search of a weapon to aid his captured sister.
       Whether in combat or social encounters, Portentia shifts frequently between different forms and mindsets, only some of which are fully humanoid. She fights to maim, with a cruel combat style that emphasizes surprise and painful instruction. She is willing to affect any appearance or attitude to achieve her goals. But what those goals are-for herself and Dran Enterprises alike-remain a secret known only to her.
-      Source: Acquisitions Incorporated p. 208
+      Source&#58; Acquisitions Incorporated p. 208
     </description>
     <environment></environment>
   </monster>
@@ -1814,20 +1814,20 @@
     </trait>
     <action>
       <name>Maul</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 9 (2d6 + 2) bludgeoning damage.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 9 (2d6 + 2) bludgeoning damage.</text>
       <attack>Maul|4|2d6+2</attack>
     </action>
     <trait>
       <name>Spellcasting</name>
-      <text>Prophetess is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). Prophetess has the following cleric spells prepared:</text>
-      <text>Cantrips (at will): light, sacred flame, thaumaturgy</text>
-      <text>&#183; 1st level (4 slots): cure wounds, guiding bolt, sanctuary</text>
-      <text>&#183; 2nd level (3 slots): lesser restoration, spiritual weapon</text>
-      <text>&#183; 3rd level (2 slots): dispel magic, spirit guardians</text>
+      <text>Prophetess is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). Prophetess has the following cleric spells prepared&#58;</text>
+      <text>Cantrips (at will)&#58; light, sacred flame, thaumaturgy</text>
+      <text>&#183; 1st level (4 slots)&#58; cure wounds, guiding bolt, sanctuary</text>
+      <text>&#183; 2nd level (3 slots)&#58; lesser restoration, spiritual weapon</text>
+      <text>&#183; 3rd level (2 slots)&#58; dispel magic, spirit guardians</text>
     </trait>
     <slots>4, 3, 2</slots>
     <spells>light, sacred flame, thaumaturgy, cure wounds, guiding bolt, sanctuary, lesser restoration, spiritual weapon, dispel magic, spirit guardians</spells>
-    <description>Source: Acquisitions Incorporated p. 208</description>
+    <description>Source&#58; Acquisitions Incorporated p. 208</description>
     <environment></environment>
   </monster>
 </compendium>

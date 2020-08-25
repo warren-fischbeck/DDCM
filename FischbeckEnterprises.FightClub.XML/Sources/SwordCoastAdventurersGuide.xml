@@ -8,7 +8,7 @@
     <text>Spiked armor is a rare type of medium armor made by dwarves. It consists of a leather coat and leggings covered with spikes that are usually made of metal.</text>
     <text />
     <value>75</value>
-    <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+    <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
     <ac>14</ac>
     <strength></strength>
     <stealth>YES</stealth>
@@ -26,31 +26,31 @@
       <name>Lucky</name>
       <text>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 28</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 28</text>
     </trait>
     <trait>
       <name>Brave</name>
       <text>You have advantage on saving throws against being frightened.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 28</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 28</text>
     </trait>
     <trait>
       <name>Halfling Nimbleness</name>
       <text>You can move through the space of any creature that is of a size larger than yours.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 28</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 28</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Halfling. The Halfling language isn&#39;t secret, but halflings are loath to share it with others. They write very little, so they don&#39;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 28</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 28</text>
     </trait>
     <trait>
       <name>Silent Speech</name>
       <text>You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 110</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 110</text>
     </trait>
   </race>
   <race>
@@ -64,45 +64,45 @@
       <name>Ability Score Increase</name>
       <text>Two different ability scores of your choice increase by 1.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
       <text>You gain proficiency in two skills of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Elvish, and one extra language of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
-      <name>Variant: Elf Weapon Training</name>
+      <name>Variant&#58; Elf Weapon Training</name>
       <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.</text>
       <text>A half-elf of high elf or wood elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
     <trait>
-      <name>Variant: Cantrip</name>
+      <name>Variant&#58; Cantrip</name>
       <text>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</text>
       <text>A half-elf of high elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
   </race>
   <race>
@@ -116,52 +116,52 @@
       <name>Ability Score Increase</name>
       <text>Two different ability scores of your choice increase by 1.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
       <text>You gain proficiency in two skills of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Elvish, and one extra language of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
-      <name>Variant: Elf Weapon Training</name>
+      <name>Variant&#58; Elf Weapon Training</name>
       <text>You have proficiency with the longsword, shortsword, shortbow, and longbow.</text>
       <text>A half-elf of high elf or wood elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
     <trait>
-      <name>Variant: Fleet of Foot</name>
+      <name>Variant&#58; Fleet of Foot</name>
       <text>Your base walking speed increases to 35 feet.</text>
       <text>A half-elf of wood elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
     <trait>
-      <name>Variant: Mask of the Wild</name>
+      <name>Variant&#58; Mask of the Wild</name>
       <text>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</text>
       <text>A half-elf of wood elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
   </race>
   <race>
@@ -175,38 +175,38 @@
       <name>Ability Score Increase</name>
       <text>Two different ability scores of your choice increase by 1.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
       <text>You gain proficiency in two skills of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Elvish, and one extra language of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
-      <name>Variant: Drow Magic</name>
+      <name>Variant&#58; Drow Magic</name>
       <text>You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. You must finish a long rest before casting these spells again using this trait. Charisma is your spellcasting ability for these spells.</text>
       <text>A half-elf of dark elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
   </race>
   <race>
@@ -220,38 +220,38 @@
       <name>Ability Score Increase</name>
       <text>Two different ability scores of your choice increase by 1.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Darkvision</name>
       <text>Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Fey Ancestry</name>
       <text>You have advantage on saving throws against being charmed, and magic can&#39;t put you to sleep.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Skill Versatility</name>
       <text>You gain proficiency in two skills of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common, Elvish, and one extra language of your choice.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 39</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 39</text>
     </trait>
     <trait>
-      <name>Variant: Aquatic</name>
+      <name>Variant&#58; Aquatic</name>
       <text>You have a swimming speed of 30 feet.</text>
       <text>A half-elf of aquatic elf ancestry can select this feature in place of Skill Versatility.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 116</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 116</text>
     </trait>
   </race>
   <race>
@@ -265,43 +265,43 @@
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
-      <name>Variant: Appearance</name>
-      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&#39;s Handbook, choose 1d4+1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eye; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</text>
+      <name>Variant&#58; Appearance</name>
+      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&#39;s Handbook, choose 1d4+1 of the following features&#58; small horns; fangs or sharp teeth; a forked tongue; catlike eye; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Devil&#39;s Tongue</name>
+      <name>Variant&#58; Devil&#39;s Tongue</name>
       <text>You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Hellfire</name>
+      <name>Variant&#58; Hellfire</name>
       <text>Once you reach 3rd level, you can cast the burning hands spell once as a 2nd-level spell. This trait replaces the hellish rebuke spell of the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Winged</name>
+      <name>Variant&#58; Winged</name>
       <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren&#39;t wearing heavy armor. This replaces the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
   </race>
   <race>
@@ -315,43 +315,43 @@
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
-      <name>Variant: Appearance</name>
-      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&#39;s Handbook, choose 1d4+1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eye; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</text>
+      <name>Variant&#58; Appearance</name>
+      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&#39;s Handbook, choose 1d4+1 of the following features&#58; small horns; fangs or sharp teeth; a forked tongue; catlike eye; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Devil&#39;s Tongue</name>
+      <name>Variant&#58; Devil&#39;s Tongue</name>
       <text>You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Hellfire</name>
+      <name>Variant&#58; Hellfire</name>
       <text>Once you reach 3rd level, you can cast the burning hands spell once as a 2nd-level spell. This trait replaces the hellish rebuke spell of the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Winged</name>
+      <name>Variant&#58; Winged</name>
       <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren&#39;t wearing heavy armor. This replaces the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
   </race>
   <race>
@@ -365,49 +365,49 @@
       <name>Darkvision</name>
       <text>Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Hellish Resistance</name>
       <text>You have resistance to fire damage.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Infernal Legacy</name>
       <text>You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Infernal.</text>
       <text></text>
-      <text>Source: Player&#39;s Handbook, p. 43</text>
+      <text>Source&#58; Player&#39;s Handbook, p. 43</text>
     </trait>
     <trait>
-      <name>Variant: Appearance</name>
-      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&#39;s Handbook, choose 1d4+1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eye; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</text>
+      <name>Variant&#58; Appearance</name>
+      <text>Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player&#39;s Handbook, choose 1d4+1 of the following features&#58; small horns; fangs or sharp teeth; a forked tongue; catlike eye; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Devil&#39;s Tongue</name>
+      <name>Variant&#58; Devil&#39;s Tongue</name>
       <text>You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Hellfire</name>
+      <name>Variant&#58; Hellfire</name>
       <text>Once you reach 3rd level, you can cast the burning hands spell once as a 2nd-level spell. This trait replaces the hellish rebuke spell of the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
     <trait>
-      <name>Variant: Winged</name>
+      <name>Variant&#58; Winged</name>
       <text>You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren&#39;t wearing heavy armor. This replaces the Infernal Legacy trait.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 118</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 118</text>
     </trait>
   </race>
 
@@ -417,85 +417,85 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Primal Path: Path of the Battlerager</name>
+        <name>Primal Path&#58; Path of the Battlerager</name>
         <text>Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Primal Path: Path of the Battlerager: Restriction: Dwarves Only (Path of the Battlerager)</name>
+        <name>Primal Path&#58; Path of the Battlerager&#58; Restriction&#58; Dwarves Only (Path of the Battlerager)</name>
         <text>Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.</text>
         <text>Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM&#39;s setting or your DM&#39;s version of the Realms.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Primal Path: Path of the Battlerager: Battlerager Armor (Path of the Battlerager)</name>
+        <name>Primal Path&#58; Path of the Battlerager&#58; Battlerager Armor (Path of the Battlerager)</name>
         <text>When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon.</text>
         <text>When you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls.</text>
         <text>Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Spirit Seeker (Tree Ghost Tribe) (Path of the Totem Warrior)</name>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Spirit Seeker (Tree Ghost Tribe) (Path of the Totem Warrior)</name>
         <text>Yours is a path that seeks attunement with the natural world, giving you a kinship with plants. At 3rd level when you adopt this path, you gain the ability to cast the speak with plants spell, but only as a ritual, as described in chapter 10.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide p. 120</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide p. 120</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Elk</name>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Totem Spirit&#58; Elk</name>
         <text>While you&#39;re raging and aren&#39;t wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 141</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 141</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Totem Spirit: Tiger</name>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Totem Spirit&#58; Tiger</name>
         <text>While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 122</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 122</text>
       </feature>
     </autolevel>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Primal Path: Path of the Battlerager: Reckless Abandon (Path of the Battlerager)</name>
+        <name>Primal Path&#58; Path of the Battlerager&#58; Reckless Abandon (Path of the Battlerager)</name>
         <text>Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left at the end of your rage.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Elk</name>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Aspect of the Beast&#58; Elk</name>
         <text>Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they&#39;re within 60 feet of you and you&#39;re not incapacitated (see chapter 8 in the Player&#39;s Handbook for more information about travel pace). The elk spirit helps you roam far and fast.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 122</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 122</text>
       </feature>
     </autolevel>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Aspect of the Beast: Tiger</name>
-        <text>You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.</text>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Aspect of the Beast&#58; Tiger</name>
+        <text>You gain proficiency in two skills from the following list&#58; Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 122</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 122</text>
       </feature>
     </autolevel>
 
@@ -504,35 +504,35 @@
         <name>Battlerager Charge (Path of the Battlerager)</name>
         <text>Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Primal Path: Path of the Battlerager: Spiked Retribution (Path of the Battlerager)</name>
+        <name>Primal Path&#58; Path of the Battlerager&#58; Spiked Retribution (Path of the Battlerager)</name>
         <text>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren&#39;t incapacitated, and are wearing spiked armor.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Elk</name>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Totemic Attunement&#58; Elk</name>
         <text>While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + you proficiency bonus) or be knocked prone and take bludgeoning damage equal to 1d12 + your Strength modifier.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 122</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 122</text>
       </feature>
     </autolevel>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Primal Path: Path of the Totem Warrior: Totemic Attunement: Tiger</name>
+        <name>Primal Path&#58; Path of the Totem Warrior&#58; Totemic Attunement&#58; Tiger</name>
         <text>While you&#39;re raging, if you move at least 20 feet in a straight line toward a Large or smaller creature right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 122</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 122</text>
       </feature>
     </autolevel>
   </class>
@@ -541,11 +541,11 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Divine Domain: Arcana Domain</name>
+        <name>Divine Domain&#58; Arcana Domain</name>
         <text>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</text>
         <text>The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include Azuth and Mystra, as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes Hecate, Math Mathonwy, and Isis; the triple moon gods of Solinari, Lunitari, and Nuitari of Krynn; and Boccob, Vecna, and Wee Jas of Greyhawk.</text>
         <text />
-        <text>Arcana Domain Spells:</text>
+        <text>Arcana Domain Spells&#58;</text>
         <text>At each indicated cleric level, add the listed spells to your spells prepared</text>
         <text />
         <text>1st &#8212; detect magic, magic missile</text>
@@ -554,58 +554,58 @@
         <text>7th &#8212; arcane eye, Leomund&#39;s secret chest</text>
         <text>9th &#8212; planar binding, teleportation circle</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 125</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 125</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Divine Domain: Arcana Domain: Arcane Initiate (Arcana Domain)</name>
+        <name>Divine Domain&#58; Arcana Domain&#58; Arcane Initiate (Arcana Domain)</name>
         <text>When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 125</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 125</text>
         <proficiency>Arcana</proficiency>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Arcana Domain: Arcane Abjuration (Arcana Domain)</name>
+        <name>Channel Divinity&#58; Arcana Domain&#58; Arcane Abjuration (Arcana Domain)</name>
         <text>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.</text>
         <text>As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</text>
         <text>A turned creature must spend its turns trying to move as far away from you as it can, and it can&#39;t willingly end its move in a space within 30 feet of you. It also can&#39;t take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there&#39;s nowhere to move, the creature can use the Dodge action.</text>
-        <text>After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn&#39;t on its plane of origin and its challenge rating is at or below a certain threshold:</text>
+        <text>After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn&#39;t on its plane of origin and its challenge rating is at or below a certain threshold&#58;</text>
         <text />
-        <text>Cleric level &#8212; Banishes Creature of CR:</text>
+        <text>Cleric level &#8212; Banishes Creature of CR&#58;</text>
         <text>5th &#8212; 1/2 or lower</text>
         <text>8th &#8212; 1 or lower</text>
         <text>11th &#8212; 2 or lower</text>
         <text>14th &#8212; 3 or lower</text>
         <text>17th &#8212; 4 or lower</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 125</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 125</text>
       </feature>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Divine Domain: Arcana Domain: Spell Breaker (Arcana Domain)</name>
+        <name>Divine Domain&#58; Arcana Domain&#58; Spell Breaker (Arcana Domain)</name>
         <text>Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 126</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 126</text>
       </feature>
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Divine Domain: Arcana Domain: Potent Spellcasting (Arcana Domain)</name>
+        <name>Divine Domain&#58; Arcana Domain&#58; Potent Spellcasting (Arcana Domain)</name>
         <text>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 126</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 126</text>
       </feature>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Divine Domain: Arcana Domain: Arcane Mastery (Arcana Domain)</name>
-        <text>At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.</text>
+        <name>Divine Domain&#58; Arcana Domain&#58; Arcane Mastery (Arcana Domain)</name>
+        <text>At 17th level, you choose four spells from the wizard spell list, one from each of the following levels&#58; 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 126</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 126</text>
       </feature>
     </autolevel>
   </class>
@@ -614,59 +614,59 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Martial Archetype: Purple Dragon Knight</name>
+        <name>Martial Archetype&#58; Purple Dragon Knight</name>
         <text>Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom&#39;s borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.</text>
         <text>A Purple Dragon Knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.</text>
         <text>A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight&#39;s actions can awaken reserves of courage and conviction in allies that they never suspected they had.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 128</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 128</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Martial Archetype: Purple Dragon Knight: Restriction: Knighthood (Purple Dragon Knight)</name>
+        <name>Martial Archetype&#58; Purple Dragon Knight&#58; Restriction&#58; Knighthood (Purple Dragon Knight)</name>
         <text>Purple Dragon Knights are tied to a specific order of Cormyrean knighthood.</text>
         <text>Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than the Purple Dragon Knights.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 128</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 128</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Martial Archetype: Purple Dragon Knight: Rallying Cry (Purple Dragon Knight)</name>
+        <name>Martial Archetype&#58; Purple Dragon Knight&#58; Rallying Cry (Purple Dragon Knight)</name>
         <text>When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.</text>
         <text>When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 128</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 128</text>
       </feature>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Martial Archetype: Purple Dragon Knight: Royal Envoy (Purple Dragon Knight)</name>
+        <name>Martial Archetype&#58; Purple Dragon Knight&#58; Royal Envoy (Purple Dragon Knight)</name>
         <text>A Purple Dragon Knight serves as an envoy of the Cormyrean crown. Knights of high standing are expected to conduct themselves with grace.</text>
-        <text>At 7th level, you gain proficiency in the Persuasion skill. If you are already proficient in it, you gain proficiency in one of the following skills of your choice: Animal Handling, Insight, Intimidation, or Performance.</text>
+        <text>At 7th level, you gain proficiency in the Persuasion skill. If you are already proficient in it, you gain proficiency in one of the following skills of your choice&#58; Animal Handling, Insight, Intimidation, or Performance.</text>
         <text>Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 128</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 128</text>
         <proficiency>Persuasion</proficiency>
         <modifier category="skills">Persuasion+%0</modifier>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Martial Archetype: Purple Dragon Knight: Inspiring Surge (Purple Dragon Knight)</name>
+        <name>Martial Archetype&#58; Purple Dragon Knight&#58; Inspiring Surge (Purple Dragon Knight)</name>
         <text>Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.</text>
         <text>Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 128</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 128</text>
       </feature>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Martial Archetype: Purple Dragon Knight: Bulwark (Purple Dragon Knight)</name>
+        <name>Martial Archetype&#58; Purple Dragon Knight&#58; Bulwark (Purple Dragon Knight)</name>
         <text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren&#39;t incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 128</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 128</text>
       </feature>
     </autolevel>
   </class>
@@ -675,47 +675,47 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Monastic Tradition: Way of the Long Death</name>
+        <name>Monastic Tradition&#58; Way of the Long Death</name>
         <text>Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 130</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 130</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Monastic Tradition: Way of the Long Death: Touch of Death (Way of the Long Death)</name>
+        <name>Monastic Tradition&#58; Way of the Long Death&#58; Touch of Death (Way of the Long Death)</name>
         <text>Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier+your monk level (minimum of 1 temporary hit point).</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 130</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 130</text>
       </feature>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Monastic Tradition: Way of the Long Death: Hour of Reaping (Way of the Long Death)</name>
+        <name>Monastic Tradition&#58; Way of the Long Death&#58; Hour of Reaping (Way of the Long Death)</name>
         <text>At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.</text>
         <text />
-        <text>Frightened:</text>
+        <text>Frightened&#58;</text>
         <text>&#8226; A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</text>
         <text />
         <text>&#8226; The creature can&#39;t willingly move closer to the source of its fear.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 130</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 130</text>
       </feature>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Monastic Tradition: Way of the Long Death: Mastery of Death (Way of the Long Death)</name>
+        <name>Monastic Tradition&#58; Way of the Long Death&#58; Mastery of Death (Way of the Long Death)</name>
         <text>Beginning at 11th level, you use your familiarity with death to escape its grasp. When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 131</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 131</text>
       </feature>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Monastic Tradition: Way of the Long Death: Touch of the Long Death (Way of the Long Death)</name>
+        <name>Monastic Tradition&#58; Way of the Long Death&#58; Touch of the Long Death (Way of the Long Death)</name>
         <text>Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 131</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 131</text>
       </feature>
     </autolevel>
   </class>
@@ -724,21 +724,21 @@
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Sacred Oath: Oath of the Crown</name>
+        <name>Sacred Oath&#58; Oath of the Crown</name>
         <text>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order&#39;s ranks.</text>
         <text />
-        <text>Tenets of the Crown:</text>
+        <text>Tenets of the Crown&#58;</text>
         <text>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</text>
         <text />
-        <text>Law: The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</text>
+        <text>Law&#58; The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</text>
         <text />
-        <text>Loyalty: Your word is your bond. Without loyalty, oaths and laws are meaningless.</text>
+        <text>Loyalty&#58; Your word is your bond. Without loyalty, oaths and laws are meaningless.</text>
         <text />
-        <text>Courage: You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don&#39;t act, then who will?</text>
+        <text>Courage&#58; You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don&#39;t act, then who will?</text>
         <text />
-        <text>Responsibility: You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</text>
+        <text>Responsibility&#58; You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</text>
         <text />
-        <text>Oath Spells:</text>
+        <text>Oath Spells&#58;</text>
         <text>You gain oath spells at the paladin levels listed.</text>
         <text />
         <text>3rd &#8212; command, compelled duel</text>
@@ -747,50 +747,50 @@
         <text>13th &#8212; banishment, guardian of faith</text>
         <text>17th &#8212; circle of power, geas</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 132</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 132</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Oath of the Crown: Champion Challenge (Oath of the Crown)</name>
+        <name>Channel Divinity&#58; Oath of the Crown&#58; Champion Challenge (Oath of the Crown)</name>
         <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can&#39;t willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 133</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 133</text>
       </feature>
     </autolevel>
 
     <autolevel level="3">
       <feature optional="YES">
-        <name>Channel Divinity: Oath of the Crown: Turn the Tide (Oath of the Crown)</name>
+        <name>Channel Divinity&#58; Oath of the Crown&#58; Turn the Tide (Oath of the Crown)</name>
         <text>As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 133</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 133</text>
       </feature>
     </autolevel>
 
     <autolevel level="7">
       <feature optional="YES">
-        <name>Sacred Oath: Oath of the Crown: Divine Allegiance (Oath of the Crown)</name>
+        <name>Sacred Oath&#58; Oath of the Crown&#58; Divine Allegiance (Oath of the Crown)</name>
         <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can&#39;t be reduced or prevented in any way.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 133</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 133</text>
       </feature>
     </autolevel>
 
     <autolevel level="15">
       <feature optional="YES">
-        <name>Sacred Oath: Oath of the Crown: Unyielding Spirit (Oath of the Crown)</name>
+        <name>Sacred Oath&#58; Oath of the Crown&#58; Unyielding Spirit (Oath of the Crown)</name>
         <text>Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 133</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 133</text>
       </feature>
     </autolevel>
 
     <autolevel level="20">
       <feature optional="YES">
-        <name>Sacred Oath: Oath of the Crown: Exalted Champion (Oath of the Crown)</name>
-        <text>At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:</text>
+        <name>Sacred Oath&#58; Oath of the Crown&#58; Exalted Champion (Oath of the Crown)</name>
+        <text>At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour&#58;</text>
         <text />
         <text>&#8226; You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
         <text />
@@ -800,7 +800,7 @@
         <text />
         <text>This effect ends early if you are incapacitated or die. Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 133</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 133</text>
       </feature>
       <counter>
         <name>Exalted Champion</name>
@@ -814,11 +814,11 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Undying</name>
+        <name>Otherworldly Patron&#58; The Undying</name>
         <text>Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize&#8212;like all power&#8212;comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.</text>
         <text>In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock&#39;s Crypt, and Gilgeam, the God-King of Unther.</text>
         <text />
-        <text>Expanded Spell List:</text>
+        <text>Expanded Spell List&#58;</text>
         <text>The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
         <text />
         <text>1st &#8212; false life, ray of sickness</text>
@@ -827,27 +827,27 @@
         <text>4th &#8212; aura of life, death ward</text>
         <text>5th &#8212; contagion, legend lore</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 139</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 139</text>
       </feature>
     </autolevel>
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Undying: Among the Dead (The Undying)</name>
+        <name>Otherworldly Patron&#58; The Undying&#58; Among the Dead (The Undying)</name>
         <text>Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.</text>
         <text>Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn&#39;t make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 139</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 139</text>
       </feature>
     </autolevel>
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Undying: Defy Death (The Undying)</name>
+        <name>Otherworldly Patron&#58; The Undying&#58; Defy Death (The Undying)</name>
         <text>Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.</text>
         <text>Once you use this feature, you can&#39;t use it again until you finish a long rest.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 140</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 140</text>
       </feature>
       <counter>
         <name>Defy Death</name>
@@ -858,21 +858,21 @@
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Undying: Undying Nature (The Undying)</name>
+        <name>Otherworldly Patron&#58; The Undying&#58; Undying Nature (The Undying)</name>
         <text>Beginning at 10th level, you can hold your breath indefinitely, and you don&#39;t require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.</text>
         <text>In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 140</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 140</text>
       </feature>
     </autolevel>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Otherworldly Patron: The Undying: Indestructible Life (The Undying)</name>
+        <name>Otherworldly Patron&#58; The Undying&#58; Indestructible Life (The Undying)</name>
         <text>When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.</text>
         <text>Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 140</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 140</text>
       </feature>
       <counter>
         <name>Indestructible Life</name>
@@ -886,40 +886,40 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging</name>
+        <name>Arcane Tradition&#58; Bladesinging</name>
         <text>Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 141</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 141</text>
       </feature>
     </autolevel>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging: Restriction: Elves Only (Bladesinging)</name>
+        <name>Arcane Tradition&#58; Bladesinging&#58; Restriction&#58; Elves Only (Bladesinging)</name>
         <text>Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faer&#251;n, elves closely guard the secrets of bladesinging.</text>
         <text>Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM&#39;s setting or your DM&#39;s version of the Realms.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 121</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 121</text>
       </feature>
     </autolevel>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging: Training in War and Song (Bladesinging)</name>
+        <name>Arcane Tradition&#58; Bladesinging&#58; Training in War and Song (Bladesinging)</name>
         <text>When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.</text>
         <text>You also gain proficiency in the Performance skill if you don&#39;t already have it.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 142</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 142</text>
         <proficiency>Performance</proficiency>
       </feature>
     </autolevel>
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging: Bladesong (Bladesinging)</name>
+        <name>Arcane Tradition&#58; Bladesinging&#58; Bladesong (Bladesinging)</name>
         <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren&#39;t wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</text>
         <text>You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).</text>
-        <text>While your bladesong is active, you gain the following benefits:</text>
+        <text>While your bladesong is active, you gain the following benefits&#58;</text>
         <text />
         <text>&#8226; You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).</text>
         <text>&#8226; Your walking speed increases by 10 feet.</text>
@@ -928,7 +928,7 @@
         <text />
         <text>You can use this feature twice. You regain all expended uses of it when you finish a short or long rest.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 142</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 142</text>
       </feature>
       <counter>
         <name>Bladesong</name>
@@ -939,29 +939,29 @@
 
     <autolevel level="6">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging: Extra Attack (Bladesinging)</name>
+        <name>Arcane Tradition&#58; Bladesinging&#58; Extra Attack (Bladesinging)</name>
         <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 142</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 142</text>
       </feature>
     </autolevel>
 
 
     <autolevel level="10">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging: Song of Defense (Bladesinging)</name>
+        <name>Arcane Tradition&#58; Bladesinging&#58; Song of Defense (Bladesinging)</name>
         <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell&#39;s slot level.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 142</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 142</text>
       </feature>
     </autolevel>
 
     <autolevel level="14">
       <feature optional="YES">
-        <name>Arcane Tradition: Bladesinging: Song of Victory (Bladesinging)</name>
+        <name>Arcane Tradition&#58; Bladesinging&#58; Song of Victory (Bladesinging)</name>
         <text>Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</text>
         <text />
-        <text>Source: Sword Coast Adventurer&#39;s Guide, p. 142</text>
+        <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 142</text>
       </feature>
     </autolevel>
 
@@ -988,17 +988,17 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Athletics, Insight</text>
+      <text>Skills&#58; Athletics, Insight</text>
       <text></text>
-      <text>Languages: any two of your choice</text>
+      <text>Languages&#58; any two of your choice</text>
       <text></text>
-      <text>Tools: none</text>
+      <text>Tools&#58; none</text>
     </trait>
     <trait>
       <name>Watcher&#39;s Eye</name>
       <text>Your experience in enforcing the law, and dealing with lawbreakers, gives you a feel for local laws and criminals. You can easily find the local outpost of the watch or a similar organization, and just as easily pick out the dens of criminal activity in a community, although you&#39;re more likely to be welcome in the former locations rather than the latter.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 145</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 145</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1030,17 +1030,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Greater Good: Our lot is to lay down our lives in defense of others. (Good).</text>
+      <text>1. Greater Good&#58; Our lot is to lay down our lives in defense of others. (Good).</text>
       <text></text>
-      <text>2. Responsibility: I do what I must and obey just authority. (Lawful).</text>
+      <text>2. Responsibility&#58; I do what I must and obey just authority. (Lawful).</text>
       <text></text>
-      <text>3. Independence: When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
+      <text>3. Independence&#58; When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
       <text></text>
-      <text>4. Might: In life as in war, the stronger force wins. (Evil).</text>
+      <text>4. Might&#58; In life as in war, the stronger force wins. (Evil).</text>
       <text></text>
-      <text>5. Live and Let Live: Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
+      <text>5. Live and Let Live&#58; Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
       <text></text>
-      <text>6. Nation: My city, nation, or people are all that matter. (Any).</text>
+      <text>6. Nation&#58; My city, nation, or people are all that matter. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1083,7 +1083,7 @@
     <trait>
       <name>Description</name>
       <text>The Stout Folk are well known for their artisanship and the worth of their handiworks, and you have been trained in that ancient tradition. For years you labored under a dwarf master of the craft, enduring long hours. and dismissive, sour-tempered treatment in order to gain the fine skills you possess today.</text>
-      <text>You are most likely a dwarf, but not necessarily &#8212; particularly in the North, the shield dwarf clans learned long ago that only proud fools who are more concerned for their egos than their craft turn away promising apprentices, even those of other races. If you aren&#39;t a dwarf, however, you have taken a solemn oath never to take on an apprentice in the craft: it is not for nondwarves to pass on the skills of Moradin&#39;s favored children. You would have no difficulty, however, finding a dwarf master who was willing to receive potential apprentices who came with your recommendation</text>
+      <text>You are most likely a dwarf, but not necessarily &#8212; particularly in the North, the shield dwarf clans learned long ago that only proud fools who are more concerned for their egos than their craft turn away promising apprentices, even those of other races. If you aren&#39;t a dwarf, however, you have taken a solemn oath never to take on an apprentice in the craft&#58; it is not for nondwarves to pass on the skills of Moradin&#39;s favored children. You would have no difficulty, however, finding a dwarf master who was willing to receive potential apprentices who came with your recommendation</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1095,17 +1095,17 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: History, Insight</text>
+      <text>Skills&#58; History, Insight</text>
       <text></text>
-      <text>Languages: Dwarvish or one of your choice if you already speak Dwarvish</text>
+      <text>Languages&#58; Dwarvish or one of your choice if you already speak Dwarvish</text>
       <text></text>
-      <text>Tools: one type of artisan&#39;s tools</text>
+      <text>Tools&#58; one type of artisan&#39;s tools</text>
     </trait>
     <trait>
       <name>Respect of the Stout Folk</name>
       <text>As well respected as clan crafters are among outsiders, no one esteems them quite so highly as dwarves do. You always have free room and board in any place where shield dwarves or gold dwarves dwell, and the individuals in such a settlement might vie among themselves to determine who can offer you (and possibly your companions) the finest accommodations and assistance.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 145</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 145</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1137,17 +1137,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Community: It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful).</text>
+      <text>1. Community&#58; It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful).</text>
       <text></text>
-      <text>2. Generosity: My talents were given to me so that I could use them to benefit the world. (Good).</text>
+      <text>2. Generosity&#58; My talents were given to me so that I could use them to benefit the world. (Good).</text>
       <text></text>
-      <text>3. Freedom: Everyone should be free to pursue his or her own livelihood. (Chaotic).</text>
+      <text>3. Freedom&#58; Everyone should be free to pursue his or her own livelihood. (Chaotic).</text>
       <text></text>
-      <text>4. Greed: I&apos;m only in it for the money. (Evil).</text>
+      <text>4. Greed&#58; I&apos;m only in it for the money. (Evil).</text>
       <text></text>
-      <text>5. People: I&apos;m committed to the people I care about, not to ideals. (Neutral).</text>
+      <text>5. People&#58; I&apos;m committed to the people I care about, not to ideals. (Neutral).</text>
       <text></text>
-      <text>6. Aspiration: I work hard to be the best there is at my craft.</text>
+      <text>6. Aspiration&#58; I work hard to be the best there is at my craft.</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1202,11 +1202,11 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: History, plus your choice of one from among Arcana, Nature, and Religion</text>
+      <text>Skills&#58; History, plus your choice of one from among Arcana, Nature, and Religion</text>
       <text></text>
-      <text>Languages: any two of your choice</text>
+      <text>Languages&#58; any two of your choice</text>
       <text></text>
-      <text>Tools: none</text>
+      <text>Tools&#58; none</text>
     </trait>
     <trait>
       <name>Library Access</name>
@@ -1214,7 +1214,7 @@
       <text>You have a working knowledge of your cloister&#39;s personnel and bureaucracy, and you know how to navigate those connections with some ease.</text>
       <text>Additionally, you are likely to gain preferential treatment at other libraries across the Realms, as professional courtesy to a fellow scholar.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 146</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 146</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1246,17 +1246,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Knowledge: The path to power and self-improvement is through knowledge. (Neutral).</text>
+      <text>1. Knowledge&#58; The path to power and self-improvement is through knowledge. (Neutral).</text>
       <text></text>
-      <text>2. Beauty: What is beautiful points us beyond itself toward what is true. (Good).</text>
+      <text>2. Beauty&#58; What is beautiful points us beyond itself toward what is true. (Good).</text>
       <text></text>
-      <text>3. Logic: Emotions must not cloud our logical thinking. (Lawful).</text>
+      <text>3. Logic&#58; Emotions must not cloud our logical thinking. (Lawful).</text>
       <text></text>
-      <text>4. No Limits: Nothing should fetter the infinite possibility inherent in all existence. (Chaotic).</text>
+      <text>4. No Limits&#58; Nothing should fetter the infinite possibility inherent in all existence. (Chaotic).</text>
       <text></text>
-      <text>5. Power: Knowledge is the path to power and domination. (Evil).</text>
+      <text>5. Power&#58; Knowledge is the path to power and domination. (Evil).</text>
       <text></text>
-      <text>6. Self-Improvement: The goal of a life of study is the betterment of oneself. (Any).</text>
+      <text>6. Self-Improvement&#58; The goal of a life of study is the betterment of oneself. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1310,17 +1310,17 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Insight, Persuasion</text>
+      <text>Skills&#58; Insight, Persuasion</text>
       <text></text>
-      <text>Languages: any two of your choice</text>
+      <text>Languages&#58; any two of your choice</text>
       <text></text>
-      <text>Tools: none</text>
+      <text>Tools&#58; none</text>
     </trait>
     <trait>
       <name>Court Functionary</name>
       <text>Your knowledge of how bureaucracies function lets you gain access to the records and inner workings of any noble court or government you encounter. You know who the movers and shakers are, whom to go to for the favors you seek, and what the current intrigues of interest in the group are.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 146</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 146</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1352,17 +1352,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Community: It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful).</text>
+      <text>1. Community&#58; It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful).</text>
       <text></text>
-      <text>2. Generosity: My talents were given to me so that I could use them to benefit the world. (Good).</text>
+      <text>2. Generosity&#58; My talents were given to me so that I could use them to benefit the world. (Good).</text>
       <text></text>
-      <text>3. Freedom: Everyone should be free to pursue his or her own livelihood. (Chaotic).</text>
+      <text>3. Freedom&#58; Everyone should be free to pursue his or her own livelihood. (Chaotic).</text>
       <text></text>
-      <text>4. Greed: I&apos;m only in it for the money. (Evil).</text>
+      <text>4. Greed&#58; I&apos;m only in it for the money. (Evil).</text>
       <text></text>
-      <text>5. People: I&apos;m committed to the people I care about, not to ideals. (Neutral).</text>
+      <text>5. People&#58; I&apos;m committed to the people I care about, not to ideals. (Neutral).</text>
       <text></text>
-      <text>6. Aspiration: I work hard to be the best there is at my craft.</text>
+      <text>6. Aspiration&#58; I work hard to be the best there is at my craft.</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1411,15 +1411,15 @@
       <name>Factions of the Sword Coast</name>
       <text>The lack of large, centralized governments in the North and along the Sword Coast is likely directly responsible for the proliferation of secret societies and conspiracies in those lands. If your background is as an agent for one of the main factions of the North and Sword Coast, here are some possibilities.</text>
       <text></text>
-      <text>The Harpers: Founded more than a millennium ago, disbanded and reorganized several times, the Harpers remain a powerful, behind-the-scenes agency, which acts to thwart evil and promote fairness through knowledge, rather than brute force. Harper agents are often proficient in Investigation, enabling them to be adept at snooping and spying. They often seek aid from other Harpers, sympathetic bards and innkeepers, rangers, and the clergy of gods that are aligned with the Harpers&#39; ideals.</text>
+      <text>The Harpers&#58; Founded more than a millennium ago, disbanded and reorganized several times, the Harpers remain a powerful, behind-the-scenes agency, which acts to thwart evil and promote fairness through knowledge, rather than brute force. Harper agents are often proficient in Investigation, enabling them to be adept at snooping and spying. They often seek aid from other Harpers, sympathetic bards and innkeepers, rangers, and the clergy of gods that are aligned with the Harpers&#39; ideals.</text>
       <text></text>
-      <text>The Order of the Gauntlet: One of the newest power groups in Faer&#251;n, the Order of the Gauntlet has an agenda similar to that of the Harpers. Its methods are vastly different, however: bearers of the gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows. Order agents tend to be proficient in Religion, and frequently seek aid from law enforcement friendly to the order&#39;s ideals, and the clergy of the order&#39;s patron gods.</text>
+      <text>The Order of the Gauntlet&#58; One of the newest power groups in Faer&#251;n, the Order of the Gauntlet has an agenda similar to that of the Harpers. Its methods are vastly different, however&#58; bearers of the gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows. Order agents tend to be proficient in Religion, and frequently seek aid from law enforcement friendly to the order&#39;s ideals, and the clergy of the order&#39;s patron gods.</text>
       <text></text>
-      <text>The Emerald Enclave: Maintaining balance in the natural order and combating the forces that threaten that balance is the twofold goal of the Emerald Enclave. Those who serve the faction are masters of survival and living off the land. They are often proficient in Nature, and can seek assistance from woodsmen, hunters, rangers, barbarian tribes, druid circles, and priests who revere the gods of nature.</text>
+      <text>The Emerald Enclave&#58; Maintaining balance in the natural order and combating the forces that threaten that balance is the twofold goal of the Emerald Enclave. Those who serve the faction are masters of survival and living off the land. They are often proficient in Nature, and can seek assistance from woodsmen, hunters, rangers, barbarian tribes, druid circles, and priests who revere the gods of nature.</text>
       <text></text>
-      <text>The Lords&#39; Alliance: On one level, the agents of the Lords&#39; Alliance are representatives of the cities and other governments that constitute the alliance. But, as a faction with interests and concerns that transcend local politics and geography, the Alliance has its own cadre of individuals who work on behalf of the organizations, wider agenda. Alliance agents are required to be knowledgeable in History, and can always rely on the aid of the governments that are part of the Alliance, plus other leaders and groups who uphold the Alliance&#39;s ideals.</text>
+      <text>The Lords&#39; Alliance&#58; On one level, the agents of the Lords&#39; Alliance are representatives of the cities and other governments that constitute the alliance. But, as a faction with interests and concerns that transcend local politics and geography, the Alliance has its own cadre of individuals who work on behalf of the organizations, wider agenda. Alliance agents are required to be knowledgeable in History, and can always rely on the aid of the governments that are part of the Alliance, plus other leaders and groups who uphold the Alliance&#39;s ideals.</text>
       <text></text>
-      <text>The Zhentarim: In recent years, the Zhentarim have become more visible in the world at large, as the group works to improve its reputation among the common people. The faction draws employees and associates from many walks of life, setting them to tasks that serve the goals of the Black Network but aren&#39;t necessarily criminal in nature. Agents of the Black Network must often work in secret, and are frequently proficient in Deception. They seek aid from the wizards, mercenaries, merchants and priesthoods allied with the Zhentarim.</text>
+      <text>The Zhentarim&#58; In recent years, the Zhentarim have become more visible in the world at large, as the group works to improve its reputation among the common people. The faction draws employees and associates from many walks of life, setting them to tasks that serve the goals of the Black Network but aren&#39;t necessarily criminal in nature. Agents of the Black Network must often work in secret, and are frequently proficient in Deception. They seek aid from the wizards, mercenaries, merchants and priesthoods allied with the Zhentarim.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1431,17 +1431,17 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Insight and one Intelligence, Wisdom, or Charisma skill of your choice, as appropriate to your faction</text>
+      <text>Skills&#58; Insight and one Intelligence, Wisdom, or Charisma skill of your choice, as appropriate to your faction</text>
       <text></text>
-      <text>Languages: any two of your choice</text>
+      <text>Languages&#58; any two of your choice</text>
       <text></text>
-      <text>Tools: none</text>
+      <text>Tools&#58; none</text>
     </trait>
     <trait>
       <name>Safe Haven</name>
       <text>As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 147</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 147</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1473,17 +1473,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Tradition: The ancient tradition of worship and sacrifice must be preserved and upheld. (Lawful)</text>
+      <text>1. Tradition&#58; The ancient tradition of worship and sacrifice must be preserved and upheld. (Lawful)</text>
       <text></text>
-      <text>2. Charity: I always try to help those in need, no matter what the personal cost. (Good)</text>
+      <text>2. Charity&#58; I always try to help those in need, no matter what the personal cost. (Good)</text>
       <text></text>
-      <text>3. Change: We must help bring about the changes the gods are consistently working in the world. (Chaotic)</text>
+      <text>3. Change&#58; We must help bring about the changes the gods are consistently working in the world. (Chaotic)</text>
       <text></text>
-      <text>4. Power: I hope on day to rise to the top of my faith&apos;s religious hierarchy (Lawful)</text>
+      <text>4. Power&#58; I hope on day to rise to the top of my faith&apos;s religious hierarchy (Lawful)</text>
       <text></text>
-      <text>5. Faith: I trust my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)</text>
+      <text>5. Faith&#58; I trust my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)</text>
       <text></text>
-      <text>6. Aspiration: I seek to prove myself worthy of my god&apos;s favor by matching my actions against his or her teachings. (Any)</text>
+      <text>6. Aspiration&#58; I seek to prove myself worthy of my god&apos;s favor by matching my actions against his or her teachings. (Any)</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1525,7 +1525,7 @@
     <proficiency>Insight, Perception</proficiency>
     <trait>
       <name>Description</name>
-      <text>Almost all of the common people and other folk that one might encounter along the Sword Coast or in the North have one thing in common: they live out their lives without ever traveling more than a few miles from where they were born.</text>
+      <text>Almost all of the common people and other folk that one might encounter along the Sword Coast or in the North have one thing in common&#58; they live out their lives without ever traveling more than a few miles from where they were born.</text>
       <text>You aren&#39;t one of those folk.</text>
       <text>You are from a distant place, one so remote that few of the common folk in the North realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous stories. You have come to this part of Faer&#251;n for your own reasons, which you might or might not choose to share.</text>
       <text>Although you will undoubtedly find some of this land&#39;s ways to be strange and discomfiting, you can also be sure that some things its people take for granted will be to you new wonders that you&#39;ve never laid eyes on before. By the same token, you&#39;re a person of interest, for good or ill, to those around you almost anywhere you go.</text>
@@ -1545,31 +1545,31 @@
       <name>Where Are You From?</name>
       <text>The most important decision in creating a far traveler background is determining your homeland. The places discussed here are all sufficiently distant from the North and the Sword Coast to justify the use of this background.</text>
       <text></text>
-      <text>Evermeet: The fabled elven is lands far to the west are home to elves who have never been to Faer&#251;n. They often find it a harsher place than they expected when they do make the trip. If you are an elf, Evermeet is a logical (though not mandatory) choice for your homeland.</text>
+      <text>Evermeet&#58; The fabled elven is lands far to the west are home to elves who have never been to Faer&#251;n. They often find it a harsher place than they expected when they do make the trip. If you are an elf, Evermeet is a logical (though not mandatory) choice for your homeland.</text>
       <text></text>
       <text>Most of those who emigrate from Evermeet are either exiles, forced out for committing some infraction of elven law, or emissaries who come to Faer&#251;n for a purpose that benefits elven culture or society.</text>
       <text></text>
-      <text>Halruaa: Located on the southern edges of the Shining South, and hemmed in by mountains all around, the magocracy of Halruaa is a bizarre land to most in Faer&#251;n who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.</text>
+      <text>Halruaa&#58; Located on the southern edges of the Shining South, and hemmed in by mountains all around, the magocracy of Halruaa is a bizarre land to most in Faer&#251;n who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.</text>
       <text></text>
       <text>Halruaans usually make their journeys into Faer&#251;n for personal reasons, since their government has a strict stance against unauthorized involvement with other nations and organizations. You might have been exiled for breaking one of Halruaa&#39;s many byzantine laws, or you could be a pilgrim who seeks the shrines of the gods of magic.</text>
       <text></text>
-      <text>Kara-Tur: The continent of Kara-Tur, far to the east of Faen1n, is home to people whose customs are unfamiliar to the folk of the Sword Coast. If you come from Kara-Tur, the people of Faer&#251;n likely refer to you as Shou, even if that isn&#39;t your true ethnicity, because that&#39;s the blanket term they use for everyone who shares your origin.</text>
+      <text>Kara-Tur&#58; The continent of Kara-Tur, far to the east of Faen1n, is home to people whose customs are unfamiliar to the folk of the Sword Coast. If you come from Kara-Tur, the people of Faer&#251;n likely refer to you as Shou, even if that isn&#39;t your true ethnicity, because that&#39;s the blanket term they use for everyone who shares your origin.</text>
       <text></text>
       <text>The folk of Kara-Tur occasionally travel to Faer&#251;n as diplomats or to forge trade relations with prosperous merchant cartels. You might have come here as part of some such delegation, then decided to stay when the mission was over.</text>
       <text></text>
-      <text>Mulhorand: From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about Mulhorand is a lien to someone from the Sword Coast. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of northern Faer&#251;n. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of Faer&#251;n.</text>
+      <text>Mulhorand&#58; From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about Mulhorand is a lien to someone from the Sword Coast. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of northern Faer&#251;n. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of Faer&#251;n.</text>
       <text></text>
       <text>Those who leave behind Mulhorand&#39;s sweltering deserts and ancient pyramids for a glimpse at a different life do so for many reasons. You might be in the North simply to see the strangeness this wet land has to offer, or because you have made too many enemies among the desert communities of your home.</text>
       <text></text>
-      <text>Sossal: Few have heard of your homeland, but many have questions about it upon seeing you. Humans from Sossal seem crafted from snow, with alabaster skin and white hair, and typically dressed in white.</text>
+      <text>Sossal&#58; Few have heard of your homeland, but many have questions about it upon seeing you. Humans from Sossal seem crafted from snow, with alabaster skin and white hair, and typically dressed in white.</text>
       <text></text>
       <text>Sossal exists far to the northeast, hard up against the endless ice to the north and bounded on its other sides by hundreds of miles of the Great Glacier and the Great Ice Sea. No one from your nation makes the effort to cross such colossal barriers without a convincing reason. You must fear something truly terrible or seek something incredibly important.</text>
       <text></text>
-      <text>Zakhara: As the saying goes among those in Faer&#251;n who know of the place, "To get to Zakhara, go south. Then go south some more." Of course, you followed an equally long route when you came north from your place of birth. Though it isn&#39;t unusual for Zakharans to visit the southern extremes of Faer&#251;n for trading purposes, few of them stray as far from home as you have.</text>
+      <text>Zakhara&#58; As the saying goes among those in Faer&#251;n who know of the place, "To get to Zakhara, go south. Then go south some more." Of course, you followed an equally long route when you came north from your place of birth. Though it isn&#39;t unusual for Zakharans to visit the southern extremes of Faer&#251;n for trading purposes, few of them stray as far from home as you have.</text>
       <text></text>
       <text>You might be traveling to discover what wonders are to be found outside the deserts and sword-like mountains of your homeland, or perhaps you are on a pilgrimage to understand the gods that others worship, so that you might better appreciate your own deities.</text>
       <text></text>
-      <text>The Underdark: Though your home is physically closer to the Sword Coast than the other locations discussed here, it is far more unnatural. You hail from one of the settlements in the Underdark, each of which has its own strange customs and laws. If you are a native of one of the great subterranean cities or settlements, you are probably a member of the race that occupies the place but you might also have grown up there after being captured and brought below when you were a child.</text>
+      <text>The Underdark&#58; Though your home is physically closer to the Sword Coast than the other locations discussed here, it is far more unnatural. You hail from one of the settlements in the Underdark, each of which has its own strange customs and laws. If you are a native of one of the great subterranean cities or settlements, you are probably a member of the race that occupies the place but you might also have grown up there after being captured and brought below when you were a child.</text>
       <text></text>
       <text>If you are a true Underdark native, you might have come to the surface as an emissary of your people, or perhaps to escape accusations of criminal behavior (whether warranted or not). If you aren&#39;t a native, your reason for leaving "home" probably has something to do with getting away from a bad situation.</text>
     </trait>
@@ -1577,18 +1577,18 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Insight, Perception</text>
+      <text>Skills&#58; Insight, Perception</text>
       <text></text>
-      <text>Languages: any one of your choice</text>
+      <text>Languages&#58; any one of your choice</text>
       <text></text>
-      <text>Tools: any one musical instrument or gaming set of your choice, likely something native to your homeland</text>
+      <text>Tools&#58; any one musical instrument or gaming set of your choice, likely something native to your homeland</text>
     </trait>
     <trait>
       <name>All Eyes on You</name>
       <text>Your accent, mannerisms, figures of speech, and perhaps even your appearance all mark you as foreign. Curious glances are directed your way wherever you go, which can be a nuisance, but you also gain the friendly interest of scholars and others intrigued by far-off lands, to say nothing of everyday folk who are eager to hear stories of your homeland.</text>
       <text>You can parley this attention into access to people and places you might not otherwise have, for you and your traveling companions. Noble lords, scholars, and merchant princes, to name a few, might be interested in hearing about your distant homeland and people.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 148</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 148</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1616,17 +1616,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Open: I have much to learn from the kindly folk I meet along my way. (Good)</text>
+      <text>1. Open&#58; I have much to learn from the kindly folk I meet along my way. (Good)</text>
       <text></text>
-      <text>2. Reserved: As someone new to these strange lands, I am cautious and respectful in my dealings. (Lawful)</text>
+      <text>2. Reserved&#58; As someone new to these strange lands, I am cautious and respectful in my dealings. (Lawful)</text>
       <text></text>
-      <text>3. Adventure: I&#39;m far from home, and everything is strange and wonderful! (Chaotic)</text>
+      <text>3. Adventure&#58; I&#39;m far from home, and everything is strange and wonderful! (Chaotic)</text>
       <text></text>
-      <text>4. Cunning: Though I may not know their ways, neither do they know mine, which can be to my advantage. (Evil)</text>
+      <text>4. Cunning&#58; Though I may not know their ways, neither do they know mine, which can be to my advantage. (Evil)</text>
       <text></text>
-      <text>5. Inquisitive: Everything is new, but I have a thirst to learn. (Neutral)</text>
+      <text>5. Inquisitive&#58; Everything is new, but I have a thirst to learn. (Neutral)</text>
       <text></text>
-      <text>6. Suspicious: I must be careful, for I have no way of telling friend from foe here. (Any)</text>
+      <text>6. Suspicious&#58; I must be careful, for I have no way of telling friend from foe here. (Any)</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1672,7 +1672,7 @@
     </trait>
     <trait>
       <name>Inheritance</name>
-      <text>Choose or randomly determine your inheritance from the possibilities below. Work with your Dungeon Master to come up with details: Why is your inheritance so important, and what is its full story? You might prefer for the DM to invent these details as part of the game, allowing you to learn more about your inheritance as your character does.</text>
+      <text>Choose or randomly determine your inheritance from the possibilities below. Work with your Dungeon Master to come up with details&#58; Why is your inheritance so important, and what is its full story? You might prefer for the DM to invent these details as part of the game, allowing you to learn more about your inheritance as your character does.</text>
       <text></text>
       <text>The Dungeon Master is free to use your inheritance as a story hook, sending you on quests to learn more about its history or true nature, or confronting you with foes who want to claim it for themselves or prevent you from learning what you seek. The DM also determines the properties of your inheritance and how they figure into the item&apos;s history and importance. For instance, the object might be a minor magic item, or one that begins with a modest ability and increases in potency with the passage of time. Or, the true nature of your inheritance might not be apparent at first and is revealed only when certain conditions are met.</text>
       <text></text>
@@ -1702,19 +1702,19 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Survival, plus one from among Arcana, History, and Religion</text>
+      <text>Skills&#58; Survival, plus one from among Arcana, History, and Religion</text>
       <text></text>
-      <text>Languages: any one of your choice</text>
+      <text>Languages&#58; any one of your choice</text>
       <text></text>
-      <text>Tools: your choice of a gaming set or a musical instrument</text>
+      <text>Tools&#58; your choice of a gaming set or a musical instrument</text>
     </trait>
     <trait>
       <name>Inheritance</name>
-      <text>Choose or randomly determine your inheritance from the possibilities in the table below. Work with your Dungeon Master to come up with details: Why is your inheritance so important, and what is its full story? You might prefer for the DM to invent these details as part of the game, allowing you to learn more about your inheritance as your character does.</text>
+      <text>Choose or randomly determine your inheritance from the possibilities in the table below. Work with your Dungeon Master to come up with details&#58; Why is your inheritance so important, and what is its full story? You might prefer for the DM to invent these details as part of the game, allowing you to learn more about your inheritance as your character does.</text>
       <text>The Dungeon Master is free to use your inheritance as a story hook, sending you on quests to learn more about its history or true nature, or confronting you with foes who want to claim it for themselves or prevent you from learning what you seek. The DM also determines the properties of your inheritance and how they figure into the item&#39;s history and importance. For instance, the object might be a minor magic item, or one that begins with a modest ability and increases in potency with the passage of time. Or, the true nature of your inheritance might not be apparent at first and is revealed only when certain conditions are met.</text>
       <text>When you begin your adventuring career, you can decide whether to tell your companions about your inheritance right away. Rather than attracting attention to yourself, you might want to keep your inheritance a secret until you learn more about what it means to you and what it can do for you.</text>
       <text />
-      <text>d8 &#8212; Object or item:</text>
+      <text>d8 &#8212; Object or item&#58;</text>
       <text>1 &#8212; A document such as a map, a letter, or a journal</text>
       <text>2-3 &#8212; a trinket (see "Trinkets" in chapter 5 of the Player&#39;s Handbook)</text>
       <text>4 &#8212;  an article of clothing</text>
@@ -1723,7 +1723,7 @@
       <text>7 &#8212;  a written story, song, poem, or secret</text>
       <text>8 &#8212;  a tattoo or other body marking</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 150</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 150</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1755,17 +1755,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Respect: People deserve to be treated with dignity and respect. (Good).</text>
+      <text>1. Respect&#58; People deserve to be treated with dignity and respect. (Good).</text>
       <text></text>
       <text>2. Fairness. No one should get preferential treatment before the law, and no one is above the law. (Lawful).</text>
       <text></text>
-      <text>3. Freedom: Tyrants must not be allowed to oppress the people. (Chaotic).</text>
+      <text>3. Freedom&#58; Tyrants must not be allowed to oppress the people. (Chaotic).</text>
       <text></text>
-      <text>4. Might: If I become strong, I can take what I want &#8212; what I deserve. (Evil).</text>
+      <text>4. Might&#58; If I become strong, I can take what I want &#8212; what I deserve. (Evil).</text>
       <text></text>
-      <text>5. Sincerity: There&apos;s no good in pretending to be something I&apos;m not. (Neutral).</text>
+      <text>5. Sincerity&#58; There&apos;s no good in pretending to be something I&apos;m not. (Neutral).</text>
       <text></text>
-      <text>6. Destiny: Nothing and no one can steer me away from my higher calling. (Any).</text>
+      <text>6. Destiny&#58; Nothing and no one can steer me away from my higher calling. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1819,17 +1819,17 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Insight, Investigation</text>
+      <text>Skills&#58; Insight, Investigation</text>
       <text></text>
-      <text>Languages: any two of your choice</text>
+      <text>Languages&#58; any two of your choice</text>
       <text></text>
-      <text>Tools: none</text>
+      <text>Tools&#58; none</text>
     </trait>
     <trait>
       <name>Watcher&#39;s Eye</name>
       <text>Your experience in enforcing the law, and dealing with lawbreakers, gives you a feel for local laws and criminals. You can easily find the local outpost of the watch or a similar organization, and just as easily pick out the dens of criminal activity in a community, although you&#39;re more likely to be welcome in the former locations rather than the latter.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 145</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 145</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1861,17 +1861,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Greater Good: Our lot is to lay down our lives in defense of others. (Good).</text>
+      <text>1. Greater Good&#58; Our lot is to lay down our lives in defense of others. (Good).</text>
       <text></text>
-      <text>2. Responsibility: I do what I must and obey just authority. (Lawful).</text>
+      <text>2. Responsibility&#58; I do what I must and obey just authority. (Lawful).</text>
       <text></text>
-      <text>3. Independence: When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
+      <text>3. Independence&#58; When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
       <text></text>
-      <text>4. Might: In life as in war, the stronger force wins. (Evil).</text>
+      <text>4. Might&#58; In life as in war, the stronger force wins. (Evil).</text>
       <text></text>
-      <text>5. Live and Let Live: Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
+      <text>5. Live and Let Live&#58; Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
       <text></text>
-      <text>6. Nation: My city, nation, or people are all that matter. (Any).</text>
+      <text>6. Nation&#58; My city, nation, or people are all that matter. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -1919,11 +1919,11 @@
       <name>Knightly Orders of Faer&#251;n</name>
       <text>Many who rightfully call themselves "knight" earn that title as part of an order in service to a deity, such as Kelemvor&#39;s Eternal Order or Mystra&#39;s Knights of the Mystic Fire. Other knightly orders serve a government, royal family, or are the elite military of a feudal state, such as the brutal Warlock Knights of Vaasa. Other knighthoods are secular and nongovernmental organizations of warriors who follow a particular philosophy, or consider themselves a kind of extended family, similar to an order of monks. Although there are organizations, such as the Knights of the Shield, that use the trappings of knighthood without necessarily being warriors, most folk of Faer&#251;n who hear the word "knight" think of a mounted warrior in armor beholden to a code. Below are a few knightly organizations.</text>
       <text></text>
-      <text>Knights of the Unicorn: The Knights of the Unicorn began as a fad of romantically minded sons and daughters of patriarch families in Baldur&#39;s Gate. On a lark, they took the unicorn goddess Lurue as their mascot and went on various adventures for fun. The reality of the dangers they faced eventually sank in, as did Lurue&#39;s tenets. Over time the small group grew and spread, gaining a following in places as far as Cormyr. The Knights of the Unicorn are chivalric adventurers who follow romantic ideals: life is to be relished and lived with laughter, quests should be taken on a dare, impossible dreams should be pursued for the sheer wonder of their completion, and everyone should be praised for their strengths and comforted in their weaknesses.</text>
+      <text>Knights of the Unicorn&#58; The Knights of the Unicorn began as a fad of romantically minded sons and daughters of patriarch families in Baldur&#39;s Gate. On a lark, they took the unicorn goddess Lurue as their mascot and went on various adventures for fun. The reality of the dangers they faced eventually sank in, as did Lurue&#39;s tenets. Over time the small group grew and spread, gaining a following in places as far as Cormyr. The Knights of the Unicorn are chivalric adventurers who follow romantic ideals&#58; life is to be relished and lived with laughter, quests should be taken on a dare, impossible dreams should be pursued for the sheer wonder of their completion, and everyone should be praised for their strengths and comforted in their weaknesses.</text>
       <text></text>
-      <text>Knights of Myth Drannor: Long ago, the Knights of Myth Drannor were a famous adventuring band, and Dove Falcon hand, one of the famous Seven Sisters, was one of them. The band took its name to honor the great but fallen city, just as the new Knights of Myth Drannor do today. With the city once again in ruins, Dove Falconhand decided to reform the group with the primary goal of building alliances and friendship between the civilized races of the world and goodly people in order to combat evil. The Knights of Myth Drannor once again ride the roads of the Dalelands, and they&#39;ve begun to spread to the lands beyond. Their members, each accepted by Dove herself, are above all valiant and honest.</text>
+      <text>Knights of Myth Drannor&#58; Long ago, the Knights of Myth Drannor were a famous adventuring band, and Dove Falcon hand, one of the famous Seven Sisters, was one of them. The band took its name to honor the great but fallen city, just as the new Knights of Myth Drannor do today. With the city once again in ruins, Dove Falconhand decided to reform the group with the primary goal of building alliances and friendship between the civilized races of the world and goodly people in order to combat evil. The Knights of Myth Drannor once again ride the roads of the Dalelands, and they&#39;ve begun to spread to the lands beyond. Their members, each accepted by Dove herself, are above all valiant and honest.</text>
       <text></text>
-      <text>Knights of the Silver Chalice: The Knights of the Silver Chalice was formed by edict of the demigod Siamorphe in Waterdeep a century ago. Siamorphe&#39;s ethos is the nobility&#39;s right and responsibility to rule, and the demigod is incarnated as a different noble mortal in each generation. By the decree of the Siamorphe at that time, the Knights of the Silver Chalice took it upon themselves to put a proper heir on the throne of Tethyr and reestablish order in that kingdom. Since then they have grown to be the most popular knighthood in Tethyr, a nation that has hosted many knighthoods in fealty to the crown.</text>
+      <text>Knights of the Silver Chalice&#58; The Knights of the Silver Chalice was formed by edict of the demigod Siamorphe in Waterdeep a century ago. Siamorphe&#39;s ethos is the nobility&#39;s right and responsibility to rule, and the demigod is incarnated as a different noble mortal in each generation. By the decree of the Siamorphe at that time, the Knights of the Silver Chalice took it upon themselves to put a proper heir on the throne of Tethyr and reestablish order in that kingdom. Since then they have grown to be the most popular knighthood in Tethyr, a nation that has hosted many knighthoods in fealty to the crown.</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -1935,18 +1935,18 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Persuasion, plus one from among Arcana, History, Nature, and Religion, as appropriate for your order</text>
+      <text>Skills&#58; Persuasion, plus one from among Arcana, History, Nature, and Religion, as appropriate for your order</text>
       <text></text>
-      <text>Languages: any one of your choice</text>
+      <text>Languages&#58; any one of your choice</text>
       <text></text>
-      <text>Tools: your choice of a gaming set or a musical instrument</text>
+      <text>Tools&#58; your choice of a gaming set or a musical instrument</text>
     </trait>
     <trait>
       <name>Knightly Regard</name>
       <text>Your receive shelter and succor from members of your knightly order and those who are sympathetic to its aims. If your order is a religious one, you can gain aid from temples and other religious communities of your deity. Knights of civic orders can get help from the community &#8212; whether a lone settlement or a great nation &#8212; that they serve, and knights of philosophical orders can find help from those they have aided in pursuit of their ideals, and those who share their ideals.</text>
       <text>This help comes in the form of shelter and meals, and healing when appropriate, as well as occasionally risky assistance, such as a band of local citizens rallying to aid a sorely pressed knight, or those who support the order helping to smuggle a knight out of town when he or she is being hunted unjustly.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 151</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 151</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -1978,17 +1978,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Greater Good: Our lot is to lay down our lives in defense of others. (Good).</text>
+      <text>1. Greater Good&#58; Our lot is to lay down our lives in defense of others. (Good).</text>
       <text></text>
-      <text>2. Responsibility: I do what I must and obey just authority. (Lawful).</text>
+      <text>2. Responsibility&#58; I do what I must and obey just authority. (Lawful).</text>
       <text></text>
-      <text>3. Independence: When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
+      <text>3. Independence&#58; When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
       <text></text>
-      <text>4. Might: In life as in war, the stronger force wins. (Evil).</text>
+      <text>4. Might&#58; In life as in war, the stronger force wins. (Evil).</text>
       <text></text>
-      <text>5. Live and Let Live: Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
+      <text>5. Live and Let Live&#58; Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
       <text></text>
-      <text>6. Nation: My city, nation, or people are all that matter. (Any).</text>
+      <text>6. Nation&#58; My city, nation, or people are all that matter. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -2037,27 +2037,27 @@
       <name>Mercenaries of the North</name>
       <text>Countless mercenary companies operate up and down the Sword Coast and throughout the North. Most are smallscale operations that employ a dozen to a hundred folk who offer security services, hunt monsters and brigands, or go to war in exchange for gold. Some organizations, such as the Zhentarim, Flaming Fist, and the nation of Mintarn have hundreds or thousands of members and can provide private armies to those with enough funds. A few organizations operating in the North are described below.</text>
       <text></text>
-      <text>The Chill: The cold and mysterious Lurkwood serves as the home of numerous groups of goblinoids that have banded together into one tribe called the Chill. Unlike most of their kind, the Chill refrains from raiding the people of the North and maintains relatively good relations so that they can hire themselves out as warriors. Few citystates in the North are willing to field an army alongside the Chill, but several are happy to quietly pay the Chill to battle the Uthgardt, orcs, trolls of the Evermoors, and other threats to civilization.</text>
+      <text>The Chill&#58; The cold and mysterious Lurkwood serves as the home of numerous groups of goblinoids that have banded together into one tribe called the Chill. Unlike most of their kind, the Chill refrains from raiding the people of the North and maintains relatively good relations so that they can hire themselves out as warriors. Few citystates in the North are willing to field an army alongside the Chill, but several are happy to quietly pay the Chill to battle the Uthgardt, orcs, trolls of the Evermoors, and other threats to civilization.</text>
       <text></text>
-      <text>Silent Rain: Consisting solely of elves, Silent Rain is a legendary mercenary company operating out of Evereska. Caring little for gold or fame, Silent Rain agrees only to jobs that either promote elven causes or involve destroying orcs, gnolls, and the like. Prospective employers must leave written word (in Elvish) near Evereska, and the Silent Rain sends a representative if interested.</text>
+      <text>Silent Rain&#58; Consisting solely of elves, Silent Rain is a legendary mercenary company operating out of Evereska. Caring little for gold or fame, Silent Rain agrees only to jobs that either promote elven causes or involve destroying orcs, gnolls, and the like. Prospective employers must leave written word (in Elvish) near Evereska, and the Silent Rain sends a representative if interested.</text>
       <text></text>
-      <text>The Bloodaxes: Founded in Sundabar nearly two centuries ago, the Bloodaxes were originally a group of dwarves outcast from their clans for crimes against the teachings of Moradin Soulforger. They began hiring out as mercenaries to whoever in the North would pay them. Since then the mercenary company has broadened its membership to other races, but every member is an exile, criminal, or misfit of some sort looking for a fresh start and a new family among the bold Bloodaxes.</text>
+      <text>The Bloodaxes&#58; Founded in Sundabar nearly two centuries ago, the Bloodaxes were originally a group of dwarves outcast from their clans for crimes against the teachings of Moradin Soulforger. They began hiring out as mercenaries to whoever in the North would pay them. Since then the mercenary company has broadened its membership to other races, but every member is an exile, criminal, or misfit of some sort looking for a fresh start and a new family among the bold Bloodaxes.</text>
     </trait>
     <trait>
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Athletics, Persuasion</text>
+      <text>Skills&#58; Athletics, Persuasion</text>
       <text></text>
-      <text>Languages: none</text>
+      <text>Languages&#58; none</text>
       <text></text>
-      <text>Tools: one type of gaming set, land vehicles</text>
+      <text>Tools&#58; one type of gaming set, land vehicles</text>
     </trait>
     <trait>
       <name>Mercenary Life</name>
       <text>You know the mercenary life as only someone who has experienced it can. You are able to identify mercenary companies by their emblems, and you know a little about any such company, including who has hired them recently. You can find the taverns and festhalls where mercenaries abide in any area, as long as you speak the language. You can find mercenary work between adventures sufficient to maintain a comfortable lifestyle (see "Practicing a Profession" under "Downtime Activities" in chapter 8 of the Player&#39;s Handbook).</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 152</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 152</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -2089,17 +2089,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Greater Good: Our lot is to lay down our lives in defense of others. (Good).</text>
+      <text>1. Greater Good&#58; Our lot is to lay down our lives in defense of others. (Good).</text>
       <text></text>
-      <text>2. Responsibility: I do what I must and obey just authority. (Lawful).</text>
+      <text>2. Responsibility&#58; I do what I must and obey just authority. (Lawful).</text>
       <text></text>
-      <text>3. Independence: When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
+      <text>3. Independence&#58; When people follow orders blindly, they embrace a kind of tyranny. (Chaotic).</text>
       <text></text>
-      <text>4. Might: In life as in war, the stronger force wins. (Evil).</text>
+      <text>4. Might&#58; In life as in war, the stronger force wins. (Evil).</text>
       <text></text>
-      <text>5. Live and Let Live: Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
+      <text>5. Live and Let Live&#58; Ideals aren&apos;t worth killing over or going to war for. (Neutral).</text>
       <text></text>
-      <text>6. Nation: My city, nation, or people are all that matter. (Any).</text>
+      <text>6. Nation&#58; My city, nation, or people are all that matter. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -2141,7 +2141,7 @@
     <proficiency></proficiency>
     <trait>
       <name>Description</name>
-      <text>Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren&#39;t a savage who follows quarry into or through the wilderness. You&#39;re involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What&#39;s more, you aren&#39;t alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.</text>
+      <text>Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren&#39;t a savage who follows quarry into or through the wilderness. You&#39;re involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What&#39;s more, you aren&#39;t alone, as a bounty hunter in the wild would be&#58; you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.</text>
       <text>You might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of thieves&#39; guilds and street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. The community where you plied your trade might have been one of Faer&#251;n&#39;s great metropolises, such as Waterdeep or Baldur&#39;s Gate, or a less populous location, perhaps Luskan or Yartar &#8212; any place that&#39;s large enough to have a steady supply of potential quarries.</text>
       <text>As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn&#39;t fit with the group&#39;s objectives &#8212; but on the other hand, you can take down much more formidable targets with the help of your companions.</text>
     </trait>
@@ -2155,17 +2155,17 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Choose two from among Deception, Insight, Persuasion, and Stealth</text>
+      <text>Skills&#58; Choose two from among Deception, Insight, Persuasion, and Stealth</text>
       <text></text>
-      <text>Languages: none</text>
+      <text>Languages&#58; none</text>
       <text></text>
-      <text>Tools: Choose two from among one type of gaming set, one musical instrument, and thieves&#39; tools</text>
+      <text>Tools&#58; Choose two from among one type of gaming set, one musical instrument, and thieves&#39; tools</text>
     </trait>
     <trait>
       <name>Ear to the Ground</name>
       <text>You are in frequent contact with people in the segment of society that your chosen quarries move through. These people might be associated with the criminal underworld, the rough-and-tumble folk of the streets, or members of high society. This connection comes in the form of a contact in any city you visit, a person who provides information about the people and places of the local area.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 153</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 153</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -2197,15 +2197,15 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Honor: I don&apos;t steal from others in the trade. (Lawful).</text>
+      <text>1. Honor&#58; I don&apos;t steal from others in the trade. (Lawful).</text>
       <text></text>
-      <text>2. Freedom: Chains are meant to be broken, as are those who would forge them. (Chaotic).</text>
+      <text>2. Freedom&#58; Chains are meant to be broken, as are those who would forge them. (Chaotic).</text>
       <text></text>
-      <text>3. Charity: I steal from the wealthy so that I can help people in need. (Good).</text>
+      <text>3. Charity&#58; I steal from the wealthy so that I can help people in need. (Good).</text>
       <text></text>
-      <text>4. Greed: I will do whatever it takes to become wealthy. (Evil).</text>
+      <text>4. Greed&#58; I will do whatever it takes to become wealthy. (Evil).</text>
       <text></text>
-      <text>5. People: I&apos;m loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral).</text>
+      <text>5. People&#58; I&apos;m loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral).</text>
       <text></text>
       <text>6. Redemption; There&apos;s a spark of good in everyone. (Good).</text>
     </trait>
@@ -2265,18 +2265,18 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: Athletics, Survival</text>
+      <text>Skills&#58; Athletics, Survival</text>
       <text></text>
-      <text>Languages: any one of your choice</text>
+      <text>Languages&#58; any one of your choice</text>
       <text></text>
-      <text>Tools: one type of musical instrument or artisan&#39;s tools</text>
+      <text>Tools&#58; one type of musical instrument or artisan&#39;s tools</text>
     </trait>
     <trait>
       <name>Uthgardt Heritage</name>
       <text>You have an excellent knowledge of not only your tribe&#39;s territory, but also the terrain and natural resources of the rest of the North. You are familiar enough with any wilderness area that you can find twice as much food and water as you normally would when you forage there.</text>
       <text>Additionally, you can call upon the hospitality of your people, and those allied with  your tribe, often including members of the druid circles, tribes of nomadic elves, the Harpers, and the priesthoods devoted to the gods of the First Circle.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 153</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 153</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -2308,17 +2308,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Change: Life is like the seasons, in constant change, and we must change with it. (Chaotic).</text>
+      <text>1. Change&#58; Life is like the seasons, in constant change, and we must change with it. (Chaotic).</text>
       <text></text>
-      <text>2. Greater Good: It is each person&apos;s responsibility to make the most happiness for the whole tribe. (Good).</text>
+      <text>2. Greater Good&#58; It is each person&apos;s responsibility to make the most happiness for the whole tribe. (Good).</text>
       <text></text>
-      <text>3. Honor: If I dishonor myself, I dishonor my whole clan. (Lawful).</text>
+      <text>3. Honor&#58; If I dishonor myself, I dishonor my whole clan. (Lawful).</text>
       <text></text>
-      <text>4. Might: The strongest are meant to rule. (Evil).</text>
+      <text>4. Might&#58; The strongest are meant to rule. (Evil).</text>
       <text></text>
-      <text>5. Nature: The natural world is more important than all the constructs of civilization. (Neutral).</text>
+      <text>5. Nature&#58; The natural world is more important than all the constructs of civilization. (Neutral).</text>
       <text></text>
-      <text>6. Glory: I must earn glory in battle, for myself and my clan. (Any).</text>
+      <text>6. Glory&#58; I must earn glory in battle, for myself and my clan. (Any).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -2361,7 +2361,7 @@
     <trait>
       <name>Description</name>
       <text>You are a scion of one of the great noble families of Waterdeep. Human families who jealously guard their privilege and place in the City of Splendors, Waterdhavian nobles have a reputation across Faer&#251;n for being eccentric, spoiled, venal, and, above all else, rich.</text>
-      <text>Whether you are a shining example of the reason for this reputation or one who proves the rule by being an exception, people expect things of you when they know your surname and what it means. Your reasons for taking up adventuring likely involve your family in some way: Are you the family rebel, who prefers delving in filthy dungeons to sipping zzar at a ball? Or have you taken up sword or spell on your family&#39;s behalf, ensuring that they have someone of renown to see to their legacy?</text>
+      <text>Whether you are a shining example of the reason for this reputation or one who proves the rule by being an exception, people expect things of you when they know your surname and what it means. Your reasons for taking up adventuring likely involve your family in some way&#58; Are you the family rebel, who prefers delving in filthy dungeons to sipping zzar at a ball? Or have you taken up sword or spell on your family&#39;s behalf, ensuring that they have someone of renown to see to their legacy?</text>
       <text>Work with your DM to come up with the family you are part of &#8212; there are around seventy-five lineages in Waterdeep, each with its own financial interests, specialties, and schemes. You might be part of the main line of your family, possibly in line to become its leader one day. Or you might be one of any number of cousins, with less prestige but also less responsibility.</text>
     </trait>
     <trait>
@@ -2374,18 +2374,18 @@
       <name>Starting Proficiencies</name>
       <text>Your background grants you the following proficiencies.</text>
       <text></text>
-      <text>Skills: History, Persuasion</text>
+      <text>Skills&#58; History, Persuasion</text>
       <text></text>
-      <text>Languages: any one of your choice</text>
+      <text>Languages&#58; any one of your choice</text>
       <text></text>
-      <text>Tools: one type of gaming set or one musical instrument</text>
+      <text>Tools&#58; one type of gaming set or one musical instrument</text>
     </trait>
     <trait>
       <name>Kept in Style</name>
       <text>While you are in Waterdeep or elsewhere in the North, your house sees to your everyday needs. Your name and signet are sufficient to cover most of your expenses; the inns, taverns, and festhalls you frequent are glad to record your debt and send an accounting to your family&#39;s estate in Waterdeep to settle what you owe.</text>
       <text>This advantage enables you to live a comfortable lifestyle without having to pay 2 gp a day for it, or reduces the cost of a wealthy or aristocratic lifestyle by that amount. You may not maintain a less affluent lifestyle and use the difference as income &#8212; the benefit is a line of credit, not an actual monetary reward.</text>
       <text></text>
-      <text>Source: Sword Coast Adventurer&#39;s Guide, p. 154</text>
+      <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 154</text>
     </trait>
     <trait>
       <name>Equipment</name>
@@ -2417,17 +2417,17 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. Respect: Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good).</text>
+      <text>1. Respect&#58; Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good).</text>
       <text></text>
-      <text>2. Responsibility: It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful).</text>
+      <text>2. Responsibility&#58; It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful).</text>
       <text></text>
-      <text>3. Independence: I must prove that I can handle myself without the coddling of my family. (Chaotic).</text>
+      <text>3. Independence&#58; I must prove that I can handle myself without the coddling of my family. (Chaotic).</text>
       <text></text>
-      <text>4. Power: If I can attain more power, no one will tell me what to do. (Evil).</text>
+      <text>4. Power&#58; If I can attain more power, no one will tell me what to do. (Evil).</text>
       <text></text>
-      <text>5. Family: Blood runs thicker than water. (Any).</text>
+      <text>5. Family&#58; Blood runs thicker than water. (Any).</text>
       <text></text>
-      <text>6. Noble Obligation: It is my duty to protect and care for the people beneath me. (Good).</text>
+      <text>6. Noble Obligation&#58; It is my duty to protect and care for the people beneath me. (Good).</text>
     </trait>
     <trait>
       <name>Bond</name>
@@ -2479,7 +2479,7 @@
     <text>As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell&#39;s range, otherwise the spell fails. On a hit, the target suffers the attack&#39;s normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves before then, it immediately takes 1d8 thunder damage, and the spell ends.</text>
     <text>This spell&#39;s damage increases when you reach higher levels.  At 5th level, the melee attack deals an extra 1d8 thunder damage to the target, and the damage the target takes for moving increases to 2d8.  Both damage rolls increase by 1d8 at 11th level and 17th level.</text>
     <text />
-    <text>Source: Sword Coast Adventurer&#39;s Guide, p. 142</text>
+    <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 142</text>
     <roll>1d8</roll>
   </spell>
   <spell>
@@ -2495,7 +2495,7 @@
     <text>As part of casting this spell, you must make a melee attack with a weapon against one creature within range, otherwise the spell fails.  On a hit, the target suffers the attack&#39;s normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it.  The second creature takes fire damage equal to your spellcasting ability modifier.</text>
     <text>This spell&#39;s damage increases when you reach higher levels.  At 5th level, the melee attack deals an extra 1d8 fire damage to the target, and the fire damage to the secondary creature increases to 1d8+your spellcasting ability modifier.  Both damage rolls increase by 1d8 at 11th level and 17th level.</text>
     <text />
-    <text>Source: Sword Coast Adventurer&#39;s Guide, p. 143</text>
+    <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 143</text>
     <roll>SPELL</roll>
   </spell>
   <spell>
@@ -2511,7 +2511,7 @@
     <text>You create a lash of lightning energy that strikes at one creature of your choice that you can see within range. The target must succeed on a Strength saving throw or be pulled 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.</text>
     <text>	This spell&#39;s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</text>
     <text />
-    <text>Source: Sword Coast Adventurer&#39;s Guide, p. 143</text>
+    <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 143</text>
     <roll>1d8</roll>
   </spell>
   <spell>
@@ -2527,7 +2527,7 @@
     <text>You create a momentary circle of spectral blades that sweep around you. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.</text>
     <text>This spell&#39;s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</text>
     <text />
-    <text>Source: Sword Coast Adventurer&#39;s Guide, p. 143</text>
+    <text>Source&#58; Sword Coast Adventurer&#39;s Guide, p. 143</text>
     <roll>1d6</roll>
   </spell>
 </compendium>

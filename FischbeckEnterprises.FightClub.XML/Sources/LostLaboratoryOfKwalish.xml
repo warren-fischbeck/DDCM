@@ -14,9 +14,9 @@
         <text>You temporarily summon three familiars—spirits that take animal forms of your choice. Each familiar uses the same rules and options for a familiar conjured by the find familiar spell. All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice). If you already have a familiar conjured by the find familiar spell or similar means, then one fewer familiars are conjured by this spell.</text>
             <text>Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.</text>
             <text>When you cast a spell with a range of touch, one of the familiars conjured by this spell can deliver the spell, as normal. However, you can cast a touch spell through only one familiar per turn.
-            At Higher Levels:</text>
+            At Higher Levels&#58;</text>
             <text>When you cast this spell using a spell slot of 3rd level or higher, you conjure an additional familiar for each slot level above 2nd.</text>
-            <text>Source: Lost Laboratory of Kwalish p. 57</text>
+            <text>Source&#58; Lost Laboratory of Kwalish p. 57</text>
     </spell>
     <spell>
         <name>Galder&#39;s Speedy Courier</name>
@@ -31,9 +31,9 @@
         <text>You summon a Small air elemental to a spot within range. The air elemental is formless, nearly transparent, immune to all damage, and cannot interact with other creatures or objects. It carries an open, empty chest whose interior dimensions are 3 feet on each side. While the spell lasts, you can deposit as many items inside the chest as will fit. You can then name a living creature you have met and seen at least once before, or any creature for which you possess a body part, lock of hair, clipping from a nail, or similar portion of the creature&#39;s body.</text>
             <text>As soon as the lid of the chest is closed, the elemental and the chest disappear, then reappear adjacent to the target creature. If the target creature is on another plane, or if it is proofed against magical detection or location, the contents of the chest reappear on the ground at your feet.</text>
             <text>The target creature is made aware of the chest&#39;s contents before it chooses whether or not to open it, and knows how much of the spell&#39;s duration remains in which it can retrieve them. No other creature can open the chest and retrieve its contents. When the spell expires or when all the contents of the chest have been removed, the elemental and the chest disappear. The elemental also disappears if the target creature orders it to return the items to you. When the elemental disappears, any items not taken from the chest reappear on the ground at your feet.</text>
-            <text>At Higher Levels:</text>
+            <text>At Higher Levels&#58;</text>
             <text>When you cast this spell using an 8th-level spell slot, you can send the chest to a creature on a different plane of existence from you.</text>
-            <text>Source: Lost Laboratory of Kwalish p. 57</text>
+            <text>Source&#58; Lost Laboratory of Kwalish p. 57</text>
     </spell>
     <spell>
         <name>Galder&#39;s Tower</name>
@@ -45,7 +45,7 @@
         <components>V, S, M (a fragment of stone, wood, or other building material)</components>
         <duration>24 hours</duration>
         <classes>Wizard</classes>
-        <text>You conjure a two-story tower made of stone, wood, or similar suitably sturdy materials. The tower can be round or square in shape. Each level of the tower is 10 feet tall and has an area of up to 100 square feet. Access between levels consists of a simple ladder and hatch. Each level takes one of the following forms, chosen by you when you cast the spell:</text>
+        <text>You conjure a two-story tower made of stone, wood, or similar suitably sturdy materials. The tower can be round or square in shape. Each level of the tower is 10 feet tall and has an area of up to 100 square feet. Access between levels consists of a simple ladder and hatch. Each level takes one of the following forms, chosen by you when you cast the spell&#58;</text>
             <text>&#183; A bedroom with a bed, chairs, chest, and magical fireplace</text>
             <text>&#183; A study with desks, books, bookshelves, parchments, ink, and ink pens</text>
             <text>&#183; A dining space with a table, chairs, magical fireplace, containers, and cooking utensils</text>
@@ -55,9 +55,9 @@
             <text>&#183; An unfurnished, empty room</text>
             <text>The interior of the tower is warm and dry, regardless of conditions outside. Any equipment or furnishings conjured with the tower dissipate into smoke if removed from it. At the end of the spell&#39;s duration, all creatures and objects within the tower that were not created by the spell appear safely outside on the ground, and all traces of the tower and its furnishings disappear.</text>
             <text>You can cast this spell again while it is active to maintain the tower&#39;s existence for another 24 hours. You can create a permanent tower by casting this spell in the same location and with the same configuration every day for one year.</text>
-            <text>At Higher Levels:</text>
+            <text>At Higher Levels&#58;</text>
             <text>When you cast this spell using a spell slot of 4th level or higher, the tower can have one additional story for each slot level beyond 3rd.</text>
-            <text>Source: Lost Laboratory of Kwalish p. 57</text>
+            <text>Source&#58; Lost Laboratory of Kwalish p. 57</text>
     </spell>
 
     
@@ -100,13 +100,13 @@
         </action>
         <trait>
             <name>Innate Spellcasting (Psionics)</name>
-            <text>The brain in a jar&#39;s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:</text>
-            <text>At will: detect thoughts, mage hand, zone of truth</text>
-            <text>3/day each: charm person, command, hold person</text>
-            <text>1/day each: compulsion, hold monster, sleep (cast at 3rd level), Tasha&#39;s hideous laughter</text>
+            <text>The brain in a jar&#39;s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components&#58;</text>
+            <text>At will&#58; detect thoughts, mage hand, zone of truth</text>
+            <text>3/day each&#58; charm person, command, hold person</text>
+            <text>1/day each&#58; compulsion, hold monster, sleep (cast at 3rd level), Tasha&#39;s hideous laughter</text>
         </trait>
         <spells>detect thoughts, mage hand, zone of truth, charm person, command, hold person, compulsion, hold monster, sleep, Tasha&#39;s hideous laughter</spells>
-        <description>Source: Lost Laboratory of Kwalish p. 38, Infernal Machine Rebuild</description>
+        <description>Source&#58; Lost Laboratory of Kwalish p. 38, Infernal Machine Rebuild</description>
         <environment></environment>
     </monster>
     <monster>
@@ -148,10 +148,10 @@
         </action>
         <action>
             <name>Tentacle Slam</name>
-            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. 12 (2d6 + 5) bludgeoning damage.</text>
             <attack>Tentacle Slam|9|2d6+5</attack>
         </action>
-        <description>Source: Lost Laboratory of Kwalish p. 38</description>
+        <description>Source&#58; Lost Laboratory of Kwalish p. 38</description>
         <environment></environment>
     </monster>
     <monster>
@@ -196,18 +196,18 @@
         </trait>
         <action>
             <name>Shortsword</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
             <attack>Shortsword|4|1d6+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Garret is a 2nd-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He has the following bard spells prepared:</text>
-            <text>Cantrips (at will): blade ward, vicious mockery</text>
-            <text>&#183; 1st level (3 slots): charm person, detect magic, disguise self, identify, Tasha&#39;s hideous laughter</text>
+            <text>Garret is a 2nd-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He has the following bard spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; blade ward, vicious mockery</text>
+            <text>&#183; 1st level (3 slots)&#58; charm person, detect magic, disguise self, identify, Tasha&#39;s hideous laughter</text>
         </trait>
         <slots>3</slots>
         <spells>blade ward, vicious mockery, charm person, detect magic, disguise self, identify, Tasha&#39;s hideous laughter</spells>
-        <description>Source: Lost Laboratory of Kwalish p. 41</description>
+        <description>Source&#58; Lost Laboratory of Kwalish p. 41</description>
         <environment></environment>
     </monster>
     <monster>
@@ -248,18 +248,18 @@
         </trait>
         <action>
             <name>Quarterstaff</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage.</text>
             <attack>Quarterstaff|2|1d6</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Mary is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). She regains her expended spell slots when she finishes a short or long rest. She knows the following warlock spells:</text>
-            <text>Cantrips (at will): chill touch, eldritch blast, mage hand</text>
-            <text>&#183; 3rd level (3 slots): darkness, hex, hypnotic pattern, misty step, phantasmal force, unseen servant</text>
+            <text>Mary is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). She regains her expended spell slots when she finishes a short or long rest. She knows the following warlock spells&#58;</text>
+            <text>Cantrips (at will)&#58; chill touch, eldritch blast, mage hand</text>
+            <text>&#183; 3rd level (3 slots)&#58; darkness, hex, hypnotic pattern, misty step, phantasmal force, unseen servant</text>
         </trait>
         <slots>3</slots>
         <spells>chill touch, eldritch blast, mage hand, darkness, hex, hypnotic pattern, misty step, phantasmal force, unseen servant</spells>
-        <description>Source: Lost Laboratory of Kwalish p. 41</description>
+        <description>Source&#58; Lost Laboratory of Kwalish p. 41</description>
         <environment></environment>
     </monster>
     <monster>
@@ -300,15 +300,15 @@
         </action>
         <action>
             <name>Glass Longsword</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 6 (1d8 + 2) slashing damage. If a 1 is rolled on an attack roll with a glass longsword, it shatters and can no longer be used.</text>
+            <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one creature. 6 (1d8 + 2) slashing damage. If a 1 is rolled on an attack roll with a glass longsword, it shatters and can no longer be used.</text>
             <attack>Glass Longsword|4|1d8+2</attack>
         </action>
         <action>
             <name>Pseudopod</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) acid damage.</text>
+            <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one creature. 5 (1d6 + 2) acid damage.</text>
             <attack>Pseudopod|4|1d6+2</attack>
         </action>
-        <description>Source: Lost Laboratory of Kwalish p. 46</description>
+        <description>Source&#58; Lost Laboratory of Kwalish p. 46</description>
         <environment></environment>
     </monster>
     <monster>
@@ -347,20 +347,20 @@
         </action>
         <action>
             <name>Snake Hair</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.</text>
             <attack>Snake Hair|5|1d4+2</attack>
         </action>
         <action>
             <name>Shortsword</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.</text>
             <attack>Shortsword|5|1d6+2</attack>
         </action>
         <action>
             <name>Longbow</name>
-            <text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.</text>
+            <text>Ranged Weapon Attack&#58; +5 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.</text>
             <attack>Longbow|5|1d8+2</attack>
         </action>
-        <description>Source: Infernal Machine Rebuild p. 23</description>
+        <description>Source&#58; Infernal Machine Rebuild p. 23</description>
         <environment>desert</environment>
     </monster>
 </compendium>

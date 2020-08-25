@@ -11,7 +11,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -21,7 +21,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -31,7 +31,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -41,7 +41,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="18">
@@ -51,7 +51,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -62,10 +62,10 @@
       <feature optional="YES">
         <name>Survival Instincts</name>
         <text>2nd-level barbarian feature (replaces Danger Sense)</text>
-        <text>You become proficient in your choice of two of the following skills: Animal Handling, Medicine, Nature, Perception, or Survival.</text>
+        <text>You become proficient in your choice of two of the following skills&#58; Animal Handling, Medicine, Nature, Perception, or Survival.</text>
         <text>Your proficiency bonus is doubled for any ability check you make that uses either of those skills.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -75,7 +75,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="5">
@@ -84,7 +84,7 @@
         <text>5th-level barbarian feature (replaces Fast Movement)</text>
         <text>When a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. This movement doesn&#39;t provoke opportunity attacks.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -94,7 +94,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -104,7 +104,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -114,7 +114,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -124,7 +124,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -137,7 +137,7 @@
         <text>1st-level bard feature (enhances Bardic Inspiration)</text>
         <text>If a creature has a Bardic Inspiration die from you and casts a spell, the creature can roll that die and add the number rolled to one damage or healing roll of the spell. The Bardic Inspiration die is then lost.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
@@ -146,10 +146,10 @@
         <text>1st-level bard feature (enhances Spellcasting)</text>
         <text>Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the bard spell list. The new spell must be the same level as the spell you replace.</text>
         <text />
-        <text>Rule Tip: Cantrips Are Spells:</text>
+        <text>Rule Tip&#58; Cantrips Are Spells&#58;</text>
         <text>Cantrips are 0-level spells, which don&#39;t use spell slots. When a feature applies to spells, that feature applies to cantrips, unless the feature specifies that the spells must be of 1st level or higher or must expend a spell slot.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -159,7 +159,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -169,7 +169,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -179,7 +179,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -189,7 +189,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -199,7 +199,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -212,16 +212,16 @@
         <text>1st-level cleric feature (enhances Spellcasting)</text>
         <text>Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the cleric spell list.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Channel Divinity: Harness Divine Power</name>
+        <name>Channel Divinity&#58; Harness Divine Power</name>
         <text>2nd-level cleric feature (enhances Channel Divinity)</text>
         <text>You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -231,7 +231,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -241,151 +241,151 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Arcana Domain: Blessed Strikes (Arcana Domain)</name>
+        <name>Divine Domain&#58; Arcana Domain&#58; Blessed Strikes (Arcana Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: City Domain (UA): Blessed Strikes (City Domain (UA))</name>
+        <name>Divine Domain&#58; City Domain (UA)&#58; Blessed Strikes (City Domain (UA))</name>
         <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Death Domain: Blessed Strikes (Death Domain)</name>
+        <name>Divine Domain&#58; Death Domain&#58; Blessed Strikes (Death Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Knoledge Domain: Blessed Strikes (Knowledge Domain)</name>
+        <name>Divine Domain&#58; Knoledge Domain&#58; Blessed Strikes (Knowledge Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Life Domain: Blessed Strikes (Life Domain)</name>
+        <name>Divine Domain&#58; Life Domain&#58; Blessed Strikes (Life Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Divine Strike)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Light Domain: Blessed Strikes (Light Domain)</name>
+        <name>Divine Domain&#58; Light Domain&#58; Blessed Strikes (Light Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Nature Domain: Blessed Strikes (Nature Domain)</name>
+        <name>Divine Domain&#58; Nature Domain&#58; Blessed Strikes (Nature Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Tempest Domain: Blessed Strikes (Tempest Domain)</name>
+        <name>Divine Domain&#58; Tempest Domain&#58; Blessed Strikes (Tempest Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Trickery Domain: Blessed Strikes (Trickery Domain)</name>
+        <name>Divine Domain&#58; Trickery Domain&#58; Blessed Strikes (Trickery Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: War Domain: Blessed Strikes (War Domain)</name>
+        <name>Divine Domain&#58; War Domain&#58; Blessed Strikes (War Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Forge Domain: Blessed Strikes (Forge Domain)</name>
+        <name>Divine Domain&#58; Forge Domain&#58; Blessed Strikes (Forge Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Grave Domain: Blessed Strikes (Grave Domain)</name>
+        <name>Divine Domain&#58; Grave Domain&#58; Blessed Strikes (Grave Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Protection Domain (UA): Blessed Strikes (Protection Domain (UA))</name>
+        <name>Divine Domain&#58; Protection Domain (UA)&#58; Blessed Strikes (Protection Domain (UA))</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Order Domain (UA): Blessed Strikes (Order Domain (UA))</name>
+        <name>Divine Domain&#58; Order Domain (UA)&#58; Blessed Strikes (Order Domain (UA))</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Order Domain: Blessed Strikes (Order Domain)</name>
+        <name>Divine Domain&#58; Order Domain&#58; Blessed Strikes (Order Domain)</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
       <feature optional="YES">
-        <name>Divine Domain: Twilight Domain (UA): Blessed Strikes (Twilight Domain (UA))</name>
+        <name>Divine Domain&#58; Twilight Domain (UA)&#58; Blessed Strikes (Twilight Domain (UA))</name>
         <text>8th-level cleric Divine Domain feature (replaces Potent Spellcasting)</text>
         <text>In battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can&#39;t use this feature again until the start of your next turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -395,7 +395,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -405,7 +405,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -415,7 +415,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -428,17 +428,17 @@
         <text>1st-level druid feature (enhances Spellcasting)</text>
         <text>Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the druid spell list.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
         <name>Wild Companion</name>
         <text>2nd-level druid feature (enhances Wild Shape)</text>
-        <text>You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components.</text>
+        <text>You gain the ability to summon a spirit that assumes an animal form&#58; as an action, you can expend a use of your Wild Shape feature to cast the find familiar spell, without material components.</text>
         <text>When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -448,7 +448,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -458,7 +458,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -468,7 +468,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -478,7 +478,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -488,7 +488,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -497,45 +497,45 @@
 
     <autolevel level="1">
       <feature optional="YES">
-        <name>Fighting Style: Superior Technique</name>
+        <name>Fighting Style&#58; Superior Technique</name>
         <text>You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver&#39;s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).</text>
         <text>You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Fighting Style: Blind Fighting</name>
+        <name>Fighting Style&#58; Blind Fighting</name>
         <text>Being unable to see a creature doesn&#39;t impose disadvantage on your attack rolls against it, provided the creature isn&#39;t hidden from you.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Fighting Style: Interception</name>
+        <name>Fighting Style&#58; Interception</name>
         <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Fighting Style: Thrown Weapon Fighting</name>
+        <name>Fighting Style&#58; Thrown Weapon Fighting</name>
         <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
         <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Fighting Style: Unarmed Fighting</name>
+        <name>Fighting Style&#58; Unarmed Fighting</name>
         <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
         <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
@@ -544,7 +544,7 @@
         <text>1st-level feature (enhances Fighting Style)</text>
         <text>Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
@@ -553,7 +553,7 @@
         <text>1st-level feature (enhances Maneuvers)</text>
         <text>If you know any maneuvers from the fighter&#39;s Battle Master archetype, you can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -563,7 +563,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="6">
@@ -573,7 +573,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -583,50 +583,50 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Martial Archetype: Champion: Fighting Style: Superior Technique</name>
+        <name>Martial Archetype&#58; Champion&#58; Fighting Style&#58; Superior Technique</name>
         <text>You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver&#39;s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).</text>
         <text>You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Martial Archetype: Champion: Fighting Style: Blind Fighting</name>
+        <name>Martial Archetype&#58; Champion&#58; Fighting Style&#58; Blind Fighting</name>
         <text>Being unable to see a creature doesn&#39;t impose disadvantage on your attack rolls against it, provided the creature isn&#39;t hidden from you.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Martial Archetype: Champion: Fighting Style: Interception</name>
+        <name>Martial Archetype&#58; Champion&#58; Fighting Style&#58; Interception</name>
         <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Martial Archetype: Champion: Fighting Style: Thrown Weapon Fighting</name>
+        <name>Martial Archetype&#58; Champion&#58; Fighting Style&#58; Thrown Weapon Fighting</name>
         <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
         <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Martial Archetype: Champion: Fighting Style: Unarmed Fighting</name>
+        <name>Martial Archetype&#58; Champion&#58; Fighting Style&#58; Unarmed Fighting</name>
         <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
         <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -636,7 +636,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="14">
@@ -646,7 +646,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -656,7 +656,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -666,7 +666,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -678,12 +678,12 @@
         <name>Monk Weapons</name>
         <text>1st-level monk feature (enhances Martial Arts)</text>
         <text>You can use this feature to define your monk weapons, rather than using the definition in Martial Arts.</text>
-        <text>You practice your martial arts with specially chosen weapons, which become monk weapons for you. You can choose a number of weapons to be your monk weapons equal to 5 + your Wisdom modifier (minimum of five weapons). The chosen weapons must each meet the following criteria:</text>
+        <text>You practice your martial arts with specially chosen weapons, which become monk weapons for you. You can choose a number of weapons to be your monk weapons equal to 5 + your Wisdom modifier (minimum of five weapons). The chosen weapons must each meet the following criteria&#58;</text>
         <text>&#183; The weapon must be a simple or martial weapon.</text>
         <text>&#183; You must be proficient with the weapon.</text>
-        <text>&#183; The weapon must lack these properties: heavy, special, or two-handed.</text>
+        <text>&#183; The weapon must lack these properties&#58; heavy, special, or two-handed.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -692,7 +692,7 @@
         <text>2nd-level monk feature (enhances Ki)</text>
         <text>If you spend 1 ki or more as part of your action on your turn, you can then immediately make one unarmed strike as a bonus action.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -700,7 +700,7 @@
         <name>Distant Eye</name>
         <text>When you make a ranged weapon attack, you can spend 1 ki point to prevent attacking at long range from imposing disadvantage on your attack rolls until the end of the current turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -708,7 +708,7 @@
         <name>Quickened Healing</name>
         <text>As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -718,7 +718,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -728,7 +728,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -738,7 +738,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -748,7 +748,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -758,7 +758,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -771,49 +771,49 @@
         <text>1st-level feature (enhances Fighting Style)</text>
         <text>Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Blind Fighting</name>
+        <name>Fighting Style&#58; Blind Fighting</name>
         <text>Being unable to see a creature doesn&#39;t impose disadvantage on your attack rolls against it, provided the creature isn&#39;t hidden from you.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Interception</name>
+        <name>Fighting Style&#58; Interception</name>
         <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Thrown Weapon Fighting</name>
+        <name>Fighting Style&#58; Thrown Weapon Fighting</name>
         <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
         <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Unarmed Fighting</name>
+        <name>Fighting Style&#58; Unarmed Fighting</name>
         <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
         <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Blessed Warrior</name>
+        <name>Fighting Style&#58; Blessed Warrior</name>
         <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -823,7 +823,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -833,7 +833,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -843,7 +843,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -853,7 +853,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -863,7 +863,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -874,10 +874,10 @@
       <feature optional="YES">
         <name>Favored Foe</name>
         <text>1st-level ranger feature (replaces Favored Enemy)</text>
-        <text>You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the hunter&#39;s mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
+        <text>You can call on your bond with nature to mark a creature as your favored enemy for a time&#58; you know the hunter&#39;s mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text>
         <text>When you gain the Spellcasting feature at 2nd level, hunter&#39;s mark doesn&#39;t count against the number of ranger spells you know.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
@@ -886,33 +886,33 @@
         <text>1st-level ranger feature (replaces Natural Explorer)</text>
         <text>You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Deft Explorer: Canny</name>
-        <text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don&#39;t already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
+        <name>Deft Explorer&#58; Canny</name>
+        <text>Choose one skill&#58; Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don&#39;t already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
         <text>In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Deft Explorer: Roving</name>
+        <name>Deft Explorer&#58; Roving</name>
         <text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Deft Explorer: Tireless</name>
+        <name>Deft Explorer&#58; Tireless</name>
         <text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
         <text>In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -921,7 +921,7 @@
         <text>2nd-level ranger feature (enhances Spellcasting)</text>
         <text>You can use a druidic focus as a spellcasting focus for your ranger spells. See chapter 5, "Equipment," of the Player&#39;s Handbook for a list of things that count as druidic focuses.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -930,7 +930,7 @@
         <text>2nd-level ranger feature (enhances Spellcasting)</text>
         <text>Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the ranger spell list. The new spell must be the same level as the spell you replace.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -939,68 +939,68 @@
         <text>1st-level feature (enhances Fighting Style)</text>
         <text>Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Blind Fighting</name>
+        <name>Fighting Style&#58; Blind Fighting</name>
         <text>Being unable to see a creature doesn&#39;t impose disadvantage on your attack rolls against it, provided the creature isn&#39;t hidden from you.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Interception</name>
+        <name>Fighting Style&#58; Interception</name>
         <text>When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Thrown Weapon Fighting</name>
+        <name>Fighting Style&#58; Thrown Weapon Fighting</name>
         <text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</text>
         <text>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Unarmed Fighting</name>
+        <name>Fighting Style&#58; Unarmed Fighting</name>
         <text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.</text>
         <text>When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
       <feature optional="YES">
-        <name>Fighting Style: Druidic Warrior</name>
+        <name>Fighting Style&#58; Druidic Warrior</name>
         <text>You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Ranger Archetype: Beast Master: Ranger&#39;s Companion Options (Beast Master)</name>
+        <name>Ranger Archetype&#58; Beast Master&#58; Ranger&#39;s Companion Options (Beast Master)</name>
         <text>3rd-level Beast Master feature (enhances Ranger&#39;s Companion)</text>
         <text>While wandering the wilds, a ranger encounters many sorts of animals, some of which the ranger might befriend. This friendship can arise from successful use of the Animal Handling skill or the animal friendship spell. If the resulting bond is strong enough, the animal might join the ranger on adventures.</text>
-        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world: a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
+        <text>A ranger who has the Beast Master archetype can form an even stronger bond, feeling almost like a sibling to an animal. A special type of beast awaits a Beast Master in the wilds, a creature whose lineage stretches back to the beginnings of the world&#58; a primal beast known as a Beast of the Air or a Beast of the Earth. Such a creature seeks out the type of companionship that a Beast Master offers, ready for the two of them to battle the imbalances in the natural world.</text>
         <text>The primal beast is a special creature that a Beast Master can choose for the Ranger&#39;s Companion feature. When choosing such a creature, you decide whether it is a Beast of the Air or the Earth, and you determine its appearance. Stories describe primal beasts that mystically change form to align with the spirit of their companion.</text>
         <text>When a primal beast is met apart from a Beast Master, the creature takes the form a regular beast of challenge rating 1/4 or lower, as determined by the DM.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
         <name>Primal Awareness</name>
         <text>3rd-level ranger feature (replaces Primeval Awareness)</text>
-        <text>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don&#39;t already know them, as shown in the Primal Awareness Spells table. These spells don&#39;t count against the number of ranger spells you know.</text>
+        <text>You can focus your awareness through the interconnections of nature&#58; you learn additional spells when you reach certain levels in this class if you don&#39;t already know them, as shown in the Primal Awareness Spells table. These spells don&#39;t count against the number of ranger spells you know.</text>
         <text />
         <text>Ranger Level | Spell</text>
         <text>3rd | detect magic, speak with animals</text>
@@ -1011,7 +1011,7 @@
         <text />
         <text>You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can&#39;t do so again until you finish a long rest.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="6">
@@ -1020,33 +1020,33 @@
         <text>1st-level ranger feature (replaces Natural Explorer)</text>
         <text>You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Deft Explorer: Canny</name>
-        <text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don&#39;t already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
+        <name>Deft Explorer&#58; Canny</name>
+        <text>Choose one skill&#58; Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don&#39;t already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
         <text>In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Deft Explorer: Roving</name>
+        <name>Deft Explorer&#58; Roving</name>
         <text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Deft Explorer: Tireless</name>
+        <name>Deft Explorer&#58; Tireless</name>
         <text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
         <text>In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
@@ -1056,7 +1056,7 @@
         <text>You can use a bonus action to magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</text>
         <text>Once you use this feature, you can&#39;t use it again until you finish a short or long rest.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
@@ -1065,33 +1065,33 @@
         <text>1st-level ranger feature (replaces Natural Explorer)</text>
         <text>You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Deft Explorer: Canny</name>
-        <text>Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don&#39;t already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
+        <name>Deft Explorer&#58; Canny</name>
+        <text>Choose one skill&#58; Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don&#39;t already have it, and you can add double your proficiency bonus to ability checks using that skill.</text>
         <text>In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Deft Explorer: Roving</name>
+        <name>Deft Explorer&#58; Roving</name>
         <text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Deft Explorer: Tireless</name>
+        <name>Deft Explorer&#58; Tireless</name>
         <text>As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.</text>
         <text>In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -1100,11 +1100,11 @@
 
     <autolevel level="2">
       <feature optional="YES">
-        <name>Cunning Action: Aim</name>
+        <name>Cunning Action&#58; Aim</name>
         <text>2nd-level rogue feature (enhances Cunning Action)</text>
-        <text>You gain an additional way to use your Cunning Action: carefully aiming your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven&#39;t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.</text>
+        <text>You gain an additional way to use your Cunning Action&#58; carefully aiming your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven&#39;t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -1114,7 +1114,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -1124,7 +1124,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="10">
@@ -1134,7 +1134,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -1144,7 +1144,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -1154,7 +1154,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -1164,7 +1164,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -1177,7 +1177,7 @@
         <text>1st-level sorcerer feature (enhances Spellcasting)</text>
         <text>Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the sorcerer spell list. The new spell must be the same level as the spell you replace.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="2">
@@ -1186,16 +1186,16 @@
         <text>2nd-level sorcerer feature (enhances Font of Magic)</text>
         <text>When you gain the Font of Magic feature, you get access to the following ways to spend your sorcery points.</text>
         <text />
-        <text>Empowering Reserves:</text>
+        <text>Empowering Reserves&#58;</text>
         <text>When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.</text>
         <text />
-        <text>Imbuing Touch:</text>
+        <text>Imbuing Touch&#58;</text>
         <text>As an action, you can touch one nonmagical weapon and spend 2 sorcery points to imbue it with magic for 1 minute. For the duration, the weapon is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.</text>
         <text />
-        <text>Sorcerous Fortitude:</text>
+        <text>Sorcerous Fortitude&#58;</text>
         <text>As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="3">
@@ -1204,17 +1204,17 @@
         <text>3rd-level sorcerer feature (enhances Metamagic)</text>
         <text>When you choose Metamagic options, you have access to the following additional options.</text>
         <text />
-        <text>Elemental Spell:</text>
-        <text>When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.</text>
+        <text>Elemental Spell&#58;</text>
+        <text>When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types&#58; acid, cold, fire, lightning, thunder.</text>
         <text />
-        <text>Seeking Spell:</text>
+        <text>Seeking Spell&#58;</text>
         <text>When you cast a spell that requires you to make a spell attack roll or that forces a target to make a Dexterity saving throw, you can spend 1 sorcery point to ignore the effects of half&#45; and three-quarters cover against targets of the spell.</text>
         <text />
-        <text>Unerring Spell:</text>
+        <text>Unerring Spell&#58;</text>
         <text>If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the attack roll. You must use the result of the second roll.</text>
         <text>You can use Unerring Spell even if you have already used a different Metamagic option during the casting of the spell.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -1224,7 +1224,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -1234,7 +1234,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -1244,7 +1244,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -1254,7 +1254,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -1264,7 +1264,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -1277,17 +1277,17 @@
         <text>1st-level warlock feature (enhances Pact Magic)</text>
         <text>Whenever you finish a long rest, you can replace one spell you learned from this Pact Magic feature with another spell from the warlock spell list. The new spell must be the same level as the spell you replace.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pact Boon: Pact of the Talisman</name>
+        <name>Pact Boon&#58; Pact of the Talisman</name>
         <text>Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll.</text>
         <text>If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.</text>
         <text>The talisman turns to ash when you die.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -1297,7 +1297,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -1307,7 +1307,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -1317,7 +1317,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -1327,7 +1327,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -1337,7 +1337,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -1350,7 +1350,7 @@
         <text>1st-level wizard feature (enhances Spellcasting)</text>
         <text>Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the wizard spell list.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="4">
@@ -1360,7 +1360,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="8">
@@ -1370,7 +1370,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="12">
@@ -1380,7 +1380,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="16">
@@ -1390,7 +1390,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
     <autolevel level="19">
@@ -1400,7 +1400,7 @@
         <text>When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn&#39;t be from the class).</text>
         <text>This change represents one of your skills atrophying as you focus on a different skill.</text>
         <text />
-        <text>Source: Unearthed Arcana: Class Feature Variants</text>
+        <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
       </feature>
     </autolevel>
   </class>
@@ -1482,7 +1482,7 @@
     <classes>Fighter (Eminusque),Fighter (Battle Master), Martial Adept, Superior Technique</classes>
     <text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
     <name>Bait and Switch</name>
@@ -1496,7 +1496,7 @@
     <text>When you&#39;re within 5 feet of an ally on your turn, you can expend one superiority die and switch places with that ally, provided you spend at least 5 feet of movement. This movement doesn&#39;t provoke opportunity attacks.</text>
     <text>Roll the superiority die. Until the start of your next turn, the ally gains a bonus to AC equal to the number rolled.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
     <name>Brace</name>
@@ -1509,7 +1509,7 @@
     <classes>Fighter (Eminusque), Fighter (Battle Master), Martial Adept, Superior Technique</classes>
     <text>When an enemy you can see moves within 5 feet of you, you can use your reaction to expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack&#39;s damage roll.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
     <name>Restraining Strike</name>
@@ -1522,7 +1522,7 @@
     <classes>Fighter (Battle Master), Martial Adept, Superior Technique</classes>
     <text>Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the Player&#39;s Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
     <name>Silver Tongue</name>
@@ -1535,7 +1535,7 @@
     <classes>Fighter (Battle Master), Martial Adept, Superior Technique</classes>
     <text>When you make a Charisma (Deception) check or a Charisma (Persuasion) check, you can expend one superiority die, and add the superiority die to the ability check.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
     <name>Snipe</name>
@@ -1548,7 +1548,7 @@
     <classes>Fighter (Eminusque),Fighter (Battle Master), Martial Adept, Superior Technique</classes>
     <text>As a bonus action, you can expend one superiority die and make a ranged weapon attack. You can draw a thrown weapon as part of making this attack. If you hit, add the superiority die to the attack&#39;s damage roll.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
     <name>Studious Eye</name>
@@ -1561,11 +1561,11 @@
     <classes>Fighter (Battle Master), Martial Adept, Superior Technique</classes>
     <text>When you make a Wisdom (Insight) check or an Intelligence (Investigation) check, you can expend one superiority die, and add the superiority die to the ability check.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
  <!-- Invocations -->
   <spell>
-    <name>Invocation: Bond of the Talisman</name>
+    <name>Invocation&#58; Bond of the Talisman</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1573,14 +1573,14 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: 12th level, Pact of the Talisman feature</text>
+    <text>Prerequisite&#58; 12th level, Pact of the Talisman feature</text>
     <text />
     <text>While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Chain Master&#39;s Fury</name>
+    <name>Invocation&#58; Chain Master&#39;s Fury</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1588,14 +1588,14 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: 9th level, Pact of the Chain feature</text>
+    <text>Prerequisite&#58; 9th level, Pact of the Chain feature</text>
     <text />
     <text>As a bonus action, you can command your familiar to make one attack.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Eldritch Armor</name>
+    <name>Invocation&#58; Eldritch Armor</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1603,14 +1603,14 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: Pact of the Blade feature</text>
+    <text>Prerequisite&#58; Pact of the Blade feature</text>
     <text />
     <text>As an action, you can touch a suit of armor that isn&#39;t being worn or carried by anyone and instantly don it, provided you aren&#39;t wearing armor already. You are proficient with this suit of armor until it&#39;s removed.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Eldritch Mind</name>
+    <name>Invocation&#58; Eldritch Mind</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1618,14 +1618,14 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: Pact of the Tome feature</text>
+    <text>Prerequisite&#58; Pact of the Tome feature</text>
     <text />
     <text>You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Far Scribe</name>
+    <name>Invocation&#58; Far Scribe</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1633,16 +1633,16 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: 5th level, Pact of the Tome feature</text>
+    <text>Prerequisite&#58; 5th level, Pact of the Tome feature</text>
     <text />
     <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).</text>
     <text>You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.</text>
     <text>As an action, you can magically erase a name on the page by touching the name on it.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Gift of the Protectors</name>
+    <name>Invocation&#58; Gift of the Protectors</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1650,16 +1650,16 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: 9th level, Pact of the Tome feature</text>
+    <text>Prerequisite&#58; 9th level, Pact of the Tome feature</text>
     <text />
     <text>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).</text>
     <text>When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.</text>
     <text>As an action, you can magically erase a name on the page by touching the name on it.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Investment of the Chain Master</name>
+    <name>Invocation&#58; Investment of the Chain Master</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1667,18 +1667,18 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: Pact of the Chain feature</text>
+    <text>Prerequisite&#58; Pact of the Chain feature</text>
     <text />
-    <text>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:</text>
+    <text>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits&#58;</text>
     <text>&#183; The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.</text>
     <text>&#183; The familiar no longer needs to breathe.</text>
     <text>&#183; The familiar&#39;s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.</text>
     <text>&#183; If the familiar forces a creature to make a saving throw, it uses your spell save DC.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Protection of the Talisman</name>
+    <name>Invocation&#58; Protection of the Talisman</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1686,14 +1686,14 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: 9th level, Pact of the Talisman feature</text>
+    <text>Prerequisite&#58; 9th level, Pact of the Talisman feature</text>
     <text />
     <text>When the wearer of your talisman makes a saving throw in which they lack proficiency, they can add a d4 to the roll.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
   <spell>
-    <name>Invocation: Rebuke of the Talisman</name>
+    <name>Invocation&#58; Rebuke of the Talisman</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time></time>
@@ -1701,11 +1701,11 @@
     <components></components>
     <duration></duration>
     <classes>Eldritch Invocations</classes>
-    <text>Prerequisite: Pact of the Talisman feature</text>
+    <text>Prerequisite&#58; Pact of the Talisman feature</text>
     <text />
     <text>When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your Charisma modifier (minimum of 1 damage) and push it up to 10 feet away from the talisman&#39;s wearer.</text>
     <text />
-    <text>Source: Unearthed Arcana: Class Feature Variants</text>
+    <text>Source&#58; Unearthed Arcana&#58; Class Feature Variants</text>
   </spell>
  <!-- Cantrips -->
   <spell>
@@ -2113,9 +2113,9 @@
     </trait>
     <action>
       <name>Shred</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 1d6 + 3 slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 1d6 + 3 slashing damage.</text>
     </action>
-    <description>Source: Unearthed Arcana: Class Feature Variants</description>
+    <description>Source&#58; Unearthed Arcana&#58; Class Feature Variants</description>
     <environment></environment>
   </monster>
   <monster>
@@ -2160,9 +2160,9 @@
     </trait>
     <action>
       <name>Maul</name>
-      <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 1d6 + 2 slashing damage.</text>
+      <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 1d6 + 2 slashing damage.</text>
     </action>
-    <description>Source: Unearthed Arcana: Class Feature Variants</description>
+    <description>Source&#58; Unearthed Arcana&#58; Class Feature Variants</description>
     <environment></environment>
   </monster>
 </compendium>

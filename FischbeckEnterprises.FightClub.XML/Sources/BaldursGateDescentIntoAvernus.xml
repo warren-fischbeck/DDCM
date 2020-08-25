@@ -8,7 +8,7 @@
         <text>This hell-forged battle standard is made of infernal iron and fitted with a small, unopenable cage containing a quasit. The trapped quasit is incapacitated, and its cage has AC 19, 10 hit points, and immunity to all types of damage except force damage. If killed or somehow released, the quasit disappears in a cloud of smoke, and a new one appears in the cage, provided the cage is intact.</text>
         <text>While you hold the banner, your weapon attacks and those of all allied creatures within 300 feet of you count as magical for the purposes of overcoming damage immunities and resistances.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
     </item>
     <item>
         <name>Gauntlets of Flaming Fury</name>
@@ -17,7 +17,7 @@
         <magic>YES</magic>
         <text>While you wear both of these steel gauntlets, any non-magical weapon you grasp with either gauntlet is treated as a magic weapon. As a bonus action, you can use the gauntlets to cause magical flames to envelop one or two melee weapons in your grasp. Each flaming weapon deals an extra 1d6 fire damage on a hit. The flames last until you sheath or let go of either weapon. Once used, this property can&#39;t be used again until the next dawn.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
     </item>
     <item>
         <name>Fane-Eater</name>
@@ -27,8 +27,8 @@
         <text>Fane-Eater is a battleaxe belonging to Arkhan the Cruel.</text>
         <text>You gain a +3 bonus to attack and damage rolls with Fane-Eater. If you attack a creature with this weapon and roll a 20 on the attack roll, the creature takes an extra 2d8 necrotic damage, and you regain a number of hit points equal to the necrotic damage taken.</text>
         <text />
-        <text>Proficiency: martial</text>
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Proficiency&#58; martial</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
         <dmg1>1d8</dmg1>
         <dmg2>1d10</dmg2>
         <dmgType>S</dmgType>
@@ -45,7 +45,7 @@
         <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.</text>
         <text>Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it&#39;s reborn instantly as a lemure devil (described in the Monster Manual).</text>
         <text />
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
     </item>
     <item>
         <name>Helm of Devil Command</name>
@@ -56,7 +56,7 @@
         <text>The helm has 3 charges. As an action, you can expend 1 charge to cast dominate monster (save DC 21), which affects devils only. (The spell fails and the charge is wasted if you target any creature that&#39;s not a devil.) If a devil can see you when you cast this spell on it, the devil knows you tried to charm it. The helm regains all its charges 24 hours after its last charge is expended.</text>
         <text>If you are not a devil, using the helm&#39;s dominate monster property in the Nine Hells has a 20 percent chance of attracting a narzugon, which arrives on the back of a nightmare mount in 1d4 hours. The narzugon tries to recover the helm, killing you if necessary to obtain it. If it gets the helm, the narzugon tries to deliver it to its infernal master.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
     </item>
     <item>
         <name>Internal Puzzle Box</name>
@@ -68,7 +68,7 @@
         <text>When an object small enough to fit inside an infernal puzzle box is placed in it, the container magically seals shut around the object, and no magic can force the box open. The sealed box becomes immune to all damage as well. Every infernal puzzle box is constructed with a unique means of opening it. The trick to solving the puzzle is always mundane, never magical. Once a creature figures out the trick or sequence of steps needed to open a particular infernal puzzle box, that creature can open the box as an action, allowing access to the box&#39;s contents.</text>
         <text>A creature that spends 1 hour holding an infernal puzzle box while trying to open it can make a DC 30 Intelligence (Investigation) check. If the check succeeds, the creature figures out the trick or sequence of steps needed to open the box. If the check fails by 5 or more, the creature must make a DC 18 Wisdom saving throw, taking 42 (12d6) psychic damage on a failed save, or half as much damage on a successful one.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
     </item>
     <item>
         <name>Infernal Tack</name>
@@ -77,9 +77,9 @@
         <magic>YES</magic>
         <text>A narzugon devil binds a nightmare (described in the Monster Manual) to its service with infernal tack, which consists ofa bridle, bit, reins, saddle, stirrups, and spurs. A nightmare equ.ipped with infernal tack must serve whoever wears the spires until the wearer dies or the tack is removed.</text>
         <text>You can use an action to call the nightmare equipped with infernal tack by clashing the spurs together or scraping them through blood. The nightmare appears at the start of your next turn, within 20 feet ofyou. It acts as your ally and takes its turn on your initiative count. It remains for 1 day, until you or it dies, or until you dismiss it as an action. If the nightmare dies, it reforms in the Nine Hells within 24 hours, after which you can summon it again.</text>
-        <text>The tack doesn&#39;t conjure a nightmare from thin air: one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become partners in evil.</text>
+        <text>The tack doesn&#39;t conjure a nightmare from thin air&#58; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become partners in evil.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
     </item>
     <item>
         <name>Matalotok</name>
@@ -89,8 +89,8 @@
         <text>Matalotok, the Frost Father, is an ancient hammer fashioned by Thrym, the god of frost giants. The favored weapon of the demon lord Kostchtchie, Matalotok is frigid to the touch and wreathed in mist.</text>
         <text>You are immune to cold damage while holding Matalotok. Whenever it deals damage to a creature, the hammer radiates a burst of intense cold in a 30-foot-radius sphere. Each creature in that area takes 10 (3d6) cold damage.</text>
         <text />
-        <text>Proficiency: martial, warhammer</text>
-        <text>Source: Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Proficiency&#58; martial, warhammer</text>
+        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
         <dmg1>1d8</dmg1>
         <dmg2>1d10</dmg2>
         <dmgType>B</dmgType>
@@ -105,7 +105,7 @@
         <ac>18</ac>
         <text>You gain +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end grappled condition on yourself.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 224</text>
+        <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 224</text>
         <modifier category="bonus">ac +2</modifier>
     </item>
     <item>
@@ -115,7 +115,7 @@
         <magic>YES</magic>
         <ac>2</ac>
         <text>The Shield of the Hidden Lord is of celestial origin and serves as a prison for the pit fiend Gargauth, whose mortal followers revere it as a god. Over time, Gargauth&#39;s evil has warped the shield&#39;s appearance, so that its celestial motif and designs have become twisted into a fiendish face that subtly moves in disturbing ways. While holding this shield, you gain a +2 bonus to AC and resistance to fire damage.</text>
-        <text>Sentience. The Shield ofthe Hidden Lord is sentient as long as it imprisons Gargauth. While sentient, the shield has the following properties:
+        <text>Sentience. The Shield ofthe Hidden Lord is sentient as long as it imprisons Gargauth. While sentient, the shield has the following properties&#58;
             &#183; The shield has an Intelligence of 22, a Wisdom of 18, and a Charisma of 24, as well as hearing and truesight out to a range of 120 feet.
             &#183; The shield can speak, read, and understand Common and Infernal, and it can communicate telepathically with any creature it can sense within 120 feet of it. Its voice is a deep, hollow whisper.
             &#183; The shield has 3 charges. You can use an action to expend 1 charge to cast fireball or 2 charges to cast wall offire from the shield (save DC 21 for each). The wall of fire spell lasts for 1 minute (no concentration required). The shield regains all expended charges daily at dawn.
@@ -125,7 +125,7 @@
             Gargauth doesn&#39;t know how to escape from the shield. The pit fiend believes (incorrectly) that it can break free of the shield if it&#39;s brought to the Nine Hells, for it&#39;s convinced that the shield&#39;s powers are weaker there.</text>
         <text>Freeing Gargauth. Casting dispel evil and good on the shield has a 1 percent chance of freeing the pit fiend, or automatically succeeds if the spell is cast by a solar, a planetar, or an archdevil. A god can release the pit fiend by touching the shield and speaking Gargauth&#39;s name. When released, Gargauth appears in a random, unoccupied space as close to the shield as possible.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 225</text>
+        <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 225</text>
         <modifier category="bonus">ac +2</modifier>
     </item>
     <item>
@@ -136,7 +136,7 @@
         <text>Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one&#45; third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while an&#45; other might be the victim of a night hag&#39;s curse.</text>
         <text>Carrying Soul Coins. To hold a soul coin is to feel the soul bound within it overcome with rage or fraught with despair.</text>
         <text>An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A non-evil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.</text>
-        <text>Using a Soul Coin. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
+        <text>Using a Soul Coin. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following&#58;
             &#183; Drain Life. You siphon away some of the soul&#39;s essence and gain 1dlO temporary hit points.
             &#183; Query. You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows on ly what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.</text>
         <text>Freeing a Soul. Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin&#39;s charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM&#39;s choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.</text>
@@ -145,7 +145,7 @@
             Hellish Currency. Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling. and reward the faithful for services rendered.</text>
         <text>Soul coins are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.</text>
         <text />
-        <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 225</text>
+        <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 225</text>
     </item>
     <item>
         <name>Sword of Zariel</name>
@@ -153,14 +153,14 @@
 		<magic>1</magic>
         <detail>artifact (requires attunement by a creature the sword deems worthy)</detail>
         <text>This longsword belonged to the angel Zariel before her fall from grace. Fashioned from celestial steel, it gives off a faint glow and hum. The weapon chooses who can attune to it and who can&#39;t. It desires a wielder who em&#45; bodies bravery and heroism.</text>
-        <text>Attunement. The sword allows you to attune to it immediately, without having to take a short rest. The first time you attune to the sword, you are transformed into a heavenly, idealized version of yourself, blessed with otherworldly beauty and a touch of heaven in your heart. Neither magic nor divine intervention can reverse this transformation. Your alignment becomes lawful good, and you gain the following traits:
+        <text>Attunement. The sword allows you to attune to it immediately, without having to take a short rest. The first time you attune to the sword, you are transformed into a heavenly, idealized version of yourself, blessed with otherworldly beauty and a touch of heaven in your heart. Neither magic nor divine intervention can reverse this transformation. Your alignment becomes lawful good, and you gain the following traits&#58;
             &#183; Angelic Language. You can speak, read. and write Celestial.
             &#183; Celestial Resistance. You have resistance to necrotic and radiant damage.
             &#183; Divine Presence. Your Charisma score becomes 20, unless it is already 20 or higher.
             &#183; Feathered Wings. You sprout a beautiful pair of feathered wings that grant you a flying speed of 90 feet and the ability to hover. If you already have a different kind of wings, these new wings replace the old ones, which fall off.
             &#183; Truesight. Your eyes become luminous pools of silver. You can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all within 60 feet.</text>
         <text>New Personality. You gain new personality traits, determined by rolling once on each of the following tables. These traits override any conflicting personality trait, ideal, bond or flaw.</text>
-        <text>Personality Traits:
+        <text>Personality Traits&#58;
             
             d8 Personality Trait
             1 treat all beings, even enemies, with respect.
@@ -171,7 +171,7 @@
             6 I anger quickly when I witness cruelty or injustice.
             7 My praise and trust are earned and never given freely.
             8 I like everything clean and organized.</text>
-        <text>Ideals:
+        <text>Ideals&#58;
             
             d6 Ideal
             1 Charity. I always help those in need. (Good)
@@ -180,7 +180,7 @@
             4 Respect. All people deserve to be treated with dignity. (Good)
             5 Honor. The way I conduct myself determines my reward in the afterlife. (Lawful)
             6 Redemption. All creatures are capable of change for the better. (Good)</text>
-        <text>Bonds:
+        <text>Bonds&#58;
             
             d6 Bond
             1 I have a favorite religious hymn that I constantly hum.
@@ -189,7 +189,7 @@
             4 I would die for those who fight beside me, regardless of their faults.
             5 I seek to honor the angel Zariel by destroying fiends and other evildoers wherever I find them.
             6 The Sword of Zariel has chosen me. I shall not fail to wield it justly.</text>
-        <text>Flaws:
+        <text>Flaws&#58;
             
             d6 Flaws
             1 I am too quick to judge others.
@@ -213,7 +213,7 @@
         <text />
         <text>Destroying the Sword. Zariel can destroy the sword simply by grasping it. She couldn&#39;t bring herself to do so when she was an angel, but as an archdevil she has no compunction about ridding the multiverse of the weapon. The sword is also destroyed if it&#39;s used to shatter the Companion (see "Shattering the Companion," page 154), unless the blade is wielded by an angel of challenge rating 15 or higher, or a good-aligned cleric or paladin of at least 10th level.
             If Zariel is killed for good (that is, if she dies in the Nine Hells), the sword becomes no harder to destroy than a normal longsword.</text>
-        <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 226</text>
+        <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 226</text>
         <dmg1>1d8</dmg1>
         <dmg2>1d10</dmg2>
         <dmgType>S</dmgType>
@@ -228,11 +228,11 @@
             <name>Description</name>
             <text>Being who you are, you could never be a hero. Whether due to your class, your people, your family, or your sins, something about you prevents you from effectively pursuing the path you&#39;ve chosen. Even so, that doesn&#39;t stop you. You&#39;ve left your old face behind, taking on a new persona, becoming something more.
                 Characters with the faceless background don a disguise—literally or otherwise—as they adventure. This persona might be dramatic or subtle. In a way, though, many characters have such larger than life personalities. Therefore, this background largely focuses on detailing the hero behind the mask.
-                &#183; Skill Proficiencies: Deception, Intimidation
-                &#183; Tool Proficiencies: Disguise kit
-                &#183; Languages: One of your choice
-                &#183; Equipment: Disguise kit, a costume clothes, a pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 203</text>
+                &#183; Skill Proficiencies&#58; Deception, Intimidation
+                &#183; Tool Proficiencies&#58; Disguise kit
+                &#183; Languages&#58; One of your choice
+                &#183; Equipment&#58; Disguise kit, a costume clothes, a pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 203</text>
         </trait>
         <trait>
             <name>Faceless Persona</name>
@@ -251,7 +251,7 @@
 </text>
         </trait>
         <trait>
-            <name>Feature: Dual Personalities</name>
+            <name>Feature&#58; Dual Personalities</name>
             <text>Most of your fellow adventurers and the world know you as your persona. Those who seek to learn more about you—your weaknesses, your origins, your purpose—find themselves stymied by your disguise. Upon donning a disguise and behaving as your persona, you are unidentifiable as your true self. By removing your disguise and revealing your true face, you are no longer identifiable as your persona. This allows you to change appearances between your two personalities as often as you wish, using one to hide the other or serve as convenient camouflage. However, should someone realize the connection between your persona and your true self, your deception might lose its effectiveness.
 </text>
         </trait>
@@ -299,19 +299,19 @@
         <proficiency>Insight, Religion</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Insight, Religion
-                &#183; Languages: Two of your choice
-                &#183; Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
+            <text>&#183; Skill Proficiencies&#58; Insight, Religion
+                &#183; Languages&#58; Two of your choice
+                &#183; Equipment&#58; A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 202</text>
         </trait>
         <trait>
-            <name>Feature: Shelter of the Faithful</name>
+            <name>Feature&#58; Shelter of the Faithful</name>
             <text>As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
                 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Religious Community</name>
+            <name>Baldur&#39;s Gate Feature&#58; Religious Community</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You&#39;re tightly connected with the religious community of Baldur&#39;s Gate. You know if a deity has a following in the city and any places that faith openly congregates and the neighborhoods those faithful typically inhabit. While this isn&#39;t remarkable for most of the city&#39;s larger faiths, keeping track of the hundreds of religions newcomers bring with them is no mean feat.
 </text>
@@ -360,18 +360,18 @@
         <proficiency>Deception, Sleight Of Hand</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Deception, Sleight of Hand
-                &#183; Tool Proficiencies: Disguise kit, Forgery kit
-                &#183; Equipment: A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
+            <text>&#183; Skill Proficiencies&#58; Deception, Sleight of Hand
+                &#183; Tool Proficiencies&#58; Disguise kit, Forgery kit
+                &#183; Equipment&#58; A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing 15 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 202</text>
         </trait>
         <trait>
-            <name>Feature: False Identity</name>
+            <name>Feature&#58; False Identity</name>
             <text>You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Long-Lost Heir</name>
+            <name>Baldur&#39;s Gate Feature&#58; Long-Lost Heir</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You&#39;re well-versed in the mannerisms and idiosyncrasies of Baldurian patriars and other nobles, imitating them smoothly enough to convince even the snootiest family heads of your authenticity. You&#39;re skilled at posing as the long-lost heir to some imaginary or extinguished patriar lineage.
                 Because of your skill in passing yourself off as a patriar, you have a Watch token that allows you alone into the Upper City of Baldur&#39;s Gate. You might be able to bluff others through with you, or even convince members of the Watch that you&#39;re a patriar. However, any true test of your authenticity is likely to reveal your deception.
@@ -433,18 +433,18 @@
         <proficiency>Deception, Stealth</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Deception, Stealth
-                &#183; Tool Proficiencies: One type of gaming set, thieves&#39; tools
-                &#183; Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
+            <text>&#183; Skill Proficiencies&#58; Deception, Stealth
+                &#183; Tool Proficiencies&#58; One type of gaming set, thieves&#39; tools
+                &#183; Equipment&#58; A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 202</text>
         </trait>
         <trait>
-            <name>Feature: Criminal Contact</name>
+            <name>Feature&#58; Criminal Contact</name>
             <text>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Criminal Connections</name>
+            <name>Baldur&#39;s Gate Feature&#58; Criminal Connections</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 In Baldur&#39;s Gate, crime is just another business. As a result, you can arrange a meeting with a low-ranking operative of nearly any business, patriar family, crew, government institution, or—certainly—the Guild. This operative will hear you out and, at their discretion, take your information or request up their chain of command. These meetings almost always occur in shady venues.
 </text>
@@ -521,18 +521,18 @@
         <proficiency>Acrobatics, Performance</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Acrobatics, Performance
-                &#183; Tool Proficiencies: Disguise kit, one type of musical instrument
-                &#183; Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), costume clothes, and a belt pouch containing 15 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 202</text>
+            <text>&#183; Skill Proficiencies&#58; Acrobatics, Performance
+                &#183; Tool Proficiencies&#58; Disguise kit, one type of musical instrument
+                &#183; Equipment&#58; A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), costume clothes, and a belt pouch containing 15 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 202</text>
         </trait>
         <trait>
-            <name>Feature: By Popular Demand</name>
+            <name>Feature&#58; By Popular Demand</name>
             <text>You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble&#39;s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Backstage Pass</name>
+            <name>Baldur&#39;s Gate Feature&#58; Backstage Pass</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You&#39;ve learned that most of the real business of entertainment (or any other venture) happens behind the scenes. It&#39;s easy for you to case what sorts of audiences attend what venue—like how toughs gather at the Blushing Mermaid or how brash patriars congregate at the Helm and Cloak. After a successful performance, you may meet an enthusiastic member of the crowd—someone of an occupation or social class that frequents the establishment. This contact is delighted to talk with you, and to listen.
 </text>
@@ -597,18 +597,18 @@
         <proficiency>Animal Handling, Survival</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Animal Handling, Survival
-                &#183; Tool Proficiencies: One type of artisan&#39;s tools, vehicles (land)
-                &#183; Equipment: A set of artisan&#39;s tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Animal Handling, Survival
+                &#183; Tool Proficiencies&#58; One type of artisan&#39;s tools, vehicles (land)
+                &#183; Equipment&#58; A set of artisan&#39;s tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Rustic Hospitality</name>
+            <name>Feature&#58; Rustic Hospitality</name>
             <text>Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Social Vengeance</name>
+            <name>Baldur&#39;s Gate Feature&#58; Social Vengeance</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You&#39;ve lived your entire life in the Lower or Outer City of Baldur&#39;s Gate. You grew up seeing arrogant patriars flaunt their wealth while your hardworking neighbors struggled. As a result, you know how eager commoners in Baldur&#39;s Gate are to see any patriar get what they deserve. While in a busy part of the Lower City or Outer City of Baldur&#39;s Gate, you can spend 2d10} minutes to convince 1d6 {@creature commoner to perform a non-illegal act that inconveniences a member of the Watch or Flaming Fist, a patriar, or some other wealthy looking individual.
 </text>
@@ -685,23 +685,23 @@
         <proficiency>Insight, Persuasion</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Insight, Persuasion
-                &#183; Tool Proficiencies: One type of artisan&#39;s tools
-                &#183; Languages: One of your choice
-                &#183; Equipment: A set of artisan&#39;s tools (one of your choice), a letter of introduction from your guild, a set of traveler&#39;s clothes, and a belt pouch containing 15 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Insight, Persuasion
+                &#183; Tool Proficiencies&#58; One type of artisan&#39;s tools
+                &#183; Languages&#58; One of your choice
+                &#183; Equipment&#58; A set of artisan&#39;s tools (one of your choice), a letter of introduction from your guild, a set of traveler&#39;s clothes, and a belt pouch containing 15 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Guild Membership</name>
+            <name>Feature&#58; Guild Membership</name>
             <text>As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
                 Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild&#39;s coffers.
                 You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild&#39;s good graces.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Professional Courtesy</name>
+            <name>Baldur&#39;s Gate Feature&#58; Professional Courtesy</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
-                You&#39;re familiar with the city&#39;s crews, their territories, and inter-crew politics. Choose one of the three districts of Baldur&#39;s Gate: the Upper City, the Lower City, or the Outer City. This is the district where you conduct most of your business. Whenever you need information about something in one of that district&#39;s neighborhoods, you can seek out crew members in that area and learn the local gossip. You can also gain unimpeded entry to nearly any bank, guild hall, place of business, workhouse, or crew meeting place in your district.
+                You&#39;re familiar with the city&#39;s crews, their territories, and inter-crew politics. Choose one of the three districts of Baldur&#39;s Gate&#58; the Upper City, the Lower City, or the Outer City. This is the district where you conduct most of your business. Whenever you need information about something in one of that district&#39;s neighborhoods, you can seek out crew members in that area and learn the local gossip. You can also gain unimpeded entry to nearly any bank, guild hall, place of business, workhouse, or crew meeting place in your district.
 </text>
         </trait>
         <trait>
@@ -774,20 +774,20 @@
         <proficiency>Medicine, Religion</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Medicine, Religion
-                &#183; Tool Proficiencies: Herbalism kit
-                &#183; Languages: One of your choice
-                &#183; Equipment: A Map or Scroll Case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Medicine, Religion
+                &#183; Tool Proficiencies&#58; Herbalism kit
+                &#183; Languages&#58; One of your choice
+                &#183; Equipment&#58; A Map or Scroll Case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Discovery</name>
+            <name>Feature&#58; Discovery</name>
             <text>The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.
                 Work with your DM to determine the details of your discovery and its impact on the campaign.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: The Real City</name>
+            <name>Baldur&#39;s Gate Feature&#58; The Real City</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You know the Baldur&#39;s Gate most Baldurians ignore, the dog-eat-dog world of the homeless and unfortunate. You know where to go in the Lower City and Outer City for anonymity. In these slums and alley camps, you can get a damp bed and a bad meal, but also a degree of privacy and no questions asked. Living here isn&#39;t comfortable, but it&#39;s unlikely anyone will find you—and you can stay as long as you want.
 </text>
@@ -799,7 +799,7 @@
                 1 | You led an ill-fated expedition into the Riverveins. Your friends were swept away by flooding, and you&#39;ve never been able to shake the guilt of causing their deaths over a frivolous lark. You&#39;ve maintained a solitary vigil outside the cavern entrance ever since.
                 2 | You crossed the Guild in a bad way. Fortunately, its members think you&#39;re dead. Less fortunately, maintaining that deception might require you to stay in hiding until you actually are.
                 3 | You study the puzzles of mortal natures. You&#39;ve seen followers of evil deities perform miracles for the helpless at Twin Songs, and you&#39;ve seen patriars who worship good deities turn their backs on the poor daily. Bearing witness to such things, and meditating on their contradictions, fills your hours.
-                4 | You tend to some part of the city&#39;s forgotten history: the unmarked graves in Cliffside Cemetery, the crumbling remains of dead patriar families&#39; manors, or a collection of religious texts stuffed into an attic and forgotten when a believer&#39;s patron deity died. In this solitary work, you&#39;ve learned secrets no one else knows.
+                4 | You tend to some part of the city&#39;s forgotten history&#58; the unmarked graves in Cliffside Cemetery, the crumbling remains of dead patriar families&#39; manors, or a collection of religious texts stuffed into an attic and forgotten when a believer&#39;s patron deity died. In this solitary work, you&#39;ve learned secrets no one else knows.
                 5 | You killed a patriar&#39;s scion in an illegal duel. The family swore revenge, and you fled to the slums rather than risk bringing their wrath down on your kin.
                 6 | You aren&#39;t originally from Baldur&#39;s Gate. You came here seeking something else, only to learn that the quest that drove you had become impossible to fulfill—its object was destroyed or its purpose was negated by some superseding event. Suddenly directionless and unable to return to your homeland, you have lingered, adrift, in this wretched city.
 </text>
@@ -862,19 +862,19 @@
         <proficiency>History, Persuasion</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: History, Persuasion
-                &#183; Tool Proficiencies: One type of gaming set
-                &#183; Languages: One of your choice
-                &#183; Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; History, Persuasion
+                &#183; Tool Proficiencies&#58; One type of gaming set
+                &#183; Languages&#58; One of your choice
+                &#183; Equipment&#58; A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Position of Privilege</name>
+            <name>Feature&#58; Position of Privilege</name>
             <text>Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Patriar</name>
+            <name>Baldur&#39;s Gate Feature&#58; Patriar</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 As a member of one of the elite families of Baldur&#39;s Gate, you may pass through city gates without paying tolls, mingle among the Gate&#39;s nobility unquestioned, and impress those on the lookout for wealthy patrons. You are welcome in the Upper City and may stay there after dark without being harassed or evicted. Your word is accepted over others&#39; without question, and any corruption among guards or government officials tends to work in your favor, not against you—at least until you make some effort to expose it.
 </text>
@@ -923,19 +923,19 @@
         <proficiency>Athletics, Survival</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Athletics, Survival
-                &#183; Tool Proficiencies: One type of musical instrument
-                &#183; Languages: One of your choice
-                &#183; Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Athletics, Survival
+                &#183; Tool Proficiencies&#58; One type of musical instrument
+                &#183; Languages&#58; One of your choice
+                &#183; Equipment&#58; A staff, a hunting trap, a trophy from an animal you killed, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Wanderer</name>
+            <name>Feature&#58; Wanderer</name>
             <text>You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Immigrant Experience</name>
+            <name>Baldur&#39;s Gate Feature&#58; Immigrant Experience</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 Even after your short time in Baldur&#39;s Gate, you&#39;ve learned the city holds more walls and gates than those the Watch and Flaming Fist patrols. You are known within the city&#39;s immigrant communities. Should you ever need to learn about a foreign land, people, tradition, or history, you know where to find someone with firsthand experience—likely somewhere in the Outer City.
 </text>
@@ -1012,18 +1012,18 @@
         <proficiency>Arcana, History</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Arcana, History
-                &#183; Languages: Two of your choice
-                &#183; Equipment: A Ink (1-ounce bottle), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Arcana, History
+                &#183; Languages&#58; Two of your choice
+                &#183; Equipment&#58; A Ink (1-ounce bottle), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Researcher</name>
+            <name>Feature&#58; Researcher</name>
             <text>When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature, Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Rumor Monger</name>
+            <name>Baldur&#39;s Gate Feature&#58; Rumor Monger</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 Via your personal rumor mill and articles published in Baldur&#39;s Mouth, you can surmise a great deal about Baldurians&#39; secrets—who&#39;s practicing necromancy, who&#39;s involved in spying or smuggling, who would purchase or craft dangerous magical wares without batting an eyelash. Whenever a noteworthy crime or mysterious happening occurs in the city, you immediately have a list of 1d4 suspects who, if they aren&#39;t involved, have a strong chance of knowing who is.
 </text>
@@ -1086,18 +1086,18 @@
         <proficiency>Athletics, Perception</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Athletics, Perception
-                &#183; Tool Proficiencies: Navigator&#39;s tools, vehicles (water)
-                &#183; Equipment: A belaying pin (club), silk rope (50 feet), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Athletics, Perception
+                &#183; Tool Proficiencies&#58; Navigator&#39;s tools, vehicles (water)
+                &#183; Equipment&#58; A belaying pin (club), silk rope (50 feet), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Ship&#39;s Passage</name>
+            <name>Feature&#58; Ship&#39;s Passage</name>
             <text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you&#39;re calling in a favor, you can&#39;t be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Smuggler&#39;s Sense</name>
+            <name>Baldur&#39;s Gate Feature&#58; Smuggler&#39;s Sense</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You&#39;re familiar with the docks of Baldur&#39;s Gate, the movement of inspectors and tax collectors, the way cargo and coin flows. As a result, it&#39;s easy for you to hustle a load of cargo ashore or see such a cargo onto a cooperative ship without attracting suspicion or taxation. You also know the movements of the Gray Wavers—the Flaming Fist harbor guards—and have a sense of how to operate the city&#39;s mechanized cranes.
 </text>
@@ -1146,31 +1146,31 @@
         <proficiency>Athletics, Intimidation</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Athletics, Intimidation
-                &#183; Tool Proficiencies: One type of gaming set, vehicles (land)
-                &#183; Equipment: An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a bone dice set or playing card set, a set of common clothes, and a belt pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Athletics, Intimidation
+                &#183; Tool Proficiencies&#58; One type of gaming set, vehicles (land)
+                &#183; Equipment&#58; An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a bone dice set or playing card set, a set of common clothes, and a belt pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: Military Rank</name>
+            <name>Feature&#58; Military Rank</name>
             <text>You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: City Guard</name>
+            <name>Baldur&#39;s Gate Feature&#58; City Guard</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You may choose to currently serve in either the Flaming Fist or the Watch. If you do, you have responsibilities related to your post. For as long as you perform these responsibilities, you gain benefits. If you stop performing your responsibilities, though, you lose access to the benefits and might suffer further fallout. Should you lose these benefits, you may regain them by having an unpleasant conversation with your commanding officer and fulfilling your responsibilities for a month.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Loyalty Test</name>
+            <name>Baldur&#39;s Gate Feature&#58; Loyalty Test</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 You&#39;ve had enough dealings with crooked soldiers that you can spot the behaviors common to corrupt guards and military officers a mile away. While awareness of such corruption doesn&#39;t equate to evidence of it, and your sense certainly isn&#39;t foolproof, your instinct proves a useful starting point when determining who might take a bribe, who might turn a blind eye to a crime, or who might have criminal connections. You can also use this sense to get a feeling about who might fulfill their duties strictly by the book.
 </text>
         </trait>
         <trait>
             <name>Specialty</name>
-            <text>During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
+            <text>During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role&#58;
                 d8 | Role
                 1 | Officer
                 2 | Scout
@@ -1226,18 +1226,18 @@
         <proficiency>Sleight Of Hand, Stealth</proficiency>
         <trait>
             <name>Description</name>
-            <text>&#183; Skill Proficiencies: Sleight of Hand, Stealth
-                &#183; Tool Proficiencies: Disguise kit, Thieves&#39; tools
-                &#183; Equipment: A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp
-                Source: Baldur&#39;s Gate: Descent Into Avernus p. 204</text>
+            <text>&#183; Skill Proficiencies&#58; Sleight of Hand, Stealth
+                &#183; Tool Proficiencies&#58; Disguise kit, Thieves&#39; tools
+                &#183; Equipment&#58; A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp
+                Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 204</text>
         </trait>
         <trait>
-            <name>Feature: City Secrets</name>
+            <name>Feature&#58; City Secrets</name>
             <text>You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.
 </text>
         </trait>
         <trait>
-            <name>Baldur&#39;s Gate Feature: Gateguide Connection</name>
+            <name>Baldur&#39;s Gate Feature&#58; Gateguide Connection</name>
             <text>The effects of a Baldur&#39;s Gate feature can be used only while the character is in Baldur&#39;s Gate—though, at the DM&#39;s discretion, they might have applicable effects in situations similar to those in Baldur&#39;s Gate.
                 Even though you might not be a member of the Gateguides crew, you&#39;ve associated with enough of them that you know their torch-based code. From the lighting, placement, and type of torch arranged on or near a structure, you can gather a great deal of information about those who live or do business there, particularly if they deal fairly with strangers, have Guild or government connections, or have either helped or denied the Gateguides in the past.
 </text>
@@ -1313,21 +1313,21 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>The abyssal chicken makes two attacks: one with its bite and one with its claws.</text>
+            <text>The abyssal chicken makes two attacks&#58; one with its bite and one with its claws.</text>
         </action>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage.</text>
             <attack>Bite|4|1d4+2</attack>
         </action>
         <action>
             <name>Claws</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage.</text>
             <attack>Claws|4|1d6+2</attack>
         </action>
         <description>Abyssal chickens are carnivorous, temperamental, tasty bottom-feeders native to the Abyss. They beat their leathery wings to scare predators and to help them run faster, and they taste like fatty chicken.
             With your permission, a character who casts the find familiar spell can henceforth choose to conjure an abyssal chicken instead of a raven
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 97</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 97</description>
         <environment></environment>
     </monster>
     <monster>
@@ -1364,7 +1364,7 @@
         </action>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
             <attack>Dagger|6|1d4+4</attack>
         </action>
         <action>
@@ -1372,7 +1372,7 @@
             <text>Amrik hurls a smoke bomb up to 20 feet away. The bomb explodes on impact, creating a cloud of black smoke that fills a 10-foot-radius sphere. The area within the cloud is heavily obscured. A strong wind disperses the cloud, which otherwise remains until the end of Amrik&#39;s next turn.</text>
         </action>
         <description>Second son of Duke Thalamra Vanthampur of Baldur&#39;s Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra&#39;s staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients&#39; drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master&#39;s Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 30</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 30</description>
         <environment></environment>
     </monster>
     <monster>
@@ -1425,12 +1425,12 @@
         </action>
         <action>
             <name>Longsword</name>
-            <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.</text>
+            <text>Melee Weapon Attack&#58; +16 to hit, reach 10 ft., one target. 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.</text>
             <attack>Longsword|16|2d8+8</attack>
         </action>
         <action>
             <name>Javelin</name>
-            <text>Melee or Ranged Weapon Attack: +16 to hit, range 30/120 ft., one target. 15 (2d6 + 8) piercing damage plus 36 (8d8) fire damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +16 to hit, range 30/120 ft., one target. 15 (2d6 + 8) piercing damage plus 36 (8d8) fire damage.</text>
             <attack>Javelin|16|2d6+8</attack>
         </action>
         <action>
@@ -1454,13 +1454,13 @@
         </legendary>
         <legendary>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can&#39;t use the same effect two rounds in a row:</text>
+            <text>On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can&#39;t use the same effect two rounds in a row&#58;</text>
             <text>&#183; Zariel casts major image four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders&#39; loved ones being burned alive. Zariel doesn&#39;t need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become frightened of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
             <text>&#183; Zariel casts her innate fireball spell.</text>
         </legendary>
         <legendary>
             <name>Regional Effects</name>
-            <text>The region containing Zariel&#39;s lair is warped by her magic, which creates one or more of the following effects:</text>
+            <text>The region containing Zariel&#39;s lair is warped by her magic, which creates one or more of the following effects&#58;</text>
             <text>&#183; The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.</text>
             <text>&#183; Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes 7 (2d6) fire damage, though it can take this damage no more than once per round.</text>
             <text>&#183; The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can&#39;t be cleared away.</text>
@@ -1468,12 +1468,12 @@
         </legendary>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Zariel&#39;s innate spellcasting ability is Charisma (spell save DC 26). She can innately cast the following spells, requiring no material components:</text>
-            <text>At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire</text>
-            <text>3/day each: blade barrier, dispel evil and good, finger of death</text>
+            <text>Zariel&#39;s innate spellcasting ability is Charisma (spell save DC 26). She can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire</text>
+            <text>3/day each&#58; blade barrier, dispel evil and good, finger of death</text>
         </trait>
         <spells>alter self, detect evil and good, fireball, invisibility, wall of fire, blade barrier, dispel evil and good, finger of death</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 243</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 243</description>
         <environment></environment>
     </monster>
     <monster>
@@ -1506,7 +1506,7 @@
         </trait>
         <trait>
             <name>Hand of Vecna</name>
-            <text>The Hand of Vecna has 8 charges and regains 1d4 + 4 expended charges daily at dawn. Arkhan can cast the following spells from the hand by expending the specified number of charges (spell save DC 18): finger of death (5 charges), sleep (1 charge), slow (2 charges), and teleport (3 charges).</text>
+            <text>The Hand of Vecna has 8 charges and regains 1d4 + 4 expended charges daily at dawn. Arkhan can cast the following spells from the hand by expending the specified number of charges (spell save DC 18)&#58; finger of death (5 charges), sleep (1 charge), slow (2 charges), and teleport (3 charges).</text>
         </trait>
         <trait>
             <name>Special Equipment</name>
@@ -1518,25 +1518,25 @@
         </action>
         <action>
             <name>Fane-Eater (Battleaxe)</name>
-            <text>Melee Weapon Attack: +13 to hit, reach 5 ft., one target. 16 (1d8 + 12) slashing damage, or 17 (1d10 + 12) slashing damage when used with two hands, plus 9 (2d8) cold damage. If the target is a creature and Arkhan rolls a 20 on the attack roll, the creature takes an extra 9 (2d8) necrotic damage, and Arkhan regains an amount of hit points equal to the necrotic damage dealt.</text>
+            <text>Melee Weapon Attack&#58; +13 to hit, reach 5 ft., one target. 16 (1d8 + 12) slashing damage, or 17 (1d10 + 12) slashing damage when used with two hands, plus 9 (2d8) cold damage. If the target is a creature and Arkhan rolls a 20 on the attack roll, the creature takes an extra 9 (2d8) necrotic damage, and Arkhan regains an amount of hit points equal to the necrotic damage dealt.</text>
             <attack>Fane-Eater (Battleaxe)|13|1d8+12</attack>
         </action>
         <action>
             <name>Javelin</name>
-            <text>Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 30/120 ft., one target. 8 (1d6 + 5) piercing damage, plus 4 piercing damage and 9 (2d8) cold damage if the javelin was used to make a melee</text>
+            <text>Melee or Ranged Weapon Attack&#58; +10 to hit, reach 5 ft. or range 30/120 ft., one target. 8 (1d6 + 5) piercing damage, plus 4 piercing damage and 9 (2d8) cold damage if the javelin was used to make a melee</text>
             <attack>Javelin|10|1d6+5</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Arkhan&#39;s spellcasting ability is Charisma (spell save DC 17). He can cast the following spells, requiring no material components:</text>
-            <text>3/day each: animate dead, branding smite (at 4th level), revivify</text>
-            <text>1/day each: geas, raise dead</text>
+            <text>Arkhan&#39;s spellcasting ability is Charisma (spell save DC 17). He can cast the following spells, requiring no material components&#58;</text>
+            <text>3/day each&#58; animate dead, branding smite (at 4th level), revivify</text>
+            <text>1/day each&#58; geas, raise dead</text>
         </trait>
         <spells>animate dead, branding smite, revivify, geas, raise dead</spells>
         <description>Arkhan the Cruel is an evil dragonborn champion of Tiamat. Arkhan believes he can use the Hand of Vecna to unlock the means of freeing Tiamat from her prison in the Nine Hells, but only if the hand doesn&#39;t kill him first. The hand is slowly corrupting Arkhan&#39;s flesh and decomposing his body on one side.
             In battle, Arkhan uses branding smite to channel the radiant power of Tiamat into his weapon attacks. If a fight turns against him, he uses the teleport power of the Hand of Vecna to return to his tower with as many allies as possible. Should one or more of his comrades fall in battle, Arkhan uses revivify and raise dead spells to bring them back to life as soon as possible.
             If Arkhan finds himself overwhelmed with opposition, he orders the abishai to attack. Arkhan can also use a bonus action to call forth Asojano, a chimera lairing in the depths of the colossal dragon skull.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 111</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 111</description>
         <environment></environment>
     </monster>
     <monster>
@@ -1563,12 +1563,12 @@
         </trait>
         <trait>
             <name>Spellcasting</name>
-            <text>The black gauntlet is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
+            <text>The black gauntlet is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared&#58;
                 
-                Cantrips (at will): guidance, sacred flame, thaumaturgy
-                1st level (4 slots): bane, bless, cure wounds, guiding bolt (see Actions below)
-                2nd level (3 slots): blindness/deafness, hold person, silence
-                3rd level (2 slots): sending, spirit guardians</text>
+                Cantrips (at will)&#58; guidance, sacred flame, thaumaturgy
+                1st level (4 slots)&#58; bane, bless, cure wounds, guiding bolt (see Actions below)
+                2nd level (3 slots)&#58; blindness/deafness, hold person, silence
+                3rd level (2 slots)&#58; sending, spirit guardians</text>
         </trait>
         <trait>
             <name>Tactical Disciple</name>
@@ -1580,12 +1580,12 @@
         </action>
         <action>
             <name>Mace</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 7 (1d6+4) bludgeoning damage plus 13 (3d8) necrotic damage.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one target. Hit 7 (1d6+4) bludgeoning damage plus 13 (3d8) necrotic damage.</text>
             <attack>Mace|7|1d6+4+3d8</attack>
         </action>
         <action>
             <name>Guiding Bolt (1st-Level Spell; Requires a Spell Slot)</name>
-            <text>Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 14 (4d6) radiant damage, and the next attack roll made against the target before the end of the black gauntlet&#39;s next turn has advantage. If the black gauntlet casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each level above 1st.</text>
+            <text>Ranged Spell Attack&#58; +7 to hit, range 120 ft., one creature. Hit&#58; 14 (4d6) radiant damage, and the next attack roll made against the target before the end of the black gauntlet&#39;s next turn has advantage. If the black gauntlet casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each level above 1st.</text>
         </action>
         <spells>guidance,sacred flame,thaumaturgy,bane,bless,cure wounds,guiding bolt,blindness/deafness,hold person,silence,sending,spirit guardians</spells>
         <slots>4,3,2</slots>
@@ -1629,7 +1629,7 @@
         </trait>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit 44 (10d6 + 9) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +14 to hit, reach 15 ft., one target. Hit 44 (10d6 + 9) piercing damage.</text>
             <attack>Bite|14|10d6+9</attack>
         </action>
         <action>
@@ -1669,7 +1669,7 @@
         </action>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft. one target. Hit 7 (1d4+5) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +7 to hit, reach 5 ft. or range 20/60 ft. one target. Hit 7 (1d4+5) piercing damage.</text>
             <attack>Dagger|7|1d4+5</attack>
         </action>
         <action>
@@ -1693,7 +1693,7 @@
         <immune>fire, poison, psychic</immune>
         <conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
         <trait>
-            <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 218</text>
+            <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 218</text>
         </trait>
         <action>
             <name>Crushing Wheels</name>
@@ -1714,17 +1714,17 @@
         </trait>
         <action>
             <name>Chomper (Requires 1 Crew and Grants Half Cover)</name>
-            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 25 (6d6+4) piercing damage. A target reduced to 0 hit points by this damage is ground to bits and spit out through pipes on both sides of the Demon Grinder. Any nonmagical items the target was holding or carrying are destroyed as well.</text>
+            <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. Hit&#58; 25 (6d6+4) piercing damage. A target reduced to 0 hit points by this damage is ground to bits and spit out through pipes on both sides of the Demon Grinder. Any nonmagical items the target was holding or carrying are destroyed as well.</text>
             <attack>Chomper|9|6d6+4</attack>
         </action>
         <action>
             <name>Wrecking Ball (Requires 1 Crew and Grants Half-Cover)</name>
-            <text>Melee Weapon Attack:+9 to hit, reach 15 ft., one target. Hit: 40 (8d8+4) bludgeoning damage. Double the damage if the target is an object or a structure.</text>
+            <text>Melee Weapon Attack&#58;+9 to hit, reach 15 ft., one target. Hit&#58; 40 (8d8+4) bludgeoning damage. Double the damage if the target is an object or a structure.</text>
             <attack>Wrecking Ball|9|8d8+4</attack>
         </action>
         <action>
             <name>2 Harpoon Flingers (Each Station Requires 1 Crew and Grants Half Cover)</name>
-            <text>Ammunition: 10 harpoons per station. Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit: 9 (2d8) piercing damage.</text>
+            <text>Ammunition&#58; 10 harpoons per station. Ranged Weapon Attack&#58; +5 to hit, range 120 ft., one target. Hit&#58; 9 (2d8) piercing damage.</text>
             <attack>Harpoon Flinger|5|2d8</attack>
         </action>
         <environment>underdark</environment>
@@ -1740,7 +1740,7 @@
         <immune>fire, poison, psychic</immune>
         <conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
         <trait>
-            <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 218</text>
+            <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 218</text>
         </trait>
         <trait>
             <name>Jump</name>
@@ -1805,7 +1805,7 @@
         </action>
         <action>
             <name>Slam</name>
-            <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit 16 (2d10+5) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +8 to hit, reach 5 ft., one target. Hit 16 (2d10+5) bludgeoning damage.</text>
             <attack>Slam|8|2d10+5</attack>
         </action>
         <environment>underdark</environment>
@@ -1832,12 +1832,12 @@
         </trait>
         <action>
             <name>Mace</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit 6 (1d6+3) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. Hit 6 (1d6+3) bludgeoning damage.</text>
             <attack>Mace|5|1d6+3</attack>
         </action>
         <action>
             <name>Longbow</name>
-            <text>Ranged Weapon Attack: +2 to hit, range 150/600 ft., one target. Hit 4 (1d8) piercing damage.</text>
+            <text>Ranged Weapon Attack&#58; +2 to hit, range 150/600 ft., one target. Hit 4 (1d8) piercing damage.</text>
             <attack>Longbow|2|1d8</attack>
         </action>
         <environment>underdark</environment>
@@ -1876,10 +1876,10 @@
         </trait>
         <action>
             <name>Longdagger</name>
-            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.</text>
             <attack>Longdagger|3|1d8+1</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 30</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 30</description>
         <environment></environment>
     </monster>
     <monster>
@@ -1907,16 +1907,16 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>The hellwasp makes two attacks: one with its sting and one with its sword talons.</text>
+            <text>The hellwasp makes two attacks&#58; one with its sting and one with its sword talons.</text>
         </action>
         <action>
             <name>Sting</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit:8 (1d8 + 4) piercing damage plus 7 (2d6) fire damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end ofeach of its turns, ending the effect on itself on a success.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one creature. Hit&#58;8 (1d8 + 4) piercing damage plus 7 (2d6) fire damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end ofeach of its turns, ending the effect on itself on a success.</text>
             <attack>Sting|7|1d8+4+2d6</attack>
         </action>
         <action>
             <name>Sword Talons</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 11 (2d6+4) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one target. Hit 11 (2d6+4) piercing damage.</text>
             <attack>Sword Talons|7|2d6+4</attack>
         </action>
         <environment>underdark</environment>
@@ -1955,12 +1955,12 @@
         </trait>
         <action>
             <name>Tusks</name>
-            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d6) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +3 to hit, reach 5 ft., one target. 3 (1d6) piercing damage.</text>
             <attack>Tusks|3|1d6</attack>
         </action>
         <action>
             <name>Trumpet (3/Day)</name>
-            <text>The hollyphant blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by the hollyphant:</text>
+            <text>The hollyphant blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by the hollyphant&#58;</text>
         </action>
         <action>
             <name>Trumpet of Blasting</name>
@@ -1972,15 +1972,15 @@
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>The hollyphant&#39;s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:</text>
-            <text>At will: light</text>
-            <text>2/day each: bless, cure wounds, protection from evil and good</text>
-            <text>1/day each: banishment, heal, raise dead, shapechange (into a golden-furred mammoth with feathered wings and a flying speed of 120 ft.), teleport (with no chance of error)</text>
+            <text>The hollyphant&#39;s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; light</text>
+            <text>2/day each&#58; bless, cure wounds, protection from evil and good</text>
+            <text>1/day each&#58; banishment, heal, raise dead, shapechange (into a golden-furred mammoth with feathered wings and a flying speed of 120 ft.), teleport (with no chance of error)</text>
         </trait>
         <spells>light, bless, cure wounds, protection from evil and good, banishment, heal, raise dead, shapechange, teleport</spells>
         <description>Hollyphants are gentle, stalwart creatures native to the Upper Planes. Good-aligned deities and angels use them as messengers and helpers. Hollyphants treasure friendship and honesty.
             A hollyphant looks like a miniature elephant with luminous gold fur and small, rapidly fluttering wings that not only hold it aloft but also propel it at great speed. Although kind, a hollyphant won&#39;t bear witness to an evil act without punishing the malefactor. Its pearlescent tusks are far from formidable, but it can unleash trumpet blasts from its trunk that can deafen creatures or engulf evildoers in radiant sparkles of positive energy. A hollyphant is also blessed with powerful innate magic to help it combat evil and protect its friends.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 237</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 237</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2011,7 +2011,7 @@
         </action>
         <action>
             <name>Spear</name>
-            <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 6 (1d6+3) piercing damage, or 7 (1d8+3) piercing damage when used with two hands to make a melee attack.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +5 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 6 (1d6+3) piercing damage, or 7 (1d8+3) piercing damage when used with two hands to make a melee attack.</text>
             <attack>Spear|5|1d6+3</attack>
             <attack>Spear|7|1d8+3</attack>
         </action>
@@ -2044,12 +2044,12 @@
         </trait>
         <trait>
             <name>Spellcasting</name>
-            <text>The master of souls is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared:
+            <text>The master of souls is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared&#58;
                 
-                Cantrips (at will): chill touch (see "Actions" below), mage hand, message, prestidigitation
-                1st level (4 slots): burning hands, detect magic, ray of sickness (see "Actions" below), shield
-                2nd level (3 slots): darkness, misty step, scorching ray (see "Actions" below)
-                3rd level (2 slots): animate dead, fireball</text>
+                Cantrips (at will)&#58; chill touch (see "Actions" below), mage hand, message, prestidigitation
+                1st level (4 slots)&#58; burning hands, detect magic, ray of sickness (see "Actions" below), shield
+                2nd level (3 slots)&#58; darkness, misty step, scorching ray (see "Actions" below)
+                3rd level (2 slots)&#58; animate dead, fireball</text>
         </trait>
         <action>
             <name>Multiattack</name>
@@ -2057,22 +2057,22 @@
         </action>
         <action>
             <name>Silver Skull Flail</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage plus 14 (4d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the master of souls&#39; next turn.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one target. Hit&#58; 4 (1d8) bludgeoning damage plus 14 (4d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the master of souls&#39; next turn.</text>
             <attack>Skull Flail|2|1d8+4d6</attack>
         </action>
         <action>
             <name>Chill Touch (Cantrip)</name>
-            <text>Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13 (2d8) necrotic damage, and the target can&#39;t regain hit points until the start of the master of souls&#39; next turn. If the target is undead, it has disadvantage on attack rolls against the master of souls for the same duration.</text>
+            <text>Ranged Spell Attack&#58; +6 to hit, range 120 ft., one creature. Hit&#58; 13 (2d8) necrotic damage, and the target can&#39;t regain hit points until the start of the master of souls&#39; next turn. If the target is undead, it has disadvantage on attack rolls against the master of souls for the same duration.</text>
             <attack>Chill Touch|6|2d8</attack>
         </action>
         <action>
             <name>Ray of Sickness (1st-level Spell; Requires a Spell Slot)</name>
-            <text>Ranged Spell Attack: +6 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned until the end ofthe master of souls&#39; next turn. Ifthe master ofsouls casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
+            <text>Ranged Spell Attack&#58; +6 to hit, range 60 ft., one creature. Hit&#58; 9 (2d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned until the end ofthe master of souls&#39; next turn. Ifthe master ofsouls casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
             <attack>Ray of Sickness|6|2d8</attack>
         </action>
         <action>
             <name>Scorching Ray (2nd-level Spell; Requires a Spell Slot)</name>
-            <text>Ranged Spell Attack: +6 to hit, range 120 ft., one target per ray (3 rays if a 2nd-level spell slot is used, 4 rays if a 3rd-level spell slot is used). Hit: 7 (2d6) fire damage per ray.</text>
+            <text>Ranged Spell Attack&#58; +6 to hit, range 120 ft., one target per ray (3 rays if a 2nd-level spell slot is used, 4 rays if a 3rd-level spell slot is used). Hit&#58; 7 (2d6) fire damage per ray.</text>
             <attack>Scorching Ray|6|2d6</attack>
         </action>
         <spells>chill touch,mage hand,message,prestidigitation,burning hands,detect magic,ray of sickness,shield,darkness,misty step,scorching ray,animate dead,fireball</spells>
@@ -2097,12 +2097,12 @@
         </trait>
         <action>
             <name>Skull Flail</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 4 (1d8) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one target. Hit 4 (1d8) bludgeoning damage.</text>
             <attack>Skull Flail|2|1d8</attack>
         </action>
         <action>
             <name>Claws of the Grave</name>
-            <text>Ranged Spell Attack: +5 to hit, reach 5 ft., one target. Hit 8 (2d4+3) necrotic damage.</text>
+            <text>Ranged Spell Attack&#58; +5 to hit, reach 5 ft., one target. Hit 8 (2d4+3) necrotic damage.</text>
             <attack>Claws|5|2d4+3</attack>
         </action>
         <environment>underdark</environment>
@@ -2137,7 +2137,7 @@
         </trait>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the centipede can&#39;t bite another target.</text>
+            <text>Melee Weapon Attack&#58; +11 to hit, reach 10 ft., one target. 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the centipede can&#39;t bite another target.</text>
             <attack>Bite|11|6d10+7</attack>
         </action>
         <action>
@@ -2145,7 +2145,7 @@
             <text>The centipede makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite&#39;s damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the centipede, and it takes 21 (6d6) acid damage at the start of each of the centipede&#39;s turns.</text>
             <text>If the centipede takes 30 damage or more on a single turn from a creature inside it, the centipede must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet oft he centipede. If the centipede dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</text>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 119</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 119</description>
         <environment>arctic</environment>
     </monster>
     <monster>
@@ -2170,7 +2170,7 @@
         </trait>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 4 (1d4+2) piercing damage,</text>
+            <text>Melee or Ranged Weapon Attack&#58; +4 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 4 (1d4+2) piercing damage,</text>
             <attack>Dagger|4|1d4+2</attack>
         </action>
     </monster>
@@ -2197,9 +2197,9 @@
         </trait>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>The reaper&#39;s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
+            <text>The reaper&#39;s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components&#58;
                 
-                1/day each: charm person, disguise self, sanctuary</text>
+                1/day each&#58; charm person, disguise self, sanctuary</text>
         </trait>
         <action>
             <name>Multiattack</name>
@@ -2207,7 +2207,7 @@
         </action>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 7 (1d4+5) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit 7 (1d4+5) piercing damage.</text>
             <attack>Dagger|7|1d4+5</attack>
         </action>
         <action>
@@ -2227,7 +2227,7 @@
         <immune>fire, poison, psychic</immune>
         <conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
         <trait>
-            <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 219</text>
+            <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 219</text>
         </trait>
         <action>
             <name>Crushing Wheels</name>
@@ -2248,7 +2248,7 @@
         </trait>
         <action>
             <name>Grappling Claw (Requires 1 Crew and Grants Half Cover)</name>
-            <text>Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: The tar&#45; get is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends.
+            <text>Melee Weapon Attack&#58; +10 to hit, reach 15 ft., one target. Hit&#58; The tar&#45; get is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends.
                 The grappling claw can grapple only one target at a time, and the claw&#39;s operator can use a bonus action to make the claw release whatever it&#39;s holding.</text>
         </action>
         <environment>underdark</environment>
@@ -2272,12 +2272,12 @@
         </trait>
         <trait>
             <name>Spellcasting</name>
-            <text>The skull lasher is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+            <text>The skull lasher is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared&#58;
                 
-                Cantrips (at will): mage hand, message, prestidigitation
-                1st level (4 slots): detect magic, protection from evil and good,
+                Cantrips (at will)&#58; mage hand, message, prestidigitation
+                1st level (4 slots)&#58; detect magic, protection from evil and good,
                 ray of sickness (see "Actions" below), shield
-                2nd level (2 slots): darkness, misty step</text>
+                2nd level (2 slots)&#58; darkness, misty step</text>
         </trait>
         <action>
             <name>Multiattack</name>
@@ -2285,12 +2285,12 @@
         </action>
         <action>
             <name>Iron Skull Flail</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the skull lasher&#39;s next turn.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one target. Hit&#58; 4 (1d8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the skull lasher&#39;s next turn.</text>
             <attack>Skull Flail|2|1d8+2d6</attack>
         </action>
         <action>
             <name>Ray of Sickness (1st-level spell; Requires a Spell Slot)</name>
-            <text>Ranged Spell Attack: +5 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the skull lasher&#39;s next turn. If the skull lasher casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
+            <text>Ranged Spell Attack&#58; +5 to hit, range 60 ft., one creature. Hit&#58; 9 (2d8) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the skull lasher&#39;s next turn. If the skull lasher casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</text>
             <attack>Ray of Sickness|5|2d8</attack>
         </action>
         <spells>mage hand,message,prestidigitation,detect magic,protection from evil and good,ray of sickness,darkness,misty steps</spells>
@@ -2339,23 +2339,23 @@
         </action>
         <action>
             <name>+1 Shortsword</name>
-            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 9 (1d6 + 6) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. 9 (1d6 + 6) piercing damage.</text>
             <attack>+1 Shortsword|9|1d6+6</attack>
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Smiler&#39;s innate spellcasting ability is Charisma (spell save DC 15). He can innately cast the following spells, requiring no material components:</text>
-            <text>At will: charm person, Tasha&#39;s hideous laughter</text>
-            <text>3/day each: confusion, enthrall, suggestion</text>
-            <text>1/day each: hallucinatory terrain, Otto&#39;s irresistible dance</text>
+            <text>Smiler&#39;s innate spellcasting ability is Charisma (spell save DC 15). He can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; charm person, Tasha&#39;s hideous laughter</text>
+            <text>3/day each&#58; confusion, enthrall, suggestion</text>
+            <text>1/day each&#58; hallucinatory terrain, Otto&#39;s irresistible dance</text>
         </trait>
         <spells>charm person, Tasha&#39;s hideous laughter, confusion, enthrall, suggestion, hallucinatory terrain, Otto&#39;s irresistible dance</spells>
         <description>Smiler has an unnerving smile—hence his name.
             A more apt name for this eladrin would be Smiler the Beguiler, as he&#39;s constantly trying to intoxicate others with his relentless optimism and shocking recklessness. Smiler thinks he can accomplish anything with a positive attitude and some death-defying stunt. Although he admits others might end up getting killed by his actions, he believes he can bend the multiverse to his whims if he tries hard enough. He&#39;s really quite insane.
-            One of Smiler&#39;s favorite antics is to use a hallucinatory terrain spell to create a little bit of the Feywild in Avernus: a beautiful woodland glade in which to lose himself for a few hours while he meditates and plots.
+            One of Smiler&#39;s favorite antics is to use a hallucinatory terrain spell to create a little bit of the Feywild in Avernus&#58; a beautiful woodland glade in which to lose himself for a few hours while he meditates and plots.
             This eladrin adventurer from the Feywild became stranded in Avernus after his companions abandoned him. He has spent the past seventy years roaming Avernus, making deals with fiends to survive. Smiler eventually sold his soul to a pit fiend, who gave him the means to topple a nycaloth warlord named Yarrasto. Smiler took control of the nycaloth&#39;s warband and their infernal war machines. Smiler&#39;s gang came to be known as Smiler&#39;s Defilers, and their ferocity terrified the other warlords of Avernus for a while.
             Three of Smiler&#39;s rivals—Bitter Breath, Feonor, and Princeps Kovik—joined forces to wipe out Smiler&#39;s Defilers. Smiler escaped and tears around Avernus on a Devil&#39;s Ride, looking for adventurers willing to help him get revenge on the warlords who ganged up on him. Mad Maggie remains his only ally, though he refuses to join her gang.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 133</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 133</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2388,34 +2388,34 @@
         </trait>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
             <attack>Dagger|6|1d4+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Sylvira is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Sylvira can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
-            <text>At will: disguise self, invisibility</text>
-            <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
-            <text>&#183; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
-            <text>&#183; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
-            <text>&#183; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
-            <text>&#183; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
-            <text>&#183; 5th level (3 slots): cone of cold, scrying, wall of force</text>
-            <text>&#183; 6th level (1 slots): globe of invulnerability</text>
-            <text>&#183; 7th level (1 slots): teleport</text>
-            <text>&#183; 8th level (1 slots): mind blank&#42;</text>
-            <text>&#183; 9th level (1 slots): time stop</text>
+            <text>Sylvira is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Sylvira can cast disguise self and invisibility at will and has the following wizard spells prepared&#58;</text>
+            <text>At will&#58; disguise self, invisibility</text>
+            <text>Cantrips (at will)&#58; fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
+            <text>&#183; 1st level (4 slots)&#58; detect magic, identify, mage armor&#42;, magic missile</text>
+            <text>&#183; 2nd level (3 slots)&#58; detect thoughts, mirror image, misty step</text>
+            <text>&#183; 3rd level (3 slots)&#58; counterspell, fly, lightning bolt</text>
+            <text>&#183; 4th level (3 slots)&#58; banishment, fire shield, stoneskin&#42;</text>
+            <text>&#183; 5th level (3 slots)&#58; cone of cold, scrying, wall of force</text>
+            <text>&#183; 6th level (1 slots)&#58; globe of invulnerability</text>
+            <text>&#183; 7th level (1 slots)&#58; teleport</text>
+            <text>&#183; 8th level (1 slots)&#58; mind blank&#42;</text>
+            <text>&#183; 9th level (1 slots)&#58; time stop</text>
             <text>&#42;Sylvira casts these spells on itself before combat.</text>
         </trait>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Sylvira&#39;s innate spellcasting ability is Charisma (spell save DC 15). Sylvira can innately cast the following spells, requiring no material components:</text>
-            <text>At will: thaumaturgy</text>
-            <text>1/day each: darkness, hellish rebuke</text>
+            <text>Sylvira&#39;s innate spellcasting ability is Charisma (spell save DC 15). Sylvira can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; thaumaturgy</text>
+            <text>1/day each&#58; darkness, hellish rebuke</text>
         </trait>
         <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop, thaumaturgy, darkness, hellish rebuke</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 46</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 46</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2448,10 +2448,10 @@
         </trait>
         <action>
             <name>Mace</name>
-            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.</text>
             <attack>Mace|3|1d6+1</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 42</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 42</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2488,14 +2488,14 @@
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Thurstwell is a 2nd-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13). He has the following cleric spells prepared:</text>
-            <text>Cantrips (at will): guidance, sacred flame (see "Actions" below), thaumaturgy</text>
-            <text>&#183; 1st level (3 slots): command, detect evil and good, sanctuary</text>
+            <text>Thurstwell is a 2nd-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13). He has the following cleric spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; guidance, sacred flame (see "Actions" below), thaumaturgy</text>
+            <text>&#183; 1st level (3 slots)&#58; command, detect evil and good, sanctuary</text>
         </trait>
         <slots>3</slots>
         <spells>guidance, sacred flame, thaumaturgy, command, detect evil and good, sanctuary</spells>
         <description>Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he uses imps to spy on his brothers, Amrik and Mortlock. Thurstwell resents both of them—Amrik for being their mother&#39;s favorite, and Mortlock for being a monstrous dolt.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 34</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 34</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2508,7 +2508,7 @@
         <immune>fire, poison, psychic</immune>
         <conditionImmune>blinded, charmed, deafened, frightened, paralysed, petrified, poisoned, stunned, unconcious</conditionImmune>
         <trait>
-            <text>Source: Baldur&#39;s Gate Descent into Avernus, p. 218</text>
+            <text>Source&#58; Baldur&#39;s Gate Descent into Avernus, p. 218</text>
         </trait>
         <trait>
             <name>Prone Deficiency</name>
@@ -2534,7 +2534,7 @@
         </trait>
         <action>
             <name>Harpoon Flinger (Requires 1 Crew and Grants Half Cover)</name>
-            <text>Ammunition: 10 harpoons. Ranged Weapon Attack: +7 to hit, range 120 ft., one target. Hit 11 (2d8+2) piercing damage.</text>
+            <text>Ammunition&#58; 10 harpoons. Ranged Weapon Attack&#58; +7 to hit, range 120 ft., one target. Hit 11 (2d8+2) piercing damage.</text>
             <attack>Harpoon Flinger|7|2d8+2</attack>
         </action>
         <reaction>
@@ -2577,7 +2577,7 @@
         </trait>
         <trait>
             <name>Rage (Recharges after a Short or Long Rest)</name>
-            <text>As a bonus action, Torogar can enter a rage that lasts for 1 minute. The rage ends early if Torogar is knocked unconscious or if his turn ends and he hasn&#39;t attacked a hostile creature or taken damage since his last turn. While raging, Torogar gains the following benefits:</text>
+            <text>As a bonus action, Torogar can enter a rage that lasts for 1 minute. The rage ends early if Torogar is knocked unconscious or if his turn ends and he hasn&#39;t attacked a hostile creature or taken damage since his last turn. While raging, Torogar gains the following benefits&#58;</text>
             <text>He has advantage on Strength checks and Strength saving throws.</text>
             <text>He deals an extra 3 damage when he hits a target with a melee weapon attack.</text>
             <text>He has resistance to bludgeoning, piercing, and slashing damage.</text>
@@ -2588,19 +2588,19 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>Torogar makes three attacks: two with his scimitars and one with his horns.</text>
+            <text>Torogar makes three attacks&#58; two with his scimitars and one with his horns.</text>
         </action>
         <action>
             <name>Scimitar</name>
-            <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage, or 17 (2d6 + 10) slashing damage while raging, plus 3 (1d6) fire damage from the gauntlets of flaming fury.</text>
+            <text>Melee Weapon Attack&#58; +11 to hit, reach 5 ft., one target. 14 (2d6 + 7) slashing damage, or 17 (2d6 + 10) slashing damage while raging, plus 3 (1d6) fire damage from the gauntlets of flaming fury.</text>
             <attack>Scimitar|11|2d6+7</attack>
         </action>
         <action>
             <name>Horns</name>
-            <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 16 (2d8 + 7) piercing damage, or 19 (2d8 + 10) piercing damage while raging.</text>
+            <text>Melee Weapon Attack&#58; +11 to hit, reach 5 ft., one target. 16 (2d8 + 7) piercing damage, or 19 (2d8 + 10) piercing damage while raging.</text>
             <attack>Horns|11|2d8+7</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 112</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 112</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2633,28 +2633,28 @@
         </trait>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
             <attack>Dagger|6|1d4+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Traxigor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Traxigor can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
-            <text>At will: disguise self, invisibility</text>
-            <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
-            <text>&#183; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
-            <text>&#183; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
-            <text>&#183; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
-            <text>&#183; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
-            <text>&#183; 5th level (3 slots): cone of cold, scrying, wall of force</text>
-            <text>&#183; 6th level (1 slots): globe of invulnerability</text>
-            <text>&#183; 7th level (1 slots): plane shift</text>
-            <text>&#183; 8th level (1 slots): mind blank&#42;</text>
-            <text>&#183; 9th level (1 slots): time stop</text>
+            <text>Traxigor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Traxigor can cast disguise self and invisibility at will and has the following wizard spells prepared&#58;</text>
+            <text>At will&#58; disguise self, invisibility</text>
+            <text>Cantrips (at will)&#58; fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
+            <text>&#183; 1st level (4 slots)&#58; detect magic, identify, mage armor&#42;, magic missile</text>
+            <text>&#183; 2nd level (3 slots)&#58; detect thoughts, mirror image, misty step</text>
+            <text>&#183; 3rd level (3 slots)&#58; counterspell, fly, lightning bolt</text>
+            <text>&#183; 4th level (3 slots)&#58; banishment, fire shield, stoneskin&#42;</text>
+            <text>&#183; 5th level (3 slots)&#58; cone of cold, scrying, wall of force</text>
+            <text>&#183; 6th level (1 slots)&#58; globe of invulnerability</text>
+            <text>&#183; 7th level (1 slots)&#58; plane shift</text>
+            <text>&#183; 8th level (1 slots)&#58; mind blank&#42;</text>
+            <text>&#183; 9th level (1 slots)&#58; time stop</text>
             <text>&#42;Traxigor casts these spells on itself before combat.</text>
         </trait>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, plane shift, mind blank, time stop</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 50</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 50</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2699,9 +2699,9 @@
         </trait>
         <action>
             <name>Claws</name>
-            <text>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. 1 slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +0 to hit, reach 5 ft., one target. 1 slashing damage.</text>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 241, Infernal Machine Rebuild</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 241, Infernal Machine Rebuild</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2734,12 +2734,12 @@
         </action>
         <action>
             <name>+1 Longsword</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage when used with two hands.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage when used with two hands.</text>
             <attack>+1 Longsword|7|1d8+4</attack>
         </action>
         <action>
             <name>Shield</name>
-            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. 6 (1d6 + 3) bludgeoning damage, and Ulder pushes the target 5 feet away from him. Ulder then enters the space vacated by the target. If the target is pushed to within 5 feet of a creature friendly to Ulder, the target provokes an opportunity attack from that creature.</text>
+            <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one creature. 6 (1d6 + 3) bludgeoning damage, and Ulder pushes the target 5 feet away from him. Ulder then enters the space vacated by the target. If the target is pushed to within 5 feet of a creature friendly to Ulder, the target provokes an opportunity attack from that creature.</text>
             <attack>Shield|6|1d6+3</attack>
         </action>
         <reaction>
@@ -2750,7 +2750,7 @@
             Upon ascending to the highest position in the city government, Ravengard refused to relinquish command of the Flaming Fist, making him the most powerful figure in the city by far. This decision has not endeared him to anyone, but Ravengard could care less about his popularity. His only concerns are the stability and prosperity of Baldur&#39;s Gate, and he doesn&#39;t trust any of the other dukes or anyone in the Parliament of Peers to put the city&#39;s interests before their own.
             Ravengard rose to grand duke on a platform largely backed by idealistic commoners and enemies of the other established dukes. While he won election handily, Ravengard has struggled in performing his duties, finding his hands tied at every turn by both overt and invisible bureaucracy. Despite this, he&#39;s been a voice of reason and common sense on the Council of Four—if not the egalitarianism some hoped. He&#39;s also proven largely resistant to scandal and corruption, though many of his fellow dukes and those in the Parliament of Peers still regularly outmaneuver him politically. One of his only obvious pleasures remains the surprise inspections he regularly visits upon the troops at Wyrm&#39;s Rock.
             Ravengard was recently tricked into attending a diplomatic summit in Elturel, unaware that his political enemies in Baldur&#39;s Gate orchestrated this meeting in a fiendish plot to remove him from power. In his absence, the Flaming Fist is leaderless, the council rudderless.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 70</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 70</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2795,16 +2795,16 @@
         </action>
         <action>
             <name>Shortsword</name>
-            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage.</text>
             <attack>Shortsword|6|1d6+4</attack>
         </action>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +6 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage.</text>
             <attack>Dagger|6|1d4+4</attack>
         </action>
         <description>The Guild kingpin of Little Calimshan. Among Little Calimshan&#39;s most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it&#39;s also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 199</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 199</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2845,16 +2845,16 @@
         </action>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage, plus 6 piercing damage if it&#39;s a ranged attack.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +7 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d4 + 4) piercing damage, plus 6 piercing damage if it&#39;s a ranged attack.</text>
             <attack>Dagger|7|1d4+4</attack>
         </action>
         <reaction>
             <name>Uncanny Dodge</name>
             <text>Nine-Fingers halves the damage that she takes from an attack that hits her. She must be able to see the attacker.</text>
         </reaction>
-        <description>The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene&#39;s leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
+        <description>The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is&#58; an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene&#39;s leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
             Keene has become increasingly intolerant of the populous tide turning against her organization. While the occasional rabble-rouser has always impeded criminal business, the rise of organized crews and vigilantes is interfering with Guild operations. After a carefully coordinated attack on a patriar&#39;s estate fell to pieces when a vigilante clumsily alerted the estate guards, Keene declared open season on do-gooders of all stripes.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 170</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 170</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2891,16 +2891,16 @@
         </action>
         <action>
             <name>Greatclub</name>
-            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (2d4 + 4) bludgeoning damage, plus 5 (2d4) bludgeoning damage if Mortlock has taken any damage since his last turn.</text>
+            <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. 9 (2d4 + 4) bludgeoning damage, plus 5 (2d4) bludgeoning damage if Mortlock has taken any damage since his last turn.</text>
             <attack>Greatclub|6|2d4+4</attack>
         </action>
         <action>
             <name>Heavy Crossbow</name>
-            <text>Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. 7 (1d10 + 2) piercing damage.</text>
+            <text>Ranged Weapon Attack&#58; +4 to hit, range 100/400 ft., one target. 7 (1d10 + 2) piercing damage.</text>
             <attack>Heavy Crossbow|4|1d10+2</attack>
         </action>
         <description>Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock&#39;s face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 26</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 26</description>
         <environment></environment>
     </monster>
     <monster>
@@ -2941,7 +2941,7 @@
         </action>
         <action>
             <name>Claw</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 9 (2d6 + 2) slashing damage, and the target is cursed if it&#39;s a creature. The curse takes effect whenever the target takes a short or long rest, filling the target&#39;s thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one target. 9 (2d6 + 2) slashing damage, and the target is cursed if it&#39;s a creature. The curse takes effect whenever the target takes a short or long rest, filling the target&#39;s thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.</text>
             <attack>Claw|7|2d6+2</attack>
         </action>
         <action>
@@ -2950,10 +2950,10 @@
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Mahadi&#39;s innate spellcasting ability is Charisma (spell save DC 18, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:</text>
-            <text>At will: detect thoughts, disguise self, mage hand, minor illusion</text>
-            <text>3/day each: charm person, detect magic, dispel magic, hellish rebuke, invisibility, major image, speak with dead, suggestion</text>
-            <text>1/day each: banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</text>
+            <text>Mahadi&#39;s innate spellcasting ability is Charisma (spell save DC 18, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; detect thoughts, disguise self, mage hand, minor illusion</text>
+            <text>3/day each&#58; charm person, detect magic, dispel magic, hellish rebuke, invisibility, major image, speak with dead, suggestion</text>
+            <text>1/day each&#58; banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</text>
         </trait>
         <spells>detect thoughts, disguise self, mage hand, minor illusion, charm person, detect magic, dispel magic, hellish rebuke, invisibility, major image, speak with dead, suggestion, banishment, demiplane, dominate person, fly, forcecage, geas, plane shift, true seeing</spells>
         <description>Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn&#39;t believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he&#39;s privy to all manner of dealings that might otherwise escape the attention of his patron.
@@ -2961,7 +2961,7 @@
             In addition to managing the Wandering Emporium, Mahadi is also the proprietor and host of Infernal Rapture, a restaurant and spa. Since the establishment exists within a demiplane, patrons can comfortably visit it at any time, even while the caravan is on the move. As long as they can pay for services rendered, guests need not fear being trapped within, since Mahadi is very serious about maintaining the contract between host and guest. Each guest must agree to this formal arrangement prior to gaining entrance.
             Mahadi presents himself as a charismatic and gracious host. He makes each guest of Infernal Rapture feel as though they&#39;re the most important person in all the planes of existence, catering to their every whim and desire. While he is equally cordial to all guests of the Wandering Emporium, those entering his establishment fall under a special contract and therefore rank most highly in his esteem.
             Of course, guests leaving Infernal Rapture are expected to pay their bills in full prior to departure. If a guest cannot pay for whatever reason, the contract they signed on entry clearly stipulates their soul is forfeit. They&#39;re required to pay off their debt through service. All such individuals fall under the effect of a geas cast as a 9th-level spell, which cannot be willingly broken by the affected individual until their debt is paid in full. What Mahadi does with such defaulters depends on their capabilities. Some become indentured servants, working at Infernal Rapture. If they possess a talent for sales, they might eventually obtain a business to run within the Wandering Emporium.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 127</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 127</description>
         <environment></environment>
     </monster>
     
@@ -2999,12 +2999,12 @@
         </trait>
         <action>
             <name>Claws</name>
-            <text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. 7 (1d4 + 5) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +8 to hit, reach 5 ft., one target. 7 (1d4 + 5) piercing damage.</text>
             <attack>Claws|8|1d4+5</attack>
         </action>
         <action>
             <name>+1 Maul</name>
-            <text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 13 (2d6 + 6) bludgeoning damage plus 9 (2d8) necrotic damage.</text>
+            <text>Melee Weapon Attack&#58; +9 to hit, reach 5 ft., one target. 13 (2d6 + 6) bludgeoning damage plus 9 (2d8) necrotic damage.</text>
             <attack>+1 Maul|9|2d6+6</attack>
         </action>
         <action>
@@ -3013,19 +3013,19 @@
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Krull is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following cleric spells prepared:</text>
-            <text>Cantrips (at will): chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy</text>
-            <text>&#183; 1st level (4 slots): cure wounds, detect evil and good, false life, inflict wounds, ray of sickness</text>
-            <text>&#183; 2nd level (3 slots): blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon</text>
-            <text>&#183; 3rd level (3 slots): animate dead, magic circle, speak with dead, spirit guardians, vampiric touch</text>
-            <text>&#183; 4th level (3 slots): banishment, blight, death ward, divination, locate creature</text>
-            <text>&#183; 5th level (2 slots): antilife shell, cloudkill, contagion, greater restoration</text>
-            <text>&#183; 6th level (1 slots): create undead, true seeing</text>
-            <text>&#183; 7th level (1 slots): divine word, regenerate</text>
+            <text>Krull is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following cleric spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy</text>
+            <text>&#183; 1st level (4 slots)&#58; cure wounds, detect evil and good, false life, inflict wounds, ray of sickness</text>
+            <text>&#183; 2nd level (3 slots)&#58; blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon</text>
+            <text>&#183; 3rd level (3 slots)&#58; animate dead, magic circle, speak with dead, spirit guardians, vampiric touch</text>
+            <text>&#183; 4th level (3 slots)&#58; banishment, blight, death ward, divination, locate creature</text>
+            <text>&#183; 5th level (2 slots)&#58; antilife shell, cloudkill, contagion, greater restoration</text>
+            <text>&#183; 6th level (1 slots)&#58; create undead, true seeing</text>
+            <text>&#183; 7th level (1 slots)&#58; divine word, regenerate</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1, 1</slots>
         <spells>chill touch, mending, resistance, sacred flame, spare the dying, thaumaturgy, cure wounds, detect evil and good, false life, inflict wounds, ray of sickness, blindness/deafness, gentle repose, hold person, ray of enfeeblement, spiritual weapon, animate dead, magic circle, speak with dead, spirit guardians, vampiric touch, banishment, blight, death ward, divination, locate creature, antilife shell, cloudkill, contagion, greater restoration, create undead, true seeing, divine word, regenerate</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 110</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 110</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3066,12 +3066,12 @@
         </action>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +18 to hit, reach 5 ft., one creature. 13 (1d6 + 10) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +18 to hit, reach 5 ft., one creature. 13 (1d6 + 10) piercing damage.</text>
             <attack>Bite|18|1d6+10</attack>
         </action>
         <action>
             <name>Matalotok (Warhammer)</name>
-            <text>Melee Weapon Attack: +18 to hit, reach 10 ft., one target. 19 (2d8 + 10) bludgeoning damage, or 21 (2d10 + 10) bludgeoning damage when used with two hands, and the weapon emits a burst of cold that deals 10 (3d6) cold damage to each creature within 30 feet of it.</text>
+            <text>Melee Weapon Attack&#58; +18 to hit, reach 10 ft., one target. 19 (2d8 + 10) bludgeoning damage, or 21 (2d10 + 10) bludgeoning damage when used with two hands, and the weapon emits a burst of cold that deals 10 (3d6) cold damage to each creature within 30 feet of it.</text>
             <attack>Matalotok (Warhammer)|18|2d8+10</attack>
         </action>
         <legendary>
@@ -3091,14 +3091,14 @@
         </legendary>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Kostchtchie&#39;s innate spellcasting ability is Charisma (spell save DC 20). He can innately cast the following spells, requiring no material components:</text>
-            <text>At will: command, darkness</text>
-            <text>1/day each: dispel evil and good, gate, harm, telekinesis, teleport, wind walk</text>
+            <text>Kostchtchie&#39;s innate spellcasting ability is Charisma (spell save DC 20). He can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; command, darkness</text>
+            <text>1/day each&#58; dispel evil and good, gate, harm, telekinesis, teleport, wind walk</text>
         </trait>
         <spells>command, darkness, dispel evil and good, gate, harm, telekinesis, teleport, wind walk</spells>
         <description>The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.
             Frost giants who forsake their gods and turn to demon worship can summon Kostchtchie with bloody offerings left on altars of hewn ice. If the demon lord chooses to answer the giants&#39; call, he hunts and fights alongside them for a time, infecting the frost giants with savage madness and bloodlust before disappearing back to the Abyss.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 105</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 105</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3135,7 +3135,7 @@
         </action>
         <action>
             <name>Fist</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) bludgeoning damage.</text>
             <attack>Fist|7|2d6+4</attack>
         </action>
         <action>
@@ -3144,7 +3144,7 @@
         </action>
         <description>Gideon Lightward was a priest of Lathander who served Elturel and his deity proudly. Zariel saw that his fervor could be an asset to her, so she sent devils to corrupt him in the months leading up to the fall of Elturel. The devils posed as angels, offering Gideon increased power if he would dedicate himself to fighting the ever-present threat of demons.
             Gideon slowly gave up his sanity and free will to the devils, leaving him corrupted by Zariel and fully serving her in the months leading up to Elturel&#39;s fall. He died during the destruction wrought as the city was drawn to Avernus, but the priest rose as an undead creature. Even as an undead, Gideon remains his mistress&#39;s most loyal servant in Elturel. He sees his cause as a noble one—fighting the demons whose chaos marks the end of all things. But his mind is broken and filled with hatred for those who refuse to follow his commands.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 65</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 65</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3185,12 +3185,12 @@
         </action>
         <action>
             <name>Eldritch Blast (Cantrip)</name>
-            <text>Ranged Spell Attack: +6 to hit, range 120 ft., one creature. 9 (1d10 + 4) force damage.</text>
+            <text>Ranged Spell Attack&#58; +6 to hit, range 120 ft., one creature. 9 (1d10 + 4) force damage.</text>
             <attack>Eldritch Blast (Cantrip)|6|1d10+4</attack>
         </action>
         <action>
             <name>Unarmed Strike</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4 bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 4 bludgeoning damage.</text>
         </action>
         <reaction>
             <name>Hellish Rebuke (1st-Level Spell; 2/Day)</name>
@@ -3199,7 +3199,7 @@
         <description>Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city&#39;s ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
             Years of political dealing, blame shuffling, and bribery paid off when Thalamra was elected to the Council of Four. Although she has served on the council for the shortest amount of time, Duke Vanthampur is easily the most politically savvy council member. She speaks little during meetings of the council, preferring to further her political agenda through meetings in her private offices and at her family estate. When she does choose to debate, she speaks with a strength beyond what it seems like her age should allow, and is known for leveling insults that land unsettlingly close to (supposedly) hidden truths.
             Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late sixties who can stare down a hell hound without flinching. She is barrel-bodied, with strong hands and forearms that speak to her beginnings as a manual laborer. Her youth was spent in the cellars and sewers of Baldur&#39;s Gate, repairing pipes and clearing out the city&#39;s filth. Thalamra rose from such lowly work to become the minister of the city&#39;s sewers and waterworks. Now she dresses in the finery that suits her station as a duke of Baldur&#39;s Gate.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 38</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 38</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3240,11 +3240,11 @@
         </trait>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. 4 (1d8) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one creature. 4 (1d8) piercing damage.</text>
             <attack>Bite|2|1d8</attack>
         </action>
         <description>Bone whelks are large mollusks that excrete an adhesive to attach skulls, bones, and other detritus to their bodies for protection.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 119</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 119</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3289,16 +3289,16 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>Bel makes three attacks: two with his greatsword and one with his tail.</text>
+            <text>Bel makes three attacks&#58; two with his greatsword and one with his tail.</text>
         </action>
         <action>
             <name>Greatsword</name>
-            <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 23 (4d6 + 9) slashing damage plus 21 (6d6) fire damage. If the target is a flammable object that is not being held or worn, it catches fire.</text>
+            <text>Melee Weapon Attack&#58; +16 to hit, reach 10 ft., one target. 23 (4d6 + 9) slashing damage plus 21 (6d6) fire damage. If the target is a flammable object that is not being held or worn, it catches fire.</text>
             <attack>Greatsword|16|4d6+9</attack>
         </action>
         <action>
             <name>Tail</name>
-            <text>Melee Weapon Attack: +16 to hit, reach 10 ft., one target. 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or be stunned until the end of its next turn.</text>
+            <text>Melee Weapon Attack&#58; +16 to hit, reach 10 ft., one target. 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or be stunned until the end of its next turn.</text>
             <attack>Tail|16|3d10+9</attack>
         </action>
         <legendary>
@@ -3318,15 +3318,15 @@
         </legendary>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Bel&#39;s spellcasting ability is Charisma (spell save DC 23). Bel can innately cast the following spells, requiring no material components:</text>
-            <text>At will: detect magic, fireball</text>
-            <text>3/day each: dispel magic, hold monster, mirror image, mislead, raise dead, teleport, wall of fire</text>
-            <text>1/day each: imprisonment, meteor swarm</text>
+            <text>Bel&#39;s spellcasting ability is Charisma (spell save DC 23). Bel can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; detect magic, fireball</text>
+            <text>3/day each&#58; dispel magic, hold monster, mirror image, mislead, raise dead, teleport, wall of fire</text>
+            <text>1/day each&#58; imprisonment, meteor swarm</text>
         </trait>
         <spells>detect magic, fireball, dispel magic, hold monster, mirror image, mislead, raise dead, teleport, wall of fire, imprisonment, meteor swarm</spells>
         <description>From his bastion, Zariel&#39;s second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
             Bel outwardly plays the role of Zariel&#39;s loyal vassal. However, Bel rankles at Zariel&#39;s rulership of the layer of the Nine Hells that was once his, but he won&#39;t challenge her directly as long as he thinks Asmodeus supports Zariel.
-            Source: Baldur&#39;s Gate: Descent Into Avernus p. 115</description>
+            Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 115</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3363,24 +3363,24 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>Bitter Breath makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.</text>
+            <text>Bitter Breath makes three melee attacks&#58; two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.</text>
         </action>
         <action>
             <name>Fork</name>
-            <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 15 (2d8 + 6) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +10 to hit, reach 10 ft., one target. 15 (2d8 + 6) piercing damage.</text>
             <attack>Fork|10|2d8+6</attack>
         </action>
         <action>
             <name>Tail</name>
-            <text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time Bitter Breath hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</text>
+            <text>Melee Weapon Attack&#58; +10 to hit, reach 10 ft., one target. 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time Bitter Breath hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</text>
             <attack>Tail|10|1d8+6</attack>
         </action>
         <action>
             <name>Hurl Flame</name>
-            <text>Ranged Spell Attack: +7 to hit, range 150 ft., one target. 14 (4d6) fire damage. If the target is a flammable object that isn&#39;t being worn or carried, it also catches fire.</text>
+            <text>Ranged Spell Attack&#58; +7 to hit, range 150 ft., one target. 14 (4d6) fire damage. If the target is a flammable object that isn&#39;t being worn or carried, it also catches fire.</text>
             <attack>Hurl Flame|7|4d6</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 90</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 90</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3413,21 +3413,21 @@
         </trait>
         <action>
             <name>Multiattack</name>
-            <text>Burney can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.</text>
+            <text>Burney can use its Frightful Presence. It then makes three attacks&#58; one with its bite and two with its claws.</text>
         </action>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +15 to hit, reach 15 ft., one target. 19 (2d10 + 8) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +15 to hit, reach 15 ft., one target. 19 (2d10 + 8) piercing damage.</text>
             <attack>Bite|15|2d10+8</attack>
         </action>
         <action>
             <name>Claw</name>
-            <text>Melee Weapon Attack: +15 to hit, reach 10 ft., one target. 15 (2d6 + 8) slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +15 to hit, reach 10 ft., one target. 15 (2d6 + 8) slashing damage.</text>
             <attack>Claw|15|2d6+8</attack>
         </action>
         <action>
             <name>Tail</name>
-            <text>Melee Weapon Attack: +15 to hit, reach 20 ft., one target. 17 (2d8 + 8) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +15 to hit, reach 20 ft., one target. 17 (2d8 + 8) bludgeoning damage.</text>
             <attack>Tail|15|2d8+8</attack>
         </action>
         <action>
@@ -3462,19 +3462,19 @@
         </legendary>
         <legendary>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:</text>
+            <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects&#58;</text>
             <text>&#183; The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.</text>
             <text>&#183; The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.</text>
         </legendary>
         <legendary>
             <name>Regional Effects</name>
-            <text>The region containing a legendary copper dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects:</text>
+            <text>The region containing a legendary copper dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects&#58;</text>
             <text>&#183; Magic carvings of the dragon&#39;s smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon&#39;s lair.</text>
             <text>&#183; Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon&#39;s lair. These creatures speak well of the dragon, but can&#39;t divulge its whereabouts.</text>
             <text>&#183; Intelligent creatures within 1 mile of the dragon&#39;s lair are prone to fits of giggling. Even serious matters suddenly seem amusing.</text>
             <text>If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.</text>
         </legendary>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 129</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 129</description>
         <environment>hill</environment>
     </monster>
     <monster>
@@ -3511,15 +3511,15 @@
         </trait>
         <action>
             <name>Shortsword</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
             <attack>Shortsword|5|1d6+3</attack>
         </action>
         <action>
             <name>Shortbow</name>
-            <text>Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+            <text>Ranged Weapon Attack&#58; +5 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
             <attack>Shortbow|5|1d6+3</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 83</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 83</description>
         <environment>forest, urban</environment>
     </monster>
     <monster>
@@ -3556,15 +3556,15 @@
         </trait>
         <action>
             <name>Shortsword</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage.</text>
             <attack>Shortsword|5|1d6+3</attack>
         </action>
         <action>
             <name>Shortbow</name>
-            <text>Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
+            <text>Ranged Weapon Attack&#58; +5 to hit, range 80/320 ft., one target. 6 (1d6 + 3) piercing damage.</text>
             <attack>Shortbow|5|1d6+3</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 83</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 83</description>
         <environment>forest, urban</environment>
     </monster>
     <monster>
@@ -3601,7 +3601,7 @@
         </trait>
         <action>
             <name>Corrupting Touch</name>
-            <text>Melee Spell Attack: +4 to hit, reach 5 ft., one target. 12 (3d6 + 2) necrotic damage.</text>
+            <text>Melee Spell Attack&#58; +4 to hit, reach 5 ft., one target. 12 (3d6 + 2) necrotic damage.</text>
             <attack>Corrupting Touch|4|3d6+2</attack>
         </action>
         <action>
@@ -3612,7 +3612,7 @@
             <name>Wail (1/Day)</name>
             <text>The dryad releases a mournful wail, provided that she isn&#39;t in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage.</text>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 108</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 108</description>
         <environment>forest, coastal</environment>
     </monster>
     <monster>
@@ -3641,22 +3641,22 @@
         <senses></senses>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +5 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
             <attack>Dagger|5|1d4+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Elliach is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Elliach has the following wizard spells prepared:</text>
-            <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation</text>
-            <text>&#183; 1st level (4 slots): detect magic, mage armor, magic missile, shield</text>
-            <text>&#183; 2nd level (3 slots): misty step, suggestion</text>
-            <text>&#183; 3rd level (3 slots): counterspell, fireball, fly</text>
-            <text>&#183; 4th level (3 slots): greater invisibility, ice storm</text>
-            <text>&#183; 5th level (1 slots): cone of cold</text>
+            <text>Elliach is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Elliach has the following wizard spells prepared&#58;</text>
+            <text>Cantrips (at will)&#58; fire bolt, light, mage hand, prestidigitation</text>
+            <text>&#183; 1st level (4 slots)&#58; detect magic, mage armor, magic missile, shield</text>
+            <text>&#183; 2nd level (3 slots)&#58; misty step, suggestion</text>
+            <text>&#183; 3rd level (3 slots)&#58; counterspell, fireball, fly</text>
+            <text>&#183; 4th level (3 slots)&#58; greater invisibility, ice storm</text>
+            <text>&#183; 5th level (1 slots)&#58; cone of cold</text>
         </trait>
         <slots>4, 3, 3, 3, 1</slots>
         <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 130</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 130</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3689,28 +3689,28 @@
         </trait>
         <action>
             <name>Dagger</name>
-            <text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
+            <text>Melee or Ranged Weapon Attack&#58; +6 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.</text>
             <attack>Dagger|6|1d4+2</attack>
         </action>
         <trait>
             <name>Spellcasting</name>
-            <text>Feonor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Feonor can cast disguise self and invisibility at will and has the following wizard spells prepared:</text>
-            <text>At will: disguise self, invisibility</text>
-            <text>Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
-            <text>&#183; 1st level (4 slots): detect magic, identify, mage armor&#42;, magic missile</text>
-            <text>&#183; 2nd level (3 slots): detect thoughts, mirror image, misty step</text>
-            <text>&#183; 3rd level (3 slots): counterspell, fly, lightning bolt</text>
-            <text>&#183; 4th level (3 slots): banishment, fire shield, stoneskin&#42;</text>
-            <text>&#183; 5th level (3 slots): cone of cold, scrying, wall of force</text>
-            <text>&#183; 6th level (1 slots): globe of invulnerability</text>
-            <text>&#183; 7th level (1 slots): teleport</text>
-            <text>&#183; 8th level (1 slots): mind blank&#42;</text>
-            <text>&#183; 9th level (1 slots): time stop</text>
+            <text>Feonor is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Feonor can cast disguise self and invisibility at will and has the following wizard spells prepared&#58;</text>
+            <text>At will&#58; disguise self, invisibility</text>
+            <text>Cantrips (at will)&#58; fire bolt, light, mage hand, prestidigitation, shocking grasp</text>
+            <text>&#183; 1st level (4 slots)&#58; detect magic, identify, mage armor&#42;, magic missile</text>
+            <text>&#183; 2nd level (3 slots)&#58; detect thoughts, mirror image, misty step</text>
+            <text>&#183; 3rd level (3 slots)&#58; counterspell, fly, lightning bolt</text>
+            <text>&#183; 4th level (3 slots)&#58; banishment, fire shield, stoneskin&#42;</text>
+            <text>&#183; 5th level (3 slots)&#58; cone of cold, scrying, wall of force</text>
+            <text>&#183; 6th level (1 slots)&#58; globe of invulnerability</text>
+            <text>&#183; 7th level (1 slots)&#58; teleport</text>
+            <text>&#183; 8th level (1 slots)&#58; mind blank&#42;</text>
+            <text>&#183; 9th level (1 slots)&#58; time stop</text>
             <text>&#42;Feonor casts these spells on itself before combat.</text>
         </trait>
         <slots>4, 3, 3, 3, 3, 1, 1, 1, 1</slots>
         <spells>disguise self, invisibility, fire bolt, light, mage hand, prestidigitation, shocking grasp, detect magic, identify, mage armor, magic missile, detect thoughts, mirror image, misty step, counterspell, fly, lightning bolt, banishment, fire shield, stoneskin, cone of cold, scrying, wall of force, globe of invulnerability, teleport, mind blank, time stop</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 130</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 130</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3739,10 +3739,10 @@
         <senses></senses>
         <action>
             <name>Club</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.</text>
             <attack>Club|2|1d4</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 53</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 53</description>
         <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
     </monster>
     <monster>
@@ -3771,10 +3771,10 @@
         <senses>blindsight 30 ft.</senses>
         <action>
             <name>Bite</name>
-            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
+            <text>Melee Weapon Attack&#58; +4 to hit, reach 5 ft., one creature. 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</text>
             <attack>Bite|4|1d4+2</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 95</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 95</description>
         <environment>underdark, urban</environment>
     </monster>
     <monster>
@@ -3811,12 +3811,12 @@
         </trait>
         <action>
             <name>Tusks</name>
-            <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 3 (1d6) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +3 to hit, reach 5 ft., one target. 3 (1d6) piercing damage.</text>
             <attack>Tusks|3|1d6</attack>
         </action>
         <action>
             <name>Trumpet (3/Day)</name>
-            <text>Lulu blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by Lulu:</text>
+            <text>Lulu blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by Lulu&#58;</text>
         </action>
         <action>
             <name>Trumpet of Blasting</name>
@@ -3828,13 +3828,13 @@
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Lulu&#39;s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:</text>
-            <text>At will: light</text>
-            <text>2/day each: bless, cure wounds, protection from evil and good</text>
-            <text>1/day each: banishment, heal, raise dead, shapechange (into a golden-furred mammoth with feathered wings and a flying speed of 120 ft.), teleport (with no chance of error)</text>
+            <text>Lulu&#39;s innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; light</text>
+            <text>2/day each&#58; bless, cure wounds, protection from evil and good</text>
+            <text>1/day each&#58; banishment, heal, raise dead, shapechange (into a golden-furred mammoth with feathered wings and a flying speed of 120 ft.), teleport (with no chance of error)</text>
         </trait>
         <spells>light, bless, cure wounds, protection from evil and good, banishment, heal, raise dead, shapechange, teleport</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 5</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 5</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3868,8 +3868,8 @@
         <trait>
             <name>Night Hag Items</name>
             <text>A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.</text>
-            <text>Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.</text>
-            <text>Soul Bag: When an evil humanoid dies as a result of a night hag&#39;s Nightmare Haunting, Maggie catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</text>
+            <text>Heartstone&#58; This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.</text>
+            <text>Soul Bag&#58; When an evil humanoid dies as a result of a night hag&#39;s Nightmare Haunting, Maggie catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</text>
         </trait>
         <trait>
             <name>Hag Coven</name>
@@ -3883,7 +3883,7 @@
         </trait>
         <action>
             <name>Claws (Hag Form Only)</name>
-            <text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
+            <text>Melee Weapon Attack&#58; +7 to hit, reach 5 ft., one target. 13 (2d8 + 4) slashing damage.</text>
             <attack>Claws (Hag Form Only)|7|2d8+4</attack>
         </action>
         <action>
@@ -3900,24 +3900,24 @@
         </action>
         <trait>
             <name>Innate Spellcasting</name>
-            <text>Maggie&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</text>
-            <text>At will: detect magic, magic missile</text>
-            <text>2/day each: plane shift (self only), ray of enfeeblement, sleep</text>
+            <text>Maggie&#39;s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components&#58;</text>
+            <text>At will&#58; detect magic, magic missile</text>
+            <text>2/day each&#58; plane shift (self only), ray of enfeeblement, sleep</text>
         </trait>
         <trait>
             <name>Shared Spellcasting (Coven Only)</name>
-            <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves:</text>
-            <text>&#183; 1st level (4 slots): identify, ray of sickness</text>
-            <text>&#183; 2nd level (3 slots): hold person, locate object</text>
-            <text>&#183; 3rd level (3 slots): bestow curse, counterspell, lightning bolt</text>
-            <text>&#183; 4th level (3 slots): phantasmal killer, polymorph</text>
-            <text>&#183; 5th level (2 slots): contact other plane, scrying</text>
-            <text>&#183; 6th level (1 slots): eyebite</text>
+            <text>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard&#39;s spell list but must share the spell slots among themselves&#58;</text>
+            <text>&#183; 1st level (4 slots)&#58; identify, ray of sickness</text>
+            <text>&#183; 2nd level (3 slots)&#58; hold person, locate object</text>
+            <text>&#183; 3rd level (3 slots)&#58; bestow curse, counterspell, lightning bolt</text>
+            <text>&#183; 4th level (3 slots)&#58; phantasmal killer, polymorph</text>
+            <text>&#183; 5th level (2 slots)&#58; contact other plane, scrying</text>
+            <text>&#183; 6th level (1 slots)&#58; eyebite</text>
             <text>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + Maggie&#39;s Intelligence modifier, and the spell attack bonus is 4 + Maggie&#39;s Intelligence modifier.</text>
         </trait>
         <slots>4, 3, 3, 3, 2, 1</slots>
         <spells>detect magic, magic missile, plane shift, ray of enfeeblement, sleep, identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 74</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 74</description>
         <environment></environment>
     </monster>
     <monster>
@@ -3954,10 +3954,10 @@
         </trait>
         <action>
             <name>Beak</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 5 ft., one target. 2 (1d4) piercing damage.</text>
             <attack>Beak|2|1d4</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 195</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 195</description>
         <environment>grassland, hill, desert</environment>
     </monster>
     <monster>
@@ -3998,7 +3998,7 @@
         </action>
         <action>
             <name>Chain</name>
-            <text>Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if Kovik isn&#39;t already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.</text>
+            <text>Melee Weapon Attack&#58; +8 to hit, reach 10 ft., one target. 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if Kovik isn&#39;t already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.</text>
             <attack>Chain|8|2d6+4</attack>
         </action>
         <action>
@@ -4010,7 +4010,7 @@
             <name>Unnerving Mask</name>
             <text>When a creature Kovik can see starts its turn within 30 feet of Kovik, Kovik can create the illusion that it looks like one of the creature&#39;s departed loved ones or bitter enemies. If the creature can see Kovik, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.</text>
         </reaction>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 91</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 91</description>
         <environment></environment>
     </monster>
     <monster>
@@ -4055,19 +4055,19 @@
         </action>
         <action>
             <name>Maul (Humanoid or Hybrid Form Only)</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage.</text>
             <attack>Maul (Humanoid or Hybrid Form Only)|5|2d6+3</attack>
         </action>
         <action>
             <name>Tusks (Boar or Hybrid Form Only)</name>
-            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.</text>
+            <text>Melee Weapon Attack&#58; +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.</text>
             <attack>Tusks (Boar or Hybrid Form Only)|5|2d6+3</attack>
         </action>
         <action>
-            <name>Variant: Nonhuman Lycanthropes</name>
+            <name>Variant&#58; Nonhuman Lycanthropes</name>
             <text>The statistics presented in this section assume a base creature of human. However, you can also use the statistics to represent nonhuman lycanthropes, adding verisimilitude by allowing a nonhuman lycanthrope to retain one or more of its humanoid racial traits. For example, an elf werewolf might have the Fey Ancestry trait.</text>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 87</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 87</description>
         <environment>grassland, forest, hill</environment>
     </monster>
     <monster>
@@ -4104,10 +4104,10 @@
         </trait>
         <action>
             <name>Bites</name>
-            <text>Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm&#39;s space. 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.</text>
+            <text>Melee Weapon Attack&#58; +2 to hit, reach 0 ft., one target in the swarm&#39;s space. 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.</text>
             <attack>Bites|2|2d6</attack>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 23</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 23</description>
         <environment>swamp, urban</environment>
     </monster>
     <monster>
@@ -4148,19 +4148,19 @@
         </action>
         <action>
             <name>Slam</name>
-            <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. 16 (3d6 + 6) bludgeoning damage.</text>
+            <text>Melee Weapon Attack&#58; +10 to hit, reach 5 ft., one target. 16 (3d6 + 6) bludgeoning damage.</text>
             <attack>Slam|10|3d6+6</attack>
         </action>
         <action>
             <name>Rock</name>
-            <text>Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
+            <text>Ranged Weapon Attack&#58; +10 to hit, range 60/180 ft., one target. 28 (4d10 + 6) bludgeoning damage.</text>
             <attack>Rock|10|4d10+6</attack>
         </action>
         <action>
             <name>Animate Trees (1/Day)</name>
             <text>The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can&#39;t speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.</text>
         </action>
-        <description>Source: Baldur&#39;s Gate: Descent Into Avernus p. 23</description>
+        <description>Source&#58; Baldur&#39;s Gate&#58; Descent Into Avernus p. 23</description>
         <environment>forest</environment>
     </monster>
 </compendium>
