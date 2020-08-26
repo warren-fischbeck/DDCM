@@ -347,6 +347,10 @@
     </autolevel>
   </class>
   <spell>
+	<name>Fire Bolt</name>
+    <classes>Druid (Circle of Wildfire)</classes>
+  </spell>
+  <spell>
     <name>Locate Animals or Plants&#42;</name>
     <classes>Druid (Circle of Wildfire)</classes>
   </spell>
