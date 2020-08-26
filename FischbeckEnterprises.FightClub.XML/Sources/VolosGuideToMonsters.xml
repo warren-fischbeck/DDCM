@@ -837,16 +837,18 @@
         </trait>
         <trait>
             <name>Spellcasting</name>
-            <text>The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared&#58;</text>
-            <text />            <text>Cantrips (at will)&#58; blade ward. dancing lights, mending, message, ray of frost</text>
-            <text />            <text>1st level {4 slots)&#58; alarm&#42;, mage armor, magic missile, shield&#42;</text>
-            <text />            <text>2nd level (3 slots)&#58; arcane lock&#42;, invisibility</text>
-            <text />            <text>3rd level (3 slots)&#58; counterspell&#42;, dispel magic&#42;, fireball</text>
-            <text />            <text>4th level (3 slots)&#58; banishment&#42;, stoneskin&#42;</text>
-            <text />            <text>5th level (2 slots)&#58; cone of cold, wall of force</text>
-            <text />            <text>6th level (1 slot)&#58; flesh to stone, globe of invulnerability&#42;</text>
-            <text />            <text>7th level (1 slot)&#58; symbol&#42; teleport</text>
-            <text />            <text>&#42;Abjuration spell of 1st level or higher</text>
+            <text>The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared&#58;
+			
+			Cantrips (at will)&#58; blade ward. dancing lights, mending, message, ray of frost
+			1st level {4 slots)&#58; alarm&#42;, mage armor, magic missile, shield&#42;
+			2nd level (3 slots)&#58; arcane lock&#42;, invisibility
+			3rd level (3 slots)&#58; counterspell&#42;, dispel magic&#42;, fireball
+			4th level (3 slots)&#58; banishment&#42;, stoneskin&#42;
+			5th level (2 slots)&#58; cone of cold, wall of force
+			6th level (1 slot)&#58; flesh to stone, globe of invulnerability&#42;
+			7th level (1 slot)&#58; symbol&#42; teleport
+			
+			&#42;Abjuration spell of 1st level or higher</text>
         </trait>
         <trait>
             <name>Arcane Ward</name>
