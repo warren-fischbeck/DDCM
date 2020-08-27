@@ -8,7 +8,7 @@
         <text>This hell-forged battle standard is made of infernal iron and fitted with a small, unopenable cage containing a quasit. The trapped quasit is incapacitated, and its cage has AC 19, 10 hit points, and immunity to all types of damage except force damage. If killed or somehow released, the quasit disappears in a cloud of smoke, and a new one appears in the cage, provided the cage is intact.</text>
         <text>While you hold the banner, your weapon attacks and those of all allied creatures within 300 feet of you count as magical for the purposes of overcoming damage immunities and resistances.</text>
         <text />
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus, p. 223</text>
     </item>
     <item>
         <name>Gauntlets of Flaming Fury</name>
@@ -17,7 +17,7 @@
         <magic>YES</magic>
         <text>While you wear both of these steel gauntlets, any non-magical weapon you grasp with either gauntlet is treated as a magic weapon. As a bonus action, you can use the gauntlets to cause magical flames to envelop one or two melee weapons in your grasp. Each flaming weapon deals an extra 1d6 fire damage on a hit. The flames last until you sheath or let go of either weapon. Once used, this property can&#39;t be used again until the next dawn.</text>
         <text />
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus, p. 223</text>
     </item>
     <item>
         <name>Fane-Eater</name>
@@ -28,7 +28,7 @@
         <text>You gain a +3 bonus to attack and damage rolls with Fane-Eater. If you attack a creature with this weapon and roll a 20 on the attack roll, the creature takes an extra 2d8 necrotic damage, and you regain a number of hit points equal to the necrotic damage taken.</text>
         <text />
         <text>Proficiency&#58; martial</text>
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus, p. 223</text>
         <dmg1>1d8</dmg1>
         <dmg2>1d10</dmg2>
         <dmgType>S</dmgType>
@@ -45,7 +45,7 @@
         <text>This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.</text>
         <text>Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it&#39;s reborn instantly as a lemure devil (described in the Monster Manual).</text>
         <text />
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus, p. 223</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus, p. 223</text>
     </item>
     <item>
         <name>Helm of Devil Command</name>
@@ -56,7 +56,7 @@
         <text>The helm has 3 charges. As an action, you can expend 1 charge to cast dominate monster (save DC 21), which affects devils only. (The spell fails and the charge is wasted if you target any creature that&#39;s not a devil.) If a devil can see you when you cast this spell on it, the devil knows you tried to charm it. The helm regains all its charges 24 hours after its last charge is expended.</text>
         <text>If you are not a devil, using the helm&#39;s dominate monster property in the Nine Hells has a 20 percent chance of attracting a narzugon, which arrives on the back of a nightmare mount in 1d4 hours. The narzugon tries to recover the helm, killing you if necessary to obtain it. If it gets the helm, the narzugon tries to deliver it to its infernal master.</text>
         <text />
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus</text>
     </item>
     <item>
         <name>Internal Puzzle Box</name>
@@ -68,7 +68,7 @@
         <text>When an object small enough to fit inside an infernal puzzle box is placed in it, the container magically seals shut around the object, and no magic can force the box open. The sealed box becomes immune to all damage as well. Every infernal puzzle box is constructed with a unique means of opening it. The trick to solving the puzzle is always mundane, never magical. Once a creature figures out the trick or sequence of steps needed to open a particular infernal puzzle box, that creature can open the box as an action, allowing access to the box&#39;s contents.</text>
         <text>A creature that spends 1 hour holding an infernal puzzle box while trying to open it can make a DC 30 Intelligence (Investigation) check. If the check succeeds, the creature figures out the trick or sequence of steps needed to open the box. If the check fails by 5 or more, the creature must make a DC 18 Wisdom saving throw, taking 42 (12d6) psychic damage on a failed save, or half as much damage on a successful one.</text>
         <text />
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus</text>
     </item>
     <item>
         <name>Infernal Tack</name>
@@ -79,7 +79,7 @@
         <text>You can use an action to call the nightmare equipped with infernal tack by clashing the spurs together or scraping them through blood. The nightmare appears at the start of your next turn, within 20 feet ofyou. It acts as your ally and takes its turn on your initiative count. It remains for 1 day, until you or it dies, or until you dismiss it as an action. If the nightmare dies, it reforms in the Nine Hells within 24 hours, after which you can summon it again.</text>
         <text>The tack doesn&#39;t conjure a nightmare from thin air&#58; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become partners in evil.</text>
         <text />
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus</text>
     </item>
     <item>
         <name>Matalotok</name>
@@ -90,7 +90,7 @@
         <text>You are immune to cold damage while holding Matalotok. Whenever it deals damage to a creature, the hammer radiates a burst of intense cold in a 30-foot-radius sphere. Each creature in that area takes 10 (3d6) cold damage.</text>
         <text />
         <text>Proficiency&#58; martial, warhammer</text>
-        <text>Source&#58; Baldur&#39;s Gate &#45; Descent into Avernus</text>
+        <text>Source&#58; Baldur&#39;s Gate &#42; Descent into Avernus</text>
         <dmg1>1d8</dmg1>
         <dmg2>1d10</dmg2>
         <dmgType>B</dmgType>
@@ -119,7 +119,7 @@
             &#183; The shield has an Intelligence of 22, a Wisdom of 18, and a Charisma of 24, as well as hearing and truesight out to a range of 120 feet.
             &#183; The shield can speak, read, and understand Common and Infernal, and it can communicate telepathically with any creature it can sense within 120 feet of it. Its voice is a deep, hollow whisper.
             &#183; The shield has 3 charges. You can use an action to expend 1 charge to cast fireball or 2 charges to cast wall offire from the shield (save DC 21 for each). The wall of fire spell lasts for 1 minute (no concentration required). The shield regains all expended charges daily at dawn.
-            Anytime during your turn, the shield can choose to radiate an aura of dread for 1 minute. (This is not a power of the shield that you control.) Any creature hostile to you that starts its turn within 20 feet of the shield must make a DC 18 Wisdom saving throw. On a failed save, the creature is frightened until the start of its next turn. On a successful save, the creature is im&#45; mune to this power of the shield for the next 24 hours. Once the shield uses this power, it can&#39;t use it again until the next dawn.</text>
+            Anytime during your turn, the shield can choose to radiate an aura of dread for 1 minute. (This is not a power of the shield that you control.) Any creature hostile to you that starts its turn within 20 feet of the shield must make a DC 18 Wisdom saving throw. On a failed save, the creature is frightened until the start of its next turn. On a successful save, the creature is im&#42; mune to this power of the shield for the next 24 hours. Once the shield uses this power, it can&#39;t use it again until the next dawn.</text>
         <text>Gargauth&#39;s Personality. Gargauth desperately seeks freedom but can&#39;t escape on its own. The pit fiend won&#39;t reveal its true nature, referring to itself only as the Hidden Lord. It drops hints and subtle suggestions that it is an angel trapped in an unholy prison. If released from the shield, the pit fiend honors the terms of whatever bargain it struck to facilitate its escape.
             While trapped in the shield, Gargauth carefully steers the shield&#39;s current owner toward committing acts of cruelty and domination, hoping to condemn the individual&#39;s soul to the Nine Hells. Conflict occurs if the shield&#39;s owner does anything that would make it more difficult for Gargauth to escape its prison, such as leaving the shield in a place where others are unlikely to find it.
             Gargauth doesn&#39;t know how to escape from the shield. The pit fiend believes (incorrectly) that it can break free of the shield if it&#39;s brought to the Nine Hells, for it&#39;s convinced that the shield&#39;s powers are weaker there.</text>
@@ -133,14 +133,14 @@
         <type>W</type>
         <detail>uncommon</detail>
         <magic>YES</magic>
-        <text>Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one&#45; third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while an&#45; other might be the victim of a night hag&#39;s curse.</text>
+        <text>Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one&#42; third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while an&#42; other might be the victim of a night hag&#39;s curse.</text>
         <text>Carrying Soul Coins. To hold a soul coin is to feel the soul bound within it overcome with rage or fraught with despair.</text>
         <text>An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A non-evil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.</text>
         <text>Using a Soul Coin. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following&#58;
             &#183; Drain Life. You siphon away some of the soul&#39;s essence and gain 1dlO temporary hit points.
             &#183; Query. You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows on ly what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.</text>
         <text>Freeing a Soul. Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin&#39;s charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM&#39;s choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.</text>
-        <text>A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage ex&#45; cept that which is dealt by a hellfire weapon (page 223) or an infernal war machine&#39;s furnace (page 217).
+        <text>A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage ex&#42; cept that which is dealt by a hellfire weapon (page 223) or an infernal war machine&#39;s furnace (page 217).
             Freeing a soul from a soul coin is considered a good act, even if the soul belongs to an evil creature.
             Hellish Currency. Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling. and reward the faithful for services rendered.</text>
         <text>Soul coins are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.</text>
@@ -152,7 +152,7 @@
         <type>M</type>
 		<magic>1</magic>
         <detail>artifact (requires attunement by a creature the sword deems worthy)</detail>
-        <text>This longsword belonged to the angel Zariel before her fall from grace. Fashioned from celestial steel, it gives off a faint glow and hum. The weapon chooses who can attune to it and who can&#39;t. It desires a wielder who em&#45; bodies bravery and heroism.</text>
+        <text>This longsword belonged to the angel Zariel before her fall from grace. Fashioned from celestial steel, it gives off a faint glow and hum. The weapon chooses who can attune to it and who can&#39;t. It desires a wielder who em&#42; bodies bravery and heroism.</text>
         <text>Attunement. The sword allows you to attune to it immediately, without having to take a short rest. The first time you attune to the sword, you are transformed into a heavenly, idealized version of yourself, blessed with otherworldly beauty and a touch of heaven in your heart. Neither magic nor divine intervention can reverse this transformation. Your alignment becomes lawful good, and you gain the following traits&#58;
             &#183; Angelic Language. You can speak, read. and write Celestial.
             &#183; Celestial Resistance. You have resistance to necrotic and radiant damage.
@@ -175,7 +175,7 @@
             
             d6 Ideal
             1 Charity. I always help those in need. (Good)
-            2 Faith. I choose to follow the tenets of a particular law&#45; ful good deity to the letter. (Lawful)
+            2 Faith. I choose to follow the tenets of a particular law&#42; ful good deity to the letter. (Lawful)
             3 Responsibility. It is the duty ofthe strong to protect the weak. (Lawful)
             4 Respect. All people deserve to be treated with dignity. (Good)
             5 Honor. The way I conduct myself determines my reward in the afterlife. (Lawful)
@@ -209,7 +209,7 @@
         <text>Sentience. The Sword of Zariel is a sentient, lawful good item with an Intelligence of 10, a Wisdom of 20, and a Charisma of 18. It has hearing and normal vision out to a range of 30 feet.
             The sword communicates by transmitting emotion to the creature carrying or wielding it.</text>
         <text />
-        <text>Truth Seer. While holding the sword, you gain advan&#45; tage on all Wisdom (Insight) checks.</text>
+        <text>Truth Seer. While holding the sword, you gain advan&#42; tage on all Wisdom (Insight) checks.</text>
         <text />
         <text>Destroying the Sword. Zariel can destroy the sword simply by grasping it. She couldn&#39;t bring herself to do so when she was an angel, but as an archdevil she has no compunction about ridding the multiverse of the weapon. The sword is also destroyed if it&#39;s used to shatter the Companion (see "Shattering the Companion," page 154), unless the blade is wielded by an angel of challenge rating 15 or higher, or a good-aligned cleric or paladin of at least 10th level.
             If Zariel is killed for good (that is, if she dies in the Nine Hells), the sword becomes no harder to destroy than a normal longsword.</text>
@@ -2248,7 +2248,7 @@
         </trait>
         <action>
             <name>Grappling Claw (Requires 1 Crew and Grants Half Cover)</name>
-            <text>Melee Weapon Attack&#58; +10 to hit, reach 15 ft., one target. Hit&#58; The tar&#45; get is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends.
+            <text>Melee Weapon Attack&#58; +10 to hit, reach 15 ft., one target. Hit&#58; The tar&#42; get is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends.
                 The grappling claw can grapple only one target at a time, and the claw&#39;s operator can use a bonus action to make the claw release whatever it&#39;s holding.</text>
         </action>
         <environment>underdark</environment>

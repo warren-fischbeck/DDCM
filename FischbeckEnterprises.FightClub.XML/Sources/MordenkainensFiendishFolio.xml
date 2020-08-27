@@ -449,7 +449,7 @@
         </trait>
         <action>
             <name>Club</name>
-            <text>Melee weapon attack&#58; +-1 to hit, reach 5 ft., one target. 1 (1d4 &#45; 3) bludgeoning damage.</text>
+            <text>Melee weapon attack&#58; +-1 to hit, reach 5 ft., one target. 1 (1d4 &#42; 3) bludgeoning damage.</text>
             <attack>Club|-1|1d4-3</attack>
         </action>
         <action>

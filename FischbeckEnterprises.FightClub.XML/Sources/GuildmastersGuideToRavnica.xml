@@ -4550,7 +4550,7 @@
     <senses>truesight 120 ft.</senses>
     <action>
       <name>Quarterstaff</name>
-      <text>Melee Weapon Attack&#58; +1 to hit, reach 5 ft., one target. 2 (1d6 &#45; 1) bludgeoning damage, or 3 (1d8 &#45; 1) bludgeoning damage if used with two hands.</text>
+      <text>Melee Weapon Attack&#58; +1 to hit, reach 5 ft., one target. 2 (1d6 &#42; 1) bludgeoning damage, or 3 (1d8 &#42; 1) bludgeoning damage if used with two hands.</text>
       <attack>Quarterstaff|1|1d6-1</attack>
     </action>
     <action>

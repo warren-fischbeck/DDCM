@@ -42,12 +42,12 @@
     <trait>
       <name>Nihileth &#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the nihileth can take a lair action to create one of the magical effects as per an aboleth, or the void absorbance action listed below. The nihileth cannot use the same effect two rounds in a row.</text>
-      <text>&#45; Void Absorbance&#58; A nihileth can pull the life force from those it has converted to nihilethic zombies to replenish its own life. This takes 18 (6d6) hit points from zombies within 30 feet of the nihileth, spread evenly between the zombies, and healing the nihileth. If a zombie reaches 0 hit points from this action, it perishes with no Undead Fortitude saving throw.</text>
+      <text>&#42; Void Absorbance&#58; A nihileth can pull the life force from those it has converted to nihilethic zombies to replenish its own life. This takes 18 (6d6) hit points from zombies within 30 feet of the nihileth, spread evenly between the zombies, and healing the nihileth. If a zombie reaches 0 hit points from this action, it perishes with no Undead Fortitude saving throw.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The regional effects of a nihileth&#39;s lair are the same as that of an aboleth, except as following.</text>
-      <text>&#45; Water sources within 1 mile of a nihileth&#39;s lair are not only supernaturally fouled but can spread the disease of the nihileth. A creature who drinks from such water must make a successful DC 14 Constitution check or become infected.</text>
+      <text>&#42; Water sources within 1 mile of a nihileth&#39;s lair are not only supernaturally fouled but can spread the disease of the nihileth. A creature who drinks from such water must make a successful DC 14 Constitution check or become infected.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -3892,16 +3892,16 @@
     <trait>
       <name>Alquam&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), Alquam takes a lair action to cause one of the following effects; Alquam can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Alquam snuffs all light sources within the lair. Spells that create light are dispelled, mundane light sources are extinguished, and magical light sources are suppressed. Even light created by artifacts is reduced to dim light with half its normal radius of illumination. This lasts until initiative count 20 on the following round.</text>
-      <text>&#45; Haunting, maddening music emanates from a point Alquam can see. Creatures within 50 feet of the origin that can hear the music must make a DC 15 Wisdom saving throw. Those that fail are charmed, incapacitated, and have their speed reduced to 0 until they take damage or until initiative count 20 on the following round.</text>
-      <text>&#45; Black tendrils writhe around up to three creatures Alquam can see within 100 feet. The creatures must succeed on a DC 15 Strength saving throw or be restrained until initiative count 20 on the following round.</text>
+      <text>&#42; Alquam snuffs all light sources within the lair. Spells that create light are dispelled, mundane light sources are extinguished, and magical light sources are suppressed. Even light created by artifacts is reduced to dim light with half its normal radius of illumination. This lasts until initiative count 20 on the following round.</text>
+      <text>&#42; Haunting, maddening music emanates from a point Alquam can see. Creatures within 50 feet of the origin that can hear the music must make a DC 15 Wisdom saving throw. Those that fail are charmed, incapacitated, and have their speed reduced to 0 until they take damage or until initiative count 20 on the following round.</text>
+      <text>&#42; Black tendrils writhe around up to three creatures Alquam can see within 100 feet. The creatures must succeed on a DC 15 Strength saving throw or be restrained until initiative count 20 on the following round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Alquam&#39;s lair is warped by the demon lord&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Within 1 mile of the lair all light sources except artifacts shed light to only half the usual radius.</text>
-      <text>&#45; Owls and other nocturnal beasts become enraged and hostile within 5 miles of the lair, attacking intruders individually and in swarms.</text>
-      <text>&#45; Within 1 mile of the lair, Alquam can cast his senses into any area of dim light or darkness as if using clairvoyance.</text>
+      <text>&#42; Within 1 mile of the lair all light sources except artifacts shed light to only half the usual radius.</text>
+      <text>&#42; Owls and other nocturnal beasts become enraged and hostile within 5 miles of the lair, attacking intruders individually and in swarms.</text>
+      <text>&#42; Within 1 mile of the lair, Alquam can cast his senses into any area of dim light or darkness as if using clairvoyance.</text>
       <text>If Alquam dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -4117,17 +4117,17 @@
     <trait>
       <name>Mechuiti&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), Mechuiti takes a lair action to cause one of the following effects. Mechuiti can&#39;t use the same effect two rounds in a row.</text>
-      <text>&#45; Mechuiti targets one creature it can see within 120 feet of it, and a fissure full of lava opens under the target&#39;s feet. The target must succeed on a DC 20 Dexterity saving throw or take 28 (8d6) fire damage.</text>
-      <text>&#45; The whole volcano trembles and shakes. Each creature on a solid surface other than a demon must succeed on a DC 20 Dexterity saving throw or be knocked prone. All ground in the volcano becomes difficult terrain for creatures other than a demon until initiative count 20 on the next round.</text>
-      <text>&#45; Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point Mechuiti can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 15 Constitution saving throw or be poisoned until the end of its next turn. While poisoned in this way, a creature is incapacitated.</text>
-      <text>&#45; The pain of all creatures other than demons within 120 feet of Mechuiti is intensified. Until initiative count 20 on the next round, every time a creature affected this way takes damage, he must succeed on a DC 15 Constitution saving throw or be stunned until the end of its next turn.</text>
+      <text>&#42; Mechuiti targets one creature it can see within 120 feet of it, and a fissure full of lava opens under the target&#39;s feet. The target must succeed on a DC 20 Dexterity saving throw or take 28 (8d6) fire damage.</text>
+      <text>&#42; The whole volcano trembles and shakes. Each creature on a solid surface other than a demon must succeed on a DC 20 Dexterity saving throw or be knocked prone. All ground in the volcano becomes difficult terrain for creatures other than a demon until initiative count 20 on the next round.</text>
+      <text>&#42; Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point Mechuiti can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 15 Constitution saving throw or be poisoned until the end of its next turn. While poisoned in this way, a creature is incapacitated.</text>
+      <text>&#42; The pain of all creatures other than demons within 120 feet of Mechuiti is intensified. Until initiative count 20 on the next round, every time a creature affected this way takes damage, he must succeed on a DC 15 Constitution saving throw or be stunned until the end of its next turn.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Mechuiti&#39;s lair is warped by its presence, which creates one or more of the following effects.</text>
-      <text>&#45; Mechuiti can make the volcano erupt at will. A cloud of hot ashes and smoke covers a 6 mile area around the volcano, and magma flows from the volcano&#39;s cone.</text>
-      <text>&#45; When intelligent creatures within 6 miles sleep, they dream with Mechuiti. Unless they make a successful DC 15 Wisdom saving throw, they are compelled to seek out and join Mechuiti&#39;s cult.</text>
-      <text>&#45; Water within 1 mile of the lair carries Mechuiti&#39;s Ichor disease. Any creature that drinks the water must make a successful DC 15 Constitution saving throw against disease or be infected. An infected creature is poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw. On a failure, its hit point maximum is reduced by 5 (2d4). The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target&#39;s hit point maximum lasts until the disease is cured.</text>
+      <text>&#42; Mechuiti can make the volcano erupt at will. A cloud of hot ashes and smoke covers a 6 mile area around the volcano, and magma flows from the volcano&#39;s cone.</text>
+      <text>&#42; When intelligent creatures within 6 miles sleep, they dream with Mechuiti. Unless they make a successful DC 15 Wisdom saving throw, they are compelled to seek out and join Mechuiti&#39;s cult.</text>
+      <text>&#42; Water within 1 mile of the lair carries Mechuiti&#39;s Ichor disease. Any creature that drinks the water must make a successful DC 15 Constitution saving throw against disease or be infected. An infected creature is poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw. On a failure, its hit point maximum is reduced by 5 (2d4). The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target&#39;s hit point maximum lasts until the disease is cured.</text>
       <text>When Mechuiti dies, all these regional effects fade immediately.</text>
     </trait>
     <action>
@@ -4226,16 +4226,16 @@
     <trait>
       <name>Qorgeth&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), Qorgeth takes a lair action to cause one of the following effects; Qorgeth can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Until initiative count 20 on the following round, Qorgeth twists space through the tunnels of its lair. Any creature other than a demon that tries to move must succeed on a DC 15 Charisma saving throw or move half its speed in a random direction before getting its bearings; it can then finish moving as it wants.</text>
-      <text>&#45; A section of ceiling in the lair collapses, raining debris onto a 20-foot-radius area. Each creature in the area must make a successful DC 15 Dexterity saving throw or take 18 (4d8) bludgeoning damage and be restrained until the end of its next turn.</text>
-      <text>&#45; Thick tangles of demonic worms erupt in the space of up to three creatures Qorgeth can see within 60 feet. Each targeted creature is attacked once by the worms (Melee Weapon Attack&#58; +7 to hit, reach 0 ft., one target; Hit&#58; 14 (4d6) piercing).</text>
+      <text>&#42; Until initiative count 20 on the following round, Qorgeth twists space through the tunnels of its lair. Any creature other than a demon that tries to move must succeed on a DC 15 Charisma saving throw or move half its speed in a random direction before getting its bearings; it can then finish moving as it wants.</text>
+      <text>&#42; A section of ceiling in the lair collapses, raining debris onto a 20-foot-radius area. Each creature in the area must make a successful DC 15 Dexterity saving throw or take 18 (4d8) bludgeoning damage and be restrained until the end of its next turn.</text>
+      <text>&#42; Thick tangles of demonic worms erupt in the space of up to three creatures Qorgeth can see within 60 feet. Each targeted creature is attacked once by the worms (Melee Weapon Attack&#58; +7 to hit, reach 0 ft., one target; Hit&#58; 14 (4d6) piercing).</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Qorgeth&#39;s lair is warped by the demon lord&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Tunnels within 5 miles of the lair attract all manner of worms and vermin, including purple worms. These creatures are ravenous and violent.</text>
-      <text>&#45; Within 1 mile of the lair, food rots and spontaneously erupts with maggots. One day worth of food carried by creatures spoils every 24 hours it remains in the area. It is impossible to forage for food in this area.</text>
-      <text>&#45; Dead bodies within 1 mile of the lair decay quickly. Any corpse is reduced to bones in 24 hours. Magic that prevents decay staves off this decomposition normally. Anointing the body with holy water prevents decomposition for one day but no longer.</text>
+      <text>&#42; Tunnels within 5 miles of the lair attract all manner of worms and vermin, including purple worms. These creatures are ravenous and violent.</text>
+      <text>&#42; Within 1 mile of the lair, food rots and spontaneously erupts with maggots. One day worth of food carried by creatures spoils every 24 hours it remains in the area. It is impossible to forage for food in this area.</text>
+      <text>&#42; Dead bodies within 1 mile of the lair decay quickly. Any corpse is reduced to bones in 24 hours. Magic that prevents decay staves off this decomposition normally. Anointing the body with holy water prevents decomposition for one day but no longer.</text>
       <text>If Qorgeth dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -4626,16 +4626,16 @@
     <trait>
       <name>Mammon&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), Mammon takes a lair action to cause one of the following effects; Mammon can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Mammon infuses a pile of treasure in his lair with life. It becomes an earth elemental made of precious metals and gems. The elemental acts immediately and lasts until destroyed or until Mammon uses this action again.</text>
-      <text>&#45; Stacked piles of treasure shift and slide, collapsing onto a creature Mammon can see. The creature is restrained until initiative count 20 on the following round, or until it or an adjacent ally uses an action to make a successful DC 18 Strength check to free it.</text>
-      <text>&#45; Mammon magically teleports from one area of treasure to another within 150 feet.</text>
+      <text>&#42; Mammon infuses a pile of treasure in his lair with life. It becomes an earth elemental made of precious metals and gems. The elemental acts immediately and lasts until destroyed or until Mammon uses this action again.</text>
+      <text>&#42; Stacked piles of treasure shift and slide, collapsing onto a creature Mammon can see. The creature is restrained until initiative count 20 on the following round, or until it or an adjacent ally uses an action to make a successful DC 18 Strength check to free it.</text>
+      <text>&#42; Mammon magically teleports from one area of treasure to another within 150 feet.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Mammon&#39;s lair is warped by the archdevil&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Treasure in the possession of creatures other than Mammon turns to worthless materials such as lead, wood, or gravel, after spending 24 hours within 1 mile of the lair. The resulting junk resumes its valuable form when Mammon claims it, or by means of a wish spell or comparable magic.</text>
-      <text>&#45; Creatures that spend more than 1 hour within 1 mile of Mammon&#39;s lair become obsessed with gaining the most generous payment or portion of wealth in any dealing unless they succeed on a DC 18 Wisdom saving throw. A creature that saves successfully is immune to this effect for 24 hours. The effect can be removed by a greater restoration spell or comparable magic.</text>
-      <text>&#45; Any naturally occurring treasure in Mammon&#39;s home plane reverts to worthless junk if removed from the plane. Similarly, any mundane item left behind transforms into something fantastically valuable, as long as it remains on the plane.</text>
+      <text>&#42; Treasure in the possession of creatures other than Mammon turns to worthless materials such as lead, wood, or gravel, after spending 24 hours within 1 mile of the lair. The resulting junk resumes its valuable form when Mammon claims it, or by means of a wish spell or comparable magic.</text>
+      <text>&#42; Creatures that spend more than 1 hour within 1 mile of Mammon&#39;s lair become obsessed with gaining the most generous payment or portion of wealth in any dealing unless they succeed on a DC 18 Wisdom saving throw. A creature that saves successfully is immune to this effect for 24 hours. The effect can be removed by a greater restoration spell or comparable magic.</text>
+      <text>&#42; Any naturally occurring treasure in Mammon&#39;s home plane reverts to worthless junk if removed from the plane. Similarly, any mundane item left behind transforms into something fantastically valuable, as long as it remains on the plane.</text>
       <text>If Mammon dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -5862,16 +5862,16 @@
     <trait>
       <name>Cave Dragon&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action for one of the following effects; the dragon can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature takes 10 (3d6) bludgeoning damage and is knocked prone and restrained (by fallen debris); damage is halved and the creature is not restrained if it makes a successful DC 15 Dexterity saving throw. The creature is freed when it or an adjacent ally uses an action to make a successful DC 15 Strength (Athletics) check.</text>
-      <text>&#45; A ten foot-wide, ten foot-long crack opens in the cavern floor where the dragon wishes. Any creature occupying that space must make a successful DC 15 Dexterity saving throw or fall 20 feet, taking 7 (2d6) bludgeoning damage plus 7 (3d4) piercing damage from the jagged stones at the bottom.</text>
-      <text>&#45; The dragon summons a swarm of insects as if it had cast insect plague, filling a 20-foot radius sphere within 90 feet of the dragon. Creatures that are in the affected space or that enter it take 22 (4d10) piercing damage, or half damage with a successful DC 18 Constitution saving throw. The swarm lasts until initiative count 20 on the next round.</text>
+      <text>&#42; The ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature takes 10 (3d6) bludgeoning damage and is knocked prone and restrained (by fallen debris); damage is halved and the creature is not restrained if it makes a successful DC 15 Dexterity saving throw. The creature is freed when it or an adjacent ally uses an action to make a successful DC 15 Strength (Athletics) check.</text>
+      <text>&#42; A ten foot-wide, ten foot-long crack opens in the cavern floor where the dragon wishes. Any creature occupying that space must make a successful DC 15 Dexterity saving throw or fall 20 feet, taking 7 (2d6) bludgeoning damage plus 7 (3d4) piercing damage from the jagged stones at the bottom.</text>
+      <text>&#42; The dragon summons a swarm of insects as if it had cast insect plague, filling a 20-foot radius sphere within 90 feet of the dragon. Creatures that are in the affected space or that enter it take 22 (4d10) piercing damage, or half damage with a successful DC 18 Constitution saving throw. The swarm lasts until initiative count 20 on the next round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing a legendary cave dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Poisonous and odorless gases suddenly fill passages and caverns, and just as quickly disperse, within six miles of the dragon&#39;s lair.</text>
-      <text>&#45; Flash flooding turns tunnels into death traps as tremors create fissures in the stone within six miles of the lair. On the surface, ponds drain away, and long-dry creek beds break their banks in flood.</text>
-      <text>&#45; Swarms of vermin within one mile of the lair increase in both size and number as they try to escape the dragon&#39;s endless and undiscriminating hunger.</text>
+      <text>&#42; Poisonous and odorless gases suddenly fill passages and caverns, and just as quickly disperse, within six miles of the dragon&#39;s lair.</text>
+      <text>&#42; Flash flooding turns tunnels into death traps as tremors create fissures in the stone within six miles of the lair. On the surface, ponds drain away, and long-dry creek beds break their banks in flood.</text>
+      <text>&#42; Swarms of vermin within one mile of the lair increase in both size and number as they try to escape the dragon&#39;s endless and undiscriminating hunger.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -6054,16 +6054,16 @@
     <trait>
       <name>Flame Dragon&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can&#39;t use the same effect two rounds in a row.</text>
-      <text>&#45; A cloud of smoke swirls in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners and the area is lightly obscured. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A blinded creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-      <text>&#45; The ground erupts with volcanic force at a point the dragon can see within 120 feet of it. Any creature within 20 feet of the point must make a successful DC 15 Dexterity saving throw or be knocked prone and trapped in the ground. A creature trapped in this way is restrained and can&#39;t stand up. A creature can end the restraint if it or another creature takes an action to make a successful DC 15 Strength check.</text>
-      <text>&#45; A wall of fire rises up from the ground within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, can take any shape the dragon wants, and blocks line of sight. When the wall appears, each creature in its area must make a DC 15 Dexterity saving throw. A creature that fails the saving throw takes 21 (6d6) fire damage. Each creature that enters the wall for the first time each turn or ends its turn there takes 21 (6d6) fire damage. The wall is extinguished when the dragon uses this lair action again or when the dragon dies.</text>
+      <text>&#42; A cloud of smoke swirls in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners and the area is lightly obscured. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A blinded creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>&#42; The ground erupts with volcanic force at a point the dragon can see within 120 feet of it. Any creature within 20 feet of the point must make a successful DC 15 Dexterity saving throw or be knocked prone and trapped in the ground. A creature trapped in this way is restrained and can&#39;t stand up. A creature can end the restraint if it or another creature takes an action to make a successful DC 15 Strength check.</text>
+      <text>&#42; A wall of fire rises up from the ground within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, can take any shape the dragon wants, and blocks line of sight. When the wall appears, each creature in its area must make a DC 15 Dexterity saving throw. A creature that fails the saving throw takes 21 (6d6) fire damage. Each creature that enters the wall for the first time each turn or ends its turn there takes 21 (6d6) fire damage. The wall is extinguished when the dragon uses this lair action again or when the dragon dies.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing a legendary flame dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Arguments and misunderstandings erupt easily within 6 miles of the lair. Friendships are easily broken and criminal acts are common.</text>
-      <text>&#45; Temperatures rise within 6 miles of the lair. Crops wither, producing famines.</text>
-      <text>&#45; Sulfur geysers form in and around the dragon&#39;s lair. Some of them erupt only once an hour, so they&#39;re spotted only with a successful DC 20 Wisdom (Perception) check. A creature on top of an erupting geyser takes 21 (6d6) fire damage, or half damage with a successful DC 15 Dexterity saving throw.</text>
+      <text>&#42; Arguments and misunderstandings erupt easily within 6 miles of the lair. Friendships are easily broken and criminal acts are common.</text>
+      <text>&#42; Temperatures rise within 6 miles of the lair. Crops wither, producing famines.</text>
+      <text>&#42; Sulfur geysers form in and around the dragon&#39;s lair. Some of them erupt only once an hour, so they&#39;re spotted only with a successful DC 20 Wisdom (Perception) check. A creature on top of an erupting geyser takes 21 (6d6) fire damage, or half damage with a successful DC 15 Dexterity saving throw.</text>
       <text>If the dragon dies, the arguments and misunderstandings disappear immediately and the temperatures go back to normal within 1d10 days. Any geysers remain where they are.</text>
     </trait>
     <action>
@@ -6529,16 +6529,16 @@
     <trait>
       <name>Sea Dragon&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action and generates one of the following effects. The dragon can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Four vortexes, each 5 feet in diameter and up to 30 feet tall, appear within the lair where the dragon wishes. Creatures occupying the space where a vortex appears or who enter the vortex for the first time on a turn must make a DC 15 Dexterity save or be restrained. As an action, a creature can free itself or another creature from a vortex by succeeding on a DC 15 Strength check. The vortexes last until the dragon uses this lair action again or until the dragon dies.</text>
-      <text>&#45; The dragon creates a wall of living coral on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area takes damage as if touching the wall and is pushed 5 feet out of the wall&#39;s space, on whichever side of the wall it wants. Touching the wall releases painful stings that deal 18 (4d8) poison damage, or half that with a successful DC 15 Constitution saving throw. Each 10-foot section of the wall has AC 5, 30 hit points, resistance to fire damage, and immunity to psychic damage. The wall lasts until the dragon uses this lair action again or until the dragon dies.</text>
-      <text>&#45; The dragon bends time around its enemies. Four creatures the dragon can see within 120 feet of it must succeed on a DC 15 Wisdom save or be affected by a slow spell. This effect last until initiative count 20 on the following round.</text>
+      <text>&#42; Four vortexes, each 5 feet in diameter and up to 30 feet tall, appear within the lair where the dragon wishes. Creatures occupying the space where a vortex appears or who enter the vortex for the first time on a turn must make a DC 15 Dexterity save or be restrained. As an action, a creature can free itself or another creature from a vortex by succeeding on a DC 15 Strength check. The vortexes last until the dragon uses this lair action again or until the dragon dies.</text>
+      <text>&#42; The dragon creates a wall of living coral on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area takes damage as if touching the wall and is pushed 5 feet out of the wall&#39;s space, on whichever side of the wall it wants. Touching the wall releases painful stings that deal 18 (4d8) poison damage, or half that with a successful DC 15 Constitution saving throw. Each 10-foot section of the wall has AC 5, 30 hit points, resistance to fire damage, and immunity to psychic damage. The wall lasts until the dragon uses this lair action again or until the dragon dies.</text>
+      <text>&#42; The dragon bends time around its enemies. Four creatures the dragon can see within 120 feet of it must succeed on a DC 15 Wisdom save or be affected by a slow spell. This effect last until initiative count 20 on the following round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing a legendary sea dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Sea life becomes richer within 6 miles of the lair. Schools of fish move into new waters, sharks become common, and whale migration paths shift to pass near the area.</text>
-      <text>&#45; Water temperatures drop sharply within 6 miles of the lair. Creatures not accustomed to cold suffer exposure to extreme cold while swimming in this water.</text>
-      <text>&#45; Storms and rough water are more common within 6 miles of the lair.</text>
+      <text>&#42; Sea life becomes richer within 6 miles of the lair. Schools of fish move into new waters, sharks become common, and whale migration paths shift to pass near the area.</text>
+      <text>&#42; Water temperatures drop sharply within 6 miles of the lair. Creatures not accustomed to cold suffer exposure to extreme cold while swimming in this water.</text>
+      <text>&#42; Storms and rough water are more common within 6 miles of the lair.</text>
       <text>If the dragon dies, conditions of the sea surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -6786,16 +6786,16 @@
     <trait>
       <name>Void Dragon&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to generate one of the following effects; the dragon can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The dragon negates natural gravity within its lair (an area affected by its gravitic breath is unaffected). Creatures drift 10 feet away from the ground over the course of a round and are restrained. Flying creatures can move at half speed, unless they have the (hover) tag or use magical flight, in which case they move normally. This effect persists until initiative count 20 on the following round.</text>
-      <text>&#45; The Void briefly overlaps the dragon&#39;s lair in a 20-foot-radius sphere of blackness punctuated by deep blue streaks and pinpoints of light. The sphere is centered on a point the dragon can see within 120 feet of the dragon. The area spreads around corners, is heavily obscured, and contains no air (creatures must hold their breath). Each creature in the sphere when it appears must make a DC 15 Constitution saving throw, taking 10 (3d6) cold damage on a failed save or half as much on a successful one. Any creature that ends its turn in the sphere takes 10 (3d6) cold damage. The sphere lasts until the dragon uses this lair action again or until the dragon dies.</text>
-      <text>&#45; The dragon rips the fabric of space, forcing two creatures it can see within 120 feet of it to suddenly exist in the same place. Space itself repels the creatures to their original positions. Each creature takes 16 (3d10) force damage and is knocked prone, or takes half as much damage and is not knocked prone with a successful DC 15 Strength saving throw.</text>
+      <text>&#42; The dragon negates natural gravity within its lair (an area affected by its gravitic breath is unaffected). Creatures drift 10 feet away from the ground over the course of a round and are restrained. Flying creatures can move at half speed, unless they have the (hover) tag or use magical flight, in which case they move normally. This effect persists until initiative count 20 on the following round.</text>
+      <text>&#42; The Void briefly overlaps the dragon&#39;s lair in a 20-foot-radius sphere of blackness punctuated by deep blue streaks and pinpoints of light. The sphere is centered on a point the dragon can see within 120 feet of the dragon. The area spreads around corners, is heavily obscured, and contains no air (creatures must hold their breath). Each creature in the sphere when it appears must make a DC 15 Constitution saving throw, taking 10 (3d6) cold damage on a failed save or half as much on a successful one. Any creature that ends its turn in the sphere takes 10 (3d6) cold damage. The sphere lasts until the dragon uses this lair action again or until the dragon dies.</text>
+      <text>&#42; The dragon rips the fabric of space, forcing two creatures it can see within 120 feet of it to suddenly exist in the same place. Space itself repels the creatures to their original positions. Each creature takes 16 (3d10) force damage and is knocked prone, or takes half as much damage and is not knocked prone with a successful DC 15 Strength saving throw.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing a legendary void dragon&#39;s lair is warped by the dragon&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Secrets have a way of coming to light within 6 miles of the lair. Clues are inadvertently discovered, slips of the tongue hint at a hidden truth, and creatures become morbidly curious for forbidden knowledge.</text>
-      <text>&#45; Light is muted within 6 miles of the lair. Nonmagical illumination, including sunlight, can&#39;t create bright light in this area.</text>
-      <text>&#45; Visitations from otherworldly beings occur and disembodied voices whisper in the night within 6 miles of the dragon&#39;s lair. Celestials, fey, and fiends of CR 2 or lower can slip into the world in this area.</text>
+      <text>&#42; Secrets have a way of coming to light within 6 miles of the lair. Clues are inadvertently discovered, slips of the tongue hint at a hidden truth, and creatures become morbidly curious for forbidden knowledge.</text>
+      <text>&#42; Light is muted within 6 miles of the lair. Nonmagical illumination, including sunlight, can&#39;t create bright light in this area.</text>
+      <text>&#42; Visitations from otherworldly beings occur and disembodied voices whisper in the night within 6 miles of the dragon&#39;s lair. Celestials, fey, and fiends of CR 2 or lower can slip into the world in this area.</text>
       <text>If the dragon dies, these effects fade over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -6929,7 +6929,7 @@
     </action>
     <action>
       <name>Stellar Flare Breath</name>
-      <text>The dragon exhales star fire in a 60&#45; foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 31 (9d6) fire damage and 31 (9d6) radiant damage on a failed save, or half as much damage on a successful one.</text>
+      <text>The dragon exhales star fire in a 60&#42; foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 31 (9d6) fire damage and 31 (9d6) radiant damage on a failed save, or half as much damage on a successful one.</text>
     </action>
     <action>
       <name>Teleport</name>
@@ -7018,7 +7018,7 @@
     </action>
     <action>
       <name>Stellar Flare Breath</name>
-      <text>The dragon exhales star fire in a 30&#45; foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 28 (8d6) fire damage and 28 (8d6) radiant damage on a failed save, or half as much damage on a successful one.</text>
+      <text>The dragon exhales star fire in a 30&#42; foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 28 (8d6) fire damage and 28 (8d6) radiant damage on a failed save, or half as much damage on a successful one.</text>
     </action>
     <reaction>
       <name>Void Twist</name>
@@ -7128,9 +7128,9 @@
     <trait>
       <name>Wind Dragon&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the dragon takes a lair action to generate one of the following effects; the dragon can&#39;t use the same effect two rounds in a row.</text>
-      <text>&#45; Sand and dust swirls up from the floor in a 20-foot radius sphere within 120 feet of the dragon at a point the dragon can see. The sphere spreads around corners. The area inside the sphere is lightly obscured, and each creature in the sphere at the start of its turn must make a successful DC 15 Constitution saving throw or be blinded for 1 minute. A blinded creature repeats the saving throw at the start of each of its turns, ending the effect on itself with a success.</text>
-      <text>&#45; Fragments of ice and stone are torn from the lair&#39;s wall by a blast of wind and flung along a 15-foot cone. Creatures in the cone take 18 (4d8) bludgeoning damage, or half damage with a successful DC 15 Dexterity saving throw.</text>
-      <text>&#45; A torrent of wind blasts outward from the dragon in a 60-foot radius, either racing just above the floor or near the ceiling. If near the floor, it affects all creatures standing in the radius; if near the ceiling, it affects all creatures flying in the radius. Affected creatures must make a successful DC 15 Strength saving throw or be knocked prone and stunned until the end of their next turn.</text>
+      <text>&#42; Sand and dust swirls up from the floor in a 20-foot radius sphere within 120 feet of the dragon at a point the dragon can see. The sphere spreads around corners. The area inside the sphere is lightly obscured, and each creature in the sphere at the start of its turn must make a successful DC 15 Constitution saving throw or be blinded for 1 minute. A blinded creature repeats the saving throw at the start of each of its turns, ending the effect on itself with a success.</text>
+      <text>&#42; Fragments of ice and stone are torn from the lair&#39;s wall by a blast of wind and flung along a 15-foot cone. Creatures in the cone take 18 (4d8) bludgeoning damage, or half damage with a successful DC 15 Dexterity saving throw.</text>
+      <text>&#42; A torrent of wind blasts outward from the dragon in a 60-foot radius, either racing just above the floor or near the ceiling. If near the floor, it affects all creatures standing in the radius; if near the ceiling, it affects all creatures flying in the radius. Affected creatures must make a successful DC 15 Strength saving throw or be knocked prone and stunned until the end of their next turn.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -8124,7 +8124,7 @@
     </trait>
     <trait>
       <name>Tree Dependent</name>
-      <text>The dryad is mystically bonded to her duskthorn vines and must remain within 300 yards of them or become poisoned. If she remains out of range of her vines for 24 hours, she suffers 1d6 Constitution damage, and another 1d6 points of Constitution damage every day that follows &#45; eventually, this separation kills the dryad. A dryad can bond with new vines by performing a 24-hour ritual.</text>
+      <text>The dryad is mystically bonded to her duskthorn vines and must remain within 300 yards of them or become poisoned. If she remains out of range of her vines for 24 hours, she suffers 1d6 Constitution damage, and another 1d6 points of Constitution damage every day that follows &#42; eventually, this separation kills the dryad. A dryad can bond with new vines by performing a 24-hour ritual.</text>
     </trait>
     <action>
       <name>Dagger</name>
@@ -9173,12 +9173,12 @@
     <action>
       <name>Spectral Bite</name>
       <text>When a fate eater scores a critical hit against a target, it damages not only the creature but also the threads of its fate, changing the character&#39;s past or future. The target must roll 1d6 on the chart below for each critical hit that isn&#39;t negated by a successful DC 15 Charisma saving throw&#58;</text>
-      <text>1&#45; Seeing the Alternates&#58; Suffers the effects of the confusion spell for 1d4 rounds</text>
-      <text>2&#45; Untied from the Loom&#58; Character&#39;s speed is randomized for four rounds. Roll 3d20 at the start of each of the character&#39;s turns to determine his or her speed in feet that turn</text>
-      <text>3&#45; Shifting Memories&#58; Permanently loses 2 from a random skill and gains 2 in a random untrained skill</text>
-      <text>4&#45; Not So Fast&#58; Loses the use of one class ability, chosen at random</text>
-      <text>5&#45; Lost Potential&#58; Loses 1 point from one randomly chosen ability score</text>
-      <text>6&#45; Took the Lesser Path&#58; The character&#39;s current hit point total becomes his or her hit point maximum</text>
+      <text>1&#42; Seeing the Alternates&#58; Suffers the effects of the confusion spell for 1d4 rounds</text>
+      <text>2&#42; Untied from the Loom&#58; Character&#39;s speed is randomized for four rounds. Roll 3d20 at the start of each of the character&#39;s turns to determine his or her speed in feet that turn</text>
+      <text>3&#42; Shifting Memories&#58; Permanently loses 2 from a random skill and gains 2 in a random untrained skill</text>
+      <text>4&#42; Not So Fast&#58; Loses the use of one class ability, chosen at random</text>
+      <text>5&#42; Lost Potential&#58; Loses 1 point from one randomly chosen ability score</text>
+      <text>6&#42; Took the Lesser Path&#58; The character&#39;s current hit point total becomes his or her hit point maximum</text>
       <text>Effects 3-6 are permanent until the character makes a successful Charisma saving throw. The saving throw is repeated after every long rest, but the DC increases by 1 after every long rest, as the character becomes more entrenched in this new destiny. Otherwise, these new fates can be undone by nothing short of a wish spell or comparable magic.</text>
     </action>
   </monster>
@@ -9382,16 +9382,16 @@
     <trait>
       <name>Bear King&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the Bear King takes a lair action to cause one of the following effects; the Bear King can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The Bear King magically conjures up a swarm of eight giant bees (use giant wasp statistics) to defend his lair. The bees act immediately, and on initiative count 20 in subsequent rounds. The bees remain until they&#39;re killed or until the Bear King dismisses them as an action. The Bear King can use this action again, but no more than eight giant bees can be present at a time.</text>
-      <text>&#45; The Bear King targets a creature within the lair that he can see. The creature must succeed on a DC 15 Constitution saving throw or be magically transformed into a brown bear as if by a polymorph spell. At the beginning of its turn, a transformed creature repeats the saving throw. If it fails, the creature must use its action to attack one of the Bear King&#39;s foes. If it succeeds, the effect ends and the creature returns to its normal form. The effect lasts until the creature succeeds on the saving throw or until the Bear King uses this lair action again.</text>
-      <text>&#45; The Bear King causes the ground in a 20-foot radius to tremble and shake. Any creatures in the affected area must succeed on a DC 15 Strength saving throw or suffer 7 (2d6) bludgeoning damage and fall prone. The ground continues to tremble until initiative count 20 on the following round, during which time the area is difficult terrain.</text>
+      <text>&#42; The Bear King magically conjures up a swarm of eight giant bees (use giant wasp statistics) to defend his lair. The bees act immediately, and on initiative count 20 in subsequent rounds. The bees remain until they&#39;re killed or until the Bear King dismisses them as an action. The Bear King can use this action again, but no more than eight giant bees can be present at a time.</text>
+      <text>&#42; The Bear King targets a creature within the lair that he can see. The creature must succeed on a DC 15 Constitution saving throw or be magically transformed into a brown bear as if by a polymorph spell. At the beginning of its turn, a transformed creature repeats the saving throw. If it fails, the creature must use its action to attack one of the Bear King&#39;s foes. If it succeeds, the effect ends and the creature returns to its normal form. The effect lasts until the creature succeeds on the saving throw or until the Bear King uses this lair action again.</text>
+      <text>&#42; The Bear King causes the ground in a 20-foot radius to tremble and shake. Any creatures in the affected area must succeed on a DC 15 Strength saving throw or suffer 7 (2d6) bludgeoning damage and fall prone. The ground continues to tremble until initiative count 20 on the following round, during which time the area is difficult terrain.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region surrounding Gloaming Crag is warped by the Bear King&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Within 10 miles of the Bear King&#39;s lair, creatures have disadvantage on saving throws made to avoid contracting lycanthropy from a werebear.</text>
-      <text>&#45; Bees within 10 miles of the Bear King&#39;s lair are easily agitated quick to attack. Insect swarms (bees or hornets) are common in the area, but they tend to ignore locals.</text>
-      <text>&#45; Emotions within 5 miles of the Bear King&#39;s lair run high. Arguments quickly descend into physical scuffles and enjoyable get-togethers are likely to become raucous carousing or even brawls.</text>
+      <text>&#42; Within 10 miles of the Bear King&#39;s lair, creatures have disadvantage on saving throws made to avoid contracting lycanthropy from a werebear.</text>
+      <text>&#42; Bees within 10 miles of the Bear King&#39;s lair are easily agitated quick to attack. Insect swarms (bees or hornets) are common in the area, but they tend to ignore locals.</text>
+      <text>&#42; Emotions within 5 miles of the Bear King&#39;s lair run high. Arguments quickly descend into physical scuffles and enjoyable get-togethers are likely to become raucous carousing or even brawls.</text>
       <text>If the Bear King dies, conditions in the area surrounding the lair return to normal over the course of 1d6 days.</text>
     </trait>
 
@@ -9483,16 +9483,16 @@
     <trait>
       <name>Lord of the Hunt&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the Lord of the Hunt takes a lair action to cause one of the following effects; the Lord of the Hunt can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The Lord of the Hunt chooses a point he can see within the lair. Plants erupt from the ground in a 20-foot radius surrounding that point, creating difficult terrain. Any creatures in the area at the start of their turn, or who enter the area for the first time on a turn, must make a successful DC 15 Dexterity saving throw or become restrained by the vines and take 13 (3d8) poison damage. A creature can be freed if it or an adjacent ally uses an action to make a successful DC 15 Strength check. This effect lasts until the Lord of the Hunt uses this lair action again, or dies.</text>
-      <text>&#45; The Lord of the Hunt lets out a war cry. A creature the Lord can see within 120 feet must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A frightened creature repeats the saving throw at the end of its turn, ending the effect on itself on a success.</text>
-      <text>&#45; The Lord of the Hunt magically marks a target he can see within 120 feet. The Lord has advantage on attack rolls against the marked target. The mark lasts until initiative count 20 on the following turn.</text>
+      <text>&#42; The Lord of the Hunt chooses a point he can see within the lair. Plants erupt from the ground in a 20-foot radius surrounding that point, creating difficult terrain. Any creatures in the area at the start of their turn, or who enter the area for the first time on a turn, must make a successful DC 15 Dexterity saving throw or become restrained by the vines and take 13 (3d8) poison damage. A creature can be freed if it or an adjacent ally uses an action to make a successful DC 15 Strength check. This effect lasts until the Lord of the Hunt uses this lair action again, or dies.</text>
+      <text>&#42; The Lord of the Hunt lets out a war cry. A creature the Lord can see within 120 feet must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A frightened creature repeats the saving throw at the end of its turn, ending the effect on itself on a success.</text>
+      <text>&#42; The Lord of the Hunt magically marks a target he can see within 120 feet. The Lord has advantage on attack rolls against the marked target. The mark lasts until initiative count 20 on the following turn.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Lord of the Hunt&#39;s encampment is warped by his magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Game animals become plentiful within 3 miles of the lair. Wisdom (Survival) checks to hunt for food are made with advantage, but patrols from the Wild Hunt don&#39;t take kindly to poachers.</text>
-      <text>&#45; Domesticated animals within 3 miles of the lair become skittish and fearful. They are more difficult to handle and flee the area if left to their own devices.</text>
-      <text>&#45; Areas of natural terrain within 3 miles of the lair subtly rearrange themselves to create game trails through even the densest wilderness.</text>
+      <text>&#42; Game animals become plentiful within 3 miles of the lair. Wisdom (Survival) checks to hunt for food are made with advantage, but patrols from the Wild Hunt don&#39;t take kindly to poachers.</text>
+      <text>&#42; Domesticated animals within 3 miles of the lair become skittish and fearful. They are more difficult to handle and flee the area if left to their own devices.</text>
+      <text>&#42; Areas of natural terrain within 3 miles of the lair subtly rearrange themselves to create game trails through even the densest wilderness.</text>
       <text>When the Lord of the Hunt breaks camp or dies, the area around the previous campsite returns to normal immediately.</text>
     </trait>
     <action>
@@ -9576,16 +9576,16 @@
     <trait>
       <name>Moonlit King&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the Moonlit King takes a lair action to cause one of the following effects; the Moonlit King can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The Moonlit King creates four beams of moonlight at four points he can see within 100 feet. The beams each illuminate a 10-foot radius with dim light. These moon beams last until the Moonlit King uses this action again, or until he dies.</text>
-      <text>&#45; The Moonlit King chooses a point he can see within 100 feet. Disembodied whispers speaking of despair and failure fill a 30-foot radius from that point. All creatures other than fiends in the area must succeed on a DC 15 Wisdom saving throw or become frightened until initiative count 20 on the following round.</text>
-      <text>&#45; The Moonlit King magically summons four shadow demons. The demons appear in unoccupied spaces the Moonlit King can see within 60 feet. The demons act immediately and remain until initiative count 20 on the following round.</text>
+      <text>&#42; The Moonlit King creates four beams of moonlight at four points he can see within 100 feet. The beams each illuminate a 10-foot radius with dim light. These moon beams last until the Moonlit King uses this action again, or until he dies.</text>
+      <text>&#42; The Moonlit King chooses a point he can see within 100 feet. Disembodied whispers speaking of despair and failure fill a 30-foot radius from that point. All creatures other than fiends in the area must succeed on a DC 15 Wisdom saving throw or become frightened until initiative count 20 on the following round.</text>
+      <text>&#42; The Moonlit King magically summons four shadow demons. The demons appear in unoccupied spaces the Moonlit King can see within 60 feet. The demons act immediately and remain until initiative count 20 on the following round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing the Moonlit King&#39;s lair is warped by the fey lord&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Dreams and fears take on a life of their own. Minor visual and auditory hallucinations plague creatures within 6 miles of the lair.</text>
-      <text>&#45; The Moonlit King can communicate telepathically with and share the senses of any stryx within 10 miles of his lair.</text>
-      <text>&#45; Weather conditions don&#39;t inhibit moonlight shining within 10 miles of the lair; clouds part, rain seems to channel moonbeams, snow takes on a luminous silver glow.</text>
+      <text>&#42; Dreams and fears take on a life of their own. Minor visual and auditory hallucinations plague creatures within 6 miles of the lair.</text>
+      <text>&#42; The Moonlit King can communicate telepathically with and share the senses of any stryx within 10 miles of his lair.</text>
+      <text>&#42; Weather conditions don&#39;t inhibit moonlight shining within 10 miles of the lair; clouds part, rain seems to channel moonbeams, snow takes on a luminous silver glow.</text>
       <text>If the Moonlit King dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -9684,16 +9684,16 @@
     <trait>
       <name>The Queen of Night and Magic&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the Queen of Night and Magic takes a lair action to cause one of the following effects; the Queen of Night and Magic can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The Queen wills darkness to overpower the light. All bright light sources in the lair shed only dim light to their normal bright light radius, and dim light sources are extinguished. This lasts until the Queen dismisses the effect or dies.</text>
-      <text>&#45; An opaque wall of writhing shadows springs up from a solid surface within 120 feet of the Queen. The wall is up to 60 feet long, 10 feet high, and 5 feet thick. Each creature in the area must make a successful DC 15 Dexterity saving throw or take 18 (4d8) necrotic damage. Creatures in the wall&#39;s space are pushed 5 feet out of the wall&#39;s space, appearing on whichever side of the wall they choose. A creature can move through the wall, but the semimaterial shadow resists intrusion. For every foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, any creature that, during its own turn, occupies any part of the wall&#39;s space takes 18 (4d8) necrotic damage, or half damage with a successful DC 15 Constitution saving throw. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to radiant damage, resistance to bludgeoning and piercing damage, and immunity to cold, poison, and psychic damage. The wall lasts until the Queen uses this lair action again, or until she dies.</text>
-      <text>&#45; The Queen targets one creature within 60 feet of her and assails its mind with visions of hopelessness and despair. The creature must succeed on a DC 15 Wisdom saving throw or be stunned until initiative count 20 on the next round.</text>
+      <text>&#42; The Queen wills darkness to overpower the light. All bright light sources in the lair shed only dim light to their normal bright light radius, and dim light sources are extinguished. This lasts until the Queen dismisses the effect or dies.</text>
+      <text>&#42; An opaque wall of writhing shadows springs up from a solid surface within 120 feet of the Queen. The wall is up to 60 feet long, 10 feet high, and 5 feet thick. Each creature in the area must make a successful DC 15 Dexterity saving throw or take 18 (4d8) necrotic damage. Creatures in the wall&#39;s space are pushed 5 feet out of the wall&#39;s space, appearing on whichever side of the wall they choose. A creature can move through the wall, but the semimaterial shadow resists intrusion. For every foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, any creature that, during its own turn, occupies any part of the wall&#39;s space takes 18 (4d8) necrotic damage, or half damage with a successful DC 15 Constitution saving throw. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to radiant damage, resistance to bludgeoning and piercing damage, and immunity to cold, poison, and psychic damage. The wall lasts until the Queen uses this lair action again, or until she dies.</text>
+      <text>&#42; The Queen targets one creature within 60 feet of her and assails its mind with visions of hopelessness and despair. The creature must succeed on a DC 15 Wisdom saving throw or be stunned until initiative count 20 on the next round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing the Queen of Night and Magic&#39;s lair is warped by her magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Shadows come to life within 6 miles of the Queen&#39;s lair. Most of the time these living shadows are unnerving and nothing more, but when a creature acts against the interests of the Queen, the shadows can interfere and cause any relevant die roll to be made with disadvantage.</text>
-      <text>&#45; Magic saturates the area within 6 miles of the lair, causing minor random effects similar to a prestidigitation cantrip.</text>
-      <text>&#45; The Queen of Night and Magic can cast her senses to any area containing darkness, dim light, or shadows within 6 miles of her lair, similar to a clairvoyance spell.</text>
+      <text>&#42; Shadows come to life within 6 miles of the Queen&#39;s lair. Most of the time these living shadows are unnerving and nothing more, but when a creature acts against the interests of the Queen, the shadows can interfere and cause any relevant die roll to be made with disadvantage.</text>
+      <text>&#42; Magic saturates the area within 6 miles of the lair, causing minor random effects similar to a prestidigitation cantrip.</text>
+      <text>&#42; The Queen of Night and Magic can cast her senses to any area containing darkness, dim light, or shadows within 6 miles of her lair, similar to a clairvoyance spell.</text>
       <text>While the Summer Court rules, the regional effects of the Queen&#39;s lair extend into the Winter Palace, but they are diminished and weaker than normal. During the Winter Court&#39;s reign, the Winter Palace is not subject to the regional effects. If the Queen of Night and Magic dies, conditions in the area surrounding the lair gradually return to normal over the course of 2d10 days.</text>
     </trait>
     <action>
@@ -9798,16 +9798,16 @@
     <trait>
       <name>The Queen of Witches&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), Nicnevin takes a lair action to cause one of the following effects; Nicnevin can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Nicnevin causes a searing flare of moonlight to burst from a point she can see within 100 feet. All creatures Nicnevin chooses within 30 feet of that point take 13 (3d8) radiant damage, or half damage with a successful DC 15 Wisdom saving throw. Creatures not in their natural form have disadvantage on the saving throw, and if they fail, they revert to their natural form immediately (this does not affect any shape-changing effect created by Nicnevin).</text>
-      <text>&#45; A wall of softly glowing crystal springs up from a solid surface in the lair. The wall is 60 feet long, 10 feet high, 5 feet thick, blocks line of sight, and sheds dim light out to 10 feet. Creatures within the wall&#39;s area when it appears must succeed on a DC 15 Dexterity saving throw or take 14 (4d6) radiant damage. The creature is pushed out of the wall&#39;s space to whichever side it chooses. Each 5-foot section of the wall has AC 15, 10 hit points, resistance to fire, slashing, and piercing damage, immunity to poison and psychic damage, and vulnerability to thunder. The wall lasts until Nicnevin uses this action again or dies.</text>
-      <text>&#45; Until initiative count 20 on the following round, any creatures other than fey who attempt to cast a spell must succeed on a DC 15 Constitution saving throw or the spell fails and the spell slot is expended. A creature becomes aware of this effect the moment it begins casting a spell, and it can choose to take a different action instead.</text>
+      <text>&#42; Nicnevin causes a searing flare of moonlight to burst from a point she can see within 100 feet. All creatures Nicnevin chooses within 30 feet of that point take 13 (3d8) radiant damage, or half damage with a successful DC 15 Wisdom saving throw. Creatures not in their natural form have disadvantage on the saving throw, and if they fail, they revert to their natural form immediately (this does not affect any shape-changing effect created by Nicnevin).</text>
+      <text>&#42; A wall of softly glowing crystal springs up from a solid surface in the lair. The wall is 60 feet long, 10 feet high, 5 feet thick, blocks line of sight, and sheds dim light out to 10 feet. Creatures within the wall&#39;s area when it appears must succeed on a DC 15 Dexterity saving throw or take 14 (4d6) radiant damage. The creature is pushed out of the wall&#39;s space to whichever side it chooses. Each 5-foot section of the wall has AC 15, 10 hit points, resistance to fire, slashing, and piercing damage, immunity to poison and psychic damage, and vulnerability to thunder. The wall lasts until Nicnevin uses this action again or dies.</text>
+      <text>&#42; Until initiative count 20 on the following round, any creatures other than fey who attempt to cast a spell must succeed on a DC 15 Constitution saving throw or the spell fails and the spell slot is expended. A creature becomes aware of this effect the moment it begins casting a spell, and it can choose to take a different action instead.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Nicnevin&#39;s lair is warped by the queen&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Calling Nicnevin&#39;s name under the light of the moon within 10 miles of her lair draws Nicnevin&#39;s attention (as if she cast a scrying spell). She may visit the supplicant and hear a request, especially if the request is repeated on multiple nights. For 24 hours after the invocation, Nicenvin has a connection to the area that allows her to target it with teleportation circle.</text>
-      <text>&#45; Despite the weather, the moon is always visible for most of the night within 10 miles of the lair. Cloud cover has many breaks, or the moon&#39;s light sharply penetrates the clouds.</text>
-      <text>&#45; Silvery fog is common within 10 miles of the lair, and strange whispers are heard within the mist.</text>
+      <text>&#42; Calling Nicnevin&#39;s name under the light of the moon within 10 miles of her lair draws Nicnevin&#39;s attention (as if she cast a scrying spell). She may visit the supplicant and hear a request, especially if the request is repeated on multiple nights. For 24 hours after the invocation, Nicenvin has a connection to the area that allows her to target it with teleportation circle.</text>
+      <text>&#42; Despite the weather, the moon is always visible for most of the night within 10 miles of the lair. Cloud cover has many breaks, or the moon&#39;s light sharply penetrates the clouds.</text>
+      <text>&#42; Silvery fog is common within 10 miles of the lair, and strange whispers are heard within the mist.</text>
       <text>If Nicnevin dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -9886,16 +9886,16 @@
     <trait>
       <name>The River King&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the River King takes a lair action to cause one of the following effects; the River King can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; The fey river swells and rushes over the land, or the walls of the Hall buckle and allow the torrent in. The River King chooses a 10-foot-wide path up to 60 feet long. Each creature in the path of the water must make a DC 15 Strength saving throw. Creatures that fail the save are swept 20 feet down the path of the water and take 9 (2d8) bludgeoning damage.</text>
-      <text>&#45; The River King targets a creature he can see within 60 feet. That creature&#39;s mouth and throat fill with river water. The creature must make a DC 15 Constitution saving throw. On a success, the creature manages to hold its breath, but on a failure, it begins to suffocate. A suffocating but conscious creature repeats the saving throw at the end of its turn, ending the effect on itself on a success. Another creature within 5 feet can use an action to make a DC 15 Wisdom (Medicine) check. On a success, the suffocating creature coughs up the water and the effect ends. Otherwise the effect lasts until the River King uses this action again or dies.</text>
-      <text>&#45; The River King targets a creature he can see within 120 feet. His commanding presence overwhelms the creature, who must make a DC 15 Charisma saving throw. On a failure, the creature is charmed by the River King until initiative count 20 on the following round.</text>
+      <text>&#42; The fey river swells and rushes over the land, or the walls of the Hall buckle and allow the torrent in. The River King chooses a 10-foot-wide path up to 60 feet long. Each creature in the path of the water must make a DC 15 Strength saving throw. Creatures that fail the save are swept 20 feet down the path of the water and take 9 (2d8) bludgeoning damage.</text>
+      <text>&#42; The River King targets a creature he can see within 60 feet. That creature&#39;s mouth and throat fill with river water. The creature must make a DC 15 Constitution saving throw. On a success, the creature manages to hold its breath, but on a failure, it begins to suffocate. A suffocating but conscious creature repeats the saving throw at the end of its turn, ending the effect on itself on a success. Another creature within 5 feet can use an action to make a DC 15 Wisdom (Medicine) check. On a success, the suffocating creature coughs up the water and the effect ends. Otherwise the effect lasts until the River King uses this action again or dies.</text>
+      <text>&#42; The River King targets a creature he can see within 120 feet. His commanding presence overwhelms the creature, who must make a DC 15 Charisma saving throw. On a failure, the creature is charmed by the River King until initiative count 20 on the following round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing the River King&#39;s lair is warped by its magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; The current of rivers and streams within 6 miles of the lair becomes strong and erratic. Creatures without a swim speed who start their turns in running water must succeed on a DC 15 Strength (Athletics) check or be swept 60 feet downriver.</text>
-      <text>&#45; Lakes, ponds, rivers, and streams within 6 miles of the lair teem with fish and other wildlife.</text>
-      <text>&#45; Rain and thunderstorms are common within 6 miles of the lair, and often build to torrential downpours that create heavy obscurement and cause waterways to overflow their banks.</text>
+      <text>&#42; The current of rivers and streams within 6 miles of the lair becomes strong and erratic. Creatures without a swim speed who start their turns in running water must succeed on a DC 15 Strength (Athletics) check or be swept 60 feet downriver.</text>
+      <text>&#42; Lakes, ponds, rivers, and streams within 6 miles of the lair teem with fish and other wildlife.</text>
+      <text>&#42; Rain and thunderstorms are common within 6 miles of the lair, and often build to torrential downpours that create heavy obscurement and cause waterways to overflow their banks.</text>
       <text>If the River King dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -9982,16 +9982,16 @@
     <trait>
       <name>The Snow Queen&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), the Snow Queen takes a lair action to cause one of the following effects; the Snow Queen can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; A wall of dense snow springs into existence within 120 feet of the Snow Queen. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in the wall&#39;s area must make a DC 15 Dexterity saving throw. A creature that fails the saving throw takes 18 (4d8) cold damage and is pushed 5 feet out of the wall&#39;s space, on whichever side of the wall it chooses. A creature that touches the wall at any time takes the same damage. Each 10-foot section of the wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to cold, poison, and psychic damage. The wall lasts until the Snow Queen uses this action again, or she dies.</text>
-      <text>&#45; Icy wind and stinging snow swirls around the Snow Queen. All creatures that aren&#39;t immune to cold damage have disadvantage when making saving throws against cold damage or cold-based effects while within 60 feet of the Snow Queen. This effect lasts until initiative count 20 on the following round.</text>
-      <text>&#45; The snow and ice of the lair shimmer and gleam, catching the light and flashing it into the eyes of the Snow Queen&#39;s foes. Attack rolls against the Snow Queen and her allies within the lair have disadvantage until initiative count 20 on the following round.</text>
+      <text>&#42; A wall of dense snow springs into existence within 120 feet of the Snow Queen. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in the wall&#39;s area must make a DC 15 Dexterity saving throw. A creature that fails the saving throw takes 18 (4d8) cold damage and is pushed 5 feet out of the wall&#39;s space, on whichever side of the wall it chooses. A creature that touches the wall at any time takes the same damage. Each 10-foot section of the wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to cold, poison, and psychic damage. The wall lasts until the Snow Queen uses this action again, or she dies.</text>
+      <text>&#42; Icy wind and stinging snow swirls around the Snow Queen. All creatures that aren&#39;t immune to cold damage have disadvantage when making saving throws against cold damage or cold-based effects while within 60 feet of the Snow Queen. This effect lasts until initiative count 20 on the following round.</text>
+      <text>&#42; The snow and ice of the lair shimmer and gleam, catching the light and flashing it into the eyes of the Snow Queen&#39;s foes. Attack rolls against the Snow Queen and her allies within the lair have disadvantage until initiative count 20 on the following round.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing the Snow Queen&#39;s lair is warped by the fey lady&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Within 10 miles of the lair, snow and ice resist melting. Snow and ice can be melted only with prolonged contact with fire.</text>
-      <text>&#45; The sky is overcast most of the time within 10 miles of the lair, and snowfall is common. The area is difficult terrain for Tiny, Small, and Medium creatures because of deep snow.</text>
-      <text>&#45; Light snowfall or swirling powder blown by the wind lightly obscures the area within 5 miles of the lair.</text>
+      <text>&#42; Within 10 miles of the lair, snow and ice resist melting. Snow and ice can be melted only with prolonged contact with fire.</text>
+      <text>&#42; The sky is overcast most of the time within 10 miles of the lair, and snowfall is common. The area is difficult terrain for Tiny, Small, and Medium creatures because of deep snow.</text>
+      <text>&#42; Light snowfall or swirling powder blown by the wind lightly obscures the area within 5 miles of the lair.</text>
       <text>If the Snow Queen dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
 
@@ -10888,16 +10888,16 @@
     <trait>
       <name>Emperor Of The Ghouls&#39; Lair Actions</name>
       <text>On initiative count 20 (losing initiative ties), the Emperor takes a lair action to cause one of the following effects. The Emperor can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Until initiative count 20 on the following round, all creatures other than undead and constructs who take necrotic damage take an additional 7 (2d6) necrotic damage.</text>
-      <text>&#45; The emperor targets a creature within 30 feet that he can see. The creature must succeed on a DC 15 Constitution saving throw or take 18 (4d8) necrotic damage. The emperor regains hit points equal to the damage.</text>
-      <text>&#45; A wall of ice springs up from a surface within 100 feet of the emperor. The wall is 60 feet long, 10 feet high, and 5 feet thick. A creature in the wall&#39;s space when it appears must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) cold damage; then the creature is pushed to either side of the wall (the creature&#39;s choice). Each 5-foot section of the wall has AC 10, 15 hit points, resistance to piercing and slashing damage, immunity to cold, poison, and psychic damage, and vulnerability to fire damage. The wall lasts until the emperor uses this action again, or dies.</text>
+      <text>&#42; Until initiative count 20 on the following round, all creatures other than undead and constructs who take necrotic damage take an additional 7 (2d6) necrotic damage.</text>
+      <text>&#42; The emperor targets a creature within 30 feet that he can see. The creature must succeed on a DC 15 Constitution saving throw or take 18 (4d8) necrotic damage. The emperor regains hit points equal to the damage.</text>
+      <text>&#42; A wall of ice springs up from a surface within 100 feet of the emperor. The wall is 60 feet long, 10 feet high, and 5 feet thick. A creature in the wall&#39;s space when it appears must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) cold damage; then the creature is pushed to either side of the wall (the creature&#39;s choice). Each 5-foot section of the wall has AC 10, 15 hit points, resistance to piercing and slashing damage, immunity to cold, poison, and psychic damage, and vulnerability to fire damage. The wall lasts until the emperor uses this action again, or dies.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region around the emperor&#39;s lair is warped by its magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Creatures within 1 mile of the lair who are infected with darakhul fever have disadvantage on Wisdom saving throws against spells and effects generated by ghouls or darakhul.</text>
-      <text>&#45; Dead bodies within 1 mile of the lair have an 80 percent chance to reanimate as skeletons or zombies 24 hours after their death. These undead never attack ghouls or dharakul, but instinctively obey their commands.</text>
-      <text>&#45; Phantom lights appear within 10 miles of the lair, more frequently the closer they are to the lair. The lights shed dim light out to 10 feet. Undead within such a light gain 1d6 temporary hit points at the start of their turn; the light can&#39;t raise an undead&#39;s hit points above 150 percent of its normal hit point maximum.</text>
+      <text>&#42; Creatures within 1 mile of the lair who are infected with darakhul fever have disadvantage on Wisdom saving throws against spells and effects generated by ghouls or darakhul.</text>
+      <text>&#42; Dead bodies within 1 mile of the lair have an 80 percent chance to reanimate as skeletons or zombies 24 hours after their death. These undead never attack ghouls or dharakul, but instinctively obey their commands.</text>
+      <text>&#42; Phantom lights appear within 10 miles of the lair, more frequently the closer they are to the lair. The lights shed dim light out to 10 feet. Undead within such a light gain 1d6 temporary hit points at the start of their turn; the light can&#39;t raise an undead&#39;s hit points above 150 percent of its normal hit point maximum.</text>
       <text>If the emperor dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -11162,16 +11162,16 @@
     <trait>
       <name>Hraesvelgr&#39;s Lair</name>
       <text>On initiative count 20 (losing initiative ties), Hraesvelgr takes a lair action to cause one of the following effects; Hraesvelgr can&#39;t use the same effect two rounds in a row&#58;</text>
-      <text>&#45; Hraesvelgr unleashes a blast of wind in a 60-foot cone. All creatures in the area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
-      <text>&#45; One creature within 60 feet that Hraesvelgr can see must succeed on a DC 15 Strength saving throw or be swept up in a pillar of wind. The creature is restrained and suspended 15 feet off the ground. If the creature has something to pull on, it can pull itself out of the wind by using an action and making a successful DC 15 Strength check; another creature who can reach the suspended creature can pull it free in the same way. Alternatively, a flying creature can repeat the saving throw as an action. On a success, it moves 5 feet out of the pillar of wind. This effect lasts until Hraesvelgr takes this action again or dies.</text>
-      <text>&#45; Hraesvelgr lets out a thunderous bellow in giant form or an ear-splitting shriek in roc form. All creatures within 30 feet must make a successful DC 15 Constitution saving throw or be frightened for 1 minute. A frightened creature repeats the saving throw at the end of its turn, ending the effect on itself on a success.</text>
+      <text>&#42; Hraesvelgr unleashes a blast of wind in a 60-foot cone. All creatures in the area must succeed on a DC 15 Dexterity saving throw or be knocked prone.</text>
+      <text>&#42; One creature within 60 feet that Hraesvelgr can see must succeed on a DC 15 Strength saving throw or be swept up in a pillar of wind. The creature is restrained and suspended 15 feet off the ground. If the creature has something to pull on, it can pull itself out of the wind by using an action and making a successful DC 15 Strength check; another creature who can reach the suspended creature can pull it free in the same way. Alternatively, a flying creature can repeat the saving throw as an action. On a success, it moves 5 feet out of the pillar of wind. This effect lasts until Hraesvelgr takes this action again or dies.</text>
+      <text>&#42; Hraesvelgr lets out a thunderous bellow in giant form or an ear-splitting shriek in roc form. All creatures within 30 feet must make a successful DC 15 Constitution saving throw or be frightened for 1 minute. A frightened creature repeats the saving throw at the end of its turn, ending the effect on itself on a success.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Hraesvelgr&#39;s lair is warped by the corpse swallower&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Strong windstorms are common within 6 miles of the lair.</text>
-      <text>&#45; Giant avian beasts are drawn to the lair and fiercely defend it against intruders.</text>
-      <text>&#45; The wind within 10 miles of the lair bears a pungent carrion stench.</text>
+      <text>&#42; Strong windstorms are common within 6 miles of the lair.</text>
+      <text>&#42; Giant avian beasts are drawn to the lair and fiercely defend it against intruders.</text>
+      <text>&#42; The wind within 10 miles of the lair bears a pungent carrion stench.</text>
       <text>If Hraesvelgr dies, conditions in the area surrounding the lair return to normal over the course of 1d10 days.</text>
     </trait>
     <action>
@@ -12610,7 +12610,7 @@
     </trait>
     <trait>
       <name>Unleashed Emotion</name>
-      <text>When a hulking whelp feels threatened &#45; it&#39;s touched, intimidated, cornered, attacked, or even just if a stranger moves adjacent to the whelp &#45; it immediately grows from size Small to Huge as a reaction. If the whelp was attacked, this reaction occurs after the attack is made but before damage is done. Nearby creatures and objects are pushed to the nearest available space and must make a successful DC 15 Strength saving throw or fall prone. Weapons, armor, and other objects worn or carried by the hulking whelp grow (and shrink again) proportionally when it changes size. Overcome by raw emotion, it sets about destroying anything and everything it can see (which isn&#39;t much) and reach (which is quite a lot). The transformation lasts until the hulking whelp is unaware of any nearby creatures for 1 round, it drops to 0 hit points, it has 5 levels of exhaustion, or it&#39;s affected by a calm emotions spell or comparable magic. The transformation isn&#39;t entirely uncontrollable; people or creatures the whelp knows and trusts can be near it without triggering the reaction. Under the wrong conditions, such as in a populated area, a hulking whelp&#39;s Unleashed Emotion can last for days.</text>
+      <text>When a hulking whelp feels threatened &#42; it&#39;s touched, intimidated, cornered, attacked, or even just if a stranger moves adjacent to the whelp &#42; it immediately grows from size Small to Huge as a reaction. If the whelp was attacked, this reaction occurs after the attack is made but before damage is done. Nearby creatures and objects are pushed to the nearest available space and must make a successful DC 15 Strength saving throw or fall prone. Weapons, armor, and other objects worn or carried by the hulking whelp grow (and shrink again) proportionally when it changes size. Overcome by raw emotion, it sets about destroying anything and everything it can see (which isn&#39;t much) and reach (which is quite a lot). The transformation lasts until the hulking whelp is unaware of any nearby creatures for 1 round, it drops to 0 hit points, it has 5 levels of exhaustion, or it&#39;s affected by a calm emotions spell or comparable magic. The transformation isn&#39;t entirely uncontrollable; people or creatures the whelp knows and trusts can be near it without triggering the reaction. Under the wrong conditions, such as in a populated area, a hulking whelp&#39;s Unleashed Emotion can last for days.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -13338,18 +13338,18 @@
       <name>Koschei&#39;s Lair Actions</name>
       <text>On initiative count 20 (losing initiative ties), Koschei takes a lair action to cause one of the following effects; Koschei can&#39;t use the same effect two rounds in a row&#58;</text>
       <text>
-        &#45; Koschei creates a whirlwind centered on a point he can see within 100 feet. The whirlwind is 10 feet wide and up to 50 feet tall. A creature in the area of the whirlwind when it&#39;s created, or who enters the area for the first time on a turn, must make a DC 15 Strength saving throw. On a failed save, the creature is restrained and takes 18 (4d8) bludgeoning damage fromthe buffeting wind. A restrained creature can escape from the
+        &#42; Koschei creates a whirlwind centered on a point he can see within 100 feet. The whirlwind is 10 feet wide and up to 50 feet tall. A creature in the area of the whirlwind when it&#39;s created, or who enters the area for the first time on a turn, must make a DC 15 Strength saving throw. On a failed save, the creature is restrained and takes 18 (4d8) bludgeoning damage fromthe buffeting wind. A restrained creature can escape from the
         whirlwind by using its action to repeat the saving throw; on a success, it moves 5 feet outside the area of the whirlwind. The whirlwind lasts until Koschei uses this action again or dies.
 </text>
-      <text>&#45; Tortured spirits appear and attack up to three creatures Koschei can see within the lair. One attack is made against each targeted creature; each attack has +8 to hit and does 10 (3d6) necrotic damage.</text>
-      <text>&#45; Koschei disrupts the flow of magic in his lair. Until initiative count 20 on the following round, any creature other than a fiend who targets Koschei with a spell must make a DC 15 Wisdom saving throw. On a failure, the creature still casts the spell, but it must target a creature other than Koschei.</text>
+      <text>&#42; Tortured spirits appear and attack up to three creatures Koschei can see within the lair. One attack is made against each targeted creature; each attack has +8 to hit and does 10 (3d6) necrotic damage.</text>
+      <text>&#42; Koschei disrupts the flow of magic in his lair. Until initiative count 20 on the following round, any creature other than a fiend who targets Koschei with a spell must make a DC 15 Wisdom saving throw. On a failure, the creature still casts the spell, but it must target a creature other than Koschei.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing Koschei&#39;s lair is warped by Koschei&#39;s magic, which creates one or more of the following effects&#58;</text>
-      <text>&#45; Rabbits, ducks, and other game animals become hostile toward intruders within 5 miles of the lair. They behave aggressively, but only attack if cornered. Foraging for food by hunting is difficult and only yields half the normal amount of food.</text>
-      <text>&#45; Wind and snowstorms are common within 5 miles of the lair.</text>
-      <text>&#45; Koschei is aware of any spell cast within 5 miles of his lair. He knows the source of the magic (innate, the caster&#39;s class, or a magic item) and knows the direction to the caster.</text>
+      <text>&#42; Rabbits, ducks, and other game animals become hostile toward intruders within 5 miles of the lair. They behave aggressively, but only attack if cornered. Foraging for food by hunting is difficult and only yields half the normal amount of food.</text>
+      <text>&#42; Wind and snowstorms are common within 5 miles of the lair.</text>
+      <text>&#42; Koschei is aware of any spell cast within 5 miles of his lair. He knows the source of the magic (innate, the caster&#39;s class, or a magic item) and knows the direction to the caster.</text>
       <text>If Koschei dies, conditions in the area surrounding his lair return to normal over the course of 1d10 days.</text>
     </trait>
 
@@ -14145,10 +14145,10 @@
     <trait>
       <name>Water Sensitivity</name>
       <text>The flesh of a mallqui putrefies and dissolves rapidly when soaked with water in the following ways&#58;</text>
-      <text>&#45; Splashed with a waterskin or equivalent&#58; 1d10 damage</text>
-      <text>&#45; Attacked by creature made of water&#58; Normal damage plus an extra 1d10 damage</text>
-      <text>&#45; Caught in rain&#58; 2d10 damage per round (DC 11 Dexterity saving throw for half)</text>
-      <text>&#45; Immersed in water&#58; 4d10 damage per round (DC 13 Dexterity saving throw for half)</text>
+      <text>&#42; Splashed with a waterskin or equivalent&#58; 1d10 damage</text>
+      <text>&#42; Attacked by creature made of water&#58; Normal damage plus an extra 1d10 damage</text>
+      <text>&#42; Caught in rain&#58; 2d10 damage per round (DC 11 Dexterity saving throw for half)</text>
+      <text>&#42; Immersed in water&#58; 4d10 damage per round (DC 13 Dexterity saving throw for half)</text>
       <text>Alternatively, the saving throw and DC of the spell used to conjure or control the water damaging the mallqui can be used in place of the saving throws above</text>
     </trait>
     <action>
@@ -16253,12 +16253,12 @@
     <trait>
       <name>Chaos mutations</name>
       <text>50% of rift swine have additional mutant features. Choose or roll on the table below.</text>
-      <text>1 &#45; Acid Boils&#58; A creature that hits the rift swine with a melee attack must make a successful DC 12 Dexterity saving throw or take 3 (1d6) acid damage.</text>
-      <text>2 &#45; Tentacular Tongue&#58; Instead of using its tusks, the rift swine can attack with its tongue&#58; Melee weapon attack&#58; +7 to hit, reach 5 ft., one target. Hit&#58; 9 (2d4 + 4) bludgeoning damage. If the target is a creature, it is grappled and restrained as with a tentacle attack (escape DC 14).</text>
-      <text>3 &#45; Covered in Slime&#58;Increase the rift swine&#39;s AC by 1.</text>
-      <text>4 &#45; Acid Saliva&#58; The rift swine&#39;s tusk or tongue attack does an additional 3 (1d6) acid damage.</text>
-      <text>5 &#45; Poison Spit&#58; Ranged Weapon Attack&#58; +3 to hit, range 15 ft., one target. Hit&#58; 6 (1d12) poison damage.</text>
-      <text>6 &#45; Roll Twice</text>
+      <text>1 &#42; Acid Boils&#58; A creature that hits the rift swine with a melee attack must make a successful DC 12 Dexterity saving throw or take 3 (1d6) acid damage.</text>
+      <text>2 &#42; Tentacular Tongue&#58; Instead of using its tusks, the rift swine can attack with its tongue&#58; Melee weapon attack&#58; +7 to hit, reach 5 ft., one target. Hit&#58; 9 (2d4 + 4) bludgeoning damage. If the target is a creature, it is grappled and restrained as with a tentacle attack (escape DC 14).</text>
+      <text>3 &#42; Covered in Slime&#58;Increase the rift swine&#39;s AC by 1.</text>
+      <text>4 &#42; Acid Saliva&#58; The rift swine&#39;s tusk or tongue attack does an additional 3 (1d6) acid damage.</text>
+      <text>5 &#42; Poison Spit&#58; Ranged Weapon Attack&#58; +3 to hit, range 15 ft., one target. Hit&#58; 6 (1d12) poison damage.</text>
+      <text>6 &#42; Roll Twice</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -18875,10 +18875,10 @@
     <action>
       <name>Howl of the Maddening Wind (3/day)</name>
       <text>A thuellai&#39;s howl can cause creatures to temporarily lose their minds and even to attack themselves or their companions. Each target within 100 feet of the theullai and able to hear the howl must make a successful DC 14 Wisdom saving throw or roll 1d8 and consult the table below at the start of its next turn. An affected creature repeats the saving throw at the end of each of its turns; a success ends the effect on itself, but a failure means it must roll again on the table below at the start of its next turn.</text>
-      <text>1 &#45; Act normally</text>
-      <text>2-4 &#45; Do nothing but babble incoherently</text>
-      <text>5-6 &#45; Do 1d8 damage + Str modifier to self with item in hand</text>
-      <text>7-8 &#45; Attack nearest target; select randomly if more than one</text>
+      <text>1 &#42; Act normally</text>
+      <text>2-4 &#42; Do nothing but babble incoherently</text>
+      <text>5-6 &#42; Do 1d8 damage + Str modifier to self with item in hand</text>
+      <text>7-8 &#42; Attack nearest target; select randomly if more than one</text>
     </action>
     <action>
       <name>Blizzard (1/Day)</name>
@@ -19105,16 +19105,16 @@
     <trait>
       <name>Hive Queen Lair</name>
       <text>On initiative count 20 (losing initiative ties), the hive-queen takes a lair action to cause one of the following effects&#58;</text>
-      <text>&#45; The tosculi hive-queen releases a cloud of pheromones that drives the tosculi to fight harder. All tosculi within 60 feet of the hive-queen (including the hive-queen herself) regain 7 (2d6) hit points.</text>
-      <text>&#45; A swarm of tiny tosculi offspring crawls from its nest and attacks a creature within 120 feet of the hive-queen, automatically doing 10 (4d4) piercing damage. Then the swarm dies.</text>
-      <text>&#45; The ceiling above one creature that the hive-queen can see within 120 feet of her drips sticky resin. The creature must make a successful DC 15 Dexterity saving throw or be encased in rapidly-hardening resin. A creature encased this way is restrained. It can free itself, or another creature within 5 feet can free it, by using an action to make a successful DC 15 Strength check. If the creature is still encased the next time the initiative count reaches 20, the resin hardens, trapping it. The trapped creature can&#39;t move or speak; attack rolls against it have disadvantage because it is encased in resin armor; it automatically fails Strength and Dexterity saving throws; and it has resistance to all damage. The trapped creature is released when the resin is destroyed (AC 10, 20 HP, immune to cold, fire, necrotic, poison, psychic, radiant, and piercing damage).</text>
+      <text>&#42; The tosculi hive-queen releases a cloud of pheromones that drives the tosculi to fight harder. All tosculi within 60 feet of the hive-queen (including the hive-queen herself) regain 7 (2d6) hit points.</text>
+      <text>&#42; A swarm of tiny tosculi offspring crawls from its nest and attacks a creature within 120 feet of the hive-queen, automatically doing 10 (4d4) piercing damage. Then the swarm dies.</text>
+      <text>&#42; The ceiling above one creature that the hive-queen can see within 120 feet of her drips sticky resin. The creature must make a successful DC 15 Dexterity saving throw or be encased in rapidly-hardening resin. A creature encased this way is restrained. It can free itself, or another creature within 5 feet can free it, by using an action to make a successful DC 15 Strength check. If the creature is still encased the next time the initiative count reaches 20, the resin hardens, trapping it. The trapped creature can&#39;t move or speak; attack rolls against it have disadvantage because it is encased in resin armor; it automatically fails Strength and Dexterity saving throws; and it has resistance to all damage. The trapped creature is released when the resin is destroyed (AC 10, 20 HP, immune to cold, fire, necrotic, poison, psychic, radiant, and piercing damage).</text>
       <text>The tosculi hive-queen can&#39;t repeat an effect until they have all been used, and she can&#39;t use the same effect two rounds in a row.</text>
     </trait>
     <trait>
       <name>Regional Effects</name>
       <text>The region containing a tosculi hive-queen&#39;s lair is warped by the creature&#39;s presence, which creates one or more of the	following effects&#58;</text>
-      <text>&#45; Intelligent creatures within 6 miles suffer frequent headaches. It&#39;s as if they had a constant buzzing inside their heads.</text>
-      <text>&#45; Beasts within 6 miles are more irritable and violent than usual and have the Blood Frenzy trait&#58;The beast has advantage on melee attack rolls against a creature that doesn&#39;t have all its hit points.</text>
+      <text>&#42; Intelligent creatures within 6 miles suffer frequent headaches. It&#39;s as if they had a constant buzzing inside their heads.</text>
+      <text>&#42; Beasts within 6 miles are more irritable and violent than usual and have the Blood Frenzy trait&#58;The beast has advantage on melee attack rolls against a creature that doesn&#39;t have all its hit points.</text>
       <text>If the tosculi hive-queen dies, the buzzing disappears immediately, and the beasts go back to normal within 1d10 days.</text>
     </trait>
     <action>
@@ -19356,7 +19356,7 @@
     </trait>
     <trait>
       <name>Acidic Tears</name>
-      <text>Thick tears of dark sap stream continuously down the treant&#39;s face and trunk. These tears are highly acidic &#45; anyone who attacks the treant from a range of 5 feet or less must succeed on a DC 15 Dexterity saving throw or take 6 (1d12) acid damage from splashed tears. This acidic matter continues doing 6 (1d12) acid damage at the start of each of the creature&#39;s turns until it or an adjacent ally uses an action to wipe off the tears or three rounds elapse.</text>
+      <text>Thick tears of dark sap stream continuously down the treant&#39;s face and trunk. These tears are highly acidic &#42; anyone who attacks the treant from a range of 5 feet or less must succeed on a DC 15 Dexterity saving throw or take 6 (1d12) acid damage from splashed tears. This acidic matter continues doing 6 (1d12) acid damage at the start of each of the creature&#39;s turns until it or an adjacent ally uses an action to wipe off the tears or three rounds elapse.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -19902,7 +19902,7 @@
     </trait>
     <trait>
       <name>Smoky Constitution</name>
-      <text>The vapor lynx spends its time in both gaseous and solid form. Its unique constitution makes it immune to all fog&#45; or gas-related spells and attacks, including its own. A vapor lynx sees clearly through light or heavy obscurement caused by fog, mist, or spells such as fog cloud.</text>
+      <text>The vapor lynx spends its time in both gaseous and solid form. Its unique constitution makes it immune to all fog&#42; or gas-related spells and attacks, including its own. A vapor lynx sees clearly through light or heavy obscurement caused by fog, mist, or spells such as fog cloud.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -19920,7 +19920,7 @@
     </action>
     <action>
       <name>Poison Breath (Recharge 5-6)</name>
-      <text>The vapor lynx exhales a 40&#45; foot radius poison fog, which heavily obscures a spherical area around the lynx. Any breathing creature that ends its turn in the fog must make a DC 14 Constitution saving throw or become poisoned for 1d4 + 1 rounds.</text>
+      <text>The vapor lynx exhales a 40&#42; foot radius poison fog, which heavily obscures a spherical area around the lynx. Any breathing creature that ends its turn in the fog must make a DC 14 Constitution saving throw or become poisoned for 1d4 + 1 rounds.</text>
     </action>
   </monster>
   <monster>
@@ -21276,10 +21276,10 @@
     </trait>
     <trait>
       <name>Mutation</name>
-      <text>1 &#45; Armored Hide&#58; The corrupted ogre chieftain&#39;s skin is covered in dull, melted scales that give it resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
-      <text>2 &#45; Extra Arm&#58; The corrupted ogre chieftain has a third arm growing from its chest. The corrupted ogre chieftain can make three melee attacks or two ranged attacks.</text>
-      <text>3 &#45; Savant&#58; The corrupted ogre chieftain&#39;s head is grossly enlarged. Increase its Charisma to 16. The corrupted ogre chieftain gains Innate Spellcasting (Psionics), and its innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components&#58; At will&#58; misty step, shield; 1/day each&#58; dominate monster, levitate.</text>
-      <text>4 &#45; Terrifying&#58; The corrupted ogre chieftain&#39;s body is covered in horns, eyes, and fanged maws. Each creature of the corrupted ogre chieftain&#39;s choice that is within 60 feet of it and is aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A frightened creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&#39;s saving throw is successful or the effect ends for it, the creature is immune to this ogre chieftain&#39;s Frightful Presence for the next 24 hours.</text>
+      <text>1 &#42; Armored Hide&#58; The corrupted ogre chieftain&#39;s skin is covered in dull, melted scales that give it resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</text>
+      <text>2 &#42; Extra Arm&#58; The corrupted ogre chieftain has a third arm growing from its chest. The corrupted ogre chieftain can make three melee attacks or two ranged attacks.</text>
+      <text>3 &#42; Savant&#58; The corrupted ogre chieftain&#39;s head is grossly enlarged. Increase its Charisma to 16. The corrupted ogre chieftain gains Innate Spellcasting (Psionics), and its innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components&#58; At will&#58; misty step, shield; 1/day each&#58; dominate monster, levitate.</text>
+      <text>4 &#42; Terrifying&#58; The corrupted ogre chieftain&#39;s body is covered in horns, eyes, and fanged maws. Each creature of the corrupted ogre chieftain&#39;s choice that is within 60 feet of it and is aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A frightened creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature&#39;s saving throw is successful or the effect ends for it, the creature is immune to this ogre chieftain&#39;s Frightful Presence for the next 24 hours.</text>
     </trait>
     <action>
       <name>Multiattack</name>
@@ -21448,7 +21448,7 @@
     </reaction>
   </monster>
   <monster>
-    <name>Vampire Warlock &#45; Variant</name>
+    <name>Vampire Warlock &#42; Variant</name>
     <size>M</size>
     <type>undead</type>
     <alignment>lawful evil</alignment>

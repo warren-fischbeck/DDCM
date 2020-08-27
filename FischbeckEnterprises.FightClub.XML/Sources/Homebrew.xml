@@ -9,7 +9,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 10g (5)</text>
     <value></value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>2d12</dmg1>
     <dmg2></dmg2>
     <dmgType>P</dmgType>
@@ -25,7 +25,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 5g (20)</text>
     <value></value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>2d8</dmg1>
     <dmg2></dmg2>
     <dmgType>P</dmgType>
@@ -41,7 +41,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 10g (1)</text>
     <value></value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>2d8</dmg1>
     <dmg2></dmg2>
     <dmgType>B</dmgType>
@@ -57,7 +57,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 5g (20)</text>
     <value></value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>1d12</dmg1>
     <dmg2></dmg2>
     <dmgType>P</dmgType>
@@ -73,7 +73,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 2g (20)</text>
     <value>50</value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>1d8</dmg1>
     <dmg2></dmg2>
     <dmgType>P</dmgType>
@@ -89,7 +89,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 4g (20)</text>
     <value>150</value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>1d10</dmg1>
     <dmg2></dmg2>
     <dmgType>P</dmgType>
@@ -105,7 +105,7 @@
     <text>Proficiency&#58; firearms</text>
     <text>Ammunition&#58; 4g (20)</text>
     <value>250</value>
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger 1.3 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger 1.3 p. 3</text>
     <dmg1>1d10</dmg1>
     <dmg2></dmg2>
     <dmgType>P</dmgType>
@@ -160,7 +160,7 @@
     <text />
     <text>Proficiency&#58; martial, longsword</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -191,7 +191,7 @@
     <text />
     <text>Proficiency&#58; martial, rapier</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>1d6</roll>
@@ -227,7 +227,7 @@
     <text />
     <text>Proficiency&#58; simple</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -258,7 +258,7 @@
     <text />
     <text>Proficiency&#58; martial, shortsword</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>1d6</roll>
@@ -277,9 +277,9 @@
     <text />
     <text>Requires attunement</text>
     <text />
-    <text>This legendary weapon is one of 10 blades that make up the Mouth of the Dragon.  This greatsword was forged in the firey breath of Veilendrex, an ancient red dragon.  It was he who started building the Mouth of the Dragon by enslaving wizards, sorcerers and clerics.  When drawn, the runes that race down the blade glow with red fury, spelling out Veilendrex &#45; the mouth of the dragon.  His gold tipped tail wraps around the blade close to the cross guard. His body makes up the hilt, each scale is encrusted with crushed red rubies.  His masive head is the pommel, sculpted in anger. Smoke wafts out of the mouth as the blade is swung in combat.</text>
+    <text>This legendary weapon is one of 10 blades that make up the Mouth of the Dragon.  This greatsword was forged in the firey breath of Veilendrex, an ancient red dragon.  It was he who started building the Mouth of the Dragon by enslaving wizards, sorcerers and clerics.  When drawn, the runes that race down the blade glow with red fury, spelling out Veilendrex &#42; the mouth of the dragon.  His gold tipped tail wraps around the blade close to the cross guard. His body makes up the hilt, each scale is encrusted with crushed red rubies.  His masive head is the pommel, sculpted in anger. Smoke wafts out of the mouth as the blade is swung in combat.</text>
     <text />
-    <text>You have a +1 bonus to attack and damage rolls made with this weapon.  You can use a bonus action to speak this sword&#39;s command word &#45; Veilendrex, causing flames to erupt from the blade.  These flames shead bright light in a 40-foot radius and dim light for an additional 40 feet.  While the sword is ablase, it deals an extra 3d6 fire damage to any target it hits.  The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword. In addition, while you hold the sword, you have vulnerability to cold damage.</text>
+    <text>You have a +1 bonus to attack and damage rolls made with this weapon.  You can use a bonus action to speak this sword&#39;s command word &#42; Veilendrex, causing flames to erupt from the blade.  These flames shead bright light in a 40-foot radius and dim light for an additional 40 feet.  While the sword is ablase, it deals an extra 3d6 fire damage to any target it hits.  The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword. In addition, while you hold the sword, you have vulnerability to cold damage.</text>
     <text />
     <text>Once per day the wielder of the blade can cast fireball as a 5th level spell, however the normal flame function will not work until the dawn of the following day.</text>
     <text />
@@ -289,7 +289,7 @@
     <text />
     <text>Proficiency&#58; martial, greatsword</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -312,7 +312,7 @@
     <text />
     <text>Versatile&#58; This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -335,7 +335,7 @@
     <text />
     <text>Versatile&#58; This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -358,7 +358,7 @@
     <text />
     <text>Versatile&#58; This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -381,7 +381,7 @@
     <text />
     <text>Versatile&#58; This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -404,7 +404,7 @@
     <text />
     <text>Versatile&#58; This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>3d6</roll>
@@ -434,7 +434,7 @@
     <text />
     <text>Two-Handed&#58; This weapon requires two hands to use.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
     <modifier category="bonus">ranged damage +1</modifier>
     <roll>2d4</roll>
@@ -462,7 +462,7 @@
       21 to 30 ft. away — 4 x the number of charges in the spear
 
       Proficiency&#58; simple, spear
-      Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck
+      Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck
 </text>
     <type>M</type>
     <magic>1</magic>
@@ -496,7 +496,7 @@
     <text />
     <text>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon&#39;s type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>2D6</roll>
@@ -529,7 +529,7 @@
     <text />
     <text>When thrown as part of an attack action, the spear will do an extra 3D6 of thunder damage on a successful hit.  This property can be used once per short rest.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <modifier category="bonus">spell attacks +2</modifier>
@@ -550,7 +550,7 @@
     <text />
     <text>Magical Resistance&#58; the wearer of this armor has resistance to magic spells and magical effects</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
@@ -566,13 +566,13 @@
     <text>This magical garment is also known as the High Vestment of Lethander, legend has it that he was wearing it when he ascended to the outer planes.  After his ascension, his disciples donned the robes to continue his work on this plane.</text>
     <text />
     <text>You gain these benefits while wearing the robe&#58;</text>
-    <text>&#45; If you aren&#39;t wearing armor, your base Armor Class is 15 + your Dexterity modifier.</text>
-    <text>&#45; If you aren&#39;t wearing armor, the Robe also conveys the following spell like effects.</text>
+    <text>&#42; If you aren&#39;t wearing armor, your base Armor Class is 15 + your Dexterity modifier.</text>
+    <text>&#42; If you aren&#39;t wearing armor, the Robe also conveys the following spell like effects.</text>
     <text>The robe holds 15 charges for the following properties. It regains 1d6 + 2 expended charges daily at dawn.</text>
     <text />
     <text>Spells&#58; While wearing the robe, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability&#58; Spiritual weapon (1 charges), daylight (at will), freedom of movement (3 charges), guardian of faith (3 charges), mass cure wounds (3d8 + 10 healing, 5 charges), firestorm (15 charges)</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">ac +5</modifier>
   </item>
   <item>
@@ -590,7 +590,7 @@
     <text />
     <text>If the bracers remain at 0 charges for two consecutive days, it&#39;s enchantment is broken and it is now considered a mundane set of brackers.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </item>
   <item>
     <name>Mage Armor Spell</name>
@@ -602,7 +602,7 @@
     <stealth></stealth>
     <text>this is the mage armor spell translated into an item for use.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </item>
   <item>
     <name>Backbreaker</name>
@@ -628,7 +628,7 @@
     <text />
     <text>Proficiency&#58; martial, longsword</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <roll>1d6</roll>
@@ -647,7 +647,7 @@
     <text />
     <text>Proficiency&#58; martial, longsword</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
     <dmg1>1d8</dmg1>
@@ -666,7 +666,7 @@
     <text />
     <text>Once this piece of ammunition has been used, it cannot be used again until the following dawn.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
   </item>
   <item>
@@ -679,7 +679,7 @@
     <text />
     <text>Once this piece of ammunition has been used, it cannot be used again until the following dawn.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
   </item>
   <item>
@@ -692,7 +692,7 @@
     <text />
     <text>Once this piece of ammunition has been used, it cannot be used again until the following dawn.</text>
     <text />
-    <text>Source&#58; Custom item in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">ranged attacks +1</modifier>
   </item>
 
@@ -1141,7 +1141,7 @@
         <text>This archetype focuses on the ability to design, craft and utilize powerful, yet dangerous ranged weapons.  Through creative innovation and immaculate aim, you become a distant force of death on the battlefield.  However, not being a perfect science, firearms carry an inherent instability that can occasionally leave you without a functional means of attack.  This is the danger of new, untested technologies in a world where the arcane energies that rule the elements are ever present.</text>
         <text>Should this path of powder, fire and metal call to you, keep your wits about you, hold onto your convictions as a fighter, and let skill meet luck to guide your bullets to strike true.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.3 p. 1</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.3 p. 1</text>
       </feature>
     </autolevel>
 
@@ -1150,7 +1150,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Firearm Proficiency (Gunslinger)</name>
         <text>Starting from when you choose this archetype at 3rd level, you gain proficiency in firearms, allowing you to add your proficiency bonus to attacks made with firearms.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.3 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1159,7 +1159,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Gunsmith (Gunslinger)</name>
         <text>Upon choosing this archetype at 3rd level, you gain proficiency in Tinker&#39;s Tools.  You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM&#39;s discretion). Some extremely intricate and experimental features are only available through crafting.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1180,7 +1180,7 @@
 		<text>EXPLOSIVE</text>
 		<text>Upon a hit, everything within 5 ft. of the target must make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 fire damage.  If the weapon misses, the ammunition fails to detonate, or bounces away harmlessly before doing so.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1196,7 +1196,7 @@
         <text>Saving Throws&#58; Some of your trick shots require your targets to make a saving throw to resist the trick shot&#39;s effect.  The saving throw DC is calculated as follows&#58;</text>
 		<text>Trick Shot save DC = 8 + your proficiency bonus + Dexterity Modifier</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.3 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1205,7 +1205,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Quickdraw (Gunslinger)</name>
         <text>When you reach 7th level, you add your proficiency to your initiative.  You can also stow a firearm, then draw another firearm as a single object interaction on your turn</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.3 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1214,7 +1214,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Rapid Repair (Gunslinger)</name>
         <text>Upon reaching 10th level, you learn how to quickly attempt to fix a jammed gun.  You can spend a grit point to attempt to repair a misfired (but not broken) firearm as a bonus action.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1223,7 +1223,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Lightning Reload (Gunslinger)</name>
         <text>Starting at 15th level, you can reload any firearm as a bonus action.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1232,7 +1232,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Vicious Intent (Gunslinger)</name>
         <text>At 18th level, your firearm attacks score a critical hit on a roll of 19-20, and you regain a grit point on a roll of 19 or 20 on a d20 attack roll with a firearm.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
       </feature>
     </autolevel>
 
@@ -1241,7 +1241,7 @@
         <name>Martial Archetype&#58; Gunslinger&#58; Hemorrrhaging Critical (Gunslinger)</name>
         <text>Upon reaching 18th level, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.</text>
         <text />
-        <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+        <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
       </feature>
     </autolevel>
   </class>
@@ -1486,7 +1486,7 @@
         <name>Martial Archetype&#58; Eminusque</name>
         <text>The archetypical eminusque is a master of ranged combat.  It doesn&#39;t matter if you are engaging a foe with a bow, a thrown dagger or a net, you are able to push the limits of what is possible with any ranged weapon.  Your training and education has made you the pinnacle of distanced fighting and you can rain down devastating blows.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
       <feature optional="YES">
         <name>Martial Archetype&#58; Eminusque&#58; Combat Archer (Eminusque)</name>
@@ -1498,7 +1498,7 @@
         <text />
         <text>Your ranged and thrown weapon attacks ignore half cover and three-quarters cover.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
 
       <feature optional="YES">
@@ -1514,7 +1514,7 @@
         <text>&#183; Remove the heavy condition if the customized item has it.</text>
         <text>&#183; Add a +1 to damage rolls.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
 
       <feature optional="YES">
@@ -1533,7 +1533,7 @@
         <text />
         <text>Trick Shot save DC = 8 + your proficiency bonus +  Strngth or Dexterity modifier (your choice).</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
       <counter>
         <name>Superiority Die</name>
@@ -1549,7 +1549,7 @@
         <text />
         <text>Before you make an attack with a ranged or thrown weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack&#39;s damage.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
 
       <feature optional="YES">
@@ -1560,7 +1560,7 @@
         <text />
         <text>Superiority Dice&#58; You have five superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
       <counter>
         <name>Superiority Die</name>
@@ -1576,14 +1576,14 @@
         <text />
         <text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
 
       <feature optional="YES">
         <name>Martial Archetype&#58; Eminusque&#58; Range Master (Eminusque)</name>
         <text>Starting at 10th level, the normal range for any ranged or thrown weapon that you are proficient in is doubled.  The long range remains the same.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
     </autolevel>
 
@@ -1596,14 +1596,14 @@
         <text />
         <text>Superiority Dice&#58; You have six superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
 
       <feature optional="YES">
         <name>Martial Archetype&#58; Eminusque&#58; Ranged Reaction (Eminusque)</name>
         <text>Starting at 15th level, when a creature misses you with a ranged weapon attack, you can use your reaction to make an attack of opportunity against the attacker as long as you have a ranged weapon in your hand and the attacker is within range.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
       <counter>
         <name>Superiority Die</name>
@@ -1621,7 +1621,7 @@
         <text />
         <text>Once you use this feature you can&#39;t use it again until you complete a short or long rest.</text>
         <text />
-        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+        <text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
       </feature>
     </autolevel>
   </class>
@@ -1637,7 +1637,7 @@
     <classes>Fighter (Eminusque)</classes>
     <text>When you hit a creature with a ranged weapon or thrown melee weapon attack, you can expend one superiority die to pin an appendage to itself or to an object it is in contact with.  You add the superiority die to the attack&#39;s damage roll.  While the creature is pinned in this manner it looses the use of the appendage and must spend an Action freeing itself.</text>
     <text />
-    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Indirect Fire</name>
@@ -1650,7 +1650,7 @@
     <classes>Fighter (Eminusque)</classes>
     <text>When you expend one superiority die, you can target a 5 foot area that you do not have line of sight to.  You must make this attack with a ranged weapon or thrown melee weapon that you are proficient with.  The target area must be within the weapons normal range, and you must be able to arc the ranged weapon over, under or around any object that is interfearing with the normal rules of line of sight.  On a successful attack, you can add the superiority die to the attack&#39;s damage roll.</text>
     <text />
-    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Crippling Shot</name>
@@ -1663,7 +1663,7 @@
     <classes>Fighter (Eminusque)</classes>
     <text>When you hit a creature with a ranged weapon or thrown melee weapon attack, you can expend one superiority die to target one of the creatures legs.  You add the superiority die to the attack&#39;s damage roll and until the start of your next turn, the target treats all terrain as difficult, existing difficult terrain costs an additional 1 foot of movement per 1 foot traversed.</text>
     <text />
-    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Hard Throw</name>
@@ -1684,7 +1684,7 @@
     <text>&#183; Attack rolls against the creature have advantage.</text>
     <text />
     <text />
-    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom Trick Shot in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Bullying Shot</name>
@@ -1697,7 +1697,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature.  When making a Charisma (Intimidation) check, you can expend one grit point to gain advantage on the roll.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Dazing Shot</name>
@@ -1710,7 +1710,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a firearm attack against a creature, you can expend one grit point to attempt to dizzy your opponent.  On a hit, the creature suffers normal damage and must make a Constiution saving throw or suffer disadvantage on attacks until the end of your next turn.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Deadeye Shot</name>
@@ -1723,7 +1723,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a firearm attack against a creature, you can expend one grit point to gain advantage on the attack roll.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Disarming Shot</name>
@@ -1736,7 +1736,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a firearm attack against a creature, you can expend one grit point to attempt to shoot an object from their hands.  On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or drop 1 held object of your choice and have that object pushed 10 feet away from you.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Forceful Shot</name>
@@ -1749,7 +1749,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a firearm attack against a creature, you can expend one grit point to attempt to trip them up and force them back.  On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or be pushed 15 feet away from you.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Piercing Shot</name>
@@ -1762,7 +1762,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a firearm attack against a creature, you can expend one grit point to attempt to fire through multiple opponents.  The initial attack gains a +1 to the firearm&#39;s misfire score.  On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment.  Only the initial attack can misfire.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Violent Shot</name>
@@ -1775,7 +1775,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a fireman attack against a creature, you can expend one or more grit points to enhance the volatility of the attack.  For each grit point expended, the attack gains a +2 to the firearm&#39;s misfire score.  If the attack hits, you can roll one additional weapon damage per grit point spent when determining the damage.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 3</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 3</text>
   </spell>
   <spell>
     <name>Winging Shot</name>
@@ -1788,7 +1788,7 @@
     <classes>Fighter (Gunslinger)</classes>
     <text>When you make a firearm attack against a creature, you can expend one grit point to attempt to topple a moving target.  On a hit, the creature suffers normal damage and must make a Strength saving throw or be knocked prone.</text>
     <text />
-    <text>Source&#58; Matthew Mercer &#45; Gunslinger Martial Archetype 1.2 p. 2</text>
+    <text>Source&#58; Matthew Mercer &#42; Gunslinger Martial Archetype 1.2 p. 2</text>
   </spell>
   <spell>
     <name>Magic Armor</name>
@@ -1803,7 +1803,7 @@
     <text />
     <text>At Higher Levels&#58; When you cast this spell using a spell slot of 5th level or higher, the bonus increases to +2. When you use a spell slot of 7th level or higher, the bonus increases to +3.</text>
     <text />
-    <text>Source&#58; Custom spell in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom spell in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Jerquet&#39;s Fractal Armor</name>
@@ -1818,7 +1818,7 @@
     <text />
     <text>At Higher Levels&#58; When you cast this spell using a spell slot of 3nd level or higher, the target gains 5 additional temporary hit points for each slot level above 2nd.</text>
     <text />
-    <text>Source&#58; Custom spell in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom spell in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Jerquet&#39;s Forceful Rejection</name>
@@ -1833,7 +1833,7 @@
     <text />
     <text>At Higher Levels&#58; When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.</text>
     <text />
-    <text>Source&#58; Custom spell in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom spell in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Jerquet&#39;s Deflection</name>
@@ -1846,7 +1846,7 @@
     <classes>Wizard</classes>
     <text>You interupt a creature in the process of making a weapon attack against you.  If the attack is with a ranged weapon, the creature needs to select a new target within 30 feet from you or forfeit its attack.  If the creature is attacking you with a melee weapon, it needs to select a new target within 5ft of you that it can reach or forfeit its attack.  If the creature has multiple attacks, any further attacks targeting you has disadvantage.</text>
     <text />
-    <text>Source&#58; Custom spell in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom spell in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Jerquet&#39;s Absorption Bubble</name>
@@ -1860,7 +1860,7 @@
     <text>You attempt to interrupt a creature in the process of making an attack. If the creature is taking an attack action with a nonmagical weapon, its attack action fails and has no effect. If it is taking an attack action with a magical weapon, it needs to make a Intelligence saving throw. On a failed saving throw, the target of the attack action has resistance to one of the damage types caused by the attack.  On a successful saving throw, the spell has no effect on the attack.</text>
     <text />
     <text />
-    <text>Source&#58; Custom spell in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom spell in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Oracle</name>
@@ -1873,7 +1873,7 @@
     <classes>Sorcerer, Cleric, Wizard</classes>
     <text>When you cast this spell you gain a glimpse of the future, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this foretold roll. You must choose to do so before the roll.</text>
     <text />
-    <text>Source&#58; Custom spell in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom spell in World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </spell>
   <spell>
     <name>Shield&#42;</name>
@@ -2092,7 +2092,7 @@
     <trait>
       <name>Description</name>
       <text>You are one of the many people that make sure that the streets and trade routes are clear at ALL times in Fronteers. You assure that the Great Law of  The Dutchy is followed at all costs. You work by yourself or in groups to quell any who might stop trade routes from going through or lawbreakers. You investigate potential ambushes and possible rumors as to someone wanting to rob or stop caravans. You are as much an investigator as you are law enforcement.</text>
-      <text>	You are able to go into a town/village around the Fronteers area and find a contact that is willing to give you information &#45; from rumor to fact. This sometimes comes at a cost of a minor bribe of 1-9 silver pieces.</text>
+      <text>	You are able to go into a town/village around the Fronteers area and find a contact that is willing to give you information &#42; from rumor to fact. This sometimes comes at a cost of a minor bribe of 1-9 silver pieces.</text>
     </trait>
     <trait>
       <name>Starting Proficiencies</name>
@@ -2222,7 +2222,7 @@
     <cr>1/2</cr>
     <trait>
       <name>Source</name>
-      <text>Custom monster in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+      <text>Custom monster in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
@@ -2242,7 +2242,7 @@
     <slots></slots>
     <environment>forest, grassland, hill, underdark</environment>
     <description>
-      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#45; sometimes overwhelming&#45; numbers. They crave power and regularly abuse whatever authority they obtain.
+      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#42; sometimes overwhelming&#42; numbers. They crave power and regularly abuse whatever authority they obtain.
 
       Goblinoids
       Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
@@ -2286,7 +2286,7 @@
     <cr>1/2</cr>
     <trait>
       <name>Source</name>
-      <text>Custom monster in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+      <text>Custom monster in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
@@ -2311,7 +2311,7 @@
     <slots></slots>
     <environment>forest, grassland, hill, underdark</environment>
      <description>
-      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#45; sometimes overwhelming&#45; numbers. They crave power and regularly abuse whatever authority they obtain.
+      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#42; sometimes overwhelming&#42; numbers. They crave power and regularly abuse whatever authority they obtain.
 
       Goblinoids
       Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
@@ -2367,7 +2367,7 @@
     <cr>1</cr>
     <trait>
       <name>Source</name>
-      <text>Custom monster in World of Koreth, OneNote &#45; Warren Fischbeck</text>
+      <text>Custom monster in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     </trait>
     <trait>
       <name>Nimble Escape</name>
@@ -2400,7 +2400,7 @@
     <slots></slots>
     <environment>forest, grassland, hill, underdark</environment>
     <description>
-      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#45; sometimes overwhelming&#45; numbers. They crave power and regularly abuse whatever authority they obtain.
+      Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large&#42; sometimes overwhelming&#42; numbers. They crave power and regularly abuse whatever authority they obtain.
 
       Goblinoids
       Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
@@ -2440,7 +2440,7 @@
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
-    <text>Source&#58; Custom Character Boon World of Koreth, OneNote &#45; Warren Fischbeck</text>
+    <text>Source&#58; Custom Character Boon World of Koreth, OneNote &#42; Warren Fischbeck</text>
   </feat>  
   <feat>
     <name>Boon of Combat Prowess</name>

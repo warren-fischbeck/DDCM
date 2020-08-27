@@ -1116,7 +1116,7 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#45; I&apos;m a perfectionist.</text>
+      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#42; I&apos;m a perfectionist.</text>
       <text></text>
       <text>2. I&apos;m a snob who looks down on those who can&apos;t appreciate fine art.</text>
       <text></text>
@@ -1177,7 +1177,7 @@
       <text></text>
       <text>3. No one must ever learn that I once stole money from guild coffers.</text>
       <text></text>
-      <text>4. I&apos;m never satisfied with what I have&#45; I always want more.</text>
+      <text>4. I&apos;m never satisfied with what I have&#42; I always want more.</text>
       <text></text>
       <text>5. I would kill to acquire a noble title.</text>
       <text></text>
@@ -1331,7 +1331,7 @@
       <text>Choose or randomly determine</text>
       <text />
       <text></text>
-      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#45; I&apos;m a perfectionist.</text>
+      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#42; I&apos;m a perfectionist.</text>
       <text></text>
       <text>2. I&apos;m a snob who looks down on those who can&apos;t appreciate fine art.</text>
       <text></text>
@@ -1392,7 +1392,7 @@
       <text></text>
       <text>3. No one must ever learn that I once stole money from guild coffers.</text>
       <text></text>
-      <text>4. I&apos;m never satisfied with what I have&#45; I always want more.</text>
+      <text>4. I&apos;m never satisfied with what I have&#42; I always want more.</text>
       <text></text>
       <text>5. I would kill to acquire a noble title.</text>
       <text></text>
@@ -1668,7 +1668,7 @@
     <proficiency>Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are the heir to something of great value &#8212; not mere coin or wealth, but an object that has been entrusted to you and you alone. Your inheritance might have come directly to you from a member of your family, by right of birth, or it could have been left to you by a friend, a mentor, a teacher, or someone else important in your life. The revelation of your inheritance changed your life, and might have set you on the path to adventure, but it could also come with many dangers, including those who covet your gift and want to take it from you&#45; by force, if need be.</text>
+      <text>You are the heir to something of great value &#8212; not mere coin or wealth, but an object that has been entrusted to you and you alone. Your inheritance might have come directly to you from a member of your family, by right of birth, or it could have been left to you by a friend, a mentor, a teacher, or someone else important in your life. The revelation of your inheritance changed your life, and might have set you on the path to adventure, but it could also come with many dangers, including those who covet your gift and want to take it from you&#42; by force, if need be.</text>
     </trait>
     <trait>
       <name>Inheritance</name>
@@ -1678,19 +1678,19 @@
       <text></text>
       <text>When you begin your adventuring career, you can decide whether to tell your companions about your inheritance right away. Rather than attracting attention to yourself, you might want to keep your inheritance a secret until you learn more about what it means to you and what it can do for you.</text>
       <text></text>
-      <text>1 &#45; A document such as a map, a letter, or a journal</text>
+      <text>1 &#42; A document such as a map, a letter, or a journal</text>
       <text></text>
-      <text>2-3 &#45; a trinket (see &quot;Trinkets&quot; in chapter 5 of the Player&apos;s Handbook)</text>
+      <text>2-3 &#42; a trinket (see &quot;Trinkets&quot; in chapter 5 of the Player&apos;s Handbook)</text>
       <text></text>
-      <text>4 &#45; an article of clothing</text>
+      <text>4 &#42; an article of clothing</text>
       <text></text>
-      <text>5 &#45; a piece of jewelry</text>
+      <text>5 &#42; a piece of jewelry</text>
       <text></text>
-      <text>6 &#45; an arcane book or formulary</text>
+      <text>6 &#42; an arcane book or formulary</text>
       <text></text>
-      <text>7 &#45; a written story, song, poem, or secret</text>
+      <text>7 &#42; a written story, song, poem, or secret</text>
       <text></text>
-      <text>8 &#45; a tattoo or other body marking</text>
+      <text>8 &#42; a tattoo or other body marking</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
@@ -2216,7 +2216,7 @@
       <text></text>
       <text>1. I&apos;m trying to pay off an old debt I owe to a generous benefactor.</text>
       <text></text>
-      <text>2. My ill &#45; gotten gains go to support my family.</text>
+      <text>2. My ill &#42; gotten gains go to support my family.</text>
       <text></text>
       <text>3. Something important was taken from me, and I aim to steal it back.</text>
       <text></text>
@@ -2257,7 +2257,7 @@
       <name>Suggested Characteristics</name>
       <text>Use the tables for the outlander background in the Player&#39;s Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of an Uthgardt tribe.</text>
       <text></text>
-      <text>Even if you have left your tribe behind (at least for now), you hold to the traditions of your people. You will never cut down a still-living tree, and you may not countenance such an act being done in your presence. The Uthgardt ancestral mounds &#8212; great hills where the totem spirits were defeated by Uthgar and where the heroes of the tribes are interred&#45; are sacred to you.</text>
+      <text>Even if you have left your tribe behind (at least for now), you hold to the traditions of your people. You will never cut down a still-living tree, and you may not countenance such an act being done in your presence. The Uthgardt ancestral mounds &#8212; great hills where the totem spirits were defeated by Uthgar and where the heroes of the tribes are interred&#42; are sacred to you.</text>
       <text></text>
       <text>Your bond is undoubtedly associated with your tribe or some aspect of Uthgardt philosophy or culture (perhaps even Uthgar himself). Your ideal is a personal choice that probably hews closely to the ethos of your people and certainly doesn&#39;t contradict or compromise what being an Uthgardt stands for.</text>
     </trait>
@@ -2368,7 +2368,7 @@
       <name>Suggested Characteristics</name>
       <text>Use the tables for the noble background in the Player&#39;s Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of a Waterdhavian family.</text>
       <text></text>
-      <text>Like other nobles, you were born and raised in a different world from the one that most folk know&#45; one that grants you privilege but also calls you to fulfill a duty befitting your station. Your bond might be associated with your family a lone, or it could be concerned with another noble house that sides with or opposes your own. Your ideal depends to some extent on how you view your role in the family, and how you intend to conduct yourself in the world at large as a representative of your house.</text>
+      <text>Like other nobles, you were born and raised in a different world from the one that most folk know&#42; one that grants you privilege but also calls you to fulfill a duty befitting your station. Your bond might be associated with your family a lone, or it could be concerned with another noble house that sides with or opposes your own. Your ideal depends to some extent on how you view your role in the family, and how you intend to conduct yourself in the world at large as a representative of your house.</text>
     </trait>
     <trait>
       <name>Starting Proficiencies</name>

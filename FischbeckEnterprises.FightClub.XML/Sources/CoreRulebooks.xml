@@ -2514,7 +2514,7 @@
     <name>Tinderbox</name>
     <type>G</type>
     <weight>1</weight>
-    <text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch &#45; or anything else with abundant, exposed fuel &#45; takes an action. Lighting any other fire takes 1 minute.</text>
+    <text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch &#42; or anything else with abundant, exposed fuel &#42; takes an action. Lighting any other fire takes 1 minute.</text>
     <text />
     <value>0.5</value>
     <text>Source&#58; Player&#39;s Handbook p. 153</text>
@@ -10003,7 +10003,7 @@
     <text />
     <text>Personality&#58; When it grows restless, Wave has a habit of humming tunes that vary from sea chanteys to sacred hymns of the sea gods.</text>
     <text>Wave zealously desires to convert mortals to the worship of one or more sea gods, or else to consign the faithless to death. Conflict arises if the wielder fails to</text>
-    <text>further the weapon&#39;s objectives in the world. The trident has a nostalgic attachment to the place where it was forged, a desolate island called Thunderforge. A sea god imprisoned a family of storm giants there, and the giants forged Wave in an act of devotion to&#45; or rebellion against-that god.</text>
+    <text>further the weapon&#39;s objectives in the world. The trident has a nostalgic attachment to the place where it was forged, a desolate island called Thunderforge. A sea god imprisoned a family of storm giants there, and the giants forged Wave in an act of devotion to&#42; or rebellion against-that god.</text>
     <text>Wave harbors a secret doubt about its own nature and purpose. For all its devotion to the sea gods, Wave fears that it was intended to bring about a particular sea god&#39;s demise. This destiny is something Wave might not be able to avert.</text>
     <text />
     <text>Range&#58; A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.</text>
@@ -16223,7 +16223,7 @@
     <magic>1</magic>
     <detail>very rare</detail>
     <weight>5</weight>
-    <text>This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a peri of 6 days or fewer studying the book&#39;s contents and practicing its guidelines, your Strength score increase&#45; by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</text>
+    <text>This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a peri of 6 days or fewer studying the book&#39;s contents and practicing its guidelines, your Strength score increase&#42; by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</text>
     <text />
     <text>Source&#58; Dungeon Master&#39;s Guide p. 180</text>
   </item>
@@ -16334,7 +16334,7 @@
     <detail>very rare</detail>
     <weight>1</weight>
     <text>Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.</text>
-    <text>Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features-such as a door, a pit, flowers, trees, cells, rooms, or weapons&#45; that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.</text>
+    <text>Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features-such as a door, a pit, flowers, trees, cells, rooms, or weapons&#42; that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.</text>
     <text>When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.</text>
     <text>Nothing created by the pigments can have a value greater than 25 gp. If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless material.</text>
     <text>If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.</text>
@@ -16912,7 +16912,7 @@
     <text />
     <text>Command&#58; While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the command spell (save DC 15).</text>
     <text />
-    <text>Cone of Fear&#58; While holding the wand, you can use an action to expend 2 charges, causing the wand&#39;s tip to emit a 60-foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can&#45; willingly move to a space within 30 feet of you. It also can&#39;t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevent it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.</text>
+    <text>Cone of Fear&#58; While holding the wand, you can use an action to expend 2 charges, causing the wand&#39;s tip to emit a 60-foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can&#42; willingly move to a space within 30 feet of you. It also can&#39;t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevent it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.</text>
     <text />
     <text>Source&#58; Dungeon Master&#39;s Guide p. 210</text>
     <roll>1d6+1</roll>
@@ -17118,7 +17118,7 @@
     <text />
     <text>d100 &#8212; Effect&#58;</text>
     <text>01-05 &#8212; You cast slow.</text>
-    <text>06&#45; 10 &#8212; You cast faerie fire.</text>
+    <text>06&#42; 10 &#8212; You cast faerie fire.</text>
     <text>11-15 &#8212; You are stunned until the start of your next turn, believing something awesome just happened.</text>
     <text>16-20 &#8212; You cast gust of wind.</text>
     <text>21-25 &#8212; You cast detect thoughts on the target you chose. If you didn&#39;t target a creature, you instead take 1d6 psychic damage.</text>
@@ -27246,7 +27246,7 @@
       <text />
       <text>1. I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.</text>
       <text />
-      <text>2. I owe everything to my mentor &#45; a horrible person who&apos;s probably rotting in jail somewhere.</text>
+      <text>2. I owe everything to my mentor &#42; a horrible person who&apos;s probably rotting in jail somewhere.</text>
       <text />
       <text>3. Somewhere out there, I have a child who doesn&apos;t know me.  I&apos;m making the world better for him or her.</text>
       <text />
@@ -27361,7 +27361,7 @@
       <text />
       <text>1. I&apos;m trying to pay off an old debt I owe to a generous benefactor.</text>
       <text />
-      <text>2. My ill &#45; gotten gains go to support my family.</text>
+      <text>2. My ill &#42; gotten gains go to support my family.</text>
       <text />
       <text>3. Something important was taken from me, and I aim to steal it back.</text>
       <text />
@@ -27762,7 +27762,7 @@
       <text>Choose or randomly determine</text>
       <text />
       <text />
-      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#45; I&apos;m a perfectionist.</text>
+      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#42; I&apos;m a perfectionist.</text>
       <text />
       <text>2. I&apos;m a snob who looks down on those who can&apos;t appreciate fine art.</text>
       <text />
@@ -27823,7 +27823,7 @@
       <text />
       <text>3. No one must ever learn that I once stole money from guild coffers.</text>
       <text />
-      <text>4. I&apos;m never satisfied with what I have&#45; I always want more.</text>
+      <text>4. I&apos;m never satisfied with what I have&#42; I always want more.</text>
       <text />
       <text>5. I would kill to acquire a noble title.</text>
       <text />
@@ -27864,7 +27864,7 @@
       <text>Choose or randomly determine</text>
       <text />
       <text />
-      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#45; I&apos;m a perfectionist.</text>
+      <text>1. I believe that anything worth doing is worth doing right. I can&apos;t help it&#42; I&apos;m a perfectionist.</text>
       <text />
       <text>2. I&apos;m a snob who looks down on those who can&apos;t appreciate fine art.</text>
       <text />
@@ -27925,7 +27925,7 @@
       <text />
       <text>3. No one must ever learn that I once stole money from guild coffers.</text>
       <text />
-      <text>4. I&apos;m never satisfied with what I have&#45; I always want more.</text>
+      <text>4. I&apos;m never satisfied with what I have&#42; I always want more.</text>
       <text />
       <text>5. I would kill to acquire a noble title.</text>
       <text />
@@ -28894,7 +28894,7 @@
       <text />
       <text>1. I&apos;m trying to pay off an old debt I owe to a generous benefactor.</text>
       <text />
-      <text>2. My ill &#45; gotten gains go to support my family.</text>
+      <text>2. My ill &#42; gotten gains go to support my family.</text>
       <text />
       <text>3. Something important was taken from me, and I aim to steal it back.</text>
       <text />
@@ -32495,7 +32495,7 @@
     <components>V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)</components>
     <duration>Concentration, up to 1 minute</duration>
     <classes>Cleric, Druid, Sorcerer</classes>
-    <text>You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot&#45; radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.</text>
+    <text>You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot&#42; radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.</text>
     <text>The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature&#39;s concentration is broken.</text>
     <text>When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked prone.</text>
     <text>This spell can have additional effects depending on the terrain in the area, as determined by the DM.</text>
@@ -42653,7 +42653,7 @@
       <name>Breath Weapons (Recharge 5-6)</name>
       <text>The dragon uses one of the following breath weapons.</text>
       <text>Cold Breath. The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.</text>
-      <text>Paralyzing Breath. The dragon exhales paralyzing gas in a 90&#45; foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+      <text>Paralyzing Breath. The dragon exhales paralyzing gas in a 90&#42; foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
       <text />
       <text>Paralyzed&#58;</text>
       <text>&#8226; A paralyzed creature is incapacitated, meaning it can&#39;t take actions or reactions, and can&#39;t move or speak.</text>
@@ -47326,16 +47326,16 @@
       A DEATH TYRANT&#39;s LAIR
 	  --------------------------------------
       When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects&#58;
-      &#45; An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.
-      &#45; Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be grappled. Escaping requires a successful DC 17 Strength (Athletics) or Dexterity (Acrobatics) check.
-      &#45; A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant&#39;s choice. The eye then closes and disappears.
+      &#42; An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.
+      &#42; Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be grappled. Escaping requires a successful DC 17 Strength (Athletics) or Dexterity (Acrobatics) check.
+      &#42; A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant&#39;s choice. The eye then closes and disappears.
       The death tyrant can&#39;t repeat an effect until all three have been used, and it can&#39;t use the same effect on consecutive rounds.
 
       REGIONAL EFFECTS
 	  --------------------------------------
       A region containing a death tyrant&#39;s lair is warped by the creature&#39;s unnatural presence, which creates one or more of the following effects&#58;
-      &#45; Creatures within 1 mile of the tyrant&#39;s lair sometimes feel as if they&#39;re being watched even when they aren&#39;t.
-      &#45; When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant&#39;s lair, roll a d20 for that creature. On a roll of 10 or lower, the creature is subjected to one random eyeray of the tyrant.
+      &#42; Creatures within 1 mile of the tyrant&#39;s lair sometimes feel as if they&#39;re being watched even when they aren&#39;t.
+      &#42; When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant&#39;s lair, roll a d20 for that creature. On a roll of 10 or lower, the creature is subjected to one random eyeray of the tyrant.
       If the death tyrant dies, these effects fade over the course of 1d10 days.</description>
   </monster>
   <monster>
@@ -50001,7 +50001,7 @@
     </trait>
     <trait>
       <name>Illumination</name>
-      <text>The flameskull sheds either dim light in a 15&#45; foot radius, or bright light in a 15-foot radius and dim light for an additional 15 ft.. It can switch between the options as an action.</text>
+      <text>The flameskull sheds either dim light in a 15&#42; foot radius, or bright light in a 15-foot radius and dim light for an additional 15 ft.. It can switch between the options as an action.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -58480,7 +58480,7 @@
     </trait>
     <action>
       <name>Fist</name>
-      <text>Melee Weapon Attack&#58; +1 to hit, reach 5 ft., one target. Hit&#58; 1 (1d4&#45; 1) bludgeoning damage plus 2 (1d4) poison damage.</text>
+      <text>Melee Weapon Attack&#58; +1 to hit, reach 5 ft., one target. Hit&#58; 1 (1d4&#42; 1) bludgeoning damage plus 2 (1d4) poison damage.</text>
       <attack>Fist|1|1d4-1+1d4</attack>
     </action>
     <action>
@@ -64930,7 +64930,7 @@
       <text>Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it&#58;</text>
       <text>1-10&#58; Nothing else happens.</text>
       <text>11-14&#58; One leg is severed from the troll if it has any legs left.</text>
-      <text>15&#45; 18&#58; One arm is severed from the troll if it has any arms left.</text>
+      <text>15&#42; 18&#58; One arm is severed from the troll if it has any arms left.</text>
       <text>19-20&#58; The troll is decapitated, but the troll dies only if it can&#39;t regenerate. If it dies, so does the severed head.</text>
       <text>If the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll&#39;s initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll&#39;s Regeneration trait.</text>
       <text>A severed leg is unable to attack and has a speed of 5 feet.</text>
@@ -66733,7 +66733,7 @@
     </trait>
     <trait>
       <name>Variable Illumination</name>
-      <text>The will-o&#39;-wisp sheds bright light in a 5&#45; to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o&#39;-wisp can alter the radius as a bonus action.</text>
+      <text>The will-o&#39;-wisp sheds bright light in a 5&#42; to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o&#39;-wisp can alter the radius as a bonus action.</text>
     </trait>
     <action>
       <name>Shock</name>
@@ -68911,7 +68911,7 @@
       <name>Tinderbox</name>
       <type>G</type>
       <weight>1</weight>
-      <text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch &#45; or anything else with abundant, exposed fuel &#45; takes an action. Lighting any other fire takes 1 minute.</text>
+      <text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch &#42; or anything else with abundant, exposed fuel &#42; takes an action. Lighting any other fire takes 1 minute.</text>
       <text />
       <value>0.5</value>
       <text>Source&#58; Player&#39;s Handbook p. 153</text>

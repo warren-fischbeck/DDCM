@@ -3879,9 +3879,9 @@
         <trait>
             <name>Vaprak&#39;s Rage (Recharges on a Short or Long Rest)</name>
             <text>As a bonus action, the giant can enter a rage at the start of its turn. The rage lasts for 1 minute or until the giant is incapacitated. While raging, the giant gains the following benefits&#58;</text>
-            <text />            <text>&#45; The giant has advantage on Strength checks and Strength saving throws</text>
-            <text />            <text>&#45; When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.</text>
-            <text />            <text>&#45; The giant has resistance to bludgeoning, piercing, and slashing damage.</text>
+            <text />            <text>&#42; The giant has advantage on Strength checks and Strength saving throws</text>
+            <text />            <text>&#42; When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.</text>
+            <text />            <text>&#42; The giant has resistance to bludgeoning, piercing, and slashing damage.</text>
         </trait>
         <action>
             <name>Multiattack</name>
@@ -7228,7 +7228,7 @@
         </trait>
         <trait>
             <name>Illumination</name>
-            <text>As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5&#45; to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.</text>
+            <text>As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5&#42; to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.</text>
         </trait>
         <trait>
             <name>Innate Spellcasting (Psionics)</name>

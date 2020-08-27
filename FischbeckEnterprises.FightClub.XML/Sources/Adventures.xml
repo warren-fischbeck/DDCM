@@ -94,7 +94,7 @@
     <text>	If someone tries to use Azuredge against its will, the axe can become ten times heavier than normal, and can magically adhere to any Medium or larger object or surface it comes into contact with. Once it does so, the axe can&#39;t be wielded. Nothing short of a Wish spell can separate the axe from the item or surface to which it is adhered to without destroying one or the other, though the axe can choose to end the effect at any time.</text>
     <text />
     <text>Proficiency&#58; martial, battleaxe</text>
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 189</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 189</text>
     <modifier category="bonus">melee attacks +3</modifier>
     <modifier category="bonus">melee damage +3</modifier>
     <dmg1>1d8</dmg1>
@@ -123,12 +123,12 @@
     <text>Sentience&#58; The Blackstaff is a sentient staff of neutral alignment, with an Intelligence of 22, a Wisdom of 15, and a Charisma of 18. It has hearing and darkvision out to a range of 120 feet, and it can communicate telepathically with any creature that is holding it.</text>
     <text></text>
     <text>Personality&#58; The staff has the spirits of all previous Blackstaffs trapped within it. Its creator, Khelben Arunsun, is the dominant personality among them. Like Khelben, the staff is extremely devious and manipulative. It prefers to counsel its owner without exerting outright control. The staff&#39;s primary goal is to protect Waterdeep and its Open Lord, currently Laeral Silverhand. Its secondary goal is to help its wielder become more powerful.</text>
-    <text>	In the event that the holder of the office of the Blackstaff no longer serves the staff&#39;s wishes, the staff ceases to function until it finds a worthy inheritor&#45; someone whose loyalty to Waterdeep is beyond reproach.</text>
+    <text>	In the event that the holder of the office of the Blackstaff no longer serves the staff&#39;s wishes, the staff ceases to function until it finds a worthy inheritor&#42; someone whose loyalty to Waterdeep is beyond reproach.</text>
     <text></text>
     <text>Spirit Trap&#58; When the Blackstaff dies, the spirit of that individual becomes trapped in the staff along with the spirits of the previous Blackstaffs. (A Blackstaff whose spirit is trapped in the staff can&#39;t be raised from the dead.)</text>
     <text>	Destroying the staff would release the spirits trapped inside it, but in that event, Khelben&#39;s spirit can lodge itself inside any one piece of the staff that remains. The piece containing Khelben&#39;s spirit has the staff&#39;s Sentience property but none of its other properties. As long as this piece of the staff exists, Khelben&#39;s spirit can make the staff whole again whenever he wishes. When the staff is remade, the spirits of the previous Blackstaffs become trapped inside it again.</text>
     <text>Proficiency&#58; simple, quarterstaff</text>
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 190</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 190</text>
     <modifier category="bonus">ac +2</modifier>
     <modifier category="bonus">saving throws +2</modifier>
     <modifier category="bonus">spell attack +2</modifier>
@@ -231,7 +231,7 @@
     <text>	The staff has 10 charges. While holding it, you can expend 1 charge as an action to cast the Command spell. If you target a dragon with this casting, the dragon has disadvantage on its saving throw. The staff regains 1d10 charges daily at dawn.</text>
     <text />
     <text>Proficiency&#58; simple, quarterstaff</text>
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 191</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 191</text>
     <roll>2d8+4</roll>
     <roll>1d6</roll>
   </item>
@@ -431,7 +431,7 @@
     <magic>1</magic>
     <detail>legendary (requires attunement)</detail>
     <weight>2</weight>
-    <text>The Korolnor Scepter is one of ten Ruling Scepters of Shanatar, forged by the dwarven gods and given to the ruling houses of the ancient dwarven empire. The Korolnor Scepter&#39;s location was unknown for the longest time until a storm giant queen, Neri, found it in a barnacle&#45; covered shipwreck at the bottom of the Trackless Sea. The Ruling Scepters are all roughly the same size and shape, but their materials and properties vary. The Korolnor Scepter is a tapered mithral rod as thick and long as a dwarf&#39;s forearm, with a small platinum knob at the bottom and a rounded disk adorned with a ring of seven tiny blue gems at the top.</text>
+    <text>The Korolnor Scepter is one of ten Ruling Scepters of Shanatar, forged by the dwarven gods and given to the ruling houses of the ancient dwarven empire. The Korolnor Scepter&#39;s location was unknown for the longest time until a storm giant queen, Neri, found it in a barnacle&#42; covered shipwreck at the bottom of the Trackless Sea. The Ruling Scepters are all roughly the same size and shape, but their materials and properties vary. The Korolnor Scepter is a tapered mithral rod as thick and long as a dwarf&#39;s forearm, with a small platinum knob at the bottom and a rounded disk adorned with a ring of seven tiny blue gems at the top.</text>
     <text>	You gain a +3 bonus to attack and damage rolls made with this scepter, which can be wielded as a magic club.</text>
     <text>	You can use the properties of the Wyrmskull Throne, as well as the properties of the scepter itself. The scepter has 10 charges, and it regains 1d6+4 expended charges at dawn. Its properties are as follows&#58;</text>
     <text>	</text>
@@ -843,7 +843,7 @@
     <weight></weight>
     <text>While wearing this ring, you have advantage on Wisdom (Insight) checks to determine whether someone is lying to you.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 192</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 192</text>
   </item>
   <item>
     <name>Ring of Winter</name>
@@ -1010,7 +1010,7 @@
     <text>If the badge is more than 5 feet away from you for more than 1 minute, it vanishes and harmlessly reappears on a surface within 5 feet of the Open Lord. While holding the badge, the Open Lord knows your location, provided the two of you are on the same plane of existence and your attunement to the badge hasn&#39;t ended.</text>
     <text>	As an action, the Open Lord can touch the badge and end your attunement to it.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 189</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 189</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
@@ -1130,7 +1130,7 @@
     <weight></weight>
     <text>This armband appears to have thin daggers strapped to it. As an action, you can pull up to two magic daggers from the bracer and immediately hurl them, making a ranged attack with each dagger. A dagger vanishes if you don&#39;t hurl it right away, and the daggers disappear right after they hit or miss. The bracer never runs out of daggers.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 190</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 190</text>
   </item>
   <item>
     <name>Charm of Plant Command</name>
@@ -1290,7 +1290,7 @@
     <text>	When the diatryma reverts to feather form, the magic of the feather can&#39;t be used again until 7 days have passed.</text>
     <text>	The diatryma uses the statistics of an Axe Beak, except that its beak deals piercing damage instead of slashing damage. The creature is friendly to you and your companions, and it can be used as a mount. It understands your languages and obeys your spoken commands. If you issue no commands, the diatryma defends itself but takes no other actions.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 191</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 191</text>
   </item>
   <item>
     <name>Gavel of the Venn Rune</name>
@@ -1454,7 +1454,7 @@
       &#8226; You are immune to magic that allows other creatures lo read your thoughts or determine whether you are lying. Creatures can communicate telepathically with you only if you allow it.
 </text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 191</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 191</text>
   </item>
   <item>
     <name>Lord&#39;s Ensemble</name>
@@ -1462,12 +1462,12 @@
     <magic>1</magic>
     <detail>very rare (requires attunement by a creature with a humanoid build)</detail>
     <weight></weight>
-    <text>The Masked Lords of Waterdeep don this ensemble when meeting with one another. This raiment renders each lord indistinguishable from the others. The ensemble consists of three pieces a helm, an amulet, and a robe&#45; that function as a single magic item when worn together, but only within the city of Waterdeep and its sewers. You become attuned to the ensemble as a single item.</text>
+    <text>The Masked Lords of Waterdeep don this ensemble when meeting with one another. This raiment renders each lord indistinguishable from the others. The ensemble consists of three pieces a helm, an amulet, and a robe&#42; that function as a single magic item when worn together, but only within the city of Waterdeep and its sewers. You become attuned to the ensemble as a single item.</text>
     <text>	Lord&#39;s Helm&#58; This bucket helm covers your head and conceals your face. Screens over the eyes help to shroud your identity without blinding you. While you wear the helm, your voice is magically altered to sound genderless, and you are immune to magic that allows other creatures to read your thoughts, to determine whether you are lying, to know your alignment, or to know your creature type. Creatures can communicate telepathically with you only if you allow it.</text>
     <text>	Lord&#39;s Amulet&#58; This amulet bears the crest of Waterdeep. It functions as an amulet of proof against detection and location.</text>
     <text>	Lord&#39;s Robe&#58; This elegant robe functions as a ring of free action, and it creates the illusion that you have a nondescript, androgynous humanoid build and stand 6 feet tall.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 191</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 191</text>
   </item>
   <item>
     <name>Loadstone</name>
@@ -1612,7 +1612,7 @@
     <text>	It travels to within 5 feet of its intended recipient by the most direct route, whereupon it turns into a nonmagical and inanimate sheet of parchment that can be unfolded only by the intended recipient. If the bird&#39;s hit points or speed is reduced to 0 or if it is otherwise immobilized, it turns into ash.</text>
     <text>	Paper birds usually come in small, flat boxes containing 1d6+3 sheets of the parchment.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p. 191</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p. 191</text>
   </item>
   <item>
     <name>Pennant of the Vind Rune</name>
@@ -1779,7 +1779,7 @@
     <text>	If smokepowder is set on fire, dropped, or otherwise handled roughly, it explodes and deals fire damage to each creature or object within 20 feet of it&#58; 1d6 for a packet, 9d6 for a keg. A successful DC 12 Dexterity saving throw halves the damage.</text>
     <text>	Casting dispel magic on smokepowder renders it permanently inert.</text>
     <text />
-    <text>Source&#58; Waterdeep &#45; Dragon Heist p.192</text>
+    <text>Source&#58; Waterdeep &#42; Dragon Heist p.192</text>
   </item>
   <item>
     <name>Spell Gem, Amber</name>
@@ -2681,7 +2681,7 @@
     <proficiency>Nature, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You are one of hundreds of refugees that were driven from Hillsfar or that fled the destruction of Myth Drannor and who now shelter in hidden camps under the northern eaves of the Cormanthor Forest. If you up grew in the camps, you have never been to a settlement other than the village of Elventree. As a guest of the elves, you have learned their ways and the ways of the forest. You are also a traumatized, as residual wild magic, energies released by the fall of Thultanar upon Myth Drannor, and the constant fear of raids hunting for non&#45; humans to fight in Hillsfar&#39;s Arena have taken their toll on you, as they have on everyone in the camps.</text>
+      <text>You are one of hundreds of refugees that were driven from Hillsfar or that fled the destruction of Myth Drannor and who now shelter in hidden camps under the northern eaves of the Cormanthor Forest. If you up grew in the camps, you have never been to a settlement other than the village of Elventree. As a guest of the elves, you have learned their ways and the ways of the forest. You are also a traumatized, as residual wild magic, energies released by the fall of Thultanar upon Myth Drannor, and the constant fear of raids hunting for non&#42; humans to fight in Hillsfar&#39;s Arena have taken their toll on you, as they have on everyone in the camps.</text>
     </trait>
     <trait>
       <name>Starting Proficiencies</name>
@@ -2810,7 +2810,7 @@
       <name>Disfigurement (Optional)</name>
       <text>In addition to extensive scarring, you may choose one of the following options to represent your disfigurement. This disfigurement is purely cosmetic, misshapen, and horrific to look upon.</text>
       <text />
-      <text>1. Small non-functional wing(s) or alternately &#45; misshapen, wing-like membranes along one or both arms</text>
+      <text>1. Small non-functional wing(s) or alternately &#42; misshapen, wing-like membranes along one or both arms</text>
       <text />
       <text>2. Elongated, claw-like hand(s) and/or feet</text>
       <text />
@@ -2842,7 +2842,7 @@
     </trait>
     <trait>
       <name>Equipment</name>
-      <text>A dagger, tattered rags, a loaf of moldy bread, a small cast-off scale belonging to Vorgansharax &#45; the Maimed Virulence, and a pouch with 5 gp of various coins (salvaged during your escape from Phlan)</text>
+      <text>A dagger, tattered rags, a loaf of moldy bread, a small cast-off scale belonging to Vorgansharax &#42; the Maimed Virulence, and a pouch with 5 gp of various coins (salvaged during your escape from Phlan)</text>
     </trait>
     <trait>
       <name>Personality Trait</name>
@@ -3022,7 +3022,7 @@
     <proficiency>History, Survival</proficiency>
     <trait>
       <name>Description</name>
-      <text>You have spent your life aboard fishing vessels or combing the shallows for the bounty of the ocean. Perhaps you were born into a family of fisher folk, working with your kin to feed your village. Maybe the job was a means to an end&#45; a way out of an undesirable circumstance that forced you to take up life aboard a ship. Regardless of how you began, you soon fell in love with the sea, the art of fishing, and the promise of the eternal horizon.</text>
+      <text>You have spent your life aboard fishing vessels or combing the shallows for the bounty of the ocean. Perhaps you were born into a family of fisher folk, working with your kin to feed your village. Maybe the job was a means to an end&#42; a way out of an undesirable circumstance that forced you to take up life aboard a ship. Regardless of how you began, you soon fell in love with the sea, the art of fishing, and the promise of the eternal horizon.</text>
     </trait>
     <trait>
       <name>Feature&#58; Harvest the Water</name>
@@ -3573,8 +3573,8 @@
     <proficiency>Perception, Stealth</proficiency>
     <trait>
       <name>Description</name>
-      <text>Hillsfar is the City of Trade. However, the Great Law of Trade only protects "legitimate" trade, trade that passes through the city&#39;s sole gate, which the Red Plumes monitor and tax. And the Great Law of Humanity banishes non&#45; humans from the city altogether. The two Great Laws create great demand and great risk for smugglers, who shepherd illicit goods and non-humans into and out of the city by secret routes. The Rogues Guild tightly controls all of this activity, taking its cut from sanctioned jobs and exacting punishment for independent jobs.</text>
-      <text>	Perhaps you trafficked Dragon&#39;s Breath (a brandy-like liquor) to avoid tariffs or contraband to avoid seizure, or maybe you are a human who sympathizes with the non&#45; humans and worked as part of the network of secret routes and safe houses that helps them pass through Hillsfar. Either way, you have contacts in the smuggling community who can help you slip into and out of the city unnoticed, for a price.</text>
+      <text>Hillsfar is the City of Trade. However, the Great Law of Trade only protects "legitimate" trade, trade that passes through the city&#39;s sole gate, which the Red Plumes monitor and tax. And the Great Law of Humanity banishes non&#42; humans from the city altogether. The two Great Laws create great demand and great risk for smugglers, who shepherd illicit goods and non-humans into and out of the city by secret routes. The Rogues Guild tightly controls all of this activity, taking its cut from sanctioned jobs and exacting punishment for independent jobs.</text>
+      <text>	Perhaps you trafficked Dragon&#39;s Breath (a brandy-like liquor) to avoid tariffs or contraband to avoid seizure, or maybe you are a human who sympathizes with the non&#42; humans and worked as part of the network of secret routes and safe houses that helps them pass through Hillsfar. Either way, you have contacts in the smuggling community who can help you slip into and out of the city unnoticed, for a price.</text>
     </trait>
     <trait>
       <name>Starting Proficiencies</name>
@@ -3851,7 +3851,7 @@
       <text></text>
       <text>4. Might&#58; The strong train so that they might rule those who are weak. (Evil)</text>
       <text></text>
-      <text>5. Bravery&#58; To act when others quake in fear&#45; this is the essence of the warrior. (Any)</text>
+      <text>5. Bravery&#58; To act when others quake in fear&#42; this is the essence of the warrior. (Any)</text>
       <text></text>
       <text>6. Perseverance&#58; No injury or obstacle can turn me from my goal. (Any)</text>
     </trait>
@@ -3971,7 +3971,7 @@
       <text></text>
       <text>5. Wealth and power are nothing. Fulfilment can only be found in artistic expression.</text>
       <text></text>
-      <text>6. It&#39;s not how you feel, who you know, or what you can do &#45; it&#39;s how you look, and I look fabulous.</text>
+      <text>6. It&#39;s not how you feel, who you know, or what you can do &#42; it&#39;s how you look, and I look fabulous.</text>
     </trait>
     <trait>
       <name>Flaw</name>
@@ -4323,7 +4323,7 @@
     <proficiency>Deception, Intimidation</proficiency>
     <trait>
       <name>Description</name>
-      <text>You grew up at a time when the wizards of Netheril were at war with the elves of Cormanthor. You recall sitting cross&#45; legged hearing the stories of the glorious Thultanthar, also called the Shade Enclave and the City of Shade, and aspired to study there and maybe even did, for a time. Your dreams came crashing down a few years ago when Thultanthar fell from the sky upon Myth Drannor.</text>
+      <text>You grew up at a time when the wizards of Netheril were at war with the elves of Cormanthor. You recall sitting cross&#42; legged hearing the stories of the glorious Thultanthar, also called the Shade Enclave and the City of Shade, and aspired to study there and maybe even did, for a time. Your dreams came crashing down a few years ago when Thultanthar fell from the sky upon Myth Drannor.</text>
       <text>	You know that there was a Netherese Garrison stationed near Hillsfar and have heard rumors that its downfall came from traitors within the ranks. You remain loyal to Netheril and seek other Shade loyalists and fanatics in the Cormanthor forest and the areas surrounding Hillsfar.</text>
     </trait>
     <trait>
@@ -4562,7 +4562,7 @@
     </trait>
     <trait>
       <name>Claim to Fame</name>
-      <text>Every smuggler has that one tale that sets them apart from common criminals. By wits, sailing skill, or a silver tongue, you lived co tell the story&#45; and you tell it often. You can roll on the following table to determine your claim or choose one that best fits your character.</text>
+      <text>Every smuggler has that one tale that sets them apart from common criminals. By wits, sailing skill, or a silver tongue, you lived co tell the story&#42; and you tell it often. You can roll on the following table to determine your claim or choose one that best fits your character.</text>
       <text></text>
       <text>1. Spirit of the Whale&#58; You smuggled stolen dwarven spirits in the body of a dead whale being pulled behind a fishing boat. When you delivered the goods, the corpse suddenly exploded, sending whale meat and whiskey bottles for half a mile.</text>
       <text></text>
@@ -11928,7 +11928,7 @@
     <cr>3</cr>
     <trait>
       <name>Source</name>
-      <text>Waterdeep &#45; Dungeon of the Mad Mage, p. 313</text>
+      <text>Waterdeep &#42; Dungeon of the Mad Mage, p. 313</text>
     </trait>
     <trait>
       <name>Metal Immunity</name>
@@ -11936,7 +11936,7 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The lava child makes two attacks&#45; one with its bite and one with its claws.</text>
+      <text>The lava child makes two attacks&#42; one with its bite and one with its claws.</text>
     </action>
     <action>
       <name>Bite</name>
@@ -16105,7 +16105,7 @@
     <cr>8</cr>
     <trait>
       <name>Source</name>
-      <text>Waterdeep &#45; Dungeon of the Mad Mage, p. 315</text>
+      <text>Waterdeep &#42; Dungeon of the Mad Mage, p. 315</text>
     </trait>
     <trait>
       <name>Lightning Absorption</name>
@@ -16117,7 +16117,7 @@
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The scaladar makes three attacks&#45; two with its claws and one with its sting</text>
+      <text>The scaladar makes three attacks&#42; two with its claws and one with its sting</text>
     </action>
     <action>
       <name>Claw</name>
@@ -19198,7 +19198,7 @@
     <cr>2</cr>
     <trait>
       <name>Source</name>
-      <text>Waterdeep &#45; Dungeon of the Mad Mage p. 317</text>
+      <text>Waterdeep &#42; Dungeon of the Mad Mage p. 317</text>
     </trait>
     <trait>
       <name>Shapechanger</name>
@@ -19705,7 +19705,7 @@
     </action>
     <action>
       <name>Thundercrack (Recharges after a Short or Long Rest)</name>
-      <text>Yan-C-Bin unleashes a terrible thundercrack in a 100-foot&#45; radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be deafened for 1 minute. On a successful save, a creature takes half as much damage and is deafened until the start of Yan-C-Bin&#39;s next turn.</text>
+      <text>Yan-C-Bin unleashes a terrible thundercrack in a 100-foot&#42; radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be deafened for 1 minute. On a successful save, a creature takes half as much damage and is deafened until the start of Yan-C-Bin&#39;s next turn.</text>
       <text>	</text>
       <text>Deafened&#58;</text>
       <text>&#8226; A deafened creature can&#39;t hear and automatically fails any ability check that requires hearing.</text>
