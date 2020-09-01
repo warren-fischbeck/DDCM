@@ -37702,7 +37702,16 @@
     <spells>
     </spells>
     <environment>Underdark</environment>
-    <description>None given.</description>
+    <description>An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vinelike stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw. 
+	An otyugh buries itself under mounds of offal and carrion, leaving only its sensory stalk exposed. When an edible creature happens by, the otyugh's tentacles erupt from the filth and grab hold of it. 
+	Otyughs make the most of any opportunity to ambush and devour prey. They use a limited form of telepathy to urge sentient creatures toward their lairs, sometimes by pretending to be something else. 
+	
+	Dwellers in Darkness
+	Otyughs tolerate bright light only when considerable stores of carrion or garbage lie within reach. In the wilderness, they dwell in stagnant swamps, scum-filled ponds, and damp forest dells. The scent of graveyards, city sewers, village middens, and manure-filled animal pens attracts them to civilized areas. 
+	Since otyughs lack concern for anything but food, their nests sometimes accumulate a variety of treasures shed from their victims and mixed among the junk. 
+	
+	Symbiotic Guardians
+	Sentient subterranean beings can coexist with otyughs, employing them as garbage disposals. With such plentiful sustenance, otyughs grow fat in their wallows, unmoved by any other drive or desire. This sedentary gluttony makes them reliable guardians. As long as it is fed, an otyugh refrains from attacking other creatures. However, would-be otyugh masters can easily underestimate the quantity of waste, carrion, and meat necessary to keep an otyugh from wandering off in search of food. More than one "trained" otyugh has eaten its keeper after devouring all the waste in its wallow.  </description>
     <action>
       <name>Multiattack</name>
       <text>The otyugh makes three attacks&#58; one with its bite and two with its tentacles.</text>
@@ -37813,7 +37822,22 @@
     <spells>
     </spells>
     <environment>Forest</environment>
-    <description>None given.</description>
+    <description>An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head. 
+	
+	Deadly Ferocity
+	The owlbear's reputation for ferocity, aggression, stubbornness and sheer ill temper makes it one of the most feared predators of the wild. There is little, if anything, that a hungry owlbear fears. Even monsters that outmatch an owlbear in size and strength avoid tangling with it, for this creature cares nothing about a foe's superior strength as it attacks without provocation. 
+	
+	Consummate Predators
+	An owl bear emerges from its den around sunset and hunts into the darkest hours of the night, hooting or screeching to declare its territory, to search for a mate, or to flush prey into its hunting grounds. These are typically forests familiar to the owlbear, and dense enough to limit its quarry's escape routes. 
+	An owlbear makes its den in a cave or ruin littered with the bones of its prey. It drags partially devoured kills back to its den, storing portions of the carcass among the surrounding rocks, bushes, and trees. The scent of blood and rotting flesh hangs heavy near an owlbear's lair, attracting scavengers and thus luring more prey. 
+	Owl bears hunt alone or in mated pairs. If quarry is plentiful, a family of owlbears might remain together for longer than is required to rear offspring. Otherwise, they part ways as soon as the young are ready to hunt. 
+	
+	Savage Companions
+	Although they are more intelligent than most animals, owlbears are difficult to tame. However, with enough time, food, and luck, an intelligent creature can train an owlbear to recognize it as a master, making it an unflinching guard or a fast and hardy mount. People of remote frontier settlements have even succeeded at racing owlbears, but spectators bet as often on which owl bear will attack its handler as they do on which will reach the finish line first. 
+	Elven communities encourage owlbears to den beneath their treetop villages, using the beasts as a natural defense during the night. Hobgoblins favor owlbears as war beasts, and hill giants and frost giants sometimes keep owlbears as pets. A starved owlbear might show up in a gladiatorial arena, ruthlessly eviscerating and devouring its foes before a bloodthirsty audience. 
+	
+	Owlbear Origins
+	Scholars have long debated the origins of the owlbear. The most common theory is that a demented wizard created the first specimen by crossing a giant owl with a bear. However, venerable elves claim to have known these creatures for thousands of years, and some fey insist that owl bears have always existed in the Feywild. </description>
     <action>
       <name>Multiattack</name>
       <text>The owlbear makes two attacks&#58; one with its beak and one with its claws.</text>
@@ -37979,7 +38003,16 @@
     <spells>
     </spells>
     <environment>Forest, Grassland, Hill</environment>
-    <description>None given.</description>
+    <description>The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds. 
+	
+	Noble Mounts
+	Pegasi are highly prized as swift and reliable steeds, being faster and less temperamental than griffons, hippogriffs, and wyverns. However, these wild and shy creatures are as intelligent as humanoids, and so can't be traditionally broken and tamed. A pegasus must be persuaded to serve a good-aligned creature as a mount, but when it does so, it forges a lifelong bond with its new companion. 
+	
+	Born of the Planes
+	Pegasi trace their origins to the Olympian Glades of Arborea, where they soar through the skies of that plane and serve as faithful mounts to the Seldarine, the pantheon of elven gods. These gods have been known to send pegasi to the Material Plane to aid those in need. 
+	
+	Pegasi Nests
+	Pegasi mate for life, build their nests in hard-to-reach locations, and give birth to live young. </description>
     <action>
       <name>Hooves</name>
       <text>Melee Weapon Attack&#58; +6 to hit, reach 5 ft., one target. Hit&#58; 11 (2d6 + 4) bludgeoning damage.</text>
@@ -38096,7 +38129,16 @@
     <spells>
     </spells>
     <environment>Hill, Mountain</environment>
-    <description>None given.</description>
+    <description>Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured. 
+	The peryton is a bizarre creature that blends the body and wings of a bird of prey with the head of a stag. Its strangest feature is its shadow, which appears humanoid rather than reflecting the creature's physical form. Sages postulate that the first perytons were humans transformed by a hideous curse or magical experiment, but bards tell a different tale of a man whose infidelity caused his scorned wife to cut out the heart of her younger, more beautiful rival and consume it in a ritual intended to forever win her husband's heart. The ritual succeeded until the woman's villainy was exposed. She was hanged for her crime, but the lingering magic of her foul ritual caused the carrion birds that feasted on her corpse to transform into the first perytons. 
+	
+	Unnatural Hunger
+	A peryton's reproductive cycle depends on the heart of a freshly killed humanoid. The organ must be consumed by a female peryton before she can reproduce. When a peryton consumes a heart, its shadow changes for a brief time to reflect its true monstrous form. 
+	When attacking a humanoid, a peryton is singleminded and relentless, fighting until it or its prey dies. If a peryton is somehow driven away, it stalks lost prey from afar, attacking again when the opportunity arises. 
+	
+	Bane of the Mountains
+	Perytons roost atop mountain ridges and lair in high caves. They prey on creatures living or wandering in the vales below, and travelers on lonely mountain roads learn to keep a wary eye on the sky. Because normal weapons are less effective against perytons, the folk of the mountains know to avoid confrontations with these monsters at all costs. 
+	Established settlements are attractive to perytons as a renewable food source. As such, village councils and local nobles' often hire adventurers to eliminate peryton nests </description>
     <action>
       <name>Multiattack</name>
       <text>The peryton makes one gore attack and one talon attack.</text>
@@ -38345,7 +38387,12 @@
     <spells>
     </spells>
     <environment>Underdark</environment>
-    <description>None given.</description>
+    <description>Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below. 
+	A piercer is the larval form of a roper, and the two creatures often attack in tandem. A rock-like shell encases a piercer's body, giving it the look and texture of a stalactite. That shell protects a soft, slug-like upper body that lets the piercer move across cavern walls and ceilings to position itself for prey. With its eye and mouth closed, the piercer is difficult to distinguish from ordinary rock formations. 
+	
+	Patient Hunters
+	Piercers can see, but they can also respond to noise and heat, waiting for living creatures to pass beneath them, then falling to attack. A piercer that misses its chance to kill must make its slow way back to the ceiling. A fallen piercer excretes a foul-smelling slime when attacked, making most predators think twice about eating it. 
+	Piercers gather in colonies to maximize the effectiveness of their attacks, dropping simultaneously to increase the odds of striking prey. After a piercer successfully slays a creature, the others slowly creep toward the corpse to join in the feast. </description>
     <action>
       <name>Drop</name>
       <text>Melee Weapon Attack&#58; +3 to hit, one creature directly underneath the piercer. Hit&#58; 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6). Miss&#58; The piercer takes half the normal falling damage for the distance fallen.</text>
@@ -38521,7 +38568,20 @@
     </slots>
     <spells>druidcraft, confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep</spells>
     <environment>Forest</environment>
-    <description>None given.</description>
+    <description>Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise. Curious as cats and shy as deer, pixies go where they please. They like to spy on other creatures and can barely contain their excitement around them. The urge to introduce themselves and strike up a friendship is almost overwhelming; only a pixie's fear of being captured or attacked stays its hand. Those who wander through a pixie's glade might never see the creatures, yet hear the occasional giggle, gasp, or sigh. 
+	Pixies array themselves like princes and princesses of the fey, wearing flowing gowns and doublets of silk that sparkle like moonlight on a pond. Some dress in acorns, leaves, bark, and the pelts of tiny woodland beasts. They take great pride in their regalia and beam with joy when they are complimented on their ensembles. 
+	
+	Magical Faerie Folk
+	With their innate power of invisibility, pixies rarely appear unless they wish to be seen. In the Feywild and on the Material Plane, pixies etch patterns of frost on winter ponds and rouse the buds in springtime. They cause flowers to sparkle with summer dew, and color the leaves with the blazing hues of autumn. 
+	
+	Pixie Dust
+	When pixies fly visibly, a shower of sparkling dust follows in their wake like the glittering tail of a shooting star. A mere sprinkle of pixie dust is said to be able to grant the power of flight, confuse a creature hopelessly, or send foes into a magical slumber. Only pixies can use their dust to its full potential, but these fey are constantly sought out by mages and monsters seeking to study or master their power. 
+	
+	Tiny Tricksters
+	While the arrival of visitors piques their curiosity, pixies are too shy to reveal themselves at first. They study the visitors from afar to gauge their temperament or play harmless tricks on them to measure their reactions. For example, pixies might tie a dwarf's boots together, create illusions of strange creatures or treasures, or use dancing lights to lead interlopers astray. If the visitors respond with hostility, the pixies give them a wide berth. If the visitors are good natured, the pixies are likely to be emboldened and more friendly. The fey might even emerge and offer to guide their "guests" along a safe route or invite them to a tiny yet satisfying feast prepared in their honor. 
+	
+	Opposed to Violence
+	Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner flee than get into a physical altercation with any enemy.</description>
     <action>
       <name>Superior Invisibility</name>
       <text>The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it.</text>
