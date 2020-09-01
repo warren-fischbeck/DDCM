@@ -10241,6 +10241,25 @@
     <spells></spells>
     <slots></slots>
     <environment>coastal, forest, hill, mountain</environment>
+    <description>
+      Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume. A harpy combines the body, legs, and wings of a vulture with the torso, arms, and head of a human.
+      Its wicked talons and bone club make it a formidable threat in combat, and its eyes reflect the absolute evil of its soul.
+
+      Divine Curse
+      Long ago, an elf wandering a forest heard birdsong so pure and wholesome that she was moved to tears. Following the music, she came upon a clearing where stood a handsome elf youth who had also paused to hear the bird&#39;s song. This was Fenmarel Mestarine, a reclusive elf god. His divine presence stole her heart as he fled, vanishing into the woods as if he was never there.
+      Though the elf searched the woods and called for her stranger, she found no sign of his passage. Driven ot despair by her longing, she begged the gods to help her. Aerdrie Faenya, elf goddess of the sky, heard the elf&#39;s cries and was moved to her aid. She appeared as the bird whose song had entranced the outcast god, then taught that song of beauty and seduction to the elf.
+      When her singing failed to draw Fenmarel Mestarine to her side, the elf cursed the gods, invoking a dreadful power and transforming her into the first harpy. The curse worked its magic on the elf&#39;s spirit as well as her body, turning her desire for love into a hunger for flesh, even as her beautiful song continued to draw creatures to her deadly embrace.
+
+      Harpy Song
+      To hear a harpy&#39;s song is to hear music more beautiful than anything else in the world. A traveler that succumbs to the entrancing effect of that singing is compelled to blunder toward its source. A harpy sometimes charms victims before it attacks, but a more effective use of its song is to lure prey over cliffs, into bogs and quicksand, or into deadly pits. Creatures trapped or incapacitated then become easy targets for the harpy&#39;s wrath.
+
+      Sadistic Cowards
+      Harpies haunt bleak coastal cliffs and other places hazardous to non-flying creatures. Harpies have no interest in a fair fight, and they never attack unless they have a clear advantage. If a fight turns against a harpy, it lacks the cunning to adapt and will flee and go hungry rather than risk straight-up combat.
+      When they attack, harpies play with their food, delighting in the "music" their victims make as they scream. A harpy takes its time dismembering a helpless foe and can spend days torturing a victim before the merciful end.
+
+      Gruesome Collectors
+      Harpies take shiny baubles, valuable objects, and other trophies from their victims, sometimes fighting with each other for the right to claim the choicest prizes. When no valuable objects can be found, a harpy takes hair, bones, or body parts to line its nest. A harpy&#39;s lair is usually hidden in remote ruins, where adventurers can discover valuable treasure and magic hidden beneath foul piles of offal.
+    </description>
   </monster>
   <monster>
     <name>Hellenrae</name>
@@ -12187,6 +12206,26 @@
     <spells></spells>
     <slots></slots>
     <environment>forest, swamp</environment>
+	    <description>Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns. 
+	
+	Territorial Xenophobes
+	Lizardfolk deal and trade with other races only rarely. Fiercely territorial, they use camouflaged scouts to guard the perimeter of their domain. When unwelcome visitors are detected, a tribe sends a hunting band to harass or drive the trespassers off, or tricks them into blundering into the la irs of crocodiles and other dangerous creatures. 
+	Lizardfolk have no notion of traditional morality, and they find the concepts of good and evil utterly alien. Truly neutral creatures, they kill when it is expedient and do whatever it takes to survive. 
+	Lizardfolk rarely stray beyond their claimed hunting grounds. Any creature that enters their territory is fair game to be stalked, killed, and devoured. They make no distinction between humanoids, beasts, and monsters. Similarly, lizardfolk don&#39;t like reaching too far beyond their borders, where they could easily become the hunted instead of the hunters. 
+	Occasions might arise when lizard folk will form alliances with their neighbors. These lizardfolk usually learn firsthand that humans, dwarves, halflings, and elves can sometimes prove helpful or trustworthy. Once lizardfolk forge ties with outsiders, they are steadfast and fierce allies. 
+	
+	Great Feasts and Sacrifices
+	Lizard folk are omnivorous, but they have a taste for humanoid flesh. Prisoners are often taken back to their camps to become the centerpieces of great feasts and rites involving dancing, storytelling, and ritual combat. Victims are either cooked and eaten by the tribe, or a resacrificed to Semuanya, the lizardfolk god. 
+	
+	Canny Grafters
+	Though they aren&#39;t skilled artisans, lizardfolk craft tools and ornamental jewelry out of the bones of their kills, and they use the hides and shells of dead monsters to create shields. 
+	
+	Lizardfolk Leaders
+	Lizardfolk respect and fear magic with a religious awe. Lizardfolk shamans lead their tribes, overseeing rites and ceremonies performed to honor Semuanya. From time to time, however, a lizardfolk tribe produces a powerful figure touched not by Semuanya but by Sess&#39;inek - a reptilian demon lord who seeks to corrupt and control the lizardfolk. 
+	Lizard folk born in Sess&#39;inek&#39;s image are larger and more cunning than other lizardfolk, and are thoroughly evil. These lizard kings and queens dominate lizardfolk tribes, usurping a shaman&#39;s authority and inspiring uncharacteristic aggression among their subjects. 
+	
+	Dragon Worshipers
+	Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers. </description>
   </monster>
   <monster>
     <name>Lizardfolk Render</name>
@@ -12245,6 +12284,26 @@
     <spells></spells>
     <slots></slots>
     <environment>forest, swamp</environment>
+	    <description>Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns. 
+	
+	Territorial Xenophobes
+	Lizardfolk deal and trade with other races only rarely. Fiercely territorial, they use camouflaged scouts to guard the perimeter of their domain. When unwelcome visitors are detected, a tribe sends a hunting band to harass or drive the trespassers off, or tricks them into blundering into the la irs of crocodiles and other dangerous creatures. 
+	Lizardfolk have no notion of traditional morality, and they find the concepts of good and evil utterly alien. Truly neutral creatures, they kill when it is expedient and do whatever it takes to survive. 
+	Lizardfolk rarely stray beyond their claimed hunting grounds. Any creature that enters their territory is fair game to be stalked, killed, and devoured. They make no distinction between humanoids, beasts, and monsters. Similarly, lizardfolk don&#39;t like reaching too far beyond their borders, where they could easily become the hunted instead of the hunters. 
+	Occasions might arise when lizard folk will form alliances with their neighbors. These lizardfolk usually learn firsthand that humans, dwarves, halflings, and elves can sometimes prove helpful or trustworthy. Once lizardfolk forge ties with outsiders, they are steadfast and fierce allies. 
+	
+	Great Feasts and Sacrifices
+	Lizard folk are omnivorous, but they have a taste for humanoid flesh. Prisoners are often taken back to their camps to become the centerpieces of great feasts and rites involving dancing, storytelling, and ritual combat. Victims are either cooked and eaten by the tribe, or a resacrificed to Semuanya, the lizardfolk god. 
+	
+	Canny Grafters
+	Though they aren&#39;t skilled artisans, lizardfolk craft tools and ornamental jewelry out of the bones of their kills, and they use the hides and shells of dead monsters to create shields. 
+	
+	Lizardfolk Leaders
+	Lizardfolk respect and fear magic with a religious awe. Lizardfolk shamans lead their tribes, overseeing rites and ceremonies performed to honor Semuanya. From time to time, however, a lizardfolk tribe produces a powerful figure touched not by Semuanya but by Sess&#39;inek - a reptilian demon lord who seeks to corrupt and control the lizardfolk. 
+	Lizard folk born in Sess&#39;inek&#39;s image are larger and more cunning than other lizardfolk, and are thoroughly evil. These lizard kings and queens dominate lizardfolk tribes, usurping a shaman&#39;s authority and inspiring uncharacteristic aggression among their subjects. 
+	
+	Dragon Worshipers
+	Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers. </description>
   </monster>
   <monster>
     <name>Lizardfolk Scaleshield</name>
@@ -12300,6 +12359,26 @@
     <spells></spells>
     <slots></slots>
     <environment>forest, swamp</environment>
+	    <description>Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns. 
+	
+	Territorial Xenophobes
+	Lizardfolk deal and trade with other races only rarely. Fiercely territorial, they use camouflaged scouts to guard the perimeter of their domain. When unwelcome visitors are detected, a tribe sends a hunting band to harass or drive the trespassers off, or tricks them into blundering into the la irs of crocodiles and other dangerous creatures. 
+	Lizardfolk have no notion of traditional morality, and they find the concepts of good and evil utterly alien. Truly neutral creatures, they kill when it is expedient and do whatever it takes to survive. 
+	Lizardfolk rarely stray beyond their claimed hunting grounds. Any creature that enters their territory is fair game to be stalked, killed, and devoured. They make no distinction between humanoids, beasts, and monsters. Similarly, lizardfolk don&#39;t like reaching too far beyond their borders, where they could easily become the hunted instead of the hunters. 
+	Occasions might arise when lizard folk will form alliances with their neighbors. These lizardfolk usually learn firsthand that humans, dwarves, halflings, and elves can sometimes prove helpful or trustworthy. Once lizardfolk forge ties with outsiders, they are steadfast and fierce allies. 
+	
+	Great Feasts and Sacrifices
+	Lizard folk are omnivorous, but they have a taste for humanoid flesh. Prisoners are often taken back to their camps to become the centerpieces of great feasts and rites involving dancing, storytelling, and ritual combat. Victims are either cooked and eaten by the tribe, or a resacrificed to Semuanya, the lizardfolk god. 
+	
+	Canny Grafters
+	Though they aren&#39;t skilled artisans, lizardfolk craft tools and ornamental jewelry out of the bones of their kills, and they use the hides and shells of dead monsters to create shields. 
+	
+	Lizardfolk Leaders
+	Lizardfolk respect and fear magic with a religious awe. Lizardfolk shamans lead their tribes, overseeing rites and ceremonies performed to honor Semuanya. From time to time, however, a lizardfolk tribe produces a powerful figure touched not by Semuanya but by Sess&#39;inek - a reptilian demon lord who seeks to corrupt and control the lizardfolk. 
+	Lizard folk born in Sess&#39;inek&#39;s image are larger and more cunning than other lizardfolk, and are thoroughly evil. These lizard kings and queens dominate lizardfolk tribes, usurping a shaman&#39;s authority and inspiring uncharacteristic aggression among their subjects. 
+	
+	Dragon Worshipers
+	Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers. </description>
   </monster>
   <monster>
     <name>Lizardfolk Subchief</name>
@@ -12357,6 +12436,26 @@
     <spells>light, sacred flame, spare the dying, thaumaturgy, command, guiding bolt, purify food and drink, hold person, lesser restoration, silence, bestow curse, dispel magic</spells>
     <slots>4, 3, 2</slots>
     <environment>forest, swamp</environment>
+	    <description>Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns. 
+	
+	Territorial Xenophobes
+	Lizardfolk deal and trade with other races only rarely. Fiercely territorial, they use camouflaged scouts to guard the perimeter of their domain. When unwelcome visitors are detected, a tribe sends a hunting band to harass or drive the trespassers off, or tricks them into blundering into the la irs of crocodiles and other dangerous creatures. 
+	Lizardfolk have no notion of traditional morality, and they find the concepts of good and evil utterly alien. Truly neutral creatures, they kill when it is expedient and do whatever it takes to survive. 
+	Lizardfolk rarely stray beyond their claimed hunting grounds. Any creature that enters their territory is fair game to be stalked, killed, and devoured. They make no distinction between humanoids, beasts, and monsters. Similarly, lizardfolk don&#39;t like reaching too far beyond their borders, where they could easily become the hunted instead of the hunters. 
+	Occasions might arise when lizard folk will form alliances with their neighbors. These lizardfolk usually learn firsthand that humans, dwarves, halflings, and elves can sometimes prove helpful or trustworthy. Once lizardfolk forge ties with outsiders, they are steadfast and fierce allies. 
+	
+	Great Feasts and Sacrifices
+	Lizard folk are omnivorous, but they have a taste for humanoid flesh. Prisoners are often taken back to their camps to become the centerpieces of great feasts and rites involving dancing, storytelling, and ritual combat. Victims are either cooked and eaten by the tribe, or a resacrificed to Semuanya, the lizardfolk god. 
+	
+	Canny Grafters
+	Though they aren&#39;t skilled artisans, lizardfolk craft tools and ornamental jewelry out of the bones of their kills, and they use the hides and shells of dead monsters to create shields. 
+	
+	Lizardfolk Leaders
+	Lizardfolk respect and fear magic with a religious awe. Lizardfolk shamans lead their tribes, overseeing rites and ceremonies performed to honor Semuanya. From time to time, however, a lizardfolk tribe produces a powerful figure touched not by Semuanya but by Sess&#39;inek - a reptilian demon lord who seeks to corrupt and control the lizardfolk. 
+	Lizard folk born in Sess&#39;inek&#39;s image are larger and more cunning than other lizardfolk, and are thoroughly evil. These lizard kings and queens dominate lizardfolk tribes, usurping a shaman&#39;s authority and inspiring uncharacteristic aggression among their subjects. 
+	
+	Dragon Worshipers
+	Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers. </description>
   </monster>
   <monster>
     <name>Locathah</name>
@@ -13057,6 +13156,18 @@
     <spells></spells>
     <slots></slots>
     <environment></environment>
+    <description>A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death. 
+	
+	The Beast Within
+	Most minotaurs are solitary carnivores that roam labyrinthine dungeons, twisting caves, primeval woods, and the maze-like streets and passages of desolate ruins. A minotaur can visualize every route it might take to close the distance to its prey. 
+	The scent of blood, the tearing of flesh, and the cracking of bones spur a minotaur's lust for carnage, overwhelming all thought and reason. In a blood rage, a minotaur charges anything it sees, butting and goring like a battering ram, then chopping the fallen in twain. 
+	Apart from ambushing creatures that wander into its labyrinth, a minotaur cares little for strategy or tactics. Minotaurs seldom organize, they don't respect authority or hierarchy, and they are notoriously difficult to enslave, let alone control. 
+	
+	Cults of the Horned King
+	Minotaurs are the dark descendants of humanoids transformed by the rituals of cults that reject the oppression of authority by returning to nature. Inductees often mistake these cults for druidic circles or totemic religions whose ceremonies involve entering a labyrinth while wearing a ceremonial animal mask. 
+	Within these bounded environments, cultists hunt, kill, and eat wild beasts, indulging their basest primal urges. In the end, however, sacrificial animals are exchanged for humanoid sacrifice- sometimes an inductee that tried to escape the cult after learning its secrets. These labyrinths become blood-soaked halls of slaughter, echoing to the cultists' savagery. 
+	Unknown to all but their highest-ranking leaders, these mystery cults are creations of the demon lord Baphomet, the Horned King, whose layer of the Abyss is a gigantic labyrinth. Some of his followers are fervent supplicants that plead for strength and power. Others come to the cult seeking a life free from authority's chains- and are liberated of their humanity instead as Baphomet transforms them into the minotaurs that echo his own savage form. 
+	Although they begin as creations of the Horned King, minotaurs can breed true with one another, giving rise to an independent race of Baphomet's savage children in the world. </description>	
   </monster>
   <monster>
     <name>Miraj Vizann</name>

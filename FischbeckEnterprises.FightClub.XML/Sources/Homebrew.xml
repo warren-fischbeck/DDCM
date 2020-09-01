@@ -2331,14 +2331,14 @@
 	  Petrifiction
 	  &#42; A secret ritual unique to the Moonclaw tribe.  When the goblin is reduced to 0 hitpoints but not killed outright, it can use its reaction to become petrified.
 	  &#42; A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a sold inanimate substance (usually stone.)  Its weight increases by a factor of ten, and it ceases aging.
-	  &#42; The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surrounds.
+	  &#42; The creature is incapacitated (see the condition), can&#39;t move or speak, and is unaware of its surrounds.
 	  &#42; Attack rolls against the creature have advantage.
 	  &#42; The creature automatically fails Strength and Dexterity saving throws.
 	  &#42; The creature has resistance to all damage.
 	  &#42; The creature is immune to poison and disease, although a poison or desease already in its seytem is suspended, not neutralized.
 	  
 	  Incapacitated
-	  &#42; An incapacitated creature can't take actions or reactions.
+	  &#42; An incapacitated creature can&#39;t take actions or reactions.
     </description>
  </monster>
   <monster>
@@ -2420,21 +2420,21 @@
 	  Petrifiction
 	  &#42; A secret ritual unique to the Moonclaw tribe.  When the goblin is reduced to 0 hitpoints but not killed outright, it can use its reaction to become petrified.
 	  &#42; A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a sold inanimate substance (usually stone.)  Its weight increases by a factor of ten, and it ceases aging.
-	  &#42; The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surrounds.
+	  &#42; The creature is incapacitated (see the condition), can&#39;t move or speak, and is unaware of its surrounds.
 	  &#42; Attack rolls against the creature have advantage.
 	  &#42; The creature automatically fails Strength and Dexterity saving throws.
 	  &#42; The creature has resistance to all damage.
 	  &#42; The creature is immune to poison and disease, although a poison or desease already in its seytem is suspended, not neutralized.
 	  
 	  Incapacitated
-	  &#42; An incapacitated creature can't take actions or reactions.
+	  &#42; An incapacitated creature can&#39;t take actions or reactions.
     </description>
   </monster>
   
   <feat>
     <name>Boon of Advancement</name>
     <prerequisite>20th level</prerequisite>
-	<text>Choose a class that you already have levels in, you gain one of the subclass features that you do not already possess.  The subclass feature must be the lowest leveled ability that you don't already possess for that subclass.</text>
+	<text>Choose a class that you already have levels in, you gain one of the subclass features that you do not already possess.  The subclass feature must be the lowest leveled ability that you don&#39;t already possess for that subclass.</text>
 	<text />
 	<text>You can take this Boon multiple times.</text>
 	<text />
@@ -2445,7 +2445,7 @@
   <feat>
     <name>Boon of Combat Prowess</name>
     <prerequisite>20th level</prerequisite>
-	<text>When you miss with a melee weapon attack, you can choose to hit instead.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text>When you miss with a melee weapon attack, you can choose to hit instead.  Once you use this boon, you can&#39;t use it again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2454,7 +2454,7 @@
   <feat>
     <name>Boon of Dimensional Travel</name>
     <prerequisite>20th level</prerequisite>
-	<text>As an action, you can cast the misty step spell, without using a spell slot or any components.  Once you do so, you can't use this boon again until you finish a short rest.</text>
+	<text>As an action, you can cast the misty step spell, without using a spell slot or any components.  Once you do so, you can&#39;t use this boon again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2463,7 +2463,7 @@
   <feat>
     <name>Boon of Fate</name>
     <prerequisite>20th level</prerequisite>
-	<text>When another creature that you can see within 60 feet of you makes an ability check, an attack roll, or a saving throw, you can roll a d10 and apply the result as a bonus or penalty to the roll.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text>When another creature that you can see within 60 feet of you makes an ability check, an attack roll, or a saving throw, you can roll a d10 and apply the result as a bonus or penalty to the roll.  Once you use this boon, you can&#39;t use it again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2490,7 +2490,7 @@
   <feat>
     <name>Boon of Immortality</name>
     <prerequisite>20th level</prerequisite>
-	<text>You stop aging.  You are immune to any effect that would age you, and you can't die from old age.</text>
+	<text>You stop aging.  You are immune to any effect that would age you, and you can&#39;t die from old age.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2499,7 +2499,7 @@
   <feat>
     <name>Boon of Invincibility</name>
     <prerequisite>20th level</prerequisite>
-	<text>When you take damage from any source, you can reduce that damage to 0.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text>When you take damage from any source, you can reduce that damage to 0.  Once you use this boon, you can&#39;t use it again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2517,7 +2517,7 @@
   <feat>
     <name>Boon of Luck</name>
     <prerequisite>20th level</prerequisite>
-	<text>You can add a d10 roll to any ability check, attack roll, or saving throw you make.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text>You can add a d10 roll to any ability check, attack roll, or saving throw you make.  Once you use this boon, you can&#39;t use it again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2535,7 +2535,7 @@
   <feat>
     <name>Boon of Peerless Aim</name>
     <prerequisite>20th level</prerequisite>
-	<text>You can give yourself a +20 bonus to a ranged attack roll you make.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text>You can give yourself a +20 bonus to a ranged attack roll you make.  Once you use this boon, you can&#39;t use it again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2553,7 +2553,7 @@
   <feat>
     <name>Boon of Planar Travel</name>
     <prerequisite>20th level</prerequisite>
-	<text>When you gain this boon, choose a plane of existence other than the Material Plane.  You can now use an action to cast the plane shift spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane.  Once you use this boon, you can't use it again until you finish a short rest.</text>
+	<text>When you gain this boon, choose a plane of existence other than the Material Plane.  You can now use an action to cast the plane shift spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane.  Once you use this boon, you can&#39;t use it again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2562,7 +2562,7 @@
   <feat>
     <name>Boon of Quick Casting</name>
     <prerequisite>20th level</prerequisite>
-	<text>Choose one of your spells of 1st through 3rd level that has a casting time of 1 action.  That spell's casting time is now 1 bonus action for you.</text>
+	<text>Choose one of your spells of 1st through 3rd level that has a casting time of 1 action.  That spell&#39;s casting time is now 1 bonus action for you.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2571,7 +2571,7 @@
   <feat>
     <name>Boon of Recovery</name>
     <prerequisite>20th level</prerequisite>
-	<text>You can use a bonus action to regain a number of hit points equal to half your hit point maximum.  Once you use this boon, you can't use it again until you finish a long rest.</text>
+	<text>You can use a bonus action to regain a number of hit points equal to half your hit point maximum.  Once you use this boon, you can&#39;t use it again until you finish a long rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2599,7 +2599,7 @@
     <name>Boon of Speed</name>
     <prerequisite>20th level</prerequisite>
 	<text>Your walking speed increases by 30 feet.</text>
-	<text>In addition, you can use a bonus action to take the Dash or Disengage action.  Once you do so, you can't do so again until you finish a short rest.</text>
+	<text>In addition, you can use a bonus action to take the Dash or Disengage action.  Once you do so, you can&#39;t do so again until you finish a short rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2617,7 +2617,7 @@
   <feat>
     <name>Boon of Spell Recall</name>
     <prerequisite>20th level</prerequisite>
-	<text>You can cast any spell you know or have prepared without expending a spell slot.  Once you do so, you can't use this boon again until you finish a long rest.</text>
+	<text>You can cast any spell you know or have prepared without expending a spell slot.  Once you do so, you can&#39;t use this boon again until you finish a long rest.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />
@@ -2671,7 +2671,7 @@
   <feat>
     <name>Boon of Undetectability</name>
     <prerequisite>20th level</prerequisite>
-	<text>You gain a +10 bonus to Dexterity (Stealth) checks, and you can't be detected or targeted by divination magic, including scrying sensors.</text>
+	<text>You gain a +10 bonus to Dexterity (Stealth) checks, and you can&#39;t be detected or targeted by divination magic, including scrying sensors.</text>
 	<text />
 	<text>Epic boons are used as a form of advancement, a way to provide greater power to characters who have no more levels to gain.  With this approach, consider awarding one epic boon to each character for every 30,000 XP he or she earns above 355,000 XP.</text>
 	<text />

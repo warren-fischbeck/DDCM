@@ -5335,7 +5335,16 @@
     </trait>
     <slots>4, 3, 3</slots>
     <spells>druidcraft, minor illusion, shocking grasp, cure wounds, fog cloud, thunderwave, hold person, mirror image, misty step, dispel magic, lightning bolt, sleet storm</spells>
-    <description>Source&#58; Explorer&#39;s Guide to Wildemount p. 294</description>
+    <description>Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed. 
+	
+	Transformed Merfolk
+	Long ago, a tribe of merfolk found an idol of Demogorgon at the bottom of the sea. Not knowing what it was, they brought the artifact to their king. Everyone who touched the idol became afflicted with madness, including the king, who decreed that a sacrificial ritual be performed to open a gateway to the Abyss. The ocean turned red with the blood of slaughtered merfolk, but the ritual worked, and the king led the survivors through the underwater gate to Demogorgon's layer of the Abyss. The merfolk remained there for generations, fighting for their lives as the Abyss warped them completely, transforming them into hulking, evil monstrosities. Thus, the first merrow were born. 
+	
+	Coastal Bullies
+	Whenever an opportunity presents itself, the Prince of Demons sends merrow back to the Material Plane to wreak havoc in the oceans. The merrow are bullies, attacking all creatures smaller and weaker than themselves. 
+	Merrow dwell in undersea caves filled with treasures and trophies, taken from their victims and sunken ships. They tie the rotting corpses of dead enemies and drowned sailors to strands of kelp to mark the borders of their territory.
+	
+	Source&#58; Explorer&#39;s Guide to Wildemount p. 294</description>
     <environment></environment>
   </monster>
   <monster>
