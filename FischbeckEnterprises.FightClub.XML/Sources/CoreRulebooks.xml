@@ -17022,7 +17022,7 @@
     <text>Source&#58; Dungeon Master&#39;s Guide p. 227</text>
     <modifier category="bonus">melee attacks +3</modifier>
     <modifier category="bonus">melee damage +3</modifier>
-    <modifier category="bonus">ac+3</modifier>
+    <modifier category="bonus">ac +3</modifier>
   </item>
   <item>
     <name>Wand of Paralysis</name>

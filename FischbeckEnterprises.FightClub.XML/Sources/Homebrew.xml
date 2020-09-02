@@ -532,7 +532,7 @@
     <text>Source&#58; Custom item in World of Koreth, OneNote &#42; Warren Fischbeck</text>
     <modifier category="bonus">melee attacks +1</modifier>
     <modifier category="bonus">melee damage +1</modifier>
-    <modifier category="bonus">spell attacks +2</modifier>
+    <modifier category="bonus">spell attack +2</modifier>
     <roll>3D6</roll>
   </item>
   <item>

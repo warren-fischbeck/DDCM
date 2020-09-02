@@ -506,19 +506,384 @@ class ActionTraitLegendary
     [string] $Attack
 }
 
+class Modifier
+{
+    [string] $Name
+
+    [ValidateSet("melee attacks +1",
+                 "melee attacks +2",
+                 "melee attacks +3",
+                 "melee damage +1",
+                 "melee damage +2",
+                 "melee damage +3",
+                 "initiative +1",
+                 "initiative +2",
+                 "initiative +3",
+                 "initiative +4",
+                 "initiative +5",
+                 "initiative +6",
+                 "initiative +7",
+                 "initiative +8",
+                 "initiative +9",
+                 "initiative +10",
+                 "ac +1",
+                 "ac +2",
+                 "ac +3",
+                 "ac +4",
+                 "ac +5",
+                 "spell attack +1",
+                 "spell attack +2",
+                 "spell attack +3",
+                 "spell attack +4",
+                 "spell attack +5",
+                 "ranged attacks +1",
+                 "ranged attacks +2",
+                 "ranged attacks +3",
+                 "ranged damage +1",
+                 "ranged damage +2",
+                 "ranged damage +3",
+                 "saving throws +1",
+                 "saving throws +2",
+                 "saving throws +3",
+                 "saving throws +4",
+                 "saving throws +5",
+                 "weapon attacks +1",
+                 "weapon attacks +2",
+                 "weapon attacks +3",
+                 "weapon damage +1",
+                 "weapon damage +2",
+                 "weapon damage +3",
+                 "speed -1",
+                 "speed -2",
+                 "speed -3",
+                 "speed -4",
+                 "speed -5",
+                 "speed -6",
+                 "speed -7",
+                 "speed -8",
+                 "speed -9",
+                 "speed -10",
+                 "speed +1",
+                 "speed +2",
+                 "speed +3",
+                 "speed +4",
+                 "speed +5",
+                 "speed +6",
+                 "speed +7",
+                 "speed +8",
+                 "speed +9",
+                 "speed +10",
+                 "arcana+%0",
+                 "history+%0",
+                 "spell dc +1",
+                 "spell dc +2",
+                 "spell dc +3",
+                 "strength +1",
+                 "strength +2",
+                 "strength +3",
+                 "strength +4",
+                 "strength +5",
+                 "dexterity +1",
+                 "dexterity +2",
+                 "dexterity +3",
+                 "dexterity +4",
+                 "dexterity +5",
+                 "constitution +1",
+                 "constitution +2",
+                 "constitution +3",
+                 "constitution +4",
+                 "constitution +5",
+                 "intelligence +1",
+                 "intelligence +2",
+                 "intelligence +3",
+                 "intelligence +4",
+                 "intelligence +5",
+                 "wisdom +1",
+                 "wisdom +2",
+                 "wisdom +3",
+                 "wisdom +4",
+                 "wisdom +5",
+                 "charisma +1",
+                 "charisma +2",
+                 "charisma +3",
+                 "charisma +4",
+                 "charisma +5",
+                 "proficiency bonus +1",
+                 "proficiency bonus +2",
+                 "proficiency bonus +3",
+                 "proficiency bonus +4",
+                 "proficiency bonus +5",
+                 "proficiency bonus +6",
+                 "proficiency bonus +7",
+                 "proficiency bonus +8",
+                 "proficiency bonus +9",
+                 "proficiency bonus +10"
+                 )]
+    [string[]] $Text
+
+    [string] $Category
+}
+
+class ItemXML
+{
+    [string] $Name
+
+    [ValidateSet("LA","MA","HA","S","M","R","A","RD","ST","WD","RG","P","SC","W","G","$")]
+    [string] $Type
+
+    [string] $Value
+
+    [string] $Weight
+
+    [string[]] $Text
+
+    [string] $AC
+
+    [string] $Strength
+
+    [ValidateSet(1,0)]
+    $Stealth
+
+    [string] $Dmg1
+
+    [string] $Dmg2
+
+    [ValidateSet("B","P","S","A","C","F","FC","L","N","PS","R","T")]
+    $DmgType
+
+    [ValidateSet("A","F","H","L","LD","R","S","T","2H","V","M")]
+    [string[]] $Property
+
+    [string] $Range
+
+    [Modifier[]] $Modifier
+
+    [string[]] $Roll
+
+    [string] $Magic
+
+    [xml] $XML
+
+    ItemXML ([string] $Name)
+    {
+        $this.Name = $Name
+        $this.Modifier = [Modifier]::new()
+    }
+
+    CreateXML($XMLFile)
+    {
+        $this.XML = $XMLFile
+        $this.Compare()
+    }
+
+    Compare ()
+    {
+        $Create = $true
+
+        foreach($item in $this.XML.compendium.item)
+        {
+            if($item.name -eq $this.Name)
+            {
+                $Create = $false
+                Write-Host -ForegroundColor White -BackgroundColor Black "Found - $($this.Name)"
+            }
+        }
+        if($Create)
+        {
+            $this.CreateNew()
+        }
+    }
+
+    Hidden CreateNew()
+    {
+        $prop = [string]::Empty
+        foreach($i in $this.Property)
+        {
+            if($prop -eq [string]::Empty) { $prop = $i }
+            else { $prop += ",$($i)"}
+        }
+
+        $NewItem = $this.XML.CreateElement("item")
+        $ItemName = $this.XML.CreateElement("name")
+        $ItemType = $this.XML.CreateElement("type")
+        $ItemValue = $this.XML.CreateElement("value")
+        $ItemWeight = $this.XML.CreateElement("weight")
+        $ItemAC = $this.XML.CreateElement("ac")
+        $ItemStrength = $this.XML.CreateElement("strength")
+        $ItemStealth = $this.XML.CreateElement("stealth")
+        $ItemDmg1 = $this.XML.CreateElement("dmg1")
+        $ItemDmg2 = $this.XML.CreateElement("dmg2")
+        $ItemDmgType = $this.XML.CreateElement("dmgType")
+        $ItemProperty = $this.XML.CreateElement("property")
+        $ItemRange = $this.XML.CreateElement("range")
+        $ItemRoll = $this.XML.CreateElement("roll")
+        $ItemMagic = $this.XML.CreateElement("magic")
+
+        $ItemName.InnerXml = $this.Name
+        $ItemType.InnerXml = $this.Type
+        $ItemValue.InnerXml = $this.Value
+        $ItemWeight.InnerXml = $this.Weight
+        $ItemAC.InnerXml = $this.AC
+        $ItemStrength.InnerXml = $this.Strength
+        $ItemStealth.InnerXml = $this.Stealth
+        $ItemDmg1.InnerXml = $this.Dmg1
+        $ItemDmg2.InnerXml = $this.Dmg2
+        $ItemDmgType.InnerXml = $this.DmgType
+        $ItemProperty.InnerXml = $prop
+        $ItemRange.InnerXml = $this.Range
+        $ItemRoll.InnerXml = $this.Roll
+        $ItemMagic.InnerXml = $this.Magic
+
+
+        $NewItem.AppendChild($ItemName)
+        $NewItem.AppendChild($ItemType)
+        $NewItem.AppendChild($ItemValue)
+        $NewItem.AppendChild($ItemWeight)
+        $NewItem.AppendChild($ItemAC)
+        $NewItem.AppendChild($ItemStrength)
+        $NewItem.AppendChild($ItemStealth)
+        $NewItem.AppendChild($ItemDmg1)
+        $NewItem.AppendChild($ItemDmg2)
+        $NewItem.AppendChild($ItemDmgType)
+        $NewItem.AppendChild($ItemProperty)
+        $NewItem.AppendChild($ItemRange)
+        $NewItem.AppendChild($ItemRoll)
+        $NewItem.AppendChild($ItemMagic)
+        foreach($i in $this.Text)
+        {
+            $NewItem.AppendChild($this.CreateText($i))
+        }
+        foreach($i in $this.Roll)
+        {
+            $NewItem.AppendChild($this.CreateRoll($i))
+        }
+        foreach($i in $this.Modifier)
+        {
+            $NewItem.AppendChild($this.CreateModifier($i))
+        }
+
+        $this.XML.compendium.AppendChild($NewItem)
+    }
+
+    ItemXML ([System.Xml.XmlElement] $XMLElement)
+    {
+        $this.Name = $XMLElement.name
+        $this.AC = $XMLElement.ac
+        $this.Dmg1 = $XMLElement.dmg1
+        $this.Dmg2 = $XMLElement.dmg2
+        if(($XMLElement.dmgtype -ne $null) -and ($XMLElement.dmgtype -ne [string]::Empty)) { $this.DmgType = $XMLElement.dmgtype }
+        $this.Range = $XMLElement.range
+        if(($XMLElement.stealth -ne $null) -and ($XMLElement.stealth -ne [string]::Empty)) { if($XMLElement.stealth = "1") { $this.Stealth = 1 } else { $this.Stealth = 0 } } else { $this.Stealth = 0 }
+        if(($XMLElement.strength -ne $null) -and ($XMLElement.strength -ne [string]::Empty)) { $this.Strength = $XMLElement.strength }
+        if(($XMLElement.value -ne $null) -and ($XMLElement.value -ne [string]::Empty)) { $this.Value = $XMLElement.value }
+        if(($XMLElement.weight -ne $null) -and ($XMLElement.weight -ne [string]::Empty)) { $this.Weight = $XMLElement.weight }
+        if(($XMLElement.type -ne $null) -and ($XMLElement.type -ne [string]::Empty)) { $this.Type = $XMLElement.type }
+        $this.ItemModifier($XMLElement)
+        $this.ItemText($XMLElement)
+        $this.ItemProperty($XMLElement)
+        $this.ItemRoll($XMLElement)
+        $this.Magic = $XMLElement.magic
+    }
+
+    Hidden ItemText ($XMLELEMENT)
+    {
+        foreach ($t in $XMLELEMENT.text)
+        {
+            $this.Text += $t
+        }
+    }
+    
+    Hidden ItemProperty($XMLELEMENT)
+    {
+        if($XMLELEMENT.property -ne $null) 
+        {
+            foreach($p in $XMLELEMENT.property.split(','))
+            {
+                if($p -ne [string]::Empty) { $this.Property += $p.Trim() }
+            }
+        }
+    }
+
+    Hidden ItemModifier($XMLELEMENT)
+    {
+        foreach($mod in $XMLELEMENT.modifier)
+        {
+            $ItemModifier = [Modifier]::new()
+            $ItemModifier.Category = $mod.category
+            $ItemModifier.Text = $mod.InnerXML
+            $ItemModifier.Name = "$($mod.category) $($mod.InnerXML)"
+            $this.Modifier += ($ItemModifier)
+        }
+    }
+
+    Hidden ItemRoll($XMLELEMENT)
+    {
+        if(($XMLELEMENT.roll -ne $null) -and ($XMLELEMENT.roll -ne [string]::Empty))
+        {
+            foreach ($roll in $XMLELEMENT.roll)
+            {
+                $this.Roll += $roll
+            }
+        }
+    }
+
+    Hidden [XML.XMLElement] CreateText ($item)
+    {
+        $ItemText = $null
+        $ItemText = $this.XML.CreateElement("text")
+        $ItemText.InnerXml = $item
+        return $ItemText
+    }
+
+    Hidden [XML.XMLElement] CreateRoll ($item)
+    {
+        $ItemRoll = $null
+        $ItemRoll = $this.XML.CreateElement("roll")
+        $ItemRoll.InnerXml = $item
+        return $ItemRoll
+    }
+
+    Hidden [XML.XMLElement] CreateModifier ($item)
+    {
+        $ItemModifier = $null
+        $ItemModifier = $this.XML.CreateElement("modifier")
+        $ItemModifier.SetAttribute("category",$item.Category)        
+        $ItemModifier.InnerXml = $item.Text
+        return $ItemModifier
+    }
+}
+
 $beast = $null
+$beasts = $null
+$items = $null
 ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren-fischbeck\DDCM\FischbeckEnterprises.FightClub.XML\Sources\"))
 {
     [xml] $content = Get-Content -Path $Files.FullName
     $beasts = $content.compendium.monster
-    foreach($b in $beasts)
+    $items = $content.compendium.item
+
+    if($beasts.Count -ge 1)
     {
-        $b.name
-        [BeastXML] $beast = [BeastXML]::new($b)
-        $beast.CreateXML($xmlFile)
+        foreach($b in $beasts)
+        {
+            Write-Host -ForegroundColor Cyan -BackgroundColor Black "$($b.name)"
+            [BeastXML] $beast = [BeastXML]::new($b)
+            $beast.CreateXML($xmlFile)
+        }
+    }
+    if(($items[0].InnerXml -ne $null) -and ($items.Count -ge 1))
+    {
+        foreach($objItem in $items)
+        {
+            Write-Host -ForegroundColor Yellow -BackgroundColor Black "$($objItem.name)"
+            [ItemXML] $item = [ItemXML]::new($objItem)
+            $item.CreateXML($xmlFile)
+        }
     }
 }
 
 $xmlFile.compendium.monster | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
+$xmlFile.compendium.item | sort Name | % {[void]$xmlFile.compendium.AppendChild($_)}
 Write-Host "A total of $($xmlFile.compendium.monster.Count) monsters"
+Write-Host "A total of $($xmlFile.compendium.item.Count) items"
 $xmlFile.Save("$($env:OneDriveConsumer)\Documents\Dungeon & Dragons\xml_Sheets\Complete\_NewComplete.xml")
