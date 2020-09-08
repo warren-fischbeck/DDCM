@@ -90,6 +90,8 @@ class BeastXML
 
     [xml] $XML
 
+    [string] $FilesLocatedIn
+
     # Constructor
     BeastXML ([string] $Name)
     {
@@ -130,6 +132,7 @@ class BeastXML
         $this.Trait = $this.CreateActions($XMLElement.trait)
         $this.Legendary = $this.CreateActions($XMLElement.legendary)
         $this.Reaction = $this.CreateActions($XMLElement.reaction)
+        $this.FilesLocatedIn = $XMLElement.FilesLocatedIn
 
         $this.Spells = $this.Spells.Replace(".",",")
     }
@@ -149,7 +152,7 @@ class BeastXML
             if($monster.name -eq $this.Name)
             {
                 $Create = $false
-                Write-Host "Found monster - $($this.Name)"
+                $this.CompareFileNames($monster)
                 $this.CompareSize($monster)
                 $this.CompareType($monster)
                 $this.CompareAC($monster)
@@ -178,7 +181,9 @@ class BeastXML
                 $this.CompareType($monster)
                 $this.CompareVul($monster)
                 $this.CompareWis($monster)
-            }
+
+                Write-Host -BackgroundColor Black -ForegroundColor White "Found monster - $($this.Name) - Found in : $($monster.FilesLocatedIn)"
+           }
         }
 
         if($Create)
@@ -190,6 +195,18 @@ class BeastXML
     Hidden CompareSize ([System.Xml.XmlElement] $Element)
     {
         if($Element.size -ne $this.Size) { $Element.size = $this.Size }
+    }
+
+    Hidden CompareFileNames ([System.Xml.XmlElement] $Element)
+    {
+        if( ($Element.FilesLocatedIn -eq $null) -or ($Element.FilesLocatedIn -eq [string]::Empty) ) 
+        {
+            $Element.FilesLocatedIn = "$($this.FilesLocatedIn)" 
+        } 
+        else 
+        {
+            $Element.FilesLocatedIn += ", $($this.FilesLocatedIn)" 
+        }
     }
 
     Hidden CompareType ([System.Xml.XmlElement] $Element)
@@ -353,6 +370,7 @@ class BeastXML
         $DescriptionElement = $XMLFile.CreateElement("description")
         $AlignmentElement = $XMLFile.CreateElement("alignment")
         $PassiveElement = $XMLFile.CreateElement("passive")
+        $FilesElement = $XMLFile.CreateElement("FilesLocatedIn")
 
         $NameElement.InnerXml = $this.Name
         $SizeElement.InnerXml = $this.Size
@@ -381,6 +399,7 @@ class BeastXML
         $DescriptionElement.InnerXml = $this.Description
         $AlignmentElement.InnerXml = $this.Alignment
         $PassiveElement.InnerXml = $this.Passive
+        $FilesElement.InnerXml = $this.FilesLocatedIn
 
         $NewMonsterElement.AppendChild($NameElement)
         $NewMonsterElement.AppendChild($SizeElement)
@@ -409,6 +428,7 @@ class BeastXML
         $NewMonsterElement.AppendChild($DescriptionElement)
         $NewMonsterElement.AppendChild($AlignmentElement)
         $NewMonsterElement.AppendChild($PassiveElement)
+        $NewMonsterElement.AppendChild($FilesElement)
 
         foreach($item in $this.Action)
         {
@@ -664,9 +684,11 @@ class ItemXML
 
     [xml] $XML
 
+    [string[]] $FilesLocatedIn
+
     ItemXML ([string] $Name)
     {
-        $this.Name = $Name
+        $this.Name = $Name.Trim()
         $this.Modifier = [Modifier]::new()
     }
 
@@ -685,24 +707,21 @@ class ItemXML
             if($item.name -eq $this.Name)
             {
                 $Create = $false
-                Write-Host -ForegroundColor White -BackgroundColor Black "Found - $($this.Name)"
+                $this.CompareFiles($item)
+                $this.CompareType($item)
+
+                Write-Host -ForegroundColor White -BackgroundColor Black "Found - $($this.Name) - $($item.FilesLocatedIn)"
             }
         }
         if($Create)
         {
+            #Write-Host -ForegroundColor White -BackgroundColor Black "Creating - $($this.Name)"
             $this.CreateNew()
         }
     }
 
     Hidden CreateNew()
     {
-        $prop = [string]::Empty
-        foreach($i in $this.Property)
-        {
-            if($prop -eq [string]::Empty) { $prop = $i }
-            else { $prop += ",$($i)"}
-        }
-
         $NewItem = $this.XML.CreateElement("item")
         $ItemName = $this.XML.CreateElement("name")
         $ItemType = $this.XML.CreateElement("type")
@@ -718,21 +737,22 @@ class ItemXML
         $ItemRange = $this.XML.CreateElement("range")
         $ItemRoll = $this.XML.CreateElement("roll")
         $ItemMagic = $this.XML.CreateElement("magic")
+        $ItemFiles = $this.XML.CreateElement("filesLocatedIn")
 
-        $ItemName.InnerXml = $this.Name
-        $ItemType.InnerXml = $this.Type
-        $ItemValue.InnerXml = $this.Value
-        $ItemWeight.InnerXml = $this.Weight
-        $ItemAC.InnerXml = $this.AC
-        $ItemStrength.InnerXml = $this.Strength
-        $ItemStealth.InnerXml = $this.Stealth
-        $ItemDmg1.InnerXml = $this.Dmg1
-        $ItemDmg2.InnerXml = $this.Dmg2
-        $ItemDmgType.InnerXml = $this.DmgType
-        $ItemProperty.InnerXml = $prop
-        $ItemRange.InnerXml = $this.Range
-        $ItemRoll.InnerXml = $this.Roll
-        $ItemMagic.InnerXml = $this.Magic
+        if( ($this.name -ne [string]::Empty) -and ($this.Name -ne $null) ) { $ItemName.InnerXml = $this.Name } 
+        if( ($this.Type -ne [string]::Empty) -and ($this.Type -ne $null) ) { $ItemType.InnerXml = $this.Type } else { $ItemType.InnerXml = "G" }
+        if( ($this.Value -ne [string]::Empty) -and ($this.Value -ne $null) ) { $ItemValue.InnerXml = $this.Value } else { $ItemValue.InnerXml = "0" }
+        if( ($this.Weight -ne [string]::Empty ) -and ( $this.Weight -ne $null ) ) { $ItemWeight.InnerXml = $this.Weight } else { $ItemWeight.InnerXml = "0.001" }
+        if( ($this.AC -ne [string]::Empty ) -and ( $this.AC -ne $null ) ) { $ItemAC.InnerXml = $this.AC }
+        if( ($this.Strength -ne [string]::Empty ) -and ( $this.Strength -ne $null ) ) {$ItemStrength.InnerXml = $this.Strength }
+        if( ($this.Stealth -ne [string]::Empty ) -and ( $this.Stealth -ne $null ) ) {$ItemStealth.InnerXml = $this.Stealth }
+        if( ($this.Dmg1 -ne [string]::Empty ) -and ( $this.Dmg1 -ne $null ) ) {$ItemDmg1.InnerXml = $this.Dmg1 }
+        if( ($this.Dmg2 -ne [string]::Empty ) -and ( $this.Dmg2 -ne $null ) ) {$ItemDmg2.InnerXml = $this.Dmg2 }
+        if( ($this.DmgType -ne [string]::Empty ) -and ( $this.DmgType -ne $null ) ) {$ItemDmgType.InnerXml = $this.DmgType }
+        if( ($this.Range -ne [string]::Empty ) -and ( $this.Range -ne $null ) ) {$ItemRange.InnerXml = $this.Range }
+        if( ($this.Roll -ne [string]::Empty ) -and ( $this.Roll -ne $null ) ) {$ItemRoll.InnerXml = $this.Roll }
+        if( ($this.Magic -ne [string]::Empty ) -and ( $this.Magic -ne $null ) ) {$ItemMagic.InnerXml = $this.Magic }
+        if( ($this.FilesLocatedIn -ne [string]::Empty) -and ($this.FilesLocatedIn -ne $null) ) { $ItemFiles.InnerXml = $this.FilesLocatedIn }
 
 
         $NewItem.AppendChild($ItemName)
@@ -749,6 +769,8 @@ class ItemXML
         $NewItem.AppendChild($ItemRange)
         $NewItem.AppendChild($ItemRoll)
         $NewItem.AppendChild($ItemMagic)
+        $NewItem.AppendChild($ItemFiles)
+
         foreach($i in $this.Text)
         {
             $NewItem.AppendChild($this.CreateText($i))
@@ -851,6 +873,31 @@ class ItemXML
         $ItemModifier.InnerXml = $item.Text
         return $ItemModifier
     }
+
+    Hidden [XML.XMLElement] CompareFiles ($item)
+    {
+        if($item.filesLocatedIn -notmatch $this.FilesLocatedIn) 
+        {
+            if( ($item.filesLocatedIn -eq [string]::Empty) -or ($item.filesLocatedIn -eq $null) ) 
+            {   
+                $item.filesLocatedIn += "$($this.FilesLocatedIn)" 
+            }
+            else 
+            { 
+                $item.filesLocatedIn += ", $($this.FilesLocatedIn)" 
+            }
+        }
+        return $item
+    }
+
+    Hidden [XML.XMLElement] CompareType ($item)
+    {
+        if($item.type -notmatch $this.Type)
+        {
+            $item.Type = $this.Type
+        }
+        return $item
+    }
 }
 
 $beast = $null
@@ -864,19 +911,26 @@ ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren
 
     if($beasts.Count -ge 1)
     {
+    Write-Host "This file $($Files.Name) has $($beasts.Count) monsters in it."
         foreach($b in $beasts)
         {
-            Write-Host -ForegroundColor Cyan -BackgroundColor Black "$($b.name)"
+            #Write-Host -ForegroundColor Cyan -BackgroundColor Black "$($b.name)"
             [BeastXML] $beast = [BeastXML]::new($b)
+            $beast.FilesLocatedIn = "$($Files.Name)"
             $beast.CreateXML($xmlFile)
         }
     }
     if(($items[0].InnerXml -ne $null) -and ($items.Count -ge 1))
     {
+        Write-Host "This file $($Files.Name) has $($items.Count) items in it."
+    }
+    if(($items[0].InnerXml -ne $null) -and ($items.Count -ge 1))
+    {
         foreach($objItem in $items)
         {
-            Write-Host -ForegroundColor Yellow -BackgroundColor Black "$($objItem.name)"
+            #Write-Host -ForegroundColor Yellow -BackgroundColor Black "$($objItem.name)"
             [ItemXML] $item = [ItemXML]::new($objItem)
+            $item.FilesLocatedIn = "$($Files.Name)"
             $item.CreateXML($xmlFile)
         }
     }
