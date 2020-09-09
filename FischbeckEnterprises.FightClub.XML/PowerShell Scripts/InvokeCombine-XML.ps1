@@ -709,6 +709,13 @@ class ItemXML
                 $Create = $false
                 $this.CompareFiles($item)
                 $this.CompareType($item)
+                $this.CompareValue($item)
+                $this.CompareWeight($item)
+                $this.CompareAC($item)
+                $this.CompareStrength($item)
+                $this.CompareStealth($item)
+                $this.CompareDmg($item)
+                $this.CompareProperty($item)
 
                 Write-Host -ForegroundColor White -BackgroundColor Black "Found - $($this.Name) - $($item.FilesLocatedIn)"
             }
@@ -733,11 +740,10 @@ class ItemXML
         $ItemDmg1 = $this.XML.CreateElement("dmg1")
         $ItemDmg2 = $this.XML.CreateElement("dmg2")
         $ItemDmgType = $this.XML.CreateElement("dmgType")
-        $ItemProperty = $this.XML.CreateElement("property")
         $ItemRange = $this.XML.CreateElement("range")
-        $ItemRoll = $this.XML.CreateElement("roll")
         $ItemMagic = $this.XML.CreateElement("magic")
         $ItemFiles = $this.XML.CreateElement("filesLocatedIn")
+        $ItemProperty = $this.XML.CreateElement("property")
 
         if( ($this.name -ne [string]::Empty) -and ($this.Name -ne $null) ) { $ItemName.InnerXml = $this.Name } 
         if( ($this.Type -ne [string]::Empty) -and ($this.Type -ne $null) ) { $ItemType.InnerXml = $this.Type } else { $ItemType.InnerXml = "G" }
@@ -750,10 +756,8 @@ class ItemXML
         if( ($this.Dmg2 -ne [string]::Empty ) -and ( $this.Dmg2 -ne $null ) ) {$ItemDmg2.InnerXml = $this.Dmg2 }
         if( ($this.DmgType -ne [string]::Empty ) -and ( $this.DmgType -ne $null ) ) {$ItemDmgType.InnerXml = $this.DmgType }
         if( ($this.Range -ne [string]::Empty ) -and ( $this.Range -ne $null ) ) {$ItemRange.InnerXml = $this.Range }
-        if( ($this.Roll -ne [string]::Empty ) -and ( $this.Roll -ne $null ) ) {$ItemRoll.InnerXml = $this.Roll }
         if( ($this.Magic -ne [string]::Empty ) -and ( $this.Magic -ne $null ) ) {$ItemMagic.InnerXml = $this.Magic }
         if( ($this.FilesLocatedIn -ne [string]::Empty) -and ($this.FilesLocatedIn -ne $null) ) { $ItemFiles.InnerXml = $this.FilesLocatedIn }
-
 
         $NewItem.AppendChild($ItemName)
         $NewItem.AppendChild($ItemType)
@@ -765,10 +769,9 @@ class ItemXML
         $NewItem.AppendChild($ItemDmg1)
         $NewItem.AppendChild($ItemDmg2)
         $NewItem.AppendChild($ItemDmgType)
-        $NewItem.AppendChild($ItemProperty)
         $NewItem.AppendChild($ItemRange)
-        $NewItem.AppendChild($ItemRoll)
         $NewItem.AppendChild($ItemMagic)
+        $NewItem.AppendChild($ItemProperty)
         $NewItem.AppendChild($ItemFiles)
 
         foreach($i in $this.Text)
@@ -782,6 +785,25 @@ class ItemXML
         foreach($i in $this.Modifier)
         {
             $NewItem.AppendChild($this.CreateModifier($i))
+        }
+
+        if($this.Property.Count -gt 1)
+        {
+            foreach($i in $this.Property)
+            {
+                if( ($ItemProperty.InnerXml -eq $null) -or ($ItemProperty.InnerXML -eq [string]::Empty) )
+                {
+                    $ItemProperty.InnerXml = "$($i)"
+                }
+                else
+                {
+                    $ItemProperty.InnerXML += ",$($i)"
+                }
+            }
+        }
+        else
+        {
+            $ItemProperty.InnerXml = $this.Property
         }
 
         $this.XML.compendium.AppendChild($NewItem)
@@ -821,7 +843,10 @@ class ItemXML
         {
             foreach($p in $XMLELEMENT.property.split(','))
             {
-                if($p -ne [string]::Empty) { $this.Property += $p.Trim() }
+                if($p -ne [string]::Empty) 
+                { 
+                    $this.Property += $p.Trim() 
+                }
             }
         }
     }
@@ -860,7 +885,7 @@ class ItemXML
     Hidden [XML.XMLElement] CreateRoll ($item)
     {
         $ItemRoll = $null
-        $ItemRoll = $this.XML.CreateElement("roll")
+        $ItemRoll = $this.XML.CreateElement("rolls")
         $ItemRoll.InnerXml = $item
         return $ItemRoll
     }
@@ -898,6 +923,96 @@ class ItemXML
         }
         return $item
     }
+
+     Hidden [XML.XMLElement] CompareValue ($item)
+     {
+        if($item.value -notmatch $this.Value)
+        {
+            $item.value = $this.Value
+        }
+        return $item
+     }
+
+    Hidden [XML.XMLElement] CompareWeight ($item)
+    {
+        if($item.weight -notmatch $this.Weight)
+        {
+            $item.weight = $this.Weight
+        }
+        return $item
+    }
+    
+    Hidden [XML.XMLElement] CompareAC ($item)
+    {
+        if($item.ac -notmatch $this.AC)
+        {
+            $item.ac = $this.AC
+        }
+        return $item
+    }
+
+    Hidden [XML.XMLElement] CompareStrength ($item)
+    {
+        if($item.strength -notmatch $this.Strength)
+        {
+            $item.strength = $this.Strength
+        }
+        return $item
+    }
+
+    Hidden [XML.XMLElement] CompareStealth ($item)
+    {
+        if($item.stealth -notmatch $this.Stealth)
+        {
+            $item.stealth = "$($this.Stealth)"
+        }
+        return $item
+    }
+
+    Hidden [XML.XMLElement] CompareDmg ($item)
+    {
+        if($item.dmg1 -notmatch $this.Dmg1)
+        {
+            $item.dmg1 = $this.Dmg1
+        }
+        if($item.dmg2 -notmatch $this.Dmg2)
+        {
+            $item.dmg2 = $this.Dmg2
+        }
+
+        if($Item.dmgType -ne $this.DmgType)
+        {
+            $item.dmgType = "$($this.DmgType)"
+        }
+
+        return $item
+    }
+
+    Hidden [XML.XMLElement] CompareProperty ($item)
+    {
+        if($item.property -ne $null) 
+        {
+            foreach($p in $item.property.split(','))
+            {
+                $Needed = $true
+                if($p -ne [string]::Empty) 
+                { 
+                    ForEach ($property in $this.Property)
+                    {
+                        if($p -eq $property)
+                        {
+                            $Needed = $false
+                        }
+                    }
+                    if($Needed)
+                    {
+                        $item.property += $p.Trim()
+                    }
+                }
+            }
+        }
+        return $item
+    }
 }
 
 $beast = $null
@@ -924,7 +1039,7 @@ ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren
     {
         Write-Host "This file $($Files.Name) has $($items.Count) items in it."
     }
-    if(($items[0].InnerXml -ne $null) -and ($items.Count -ge 1))
+    if(($items[0].InnerXml -ne $null) -and ($items.Count -gt 1))
     {
         foreach($objItem in $items)
         {
@@ -932,6 +1047,7 @@ ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren
             [ItemXML] $item = [ItemXML]::new($objItem)
             $item.FilesLocatedIn = "$($Files.Name)"
             $item.CreateXML($xmlFile)
+            $Item = $null
         }
     }
 }

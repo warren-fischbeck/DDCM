@@ -237,8 +237,6 @@ class ItemXML
         if( ($this.Magic -ne [string]::Empty ) -and ( $this.Magic -ne $null ) ) {$ItemMagic.InnerXml = $this.Magic }
         if( ($this.FilesLocatedIn -ne [string]::Empty) -and ($this.FilesLocatedIn -ne $null) ) { $ItemFiles.InnerXml = $this.FilesLocatedIn }
 
-        $ItemProperty.InnerXml = $this.Property
-
         $NewItem.AppendChild($ItemName)
         $NewItem.AppendChild($ItemType)
         $NewItem.AppendChild($ItemValue)
@@ -266,12 +264,24 @@ class ItemXML
         {
             $NewItem.AppendChild($this.CreateModifier($i))
         }
-        foreach($i in $this.Property)
-        {
-          if( ($ItemProperty.InnerXml -eq $null) -and () )
-          {
 
-          }
+        if($this.Property.Count -gt 1)
+        {
+            foreach($i in $this.Property)
+            {
+                if( ($ItemProperty.InnerXml -eq $null) -or ($ItemProperty.InnerXML -eq [string]::Empty) )
+                {
+                    $ItemProperty.InnerXml = "$($i)"
+                }
+                else
+                {
+                    $ItemProperty.InnerXML += ",$($i)"
+                }
+            }
+        }
+        else
+        {
+            $ItemProperty.InnerXml = $this.Property
         }
 
         $this.XML.compendium.AppendChild($NewItem)
@@ -493,7 +503,7 @@ ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren
     {
         Write-Host "This file $($Files.Name) has $($items.Count) items in it."
     }
-    if(($items[0].InnerXml -ne $null) -and ($items.Count -ge 1))
+    if(($items[0].InnerXml -ne $null) -and ($items.Count -gt 1))
     {
         foreach($objItem in $items)
         {
@@ -501,6 +511,7 @@ ForEach ($Files in (Get-ChildItem -Path "C:\Users\wfischbeck\source\repos\warren
             [ItemXML] $item = [ItemXML]::new($objItem)
             $item.FilesLocatedIn = "$($Files.Name)"
             $item.CreateXML($xmlFile)
+            $item = $null
         }
     }
 }
