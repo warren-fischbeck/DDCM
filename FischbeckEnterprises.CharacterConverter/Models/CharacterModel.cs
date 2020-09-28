@@ -94,6 +94,11 @@ namespace FischbeckEnterprises.CharacterConverter.Models
 
         public List<SkillModel> Skills { get; } = new List<SkillModel>();
 
+        public void AddSkills (List<SkillModel> ListSkills)
+        {
+            this.Skills.AddRange(ListSkills);
+        }
+
         /// <summary>
         /// calculates the ability score modifier for the passed in ability score
         /// </summary>

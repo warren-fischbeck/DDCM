@@ -17,6 +17,12 @@ namespace FischbeckEnterprises.CharacterConverter.Models
         /// </summary>
         public GenerateRandomCharacter()
         {
+            List<Skill> listSkills = new List<Skill>();
+            for (int i = 0; i < new Random().Next(1,6); i++)
+            {
+                int number = new Random().Next(0, 17);
+                listSkills.Add((Skill)number);
+            }
             CharacterModel = new CharacterModel()
             {
                 CharacterName = "Test Character",
@@ -27,8 +33,10 @@ namespace FischbeckEnterprises.CharacterConverter.Models
                 Intellegence = new GenerateRandomAbility().AbilityScore,
                 Strength = new GenerateRandomAbility().AbilityScore,
                 Wisdom = new GenerateRandomAbility().AbilityScore,
-                ExperiencePoints = new Random().Next(0, 355000)
+                ExperiencePoints = new Random().Next(0, 355000),
             };
+            CharacterModel.AddSkills(new DefaultSkills(listSkills).Skills);
+
         }
     }
     internal class GenerateRandomAbility

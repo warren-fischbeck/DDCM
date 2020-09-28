@@ -7,9 +7,9 @@ namespace FischbeckEnterprises.CharacterConverter.Models
     public class SkillModel
     {
         /// <summary>
-        /// string value representing skill name
+        /// enum value representing skill name
         /// </summary>
-        public string SkillName { get; set; }
+        public Skill SkillName { get; set; }
         
         /// <summary>
         /// bool value if skill has a proficiency bonus for this character
@@ -34,59 +34,26 @@ namespace FischbeckEnterprises.CharacterConverter.Models
 
     class DefaultSkills
     {
-        public List<SkillModel> Skills { get; }
+        public List<SkillModel> Skills { get; } = new List<SkillModel>();
 
         public DefaultSkills()
         {
 
         }
-        public DefaultSkills(List<string> ProficentSkills)
+        public DefaultSkills(List<Skill> ProficentSkills)
         {
-            foreach (var skill in ProficentSkills)
+            foreach (Skill skill in ProficentSkills)
             {
                 AddSkill(skill, true);
             }
         }
-        private void AddSkill(string SkillName, int Ability)
-        {
-            Skills.Add(new SkillModel()
-            {
-                SkillName = SkillName,
-                AbilityScore = Ability,
-                AbilityScoreModifier = ConvertScoreIntoModifier(Ability),
-                ProficiencyBonus = false,
-                ExpertiseBonus = false
-            });
-        }
-        private void AddSkill(string SkillName, bool Proficiency)
+        private void AddSkill(Skill SkillName, bool Proficiency)
         {
             Skills.Add(new SkillModel()
             {
                 SkillName = SkillName,
                 ProficiencyBonus = Proficiency,
                 ExpertiseBonus = false
-            });
-        }
-        private void AddSkill(string SkillName, int Ability, bool Proficiency)
-        {
-            Skills.Add(new SkillModel()
-            {
-                SkillName = SkillName,
-                AbilityScore = Ability,
-                AbilityScoreModifier = ConvertScoreIntoModifier(Ability),
-                ProficiencyBonus = Proficiency,
-                ExpertiseBonus = false
-            });
-        }
-        private void AddSkill(string SkillName, int Ability, bool Proficiency, bool Expertise)
-        {
-            Skills.Add(new SkillModel()
-            {
-                SkillName = SkillName,
-                AbilityScore = Ability,
-                AbilityScoreModifier = ConvertScoreIntoModifier(Ability),
-                ProficiencyBonus = Proficiency,
-                ExpertiseBonus = Expertise
             });
         }
 
@@ -96,5 +63,10 @@ namespace FischbeckEnterprises.CharacterConverter.Models
         /// <param name="AbilityScore">ability score to calculate</param>
         /// <returns>int value of the ability score modifier</returns>
         private int ConvertScoreIntoModifier(int AbilityScore) { return (AbilityScore - 10) / 2; }
+    }
+
+    public enum Skill
+    {
+        Acrobatics, Animal_Handling, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Religion, Sleight_of_Hand, Stealth, Survival
     }
 }
