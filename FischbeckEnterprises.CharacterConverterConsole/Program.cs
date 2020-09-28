@@ -17,6 +17,7 @@ namespace FischbeckEnterprises.CharacterConverterConsole
                 string r = Console.ReadLine();
                 if (r == "y")
                 {
+                    string skills = string.Empty;
                     CharacterModel characterModel = new GenerateRandomCharacter().CharacterModel;
                     Console.WriteLine($"{characterModel.PlayerName}'s character: {characterModel.CharacterName}");
                     Console.WriteLine($"Strenght:     {characterModel.Strength} - {characterModel.StrenghtModifier}");
@@ -28,6 +29,13 @@ namespace FischbeckEnterprises.CharacterConverterConsole
                     Console.WriteLine($"Experience:   {characterModel.ExperiencePoints}");
                     Console.WriteLine($"Proficiency:  {characterModel.ProficiencyBonus}");
                     Console.WriteLine($"Total Level:  {characterModel.TotalLevels}");
+
+                    foreach (var str in characterModel.Skills)
+                    {
+                        if (skills == string.Empty) { skills = $"{str.SkillName}"; }
+                        else { skills += $",{str.SkillName}"; }
+                    }
+                    Console.WriteLine($"Total Skills:  {skills}");
 
                     Console.WriteLine("\nGo again?");
                 }
