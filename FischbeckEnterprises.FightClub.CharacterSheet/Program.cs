@@ -42,6 +42,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
                 }
             }
             Console.WriteLine("Finished building character sheets!");
+            Console.WriteLine("You can exit now.");
         }
     }
 }
