@@ -7,7 +7,7 @@ namespace FischbeckEnterprises.Mobile.DND.Models
     internal partial class Core
     {
         public string CharacterName { get; set; }
-        public string ClassLevel { get; set; }
+        public string CharacterLevel { get; set; }
         public string Background { get; set; }
         public string PlayerName { get; set; }
         public string Race { get; set; }
