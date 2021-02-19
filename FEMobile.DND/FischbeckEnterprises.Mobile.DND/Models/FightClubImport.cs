@@ -631,7 +631,7 @@ namespace FischbeckEnterprises.Mobile.DND.Models
 		public bool imageDataSpecified { get { return this.imageDataFieldSpecified; } set { this.imageDataFieldSpecified = value; } }
 	}
 
-	public partial class pc
+	public partial class PC
 	{
 		private List<Character> characterField;
 
@@ -664,7 +664,7 @@ namespace FischbeckEnterprises.Mobile.DND.Models
 		}
 	}
 
-	public partial class data
+	public partial class Data
 	{
 		private List<Character> characterField;
 		private List<ImageData> imageDataField;

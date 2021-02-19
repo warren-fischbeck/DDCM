@@ -167,7 +167,7 @@ namespace FischbeckEnterprises.Mobile.DND.Models
             this.CharacterName = "";
             this.Charisma = 0;
             this.CharismaModifier = 0;
-            this.ClassLevel = "0";
+            this.CharacterLevel = "0";
             this.Constitution = 0;
             this.ConstitutionModifier = 0;
             this.DeceptionModifier = 0;
@@ -359,5 +359,4 @@ namespace FischbeckEnterprises.Mobile.DND.Models
     {
         V = 1, S, M
     }
-
 }

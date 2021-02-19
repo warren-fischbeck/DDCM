@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FischbeckEnterprises.Mobile.DND.Engine;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace FischbeckEnterprises.Mobile.DND
         public MainPage()
         {
             InitializeComponent();
+            FightClubConverter _FCC = new FightClubConverter();
         }
     }
 }
