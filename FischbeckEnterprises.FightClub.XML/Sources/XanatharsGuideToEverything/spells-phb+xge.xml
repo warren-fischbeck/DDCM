@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Animate Objects&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Antilife Shell&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Armor of Agathys&#42;</name>
+    <classes>Paladin (Conquest)</classes>
+    </spell>
+  <spell>
+      <name>Augury&#42;</name>
+    <classes>Barbarian (Ancestral Guardian)</classes>
+    </spell>
+  <spell>
+      <name>Bane&#42;</name>
+    <classes>Cleric (Grave), Sorcerer (Divine Soul - Chaos)</classes>
+    </spell>
+  <spell>
+      <name>Banishing Smite&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Banishment&#42;</name>
+    <classes>Ranger (Horizon Walker), Ranger (Monster Slayer)</classes>
+    </spell>
+  <spell>
+      <name>Bestow Curse&#42;</name>
+    <classes>Paladin (Conquest)</classes>
+    </spell>
+  <spell>
+      <name>Bless&#42;</name>
+    <classes>Sorcerer (Divine Soul - Law)</classes>
+    </spell>
+  <spell>
+      <name>Blight&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Blink&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Blur&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Branding Smite&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Calm Emotions&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Clairvoyance&#42;</name>
+    <classes>Barbarian (Ancestral Guardian)</classes>
+    </spell>
+  <spell>
+      <name>Cloudkill&#42;</name>
+    <classes>Paladin (Conquest)</classes>
+    </spell>
+  <spell>
+      <name>Command&#42;</name>
+    <classes>Paladin (Conquest), Bard (Glamour)</classes>
+    </spell>
+  <spell>
+      <name>Cone of Cold&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Counterspell&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Creation&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Cure Wounds&#42;</name>
+    <classes>Warlock (Celestial), Sorcerer (Divine Soul - Good)</classes>
+    </spell>
+  <spell>
+      <name>Darkness&#42;</name>
+    <classes>Sorcerer (Shadow)</classes>
+    </spell>
+  <spell>
+      <name>Daylight&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Death Ward&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Disguise Self&#42;</name>
+    <classes>Ranger (Gloom Stalker)</classes>
+    </spell>
+  <spell>
+      <name>Dominate Beast&#42;</name>
+    <classes>Paladin (Conquest)</classes>
+    </spell>
+  <spell>
+      <name>Dominate Person&#42;</name>
+    <classes>Paladin (Conquest)</classes>
+    </spell>
+  <spell>
+      <name>Druidcraft&#42;</name>
+    <classes>Fighter (Arcane Archer)</classes>
+    </spell>
+  <spell>
+      <name>Elemental Weapon&#42;</name>
+    <classes>Warlock (Hexblade), Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Fabricate&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>False Life&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Fear&#42;</name>
+    <classes>Paladin (Conquest), Ranger (Gloom Stalker)</classes>
+    </spell>
+  <spell>
+      <name>Flame Strike&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Flaming Sphere&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Gentle Repose&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Greater Invisibility&#42;</name>
+    <classes>Ranger (Gloom Stalker)</classes>
+    </spell>
+  <spell>
+      <name>Greater Restoration&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Guardian of Faith&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Guiding Bolt&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Haste&#42;</name>
+    <classes>Ranger (Horizon Walker)</classes>
+    </spell>
+  <spell>
+      <name>Heat Metal&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Hold Monster&#42;</name>
+    <classes>Paladin (Redemption), Ranger (Monster Slayer)</classes>
+    </spell>
+  <spell>
+      <name>Hold Person&#42;</name>
+    <classes>Paladin (Conquest), Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Hypnotic Pattern&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Identify&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Inflict Wounds&#42;</name>
+    <classes>Sorcerer (Divine Soul - Evil)</classes>
+    </spell>
+  <spell>
+      <name>Lesser Restoration&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Light&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Magic Circle&#42;</name>
+    <classes>Ranger (Monster Slayer)</classes>
+    </spell>
+  <spell>
+      <name>Magic Weapon&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Misty Step&#42;</name>
+    <classes>Ranger (Horizon Walker)</classes>
+    </spell>
+  <spell>
+      <name>Otiluke&#39;s Resilient Sphere&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Phantasmal Killer&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Planar Binding&#42;</name>
+    <classes>Ranger (Monster Slayer)</classes>
+    </spell>
+  <spell>
+      <name>Prestidigitation&#42;</name>
+    <classes>Fighter (Arcane Archer)</classes>
+    </spell>
+  <spell>
+      <name>Protection from Energy&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Protection from Evil and Good&#42;</name>
+    <classes>Ranger (Horizon Walker), Ranger (Monster Slayer), Sorcerer (Divine Soul - Neutrality)</classes>
+    </spell>
+  <spell>
+      <name>Raise Dead&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Ray of Enfeeblement&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Revivify&#42;</name>
+    <classes>Warlock (Celestial), Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Rope Trick&#42;</name>
+    <classes>Ranger (Gloom Stalker)</classes>
+    </spell>
+  <spell>
+      <name>Sacred Flame&#42;</name>
+    <classes>Warlock (Celestial)</classes>
+    </spell>
+  <spell>
+      <name>Sanctuary&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Searing Smite&#42;</name>
+    <classes>Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Seeming&#42;</name>
+    <classes>Ranger (Gloom Stalker)</classes>
+    </spell>
+  <spell>
+      <name>Shield&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Sleep&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Spare the Dying&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Spiritual Weapon&#42;</name>
+    <classes>Paladin (Conquest)</classes>
+    </spell>
+  <spell>
+      <name>Staggering Smite&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Stoneskin&#42;</name>
+    <classes>Paladin (Conquest), Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Teleportation Circle&#42;</name>
+    <classes>Ranger (Horizon Walker)</classes>
+    </spell>
+  <spell>
+      <name>Vampiric Touch&#42;</name>
+    <classes>Cleric (Grave)</classes>
+    </spell>
+  <spell>
+      <name>Wall of Fire&#42;</name>
+    <classes>Warlock (Celestial), Cleric (Forge)</classes>
+    </spell>
+  <spell>
+      <name>Wall of Force&#42;</name>
+    <classes>Paladin (Redemption)</classes>
+    </spell>
+  <spell>
+      <name>Wrathful Smite&#42;</name>
+    <classes>Warlock (Hexblade)</classes>
+    </spell>
+  <spell>
+      <name>Zone of Truth&#42;</name>
+    <classes>Ranger (Monster Slayer)</classes>
+    </spell>
+  </compendium>
