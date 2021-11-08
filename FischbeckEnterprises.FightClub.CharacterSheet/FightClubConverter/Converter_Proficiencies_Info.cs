@@ -103,7 +103,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
 
         private void GenerateProficienyBonus()
         {
-            int _level = 0;
+            int _level;
             int _XP = _printablePlayerCharacter.ExperiencePoints;
             int _proficencyBonus;
             switch (_XP)

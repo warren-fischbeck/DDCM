@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+<class>
+<name>Fighter</name>
+<autolevel level="3">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque</name>
+<text>The archetypical is a master of ranged combat.  It doesn&#39;t matter if you are engaging a foe with a bow, a thrown dagger or a net, you are able to push the limits of what is possible with any ranged weapon.  Your training and education has made you the pinnacle of distanced fighting and you can rain down devastating blows.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+</autolevel>
+<autolevel level="3">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Combat Archer</name>
+<text>When you choose this archetype at 3rd level, you master several ranged combat skills.  Engaging hostile creatures in close combat or behind cover is not an issue for an, nor is reloading a crossbow to achieve a higher rate of fire.</text>
+<text>You ignore disadvantage on ranged weapon attack rolls when a hostile creature is within 5 feet of you.</text>
+<text>You ignore the loading quality of crossbows with which you are proficient.</text>
+<text>Your ranged and thrown weapon attacks ignore half cover and three-quarters cover.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+</autolevel>
+<autolevel level="3">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Weapon Smith</name>
+<text>Starting at 3rd level, you can make modifications to your ranged and thrown weapons.  These modifications make the weapons more effective in your hands.  A weapon can only benefit from one modification at a time.</text>
+<text>You gain the bow makers tool proficiency.</text>
+<text>You get extra performance from any ranged weapon that you customize.  Customizing an item requires you to spend a short rest making modifications to it.</text>
+<text>Once you complete this customization, you can do one of the following.</text>
+<text>&#183; Add the finesse property to the customized item if it doesn&#39;t have it.</text>
+<text>&#183; Remove the heavy condition if the customized item has it.</text>
+<text>&#183; Add a +1 to damage rolls.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+</autolevel>
+<autolevel level="3">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Trick Shot</name>
+<text>When you choose this archetype at 3rd level, you learn trick shots that are fueled by special dice called superiority dice.</text>
+<text>Trick Shots&#58; You learn three trick shots of your choice. Many trick shots enhance an attack in some way. You can use only one trick shot per attack.</text>
+<text>You learn two additional trick shots of your choice at 7th, 10th, and 15th level. Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+<text>Superiority Dice&#58; You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
+<text>You gain another superiority die at 7th level and one more at 15th level.</text>
+<text>Saving Throws&#58; Some of your trick shots require your target to make a saving throw to resist the trick shot&#39;s effects. The saving throw DC is calculated as follows&#58;</text>
+<text>Trick Shot save DC = 8 + your proficiency bonus +  Strngth or Dexterity modifier (your choice).</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+<counter>
+<name>Superiority Die</name>
+<value>4</value>
+<reset>S</reset>
+</counter>
+</autolevel>
+<autolevel level="7">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Find The Weak Spot</name>
+<text>Starting at 7th level, you are exceptionaly good at finding the weak spot in an enemy&#39;s defenses.</text>
+<text>Before you make an attack with a ranged or thrown weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack&#39;s damage.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Additional Trick Shots</name>
+<text>At 7th level, you learn two additional Trick Shots.</text>
+<text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+<text>Superiority Dice&#58; You have five superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+<counter>
+<name>Superiority Die</name>
+<value>5</value>
+<reset>S</reset>
+</counter>
+</autolevel>
+<autolevel level="10">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Additional Trick Shots</name>
+<text>At 10th level, you learn two additional Trick Shots.</text>
+<text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Range Master</name>
+<text>Starting at 10th level, the normal range for any ranged or thrown weapon that you are proficient in is doubled.  The long range remains the same.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+</autolevel>
+<autolevel level="15">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Additional Trick Shots</name>
+<text>At 15th level, you learn two additional Trick Shots.</text>
+<text>Each time you learn new trick shots, you can also replace one trick shot you know with a different one.</text>
+<text>Superiority Dice&#58; You have six superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; Ranged Reaction</name>
+<text>Starting at 15th level, when a creature misses you with a ranged weapon attack, you can use your reaction to make an attack of opportunity against the attacker as long as you have a ranged weapon in your hand and the attacker is within range.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+<counter>
+<name>Superiority Die</name>
+<value>6</value>
+<reset>S</reset>
+</counter>
+</autolevel>
+<autolevel level="18">
+<feature optional="YES">
+<name>Martial Archetype&#58; Eminusque&#58; The Impossible Shot</name>
+<text>At 18th level, you can make shots that no-one else can make.</text>
+<text>When you use this feature and take the Attack action, you double the long range of any ranged or thrown weapon you are proficient with.  The first successful ranged attack roll using this feature is a critical hit.</text>
+<text>Once you use this feature you can&#39;t use it again until you complete a short or long rest.</text>
+<text>Source&#58; Custom subclass in World of Koreth, OneNote &#42; Warren Fischbeck</text>
+</feature>
+</autolevel>
+</class>
+</compendium>
