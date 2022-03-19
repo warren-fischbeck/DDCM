@@ -229,7 +229,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
                 form.GetField("inititive").SetValue($"+{_character.Inititive}");
                 form.GetField("speed").SetValue($"{_character.Speed}");
                 form.GetField("hpmax").SetValue($"{_character.HitPointMax}");
-                if (_character.HitPointCurrent != _character.HitPointMax) { form.GetField("hpcurrent").SetValue($"{_character.HitPointCurrent}"); }
+                //if (_character.HitPointCurrent == _character.HitPointMax) { form.GetField("hpcurrent").SetValue($"{_character.HitPointCurrent}"); }
                 form.GetField("hitdicetotal").SetValue($"{_character.HitDiceTotal}").SetFontSize(FontSize(_character.HitDiceTotal.Length) - 6);
                 form.GetField("hitdice").SetValue($"{_character.HitDice}").SetFontSize(FontSize(_character.HitDice.Length) - 2);
                 form.GetField("weaponname1").SetValue($"{_character.WeaponName1}");
@@ -310,7 +310,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             PdfAcroForm form = PdfAcroForm.GetAcroForm(pdfDocument, true);
             IDictionary<string, PdfFormField> fields = form.GetFormFields();
 
-            List<string> Cantrips = new List<string>() { "cantrip001", "cantrip002", "cantrip003", "cantrip004", "cantrip005", "cantrip006", "cantrip007", "cantrip008" };
+            List<string> Cantrips = new List<string>() { "cantrip001", "cantrip002", "cantrip003", "cantrip004", "cantrip005", "cantrip006", "cantrip007", "cantrip008", "cantrip009", "cantrip010", "cantrip011", "cantrip012", "cantrip013", "cantrip014", "cantrip015" };
             List<string> _1st = new List<string>() { "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112" };
             List<string> _2nd = new List<string>() { "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "211", "212", "213" };
             List<string> _3rd = new List<string>() { "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "311", "312", "313" };
@@ -336,10 +336,13 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
 
             for (int i = 0; i < _0.Count; i++)
             {
-                PdfFormField field = form.GetField(Cantrips[i]);
-                if (string.IsNullOrEmpty(field.GetValue().ToString()))
+                if (i < 8)
                 {
-                    field.SetValue(_0[i].Name);
+                    PdfFormField field = form.GetField(Cantrips[i]);
+                    if (string.IsNullOrEmpty(field.GetValue().ToString()))
+                    {
+                        field.SetValue(_0[i].Name);
+                    }
                 }
             }
 
@@ -489,7 +492,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
             form.GetField("800slots").SetValue(SpellCasterCharacter._8thLevelSlots.ToString());
             form.GetField("900slots").SetValue(SpellCasterCharacter._9thLevelSlots.ToString());
             form.GetField("spellcastingclass").SetValue($"{SpellCasterCharacter.SpellCastingClass}");
-            form.GetField("spellcastingability").SetValue(SpellCasterCharacter.AbilityScore.Substring(0, 3));
+            if (SpellCasterCharacter.AbilityScore != null) { form.GetField("spellcastingability").SetValue(SpellCasterCharacter.AbilityScore.Substring(0, 3)); }
             form.GetField("spellattackbonus").SetValue($"+{SpellCasterCharacter.SpellAttachBonus}");
             form.GetField("spellsavedc").SetValue($"{SpellCasterCharacter.SpellDC}");
         }

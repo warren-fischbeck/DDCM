@@ -12,24 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="FightClubXML\Cornel Nes%27Bleaton.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="FightClubXML\Dyethean Nylite.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="FightClubXML\Hunter Eagleblood.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="FightClubXML\Jerquet Blight.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="FightClubXML\Layden Shindar.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="FightClubXML\Scutifer Lath Hendor.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Update="Images\required.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

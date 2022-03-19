@@ -101,7 +101,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
             if (_pc.character.FirstOrDefault().item != null)
             {
                 List<Item> items = new List<Item>();
-                items.AddRange(_pc.character.FirstOrDefault().item.ToList().Where(a => a.slot == 4 || a.slot == 5));
+                items.AddRange(_pc.character.FirstOrDefault().item.ToList().Where(a => a.slot == 4 || a.slot == 5 || a.slot == 1));
                 if (items.Count > 0)
                     AC = 0;
                 else
@@ -112,6 +112,14 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.FightClubConverter
                 {
                     if (i.ac > 0)
                         AC += i.ac;
+                    if(i.mod.Count > 0)
+                    {
+                        foreach (Mod modType in i.mod)
+                        {
+                            if (modType.type == 10)
+                                AC += modType.value;
+                        }
+                    }
                     if (i.type == 1)
                         AC += _printablePlayerCharacter.DexterityModifier;
                     if (i.type == 2)
