@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+  <background>
+    <name>Merchant Guild-Knight</name>
+    <proficiency>Athletes,Animal Handling</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).</text>
+      <text>As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart &#8212; in a chaste sort of devotion. (This person could be your bond.)</text>
+    </trait>
+    <trait>
+      <name>Starting Proficiencies</name>
+      <text>Your background grants you the following proficiencies.</text>
+      <text>Skills&#58; Athletes, Animal Handling</text>
+      <text>Tools&#58; one type of gaming set</text>
+    </trait>
+    <trait>
+      <name>Reduced stabling</name>
+      <text>	As a guild-knight, you are familiar with traveling within the Lendarth Empire. In any town within its boarders, you can use your standing the Merchants Guild for a reduced rate for stabling, -10% to the cost.  Also, in any settlement that has a guild house, you can stay there for free.  You start with 10 renown within the merchants guild.</text>
+      <text>Source&#58; World of Koreth, OneNote</text>
+    </trait>
+    <trait>
+      <name>Guild Renown</name>
+      <text>	As a guild-knight, you start with 10 renown within the merchants guild.</text>
+      <text>Source&#58; World of Koreth, OneNote</text>
+    </trait>
+    <trait>
+      <name>Equipment</name>
+      <text>A set of fine clothes, a signet ring, a scroll of pedigree, a banner or other token from a noble lord or lady to whom you have given your heart &#8212; in a chaste sort of devotion, and a purse containing 25 gp</text>
+    </trait>
+    <trait>
+      <name>Personality Trait</name>
+      <text>Choose or randomly determine</text>
+      <text>1. My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.</text>
+      <text>2. The common folk love me for my kindness and generosity.</text>
+      <text>3. No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.</text>
+      <text>4. I take great pains to always look my best and follow the latest fashions.</text>
+      <text>5. I donandapos;t like to get my hands dirty, and I wonandapos;t be caught dead in unsuitable accommodations.</text>
+      <text>6. Despite my noble birth, I do not place myself above other folk. We all have the same blood.</text>
+      <text>7. My favor, once lost, is lost forever.</text>
+      <text>8. If you do me an injury, I will crush you, ruin your name, and salt your fields.</text>
+    </trait>
+    <trait>
+      <name>Ideal</name>
+      <text>Choose or randomly determine</text>
+      <text>1. Respect&#58; Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good).</text>
+      <text>2. Responsibility&#58; It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful).</text>
+      <text>3. Independence&#58; I must prove that I can handle myself without the coddling of my family. (Chaotic).</text>
+      <text>4. Power&#58; If I can attain more power, no one will tell me what to do. (Evil).</text>
+      <text>5. Family&#58; Blood runs thicker than water. (Any).</text>
+      <text>6. Noble Obligation&#58; It is my duty to protect and care for the people beneath me. (Good).</text>
+    </trait>
+    <trait>
+      <name>Bond</name>
+      <text>Choose or randomly determine</text>
+      <text>1. I will face any challenge to win the approval of my family.</text>
+      <text>2. My houseandapos;s alliance with another noble family must be sustained at all costs.</text>
+      <text>3. Nothing is more important than the other members of my family.</text>
+      <text>4. I am in love with the heir of a family that my family despises.</text>
+      <text>5. My loyalty to my sovereign is unwavering.</text>
+      <text>6. The common folk must see me as a hero of the people.</text>
+    </trait>
+    <trait>
+      <name>Flaw</name>
+      <text>Choose or randomly determine</text>
+      <text>1. I secretly believe that everyone is beneath me.</text>
+      <text>2. I hide a truly scandalous secret that could ruin my family forever.</text>
+      <text>3. I too often hear veiled insults and threats in every word addressed to me, and Iandapos;m quick to anger.</text>
+      <text>4. I have an insatiable desire for carnal pleasures.</text>
+      <text>5. In fact, the world does revolve around me.</text>
+      <text>6. By my words and actions, I often bring shame to my family.</text>
+    </trait>
+  </background>
+  <background>
+    <name>Fronteers Detective</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are one of the many people that make sure that the streets and trade routes are clear at ALL times in Fronteers. You assure that the Great Law of  The Dutchy is followed at all costs. You work by yourself or in groups to quell any who might stop trade routes from going through or lawbreakers. You investigate potential ambushes and possible rumors as to someone wanting to rob or stop caravans. You are as much an investigator as you are law enforcement.</text>
+      <text>	You are able to go into a town/village around the Fronteers area and find a contact that is willing to give you information &#42; from rumor to fact. This sometimes comes at a cost of a minor bribe of 1-9 silver pieces.</text>
+    </trait>
+    <trait>
+      <name>Starting Proficiencies</name>
+      <text>Your background grants you the following proficiencies.</text>
+      <text>Skills&#58; Investigation, Persuasion</text>
+      <text>Tools&#58; thieves&#39; tools</text>
+    </trait>
+    <trait>
+      <name>Investigative Services</name>
+      <text>You are part of the police force of Fronteers. You have a special way of communicating with others and they seem to be at ease around you. You can invoke your rank to allow you access to a crime scene or to requisition equipment or horses on a temporary basis. When you enter a town or village around Fronteers you can identify a contact who will give you information on the local rumors and would help you simply because of your desire to get answers and information for anyone wanting to disrupt trade.</text>
+      <text>Source&#58; World of Koreth, OneNote</text>
+    </trait>
+    <trait>
+      <name>Equipment</name>
+      <text>A set of traveler&#39;s clothes, a gray cloak, insignia of rank (Detective), thieves&#39; tools, pouch containing the remainder of your last wages (17 gp).</text>
+    </trait>
+    <trait>
+      <name>House of Mere Renown</name>
+      <text>As a member of House of Mere, you start with 10 renown within the House of Mere.</text>
+      <text>Source&#58; World of Koreth, OneNote</text>
+    </trait>
+    <trait>
+      <name>The Watchers Renown</name>
+      <text>As a member of The Watchers, you start with 10 renown within The Watchers.</text>
+      <text>Source&#58; World of Koreth, OneNote</text>
+    </trait>
+    <trait>
+      <name>Personality Trait</name>
+      <text>Choose or randomly determine</text>
+      <text>1.I am always polite and respectful. I let my actions speak for themselves</text>
+      <text>3.I am haunted by my past having seen the murder of a close friend or family member and it is the one case I always needed to solve but have not been able to.</text>
+      <text>4.I am quick to judge and slow to vindicate</text>
+      <text>5.I can be very persuasive and am able to ask questions where others might not be able to.</text>
+      <text>6.I have a quirky personality that seems to take others off their guard.</text>
+      <text>7.My sense of humor is considered by most to be awkward</text>
+      <text>8.Everyone has a choice, and they can always make the right choice, mine!</text>
+    </trait>
+    <trait>
+      <name>Ideal</name>
+      <text>Choose or randomly determine</text>
+      <text>1.Hope&#58; my job is to speak for the victim (good)</text>
+      <text>2.Dedicated&#58; Once I start an investigation, until told to do so, I do not quit, not matter where it leads. (Lawful)</text>
+      <text>3.Nation&#58; My city, nation, or people are all that matter (any)</text>
+      <text>4.Mercenary&#58; When I do investigations, I expect answers immediately (Any)</text>
+      <text>5.Eloquent&#58; I use my words to sway others to give me answers. (good)</text>
+      <text>6.Might&#58; It is through threats and force that I get my answers (lawful)</text>
+    </trait>
+    <trait>
+      <name>Bond</name>
+      <text>Choose or randomly determine</text>
+      <text>1.To this day an unsolved case will always leave me haunted and bother me.</text>
+      <text>2.Through the might of my personality I will solve an investigation or puzzle</text>
+      <text>3.It is my right to believe what I will, just try and stop me.</text>
+      <text>4.I need to prove my worth to my fellow sheriffs.</text>
+      <text>5.Someone I cared for died under suspicious circumstances. I will find out what happened to them and bring their killer to justice.</text>
+      <text>6.I speak for those that cannot speak for themselves.</text>
+    </trait>
+    <trait>
+      <name>Flaw</name>
+      <text>Choose or randomly determine</text>
+      <text>1.I always over exaggerate my abilities.</text>
+      <text>2.I cannot bear to let those I care for out of my sight.</text>
+      <text>3.I took a bribe to tank an investigation and I would do anything to keep it secret.</text>
+      <text>4.I have little respect for those that are of “low” intelligence/race.</text>
+      <text>5.I always enjoy a good mug of ale ... or five to cover up my past.</text>
+      <text>6.I speak for the First Lord of Fronteers and make sure everyone knows it.</text>
+    </trait>
+  </background>
+</compendium>
