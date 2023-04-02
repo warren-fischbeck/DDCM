@@ -13,7 +13,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet
         static void Main(string[] args)
         {
             string directory = $"{System.IO.Directory.GetCurrentDirectory()}\\FightClubXML";
-            FileInfo[] files = new DirectoryInfo(directory).GetFiles();
+            FileInfo[] files = new DirectoryInfo(directory).GetFiles("*.xml");
 
             pc playerCharacter = new pc();
             data collectionPlayerCharacter = new data();
