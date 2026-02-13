@@ -308,7 +308,7 @@ namespace FischbeckEnterprises.FightClub.CharacterSheet.Printable
         private void WriteSpells(PdfDocument pdfDocument, SpellCasting spellCasting)
         {
             PdfAcroForm form = PdfAcroForm.GetAcroForm(pdfDocument, true);
-            IDictionary<string, PdfFormField> fields = form.GetFormFields();
+            IDictionary<string, PdfFormField> fields = form.GetAllFormFields();
 
             List<string> Cantrips = new List<string>() { "cantrip001", "cantrip002", "cantrip003", "cantrip004", "cantrip005", "cantrip006", "cantrip007", "cantrip008", "cantrip009", "cantrip010", "cantrip011", "cantrip012", "cantrip013", "cantrip014", "cantrip015" };
             List<string> _1st = new List<string>() { "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112" };
