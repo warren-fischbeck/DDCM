@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CharacterSheet.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Grid ColumnDefinitions="*"
+                  RowDefinitions="*">
+                <Image 
+                    Source="parchmentpaper.png"
+                    Aspect="AspectFill"
+                    SemanticProperties.Description="parchmentpaper image is the background" />
+                <Grid
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Padding="5"
+                    ColumnSpacing="5"
+                    RowSpacing="5"
+                    ColumnDefinitions="*"
+                    RowDefinitions="Auto,Auto,Auto,Auto,Auto,.10*" >
+
+                    <Image 
+                        Grid.Column="0"
+                        Grid.Row="0"
+                        Source="cornell_nes_bleaton2.png"
+                        HeightRequest="200"
+                        Aspect="AspectFill"
+                        SemanticProperties.Description="image of a character" />
+
+                    <Image 
+                        Grid.Column="0"
+                        Grid.Row="1"
+                        Source="sir_braxton.jpg"
+                        HeightRequest="200"
+                        Aspect="AspectFill"
+                        SemanticProperties.Description="image of a character" />
+                </Grid>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
