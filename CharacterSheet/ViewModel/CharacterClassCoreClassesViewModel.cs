@@ -6,6 +6,8 @@ namespace CharacterSheet.ViewModel
 {
     public class CharacterClassCoreClassesViewModel : BaseViewModel
     {
+        string _ClassName = string.Empty;
+        string _ClassDescription=string.Empty;
         string _ClassPrimaryAbility = string.Empty;
         string _ClassHitPointDie = string.Empty;
         string _ClassSavingThrowProficiencies = string.Empty;
@@ -16,6 +18,23 @@ namespace CharacterSheet.ViewModel
         string _BecomingFirstLevel = string.Empty;
         string _BecomingMultiClass = string.Empty;
 
+        public string ClassName
+        {
+            get => _ClassName; set
+            {
+                if (_ClassName == value) return;
+                _ClassName = value; OnPropertyChanged();
+            }
+        }
+        public string ClassDescription
+        {
+            get => _ClassDescription;
+            set
+            {
+                if (_ClassName == value) return;
+                _ClassName = value; OnPropertyChanged();
+            }
+        }
         public string ClassPrimaryAbility
         {
             get => _ClassHitPointDie;

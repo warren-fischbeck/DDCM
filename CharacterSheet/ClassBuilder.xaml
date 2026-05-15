@@ -2,9 +2,68 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:viewmodel="clr-namespace:CharacterSheet.ViewModel"
-             x:DataType="viewmodel:"
+             x:DataType="viewmodel:CharacterClassCoreClassesViewModel"
              x:Class="CharacterSheet.ClassBuilder"
              Title="Class Builder">
+    <ScrollView Orientation="Vertical">
+        
+    <Grid ColumnDefinitions="*"
+                  RowDefinitions="*">
+        <Image Source="parchmentpaper.png" Aspect="AspectFill" />
 
-    
+        <Grid Grid.Column="0"
+                      Grid.Row="0"
+                      ColumnDefinitions="*,Auto"
+                      RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto"
+                      Padding="10"
+                      RowSpacing="5"
+                      ColumnSpacing="5" >
+            <Entry BackgroundColor="#99faebd7" 
+                       Text="{Binding ClassName}"
+                       Placeholder="Enter class name" 
+                       PlaceholderColor="Black"
+                       Grid.Column="0"
+                       Grid.Row="0" />
+            <Label Text="Class Name"
+                       BackgroundColor="#77faebd7"
+                       Grid.Column="1"
+                       Grid.Row="0" />
+
+            <Entry BackgroundColor="#99faebd7" 
+                       Text="{Binding ClassDescription}"
+                       Placeholder="Enter class description" 
+                       PlaceholderColor="Black"
+                       Grid.Column="0"
+                       Grid.Row="1" />
+            <Label Text="Class Description"
+                       BackgroundColor="#77faebd7"
+                       Grid.Column="1"
+                       Grid.Row="1" />
+
+            <Picker x:Name="ClassPrimaryAbility"
+                    Title="Class Primary Ability"
+                    Grid.Column="0"
+                    Grid.Row="2"
+                    SelectedIndexChanged="ClassBuilder_Primary_Ability_Changed"
+                    BackgroundColor="#77faebd7" >
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Strength</x:String>
+                            <x:String>Dexterity</x:String>
+                            <x:String>Constitution</x:String>
+                            <x:String>Intelligence</x:String>
+                            <x:String>Wisdom</x:String>
+                            <x:String>Charisma</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+            </Picker>
+            
+            <Label Text="Class Primary Ability"
+                       BackgroundColor="#77faebd7"
+                       Grid.Column="1"
+                       Grid.Row="2" />
+        </Grid>
+    </Grid>
+            </ScrollView>
+
 </ContentPage>
